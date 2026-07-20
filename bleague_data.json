@@ -8546,7 +8546,7 @@
    ],
    "role": "5번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p72": {
    "id": "p72",
@@ -10101,7 +10101,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p85": {
    "id": "p85",
@@ -13021,7 +13021,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p114": {
    "id": "p114",
@@ -14808,7 +14808,7 @@
      "note": "손"
     }
    ],
-   "form": ""
+   "form": "good"
   },
   "p136": {
    "id": "p136",
@@ -15691,7 +15691,7 @@
    "name": "커비",
    "team": "데빌스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 24,
    "number": "5",
    "debutSeason": 15,
@@ -15749,7 +15749,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p148": {
    "id": "p148",
@@ -17726,7 +17726,7 @@
    "name": "테버",
    "team": "워리어스",
    "pos": "2B",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 21,
    "number": "2",
    "debutSeason": 13,
@@ -17837,7 +17837,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p178": {
    "id": "p178",
@@ -19000,7 +19000,7 @@
    "name": "데버스",
    "team": "워리어스",
    "pos": "3B",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 24,
    "number": "3",
    "debutSeason": 15,
@@ -19048,7 +19048,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p197": {
    "id": "p197",
