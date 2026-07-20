@@ -9261,7 +9261,7 @@
    "name": "아놀드",
    "team": "다이노스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 37,
    "number": "61",
    "debutSeason": 2,
@@ -9367,7 +9367,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "injury"
+   "form": "bad"
   },
   "p79": {
    "id": "p79",
@@ -10321,7 +10321,7 @@
    "injuries": [],
    "role": "마무리",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p87": {
    "id": "p87",
@@ -10895,7 +10895,7 @@
    "name": "포셔",
    "team": "타이거즈",
    "pos": "1B",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 31,
    "number": "9",
    "debutSeason": 4,
@@ -14958,7 +14958,7 @@
      "note": "질병"
     }
    ],
-   "form": ""
+   "form": "good"
   },
   "p138": {
    "id": "p138",
@@ -17084,7 +17084,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p166": {
    "id": "p166",
@@ -17278,7 +17278,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p169": {
    "id": "p169",
@@ -17901,7 +17901,7 @@
    "name": "카서스",
    "team": "타이거즈",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "19",
    "debutSeason": 14,
@@ -17952,7 +17952,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p180": {
    "id": "p180",
@@ -19323,7 +19323,7 @@
    "name": "마자르",
    "team": "타이거즈",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "컨텐더",
    "age": 23,
    "number": "36",
    "debutSeason": 15,
@@ -19375,7 +19375,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p203": {
    "id": "p203",
@@ -19680,7 +19680,7 @@
    "name": "암스테드",
    "team": "다이노스",
    "pos": "RP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 22,
    "number": "20",
    "debutSeason": 15,
@@ -19726,7 +19726,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p209": {
    "id": "p209",
