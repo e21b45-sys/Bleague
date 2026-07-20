@@ -45855,8 +45855,36 @@
       "pos": "선발"
      },
      {
-      "playerId": "",
+      "playerId": "p129",
       "pos": "포수"
+     },
+     {
+      "playerId": "p146",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p120",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p125",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p172",
+      "pos": "유격"
+     },
+     {
+      "playerId": "p98",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p72",
+      "pos": "외야"
+     },
+     {
+      "playerId": "",
+      "pos": "외야"
      }
     ],
     "divFilter": [
