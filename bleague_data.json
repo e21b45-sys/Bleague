@@ -45910,11 +45910,35 @@
    },
    "teamB": {
     "name": "서동부",
-    "captain": "",
+    "captain": "p132",
     "members": [
      {
-      "playerId": "",
+      "playerId": "p132",
       "pos": "선발"
+     },
+     {
+      "playerId": "p138",
+      "pos": "포수"
+     },
+     {
+      "playerId": "p108",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p176",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p118",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p85",
+      "pos": "유격"
+     },
+     {
+      "playerId": "",
+      "pos": "외야"
      }
     ],
     "divFilter": [
