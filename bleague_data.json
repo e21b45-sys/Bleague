@@ -3149,7 +3149,7 @@
   "p25": {
    "id": "p25",
    "name": "로베스",
-   "team": "FA",
+   "team": "세이버스",
    "pos": "OF",
    "tier": "레귤러",
    "age": 37,
@@ -3176,7 +3176,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 17,
+    "total": 30,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 7,
@@ -3259,6 +3264,10 @@
     {
      "season": 15,
      "team": "다이노스"
+    },
+    {
+     "season": 16,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -11838,7 +11847,7 @@
   "p100": {
    "id": "p100",
    "name": "토니",
-   "team": "FA",
+   "team": "에스트로너츠",
    "pos": "OF",
    "tier": "코어",
    "age": 31,
@@ -11863,7 +11872,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 20,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 11,
@@ -11918,6 +11932,10 @@
     {
      "season": 15,
      "team": "재즈"
+    },
+    {
+     "season": 16,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -51997,6 +52015,22 @@
     "to": "다이너마이트",
     "total": 40,
     "years": 4,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p100",
+    "to": "에스트로너츠",
+    "total": 50,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p25",
+    "to": "세이버스",
+    "total": 30,
+    "years": 2,
     "applied": true
    }
   ]
