@@ -14220,7 +14220,7 @@
   "p127": {
    "id": "p127",
    "name": "케네디",
-   "team": "FA",
+   "team": "프린스",
    "pos": "SP",
    "tier": "엘리트",
    "age": 29,
@@ -14246,7 +14246,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 21,
+    "total": 150,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -14282,6 +14287,10 @@
     {
      "season": 15,
      "team": "스틸러스"
+    },
+    {
+     "season": 16,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -15493,7 +15502,7 @@
   "p144": {
    "id": "p144",
    "name": "디안드레",
-   "team": "FA",
+   "team": "챌린저스",
    "pos": "DH",
    "tier": "레귤러",
    "age": 34,
@@ -15526,7 +15535,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 18,
+    "total": 30,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 9,
@@ -15595,6 +15609,10 @@
     {
      "season": 15,
      "team": "버커니어스"
+    },
+    {
+     "season": 16,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -51886,6 +51904,22 @@
     "playerId": "p189",
     "to": "워리어스",
     "total": 90,
+    "years": 6,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p144",
+    "to": "챌린저스",
+    "total": 30,
+    "years": 3,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p127",
+    "to": "프린스",
+    "total": 150,
     "years": 6,
     "applied": true
    }
