@@ -22548,7 +22548,11 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "trait": "",
-   "traits": [],
+   "traits": [
+    "기복형",
+    "BQ",
+    "천재"
+   ],
    "style": "",
    "strength": "",
    "weakness": "",
@@ -22573,6 +22577,51 @@
     {
      "season": 16,
      "team": "세이버스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p266": {
+   "id": "p266",
+   "name": "나할",
+   "team": "버커니어스",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "나태함",
+    "천재",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "주루"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -50766,7 +50815,9 @@
     "챌린저스_1": "p261",
     "이글즈_1": "p262",
     "다이너마이트_1": "p263",
-    "트레일 블레이저스_1": "p264"
+    "트레일 블레이저스_1": "p264",
+    "세이버스_1": "p265",
+    "버커니어스_1": "p266"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51071,7 +51122,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 266,
+ "_seq": 267,
  "prospects": [
   "p203",
   "p244",
