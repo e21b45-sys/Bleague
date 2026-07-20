@@ -22492,6 +22492,91 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p264": {
+   "id": "p264",
+   "name": "조쉬",
+   "team": "트레일 블레이저스",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "꾸준함",
+    "낙천적",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "트레일 블레이저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p265": {
+   "id": "p265",
+   "name": "브랜든",
+   "team": "세이버스",
+   "pos": "C",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "갭",
+    "파워"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "세이버스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -50679,7 +50764,9 @@
    "picks": {
     "에스트로너츠_1": "p260",
     "챌린저스_1": "p261",
-    "이글즈_1": "p262"
+    "이글즈_1": "p262",
+    "다이너마이트_1": "p263",
+    "트레일 블레이저스_1": "p264"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -50984,7 +51071,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 264,
+ "_seq": 266,
  "prospects": [
   "p203",
   "p244",
