@@ -45512,14 +45512,40 @@
       "p105"
      ],
      "ROOKIE": [
-      "p196",
       "p208",
+      "p196",
       "p147"
      ]
     },
     "potmBat": "p176",
     "potmPit": "p137",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p223",
+      "note": "",
+      "months": 3
+     },
+     {
+      "playerId": "p133",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p78",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p188",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p60",
+      "note": "",
+      "months": 3
+     }
+    ]
    },
    "10": {
     "standings": [],
@@ -45818,7 +45844,28 @@
     "applied": true,
     "ret": []
    }
-  ]
+  ],
+  "allstar": {
+   "teamA": {
+    "name": "",
+    "captain": "",
+    "members": [],
+    "divFilter": []
+   },
+   "teamB": {
+    "name": "",
+    "captain": "",
+    "members": [],
+    "divFilter": []
+   },
+   "result": {
+    "teamAScore": null,
+    "teamBScore": null,
+    "mvpId": ""
+   },
+   "subs": [],
+   "note": ""
+  }
  },
  "budgetParts": {
   "프린스": {
