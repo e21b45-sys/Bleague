@@ -21268,6 +21268,42 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p255": {
+   "id": "p255",
+   "name": "블라스코",
+   "team": "스틸러스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 15,
+     "team": "스틸러스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -44957,7 +44993,8 @@
     "스틸러스_1": "p240",
     "챌린저스_1": "p241",
     "트레일 블레이저스_3": "p242",
-    "타이거즈_2": "p252"
+    "타이거즈_2": "p252",
+    "에스트로너츠_2": "p254"
    },
    "pickOwners": {},
    "penalties": {}
@@ -45339,7 +45376,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 255,
+ "_seq": 256,
  "prospects": [
   "p203",
   "p244",
