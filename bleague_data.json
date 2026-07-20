@@ -23118,6 +23118,50 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p278": {
+   "id": "p278",
+   "name": "핸콕",
+   "team": "이글즈",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "꾸준함",
+    "대기만성"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "제구형",
+   "strengths": [
+    "제구",
+    "수비·견제"
+   ],
+   "weaknesses": [
+    "구속"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -51320,7 +51364,8 @@
     "다이노스_1": "p274",
     "프린스_1": "p275",
     "에스트로너츠_2": "p276",
-    "챌린저스_2": "p277"
+    "챌린저스_2": "p277",
+    "이글즈_2": "p278"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51625,7 +51670,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 278,
+ "_seq": 279,
  "prospects": [
   "p203",
   "p244",
