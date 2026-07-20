@@ -9480,7 +9480,7 @@
    "name": "운남",
    "team": "재즈",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 37,
    "number": "30",
    "debutSeason": 1,
@@ -9591,7 +9591,7 @@
    "injuries": [],
    "role": "5번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p81": {
    "id": "p81",
@@ -10781,7 +10781,7 @@
    ],
    "role": "8번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p91": {
    "id": "p91",
@@ -10888,7 +10888,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p92": {
    "id": "p92",
@@ -12385,7 +12385,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": "bad"
   },
   "p107": {
    "id": "p107",
@@ -12838,7 +12838,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "injury"
+   "form": "bad"
   },
   "p112": {
    "id": "p112",
@@ -15684,7 +15684,7 @@
      "note": "팔"
     }
    ],
-   "form": "injury"
+   "form": "good"
   },
   "p147": {
    "id": "p147",
@@ -17285,7 +17285,7 @@
    "name": "커즌스",
    "team": "스틸러스",
    "pos": "3B",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 26,
    "number": "18",
    "debutSeason": 13,
@@ -20360,7 +20360,7 @@
    "name": "그라인더",
    "team": "스틸러스",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 25,
    "number": "7",
    "debutSeason": 14,
@@ -20411,7 +20411,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p222": {
    "id": "p222",
