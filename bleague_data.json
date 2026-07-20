@@ -2606,7 +2606,12 @@
      "team": "명예의 전당"
     }
    ],
-   "hof": null,
+   "hof": {
+    "star": 3,
+    "round": null,
+    "entry": "최초 입성",
+    "note": ""
+   },
    "injuries": [],
    "titlesManual": 0,
    "role": "4번",
@@ -7584,7 +7589,12 @@
      "team": "명예의 전당"
     }
    ],
-   "hof": null,
+   "hof": {
+    "star": 1,
+    "round": null,
+    "entry": "최초 입성",
+    "note": ""
+   },
    "injuries": [],
    "titlesManual": 0,
    "role": "마무리",
@@ -23180,7 +23190,7 @@
   "스틸러스": 195,
   "재즈": 220,
   "세이버스": 105,
-  "버커니어스": 70
+  "버커니어스": 90
  },
  "history": {
   "1": {
@@ -51886,11 +51896,11 @@
    "base": 50,
    "invest": 0,
    "game": 10,
-   "merch": 10,
+   "merch": 25,
    "po": 0,
    "fin": 0,
    "champ": 0,
-   "tv": 0
+   "tv": 5
   }
  }
 }
