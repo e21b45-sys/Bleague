@@ -5138,7 +5138,7 @@
   "p41": {
    "id": "p41",
    "name": "올리",
-   "team": "FA",
+   "team": "프린스",
    "pos": "C",
    "tier": "코어",
    "age": 39,
@@ -5164,7 +5164,20 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 16,
+    "total": 10,
+    "options": [
+     {
+      "type": "계약 연장",
+      "actor": "팀 옵션",
+      "after": 16,
+      "extSalary": 10,
+      "extYears": 1
+     }
+    ]
+   },
    "contractHistory": [
     {
      "startSeason": 5,
@@ -5240,6 +5253,10 @@
     },
     {
      "season": 15,
+     "team": "프린스"
+    },
+    {
+     "season": 16,
      "team": "프린스"
     }
    ],
@@ -51938,6 +51955,14 @@
     "to": "스틸러스",
     "total": 160,
     "years": 8,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p41",
+    "to": "프린스",
+    "total": 10,
+    "years": 1,
     "applied": true
    }
   ]
