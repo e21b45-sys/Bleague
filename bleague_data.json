@@ -22404,6 +22404,47 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p262": {
+   "id": "p262",
+   "name": "바그너",
+   "team": "이글즈",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "출루형",
+   "strengths": [
+    "선구안",
+    "갭"
+   ],
+   "weaknesses": [
+    "수비 안정성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -50894,7 +50935,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 262,
+ "_seq": 263,
  "prospects": [
   "p203",
   "p244",
