@@ -22847,6 +22847,50 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p272": {
+   "id": "p272",
+   "name": "젠킨스",
+   "team": "마린즈",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "꾸준함",
+    "낙천적",
+    "올드스쿨"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "무브먼트형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "좌우 상대"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "마린즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -51043,7 +51087,8 @@
     "워리어스_1": "p268",
     "스틸러스_1": "p269",
     "라이언즈_1": "p270",
-    "타이거즈_1": "p271"
+    "타이거즈_1": "p271",
+    "마린즈_1": "p272"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51348,7 +51393,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 272,
+ "_seq": 273,
  "prospects": [
   "p203",
   "p244",
