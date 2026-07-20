@@ -21468,6 +21468,50 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p259": {
+   "id": "p259",
+   "name": "럭스",
+   "team": "세이버스",
+   "pos": "SP",
+   "tier": "레귤러",
+   "age": 24,
+   "number": "15",
+   "debutSeason": 14,
+   "debutHalf": "후반기",
+   "trait": "",
+   "traits": [
+    "본헤드",
+    "유리몸",
+    "성실함"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "뜬공형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "내구성"
+   ],
+   "role": "2선발",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 15,
+     "team": "세이버스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -41393,6 +41437,14 @@
      "pos": "1B",
      "tier": "D리그",
      "age": 23
+    },
+    {
+     "id": "p258",
+     "name": "샌더스",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 24
     }
    ],
    "coaches": {
@@ -43430,6 +43482,14 @@
      "pos": "OF",
      "tier": "C리그",
      "age": 24
+    },
+    {
+     "id": "p258",
+     "name": "샌더스",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 24
     }
    ],
    "coaches": {
@@ -45119,7 +45179,8 @@
     "워리어스_2": "p210",
     "에스트로너츠_4": "p224",
     "재즈_1": "p243",
-    "세이버스_2": "p253"
+    "세이버스_2": "p253",
+    "다이너마이트_3": "p258"
    },
    "pickOwners": {},
    "penalties": {}
@@ -45543,7 +45604,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 259,
+ "_seq": 260,
  "prospects": [
   "p203",
   "p244",
