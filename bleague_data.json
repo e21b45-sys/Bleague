@@ -45949,7 +45949,19 @@
       "pos": "외야"
      },
      {
-      "playerId": "",
+      "playerId": "p135",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p154",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p147",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p209",
       "pos": "투수"
      }
     ],
@@ -45959,8 +45971,8 @@
     ]
    },
    "result": {
-    "teamAScore": null,
-    "teamBScore": null,
+    "teamAScore": 7,
+    "teamBScore": 2,
     "mvpId": ""
    },
    "subs": [],
