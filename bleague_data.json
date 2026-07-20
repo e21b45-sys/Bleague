@@ -49657,6 +49657,19 @@
     {
      "name": "BRP",
      "playerId": "p86"
+    },
+    {
+     "name": "ROOKIE",
+     "playerId": "p202"
+    },
+    {
+     "name": "POTY",
+     "playerId": "p176"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p98",
+     "detail": "남부"
     }
    ],
    "awardsNote": ""
