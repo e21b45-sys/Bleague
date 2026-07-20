@@ -49770,6 +49770,30 @@
      "name": "실버슬러거",
      "playerId": "p20",
      "detail": "DH"
+    },
+    {
+     "name": "홈런",
+     "playerId": "p98"
+    },
+    {
+     "name": "타율",
+     "playerId": "p202"
+    },
+    {
+     "name": "출루율",
+     "playerId": "p202"
+    },
+    {
+     "name": "장타율",
+     "playerId": "p146"
+    },
+    {
+     "name": "도루",
+     "playerId": "p180"
+    },
+    {
+     "name": "타점",
+     "playerId": "p98"
     }
    ],
    "awardsNote": ""
