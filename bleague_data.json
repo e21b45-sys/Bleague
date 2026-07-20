@@ -6732,7 +6732,7 @@
    "name": "칼레바",
    "team": "트레일 블레이저스",
    "pos": "2B",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 38,
    "number": "6",
    "debutSeason": 1,
@@ -6843,7 +6843,7 @@
     "SS",
     "3B"
    ],
-   "form": ""
+   "form": "bad"
   },
   "p55": {
    "id": "p55",
@@ -7668,7 +7668,7 @@
    "titlesManual": 0,
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p62": {
    "id": "p62",
@@ -12113,7 +12113,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "good"
+   "form": "injury"
   },
   "p104": {
    "id": "p104",
@@ -12575,7 +12575,7 @@
    ],
    "role": "5번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p109": {
    "id": "p109",
@@ -13962,7 +13962,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p125": {
    "id": "p125",
@@ -14490,7 +14490,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "injury"
   },
   "p132": {
    "id": "p132",
@@ -15027,7 +15027,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p139": {
    "id": "p139",
@@ -15954,7 +15954,7 @@
    "name": "칼리엔도",
    "team": "트레일 블레이저스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 24,
    "number": "17",
    "debutSeason": 12,
@@ -16022,7 +16022,7 @@
      "note": "사타구니"
     }
    ],
-   "form": ""
+   "form": "good"
   },
   "p152": {
    "id": "p152",
