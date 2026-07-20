@@ -22891,6 +22891,97 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p273": {
+   "id": "p273",
+   "name": "베이커",
+   "team": "재즈",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "팀플레이어",
+    "리더",
+    "본헤드"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "주루"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "재즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p274": {
+   "id": "p274",
+   "name": "헤라르드",
+   "team": "다이너마이트",
+   "pos": "3B",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "올드스쿨",
+    "꾸준함",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "컨택",
+    "송구"
+   ],
+   "weaknesses": [
+    "주루",
+    "선구안"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "다이너마이트"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -51088,7 +51179,9 @@
     "스틸러스_1": "p269",
     "라이언즈_1": "p270",
     "타이거즈_1": "p271",
-    "마린즈_1": "p272"
+    "마린즈_1": "p272",
+    "재즈_1": "p273",
+    "다이노스_1": "p274"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51393,7 +51486,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 273,
+ "_seq": 275,
  "prospects": [
   "p203",
   "p244",
