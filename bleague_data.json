@@ -22361,6 +22361,49 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p261": {
+   "id": "p261",
+   "name": "사르",
+   "team": "이글즈",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "팀플레이어",
+    "새가슴"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속"
+   ],
+   "weaknesses": [
+    "제구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -50545,7 +50588,9 @@
     "다이노스",
     "프린스"
    ],
-   "picks": {},
+   "picks": {
+    "에스트로너츠_1": "p260"
+   },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
     "재즈_4": "에스트로너츠",
@@ -50849,7 +50894,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 261,
+ "_seq": 262,
  "prospects": [
   "p203",
   "p244",
