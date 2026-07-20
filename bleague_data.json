@@ -22416,7 +22416,10 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "trait": "",
-   "traits": [],
+   "traits": [
+    "성실함",
+    "리더"
+   ],
    "style": "",
    "strength": "",
    "weakness": "",
@@ -22441,6 +22444,50 @@
     {
      "season": 16,
      "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p263": {
+   "id": "p263",
+   "name": "아이재아",
+   "team": "다이너마이트",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "팀플레이어",
+    "4차원"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "기교형",
+   "strengths": [
+    "구위",
+    "변화구"
+   ],
+   "weaknesses": [
+    "위기관리"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -50630,7 +50677,9 @@
     "프린스"
    ],
    "picks": {
-    "에스트로너츠_1": "p260"
+    "에스트로너츠_1": "p260",
+    "챌린저스_1": "p261",
+    "이글즈_1": "p262"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -50935,7 +50984,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 263,
+ "_seq": 264,
  "prospects": [
   "p203",
   "p244",
