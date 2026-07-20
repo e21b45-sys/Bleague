@@ -45376,12 +45376,39 @@
      ],
      "ROOKIE": [
       "p196",
-      "p208"
+      "p208",
+      "p147"
      ]
     },
     "potmBat": "p98",
     "potmPit": "p132",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p84",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p116",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p100",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p71",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p161",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "10": {
     "standings": [],
