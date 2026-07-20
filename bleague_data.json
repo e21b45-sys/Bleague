@@ -8597,7 +8597,7 @@
   "p72": {
    "id": "p72",
    "name": "야누스",
-   "team": "FA",
+   "team": "버커니어스",
    "pos": "OF",
    "tier": "엘리트",
    "age": 35,
@@ -8620,7 +8620,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 17,
+    "total": 60,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 8,
@@ -8697,6 +8702,10 @@
     {
      "season": 15,
      "team": "스틸러스"
+    },
+    {
+     "season": 16,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -51752,7 +51761,16 @@
  "live": {
   "season": 16,
   "months": {},
-  "offseason": []
+  "offseason": [
+   {
+    "kind": "fa",
+    "playerId": "p72",
+    "to": "버커니어스",
+    "total": 60,
+    "years": 2,
+    "applied": true
+   }
+  ]
  },
  "budgetParts": {
   "프린스": {
