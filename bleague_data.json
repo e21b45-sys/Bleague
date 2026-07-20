@@ -22982,6 +22982,97 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p275": {
+   "id": "p275",
+   "name": "려즈완",
+   "team": "프린스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "빅게임 헌터",
+    "루틴 집착",
+    "빌런"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "변화구형",
+   "strengths": [
+    "변화구",
+    "경기운영"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "프린스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p276": {
+   "id": "p276",
+   "name": "세틀",
+   "team": "에스트로너츠",
+   "pos": "2B",
+   "tier": "C리그",
+   "age": 23,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "프로",
+    "꾸준함",
+    "소극적"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "주루형",
+   "strengths": [
+    "주루",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "파워",
+    "갭"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -51181,7 +51272,9 @@
     "타이거즈_1": "p271",
     "마린즈_1": "p272",
     "재즈_1": "p273",
-    "다이노스_1": "p274"
+    "다이노스_1": "p274",
+    "프린스_1": "p275",
+    "에스트로너츠_2": "p276"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51486,7 +51579,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 275,
+ "_seq": 277,
  "prospects": [
   "p203",
   "p244",
