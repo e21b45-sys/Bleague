@@ -11900,7 +11900,7 @@
   "p101": {
    "id": "p101",
    "name": "볼브",
-   "team": "FA",
+   "team": "이글즈",
    "pos": "1B",
    "tier": "레귤러",
    "age": 32,
@@ -11924,7 +11924,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 19,
+    "total": 40,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 11,
@@ -11979,6 +11984,10 @@
     {
      "season": 15,
      "team": "재즈"
+    },
+    {
+     "season": 16,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -51836,6 +51845,14 @@
     "to": "다이노스",
     "total": 90,
     "years": 6,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p101",
+    "to": "이글즈",
+    "total": 40,
+    "years": 4,
     "applied": true
    }
   ]
