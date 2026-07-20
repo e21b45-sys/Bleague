@@ -2199,7 +2199,7 @@
    "name": "에이튼",
    "team": "FA",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 39,
    "number": "11",
    "debutSeason": 1,
@@ -2318,7 +2318,7 @@
    "titlesManual": 0,
    "role": "3선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p19": {
    "id": "p19",
@@ -7311,7 +7311,7 @@
    "titlesManual": 0,
    "role": "1선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p59": {
    "id": "p59",
@@ -11294,7 +11294,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p96": {
    "id": "p96",
@@ -11633,7 +11633,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "injury"
+   "form": "good"
   },
   "p99": {
    "id": "p99",
@@ -12202,7 +12202,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p105": {
    "id": "p105",
@@ -14653,7 +14653,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p134": {
    "id": "p134",
@@ -15883,7 +15883,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p150": {
    "id": "p150",
@@ -16094,7 +16094,7 @@
    "name": "트로이",
    "team": "버커니어스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "13",
    "debutSeason": 14,
@@ -16967,7 +16967,7 @@
    "name": "리븐",
    "team": "세이버스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "8",
    "debutSeason": 13,
@@ -17021,7 +17021,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p165": {
    "id": "p165",
