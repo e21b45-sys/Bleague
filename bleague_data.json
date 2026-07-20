@@ -22626,6 +22626,93 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p267": {
+   "id": "p267",
+   "name": "크위티",
+   "team": "데빌스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "프로",
+    "승부욕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "기교형",
+   "strengths": [
+    "제구"
+   ],
+   "weaknesses": [
+    "내구성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "데빌스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p268": {
+   "id": "p268",
+   "name": "카터",
+   "team": "챌린저스",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "유리멘탈",
+    "4차원"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속"
+   ],
+   "weaknesses": [
+    "제구",
+    "좌우 상대"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "챌린저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -50817,7 +50904,8 @@
     "다이너마이트_1": "p263",
     "트레일 블레이저스_1": "p264",
     "세이버스_1": "p265",
-    "버커니어스_1": "p266"
+    "버커니어스_1": "p266",
+    "데빌스_1": "p267"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51122,7 +51210,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 267,
+ "_seq": 269,
  "prospects": [
   "p203",
   "p244",
