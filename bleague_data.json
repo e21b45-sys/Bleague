@@ -21218,6 +21218,56 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p254": {
+   "id": "p254",
+   "name": "토비",
+   "team": "에스트로너츠",
+   "pos": "C",
+   "tier": "C리그",
+   "age": 24,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "BQ",
+    "철강왕",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "갭",
+    "작전수행"
+   ],
+   "weaknesses": [
+    "주루",
+    "수비 안정성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 14,
+     "team": "에스트로너츠"
+    },
+    {
+     "season": 15,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -45289,7 +45339,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 254,
+ "_seq": 255,
  "prospects": [
   "p203",
   "p244",
