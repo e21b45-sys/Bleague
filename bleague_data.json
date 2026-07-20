@@ -49794,6 +49794,34 @@
     {
      "name": "타점",
      "playerId": "p98"
+    },
+    {
+     "name": "다승",
+     "playerId": "p104"
+    },
+    {
+     "name": "방어율",
+     "playerId": "p84"
+    },
+    {
+     "name": "삼진",
+     "playerId": "p84"
+    },
+    {
+     "name": "이닝",
+     "playerId": "p74"
+    },
+    {
+     "name": "세이브",
+     "playerId": "p86"
+    },
+    {
+     "name": "홀드",
+     "playerId": "p209"
+    },
+    {
+     "name": "파이널 MVP",
+     "playerId": "p162"
     }
    ],
    "awardsNote": ""
