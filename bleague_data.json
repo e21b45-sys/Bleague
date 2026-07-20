@@ -12173,7 +12173,7 @@
   "p104": {
    "id": "p104",
    "name": "히튼",
-   "team": "FA",
+   "team": "워리어스",
    "pos": "SP",
    "tier": "컨텐더",
    "age": 29,
@@ -12200,7 +12200,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 22,
+    "total": 245,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 12,
@@ -12251,6 +12256,10 @@
     {
      "season": 15,
      "team": "다이노스"
+    },
+    {
+     "season": 16,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -51768,6 +51777,14 @@
     "to": "버커니어스",
     "total": 60,
     "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p104",
+    "to": "워리어스",
+    "total": 245,
+    "years": 7,
     "applied": true
    }
   ]
