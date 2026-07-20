@@ -11389,7 +11389,7 @@
   "p96": {
    "id": "p96",
    "name": "르메이아",
-   "team": "FA",
+   "team": "다이너마이트",
    "pos": "OF",
    "tier": "레귤러",
    "age": 33,
@@ -11415,7 +11415,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 19,
+    "total": 40,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 13,
@@ -11474,6 +11479,10 @@
     {
      "season": 15,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 16,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -13568,7 +13577,7 @@
   "p119": {
    "id": "p119",
    "name": "보라스",
-   "team": "FA",
+   "team": "데빌스",
    "pos": "SP",
    "tier": "코어",
    "age": 30,
@@ -13592,7 +13601,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 22,
+    "total": 210,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -13632,6 +13646,10 @@
     {
      "season": 15,
      "team": "프린스"
+    },
+    {
+     "season": 16,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -51963,6 +51981,22 @@
     "to": "프린스",
     "total": 10,
     "years": 1,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p119",
+    "to": "데빌스",
+    "total": 210,
+    "years": 7,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p96",
+    "to": "다이너마이트",
+    "total": 40,
+    "years": 4,
     "applied": true
    }
   ]
