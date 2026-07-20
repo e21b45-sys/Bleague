@@ -21280,13 +21280,22 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "trait": "",
-   "traits": [],
+   "traits": [
+    "빅게임 헌터",
+    "클러치",
+    "기복형"
+   ],
    "style": "",
    "strength": "",
    "weakness": "",
-   "ptype": "",
-   "strengths": [],
-   "weaknesses": [],
+   "ptype": "땅볼형",
+   "strengths": [
+    "구속",
+    "경기운영"
+   ],
+   "weaknesses": [
+    "제구"
+   ],
    "role": "",
    "subPositions": [],
    "form": "",
@@ -21298,8 +21307,62 @@
    "titles": 0,
    "teamHistory": [
     {
+     "season": 14,
+     "team": "스틸러스"
+    },
+    {
      "season": 15,
      "team": "스틸러스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p256": {
+   "id": "p256",
+   "name": "가버",
+   "team": "타이거즈",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "팀플레이어",
+    "꾸준함",
+    "본헤드"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "주루",
+    "송구"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 14,
+     "team": "타이거즈"
+    },
+    {
+     "season": 15,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -44994,7 +45057,8 @@
     "챌린저스_1": "p241",
     "트레일 블레이저스_3": "p242",
     "타이거즈_2": "p252",
-    "에스트로너츠_2": "p254"
+    "에스트로너츠_2": "p254",
+    "스틸러스_2": "p255"
    },
    "pickOwners": {},
    "penalties": {}
@@ -45376,7 +45440,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 256,
+ "_seq": 257,
  "prospects": [
   "p203",
   "p244",
