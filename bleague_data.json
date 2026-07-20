@@ -45883,8 +45883,24 @@
       "pos": "외야"
      },
      {
-      "playerId": "",
+      "playerId": "p123",
       "pos": "외야"
+     },
+     {
+      "playerId": "p104",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p105",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p139",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p86",
+      "pos": "투수"
      }
     ],
     "divFilter": [
@@ -45895,7 +45911,12 @@
    "teamB": {
     "name": "서동부",
     "captain": "",
-    "members": [],
+    "members": [
+     {
+      "playerId": "",
+      "pos": "선발"
+     }
+    ],
     "divFilter": [
      "동부",
      "서부"
