@@ -22760,6 +22760,93 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p270": {
+   "id": "p270",
+   "name": "워드",
+   "team": "버커니어스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "분위기 메이커",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "땅볼형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "경기운영"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "버커니어스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p271": {
+   "id": "p271",
+   "name": "제이시",
+   "team": "타이거즈",
+   "pos": "RP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "트래쉬 토커",
+    "승부욕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속",
+    "위기관리"
+   ],
+   "weaknesses": [
+    "제구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "타이거즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -50954,7 +51041,9 @@
     "버커니어스_1": "p266",
     "데빌스_1": "p267",
     "워리어스_1": "p268",
-    "스틸러스_1": "p269"
+    "스틸러스_1": "p269",
+    "라이언즈_1": "p270",
+    "타이거즈_1": "p271"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51259,7 +51348,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 270,
+ "_seq": 272,
  "prospects": [
   "p203",
   "p244",
