@@ -11260,7 +11260,7 @@
   "p95": {
    "id": "p95",
    "name": "나다니엘",
-   "team": "FA",
+   "team": "라이언즈",
    "pos": "SP",
    "tier": "엘리트",
    "age": 30,
@@ -11284,7 +11284,12 @@
    "weaknesses": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 25,
+    "total": 200,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 8,
@@ -11342,6 +11347,10 @@
     },
     {
      "season": 15,
+     "team": "라이언즈"
+    },
+    {
+     "season": 16,
      "team": "라이언즈"
     }
    ],
@@ -17564,7 +17573,7 @@
   "p172": {
    "id": "p172",
    "name": "렉스",
-   "team": "FA",
+   "team": "프린스",
    "pos": "SS",
    "tier": "코어",
    "age": 27,
@@ -17592,7 +17601,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 21,
+    "total": 120,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -17624,6 +17638,10 @@
     {
      "season": 15,
      "team": "다이노스"
+    },
+    {
+     "season": 16,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -51785,6 +51803,22 @@
     "to": "워리어스",
     "total": 245,
     "years": 7,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p172",
+    "to": "프린스",
+    "total": 120,
+    "years": 6,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p95",
+    "to": "라이언즈",
+    "total": 200,
+    "years": 10,
     "applied": true
    }
   ]
