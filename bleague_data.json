@@ -21367,6 +21367,54 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p257": {
+   "id": "p257",
+   "name": "락",
+   "team": "재즈",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "이기적",
+    "유리몸",
+    "승부욕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "무브먼트형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "위기관리"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 14,
+     "team": "재즈"
+    },
+    {
+     "season": 15,
+     "team": "재즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -45058,7 +45106,8 @@
     "트레일 블레이저스_3": "p242",
     "타이거즈_2": "p252",
     "에스트로너츠_2": "p254",
-    "스틸러스_2": "p255"
+    "스틸러스_2": "p255",
+    "타이거즈_4": "p256"
    },
    "pickOwners": {},
    "penalties": {}
@@ -45440,7 +45489,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 257,
+ "_seq": 258,
  "prospects": [
   "p203",
   "p244",
