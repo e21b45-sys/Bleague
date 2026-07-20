@@ -19095,10 +19095,10 @@
    "name": "올리바레스",
    "team": "다이너마이트",
    "pos": "SS",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 21,
-   "number": "",
-   "debutSeason": null,
+   "number": "8",
+   "debutSeason": 16,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -20056,10 +20056,10 @@
    "name": "디아모도어",
    "team": "다이너마이트",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "14",
+   "debutSeason": 16,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -20077,7 +20077,7 @@
    "weaknesses": [
     "위기관리"
    ],
-   "role": "",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -21659,10 +21659,10 @@
    "name": "퀘즈",
    "team": "다이너마이트",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 22,
-   "number": "",
-   "debutSeason": null,
+   "number": "31",
+   "debutSeason": 16,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -21680,7 +21680,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
