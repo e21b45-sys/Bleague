@@ -5111,7 +5111,7 @@
    "name": "올리",
    "team": "FA",
    "pos": "C",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 39,
    "number": "4",
    "debutSeason": 1,
@@ -8657,7 +8657,7 @@
    "injuries": [],
    "role": "1번",
    "subPositions": [],
-   "form": "bad"
+   "form": "good"
   },
   "p73": {
    "id": "p73",
@@ -9015,7 +9015,7 @@
    "name": "토호루",
    "team": "FA",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 35,
    "number": "27",
    "debutSeason": 2,
@@ -9125,7 +9125,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p77": {
    "id": "p77",
@@ -11838,7 +11838,7 @@
    "name": "볼브",
    "team": "FA",
    "pos": "1B",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 32,
    "number": "6",
    "debutSeason": 6,
@@ -11923,7 +11923,7 @@
    "subPositions": [
     "2B"
    ],
-   "form": "good"
+   "form": ""
   },
   "p102": {
    "id": "p102",
@@ -14341,7 +14341,7 @@
    "injuries": [],
    "role": "6번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p130": {
    "id": "p130",
@@ -17547,7 +17547,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p173": {
    "id": "p173",
