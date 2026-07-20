@@ -8897,7 +8897,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "injury"
+   "form": "good"
   },
   "p75": {
    "id": "p75",
@@ -9598,7 +9598,7 @@
    "name": "팀",
    "team": "프린스",
    "pos": "SP",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 35,
    "number": "20",
    "debutSeason": 2,
@@ -9698,7 +9698,7 @@
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p82": {
    "id": "p82",
@@ -46646,6 +46646,10 @@
     {
      "name": "파이널 MVP",
      "playerId": "p25"
+    },
+    {
+     "name": "BRP",
+     "playerId": "p6"
     }
    ],
    "awardsNote": "",
@@ -49826,6 +49830,11 @@
     {
      "name": "MIP",
      "playerId": "p172"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p158",
+     "detail": "1B"
     }
    ],
    "awardsNote": ""
