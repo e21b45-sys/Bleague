@@ -45847,16 +45847,31 @@
   ],
   "allstar": {
    "teamA": {
-    "name": "",
-    "captain": "",
-    "members": [],
-    "divFilter": []
+    "name": "북남부",
+    "captain": "p74",
+    "members": [
+     {
+      "playerId": "p74",
+      "pos": "선발"
+     },
+     {
+      "playerId": "",
+      "pos": "포수"
+     }
+    ],
+    "divFilter": [
+     "북부",
+     "남부"
+    ]
    },
    "teamB": {
-    "name": "",
+    "name": "서동부",
     "captain": "",
     "members": [],
-    "divFilter": []
+    "divFilter": [
+     "동부",
+     "서부"
+    ]
    },
    "result": {
     "teamAScore": null,
