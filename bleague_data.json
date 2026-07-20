@@ -12928,7 +12928,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": "bad"
   },
   "p113": {
    "id": "p113",
@@ -13381,7 +13381,7 @@
    "name": "포이스",
    "team": "마린즈",
    "pos": "3B",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 28,
    "number": "12",
    "debutSeason": 9,
@@ -13455,7 +13455,7 @@
    "injuries": [],
    "role": "3번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p119": {
    "id": "p119",
@@ -16383,7 +16383,7 @@
      "note": "손목"
     }
    ],
-   "form": "bad"
+   "form": ""
   },
   "p157": {
    "id": "p157",
@@ -19560,7 +19560,7 @@
    "name": "찰리",
    "team": "에스트로너츠",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 25,
    "number": "15",
    "debutSeason": 13,
@@ -19612,7 +19612,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p207": {
    "id": "p207",
@@ -19733,7 +19733,7 @@
    "name": "에스크리지",
    "team": "마린즈",
    "pos": "RP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 26,
    "number": "13",
    "debutSeason": 13,
@@ -19786,7 +19786,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p210": {
    "id": "p210",
