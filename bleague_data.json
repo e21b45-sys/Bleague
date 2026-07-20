@@ -23073,6 +23073,51 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p277": {
+   "id": "p277",
+   "name": "산체스",
+   "team": "챌린저스",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "소극적",
+    "새가슴",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "주루",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "챌린저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -51274,7 +51319,8 @@
     "재즈_1": "p273",
     "다이노스_1": "p274",
     "프린스_1": "p275",
-    "에스트로너츠_2": "p276"
+    "에스트로너츠_2": "p276",
+    "챌린저스_2": "p277"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -51579,7 +51625,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 277,
+ "_seq": 278,
  "prospects": [
   "p203",
   "p244",
