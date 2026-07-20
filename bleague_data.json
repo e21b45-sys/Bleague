@@ -21415,6 +21415,59 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p258": {
+   "id": "p258",
+   "name": "샌더스",
+   "team": "다이너마이트",
+   "pos": "OF",
+   "tier": "레귤러",
+   "age": 24,
+   "number": "12",
+   "debutSeason": 15,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "승부욕",
+    "루틴 집착",
+    "운동능력"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "주루형",
+   "strengths": [
+    "주루",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "2번",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 13,
+     "team": "다이너마이트"
+    },
+    {
+     "season": 14,
+     "team": "다이너마이트"
+    },
+    {
+     "season": 15,
+     "team": "다이너마이트"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -45107,7 +45160,8 @@
     "타이거즈_2": "p252",
     "에스트로너츠_2": "p254",
     "스틸러스_2": "p255",
-    "타이거즈_4": "p256"
+    "타이거즈_4": "p256",
+    "재즈_1": "p257"
    },
    "pickOwners": {},
    "penalties": {}
@@ -45489,7 +45543,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 258,
+ "_seq": 259,
  "prospects": [
   "p203",
   "p244",
