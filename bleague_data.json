@@ -14384,7 +14384,7 @@
   "p129": {
    "id": "p129",
    "name": "조나스",
-   "team": "FA",
+   "team": "스틸러스",
    "pos": "C",
    "tier": "코어",
    "age": 29,
@@ -14408,7 +14408,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 23,
+    "total": 160,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -14443,6 +14448,10 @@
     },
     {
      "season": 15,
+     "team": "스틸러스"
+    },
+    {
+     "season": 16,
      "team": "스틸러스"
     }
    ],
@@ -51921,6 +51930,14 @@
     "to": "프린스",
     "total": 150,
     "years": 6,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p129",
+    "to": "스틸러스",
+    "total": 160,
+    "years": 8,
     "applied": true
    }
   ]
