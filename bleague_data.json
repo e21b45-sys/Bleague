@@ -678,7 +678,7 @@
    "name": "폴츠",
    "team": "FA",
    "pos": "RP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 37,
    "number": "44",
    "debutSeason": 1,
@@ -800,7 +800,7 @@
    "titlesManual": 0,
    "role": "마무리",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p7": {
    "id": "p7",
@@ -2468,7 +2468,7 @@
   "p20": {
    "id": "p20",
    "name": "델론즈",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "DH",
    "tier": "코어",
    "age": 40,
@@ -2592,6 +2592,10 @@
     {
      "season": 15,
      "team": "재즈"
+    },
+    {
+     "season": 16,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -3134,7 +3138,7 @@
    "name": "로베스",
    "team": "FA",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 37,
    "number": "11",
    "debutSeason": 1,
@@ -3249,7 +3253,7 @@
    "titlesManual": 0,
    "role": "1번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p26": {
    "id": "p26",
@@ -4262,7 +4266,7 @@
   "p34": {
    "id": "p34",
    "name": "더피",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "2B",
    "tier": "레귤러",
    "age": 39,
@@ -4368,6 +4372,10 @@
     {
      "season": 15,
      "team": "라이언즈"
+    },
+    {
+     "season": 16,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -4974,7 +4982,7 @@
   "p40": {
    "id": "p40",
    "name": "베넨",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
    "age": 39,
@@ -5097,6 +5105,10 @@
     {
      "season": 15,
      "team": "이글즈"
+    },
+    {
+     "season": 16,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -6462,7 +6474,7 @@
   "p52": {
    "id": "p52",
    "name": "세인츠",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "2B",
    "tier": "코어",
    "age": 39,
@@ -6577,6 +6589,10 @@
     {
      "season": 15,
      "team": "버커니어스"
+    },
+    {
+     "season": 16,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -7435,7 +7451,7 @@
   "p60": {
    "id": "p60",
    "name": "가이즈",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "RP",
    "tier": "코어",
    "age": 39,
@@ -7550,6 +7566,10 @@
     {
      "season": 15,
      "team": "마린즈"
+    },
+    {
+     "season": 16,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -7557,7 +7577,7 @@
    "titlesManual": 0,
    "role": "마무리",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p61": {
    "id": "p61",
@@ -9817,7 +9837,7 @@
     "1B",
     "SS"
    ],
-   "form": "bad"
+   "form": ""
   },
   "p83": {
    "id": "p83",
@@ -16388,7 +16408,7 @@
   "p157": {
    "id": "p157",
    "name": "론돈",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "DH",
    "tier": "레귤러",
    "age": 36,
@@ -16502,6 +16522,10 @@
     {
      "season": 15,
      "team": "이글즈"
+    },
+    {
+     "season": 16,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -18612,7 +18636,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p190": {
    "id": "p190",
