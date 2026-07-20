@@ -19149,10 +19149,10 @@
    "name": "도널드",
    "team": "라이언즈",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "19",
+   "debutSeason": 16,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -19170,7 +19170,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -20813,7 +20813,7 @@
    "name": "로렌스",
    "team": "타이거즈",
    "pos": "SP",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 22,
    "number": "",
    "debutSeason": null,
@@ -21915,10 +21915,10 @@
    "name": "아일리자",
    "team": "타이거즈",
    "pos": "RP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "27",
+   "debutSeason": 16,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -21935,7 +21935,7 @@
    "weaknesses": [
     "제구"
    ],
-   "role": "",
+   "role": "추격조",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
