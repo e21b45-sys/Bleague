@@ -16233,7 +16233,20 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 26,
+    "total": 330,
+    "options": [
+     {
+      "type": "계약 연장",
+      "actor": "선수 옵션",
+      "after": 26,
+      "extSalary": 60,
+      "extYears": 3
+     }
+    ]
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
