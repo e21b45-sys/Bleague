@@ -45641,7 +45641,7 @@
      "MVP": [
       "p98",
       "p125",
-      "p176"
+      "p202"
      ],
      "BP": [
       "p104",
@@ -45649,14 +45649,45 @@
       "p74"
      ],
      "ROOKIE": [
-      "p208",
       "p202",
+      "p208",
       "p196"
      ]
     },
     "potmBat": "p20",
     "potmPit": "p84",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p61",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p73",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p139",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p226",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p183",
+      "note": "",
+      "months": 3
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "10": {
     "standings": [],
