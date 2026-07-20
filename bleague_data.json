@@ -45429,10 +45429,47 @@
      "이글즈",
      "챌린저스"
     ],
-    "races": {},
+    "races": {
+     "MVP": [
+      "p98",
+      "p125",
+      "p118"
+     ],
+     "BP": [
+      "p104",
+      "p139",
+      "p74"
+     ],
+     "ROOKIE": [
+      "p196",
+      "p208",
+      "p147"
+     ]
+    },
     "potmBat": "p98",
-    "potmPit": "",
-    "injuries": []
+    "potmPit": "p74",
+    "injuries": [
+     {
+      "playerId": "p201",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p171",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p175",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "10": {
     "standings": [],
