@@ -9132,7 +9132,7 @@
    "name": "칼리츠",
    "team": "프린스",
    "pos": "OF",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 36,
    "number": "3",
    "debutSeason": 2,
@@ -9824,7 +9824,7 @@
    "name": "세티안",
    "team": "프린스",
    "pos": "OF",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 35,
    "number": "70",
    "debutSeason": 3,
@@ -11096,7 +11096,7 @@
    ],
    "role": "4번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p94": {
    "id": "p94",
@@ -12478,7 +12478,7 @@
    ],
    "role": "5번",
    "subPositions": [],
-   "form": ""
+   "form": "injury"
   },
   "p108": {
    "id": "p108",
@@ -12757,7 +12757,7 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p111": {
    "id": "p111",
@@ -13198,7 +13198,7 @@
    ],
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p116": {
    "id": "p116",
@@ -13812,7 +13812,7 @@
    "name": "존슨",
    "team": "프린스",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 30,
    "number": "10",
    "debutSeason": 8,
@@ -14039,7 +14039,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p126": {
    "id": "p126",
@@ -16548,7 +16548,7 @@
     "주루",
     "수비 범위"
    ],
-   "role": "4번",
+   "role": "5번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -17091,7 +17091,7 @@
    "name": "훌리오",
    "team": "라이언즈",
    "pos": "RP",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 24,
    "number": "11",
    "debutSeason": 12,
@@ -17669,7 +17669,7 @@
    "name": "피소로",
    "team": "라이언즈",
    "pos": "C",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 25,
    "number": "6",
    "debutSeason": 13,
