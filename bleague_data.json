@@ -22312,6 +22312,55 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p260": {
+   "id": "p260",
+   "name": "페레즈",
+   "team": "에스트로너츠",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "이기적",
+    "승부욕",
+    "클러치",
+    "더티 플레이어",
+    "트래쉬 토커"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정통파형",
+   "strengths": [
+    "구속",
+    "구위"
+   ],
+   "weaknesses": [
+    "제구",
+    "위기관리"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 16,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -50800,7 +50849,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 260,
+ "_seq": 261,
  "prospects": [
   "p203",
   "p244",
