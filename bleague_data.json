@@ -49670,6 +49670,26 @@
      "name": "플레티넘볼",
      "playerId": "p98",
      "detail": "남부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p118",
+     "detail": "동부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p84",
+     "detail": "서부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p146",
+     "detail": "북부"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p154",
+     "detail": "P"
     }
    ],
    "awardsNote": ""
