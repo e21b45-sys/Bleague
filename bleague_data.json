@@ -26759,6 +26759,96 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p305": {
+   "id": "p305",
+   "name": "자이언",
+   "team": "이글즈",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "성실함",
+    "프로",
+    "올드스쿨"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "수비 안정성",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "컨택",
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p306": {
+   "id": "p306",
+   "name": "오를로프",
+   "team": "에스트로너츠",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "낙천적",
+    "꾸준함"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "기교형",
+   "strengths": [
+    "제구",
+    "구속"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -61469,7 +61559,9 @@
    ],
    "picks": {
     "다이너마이트_1": "p303",
-    "챌린저스_1": "p304"
+    "챌린저스_1": "p304",
+    "이글즈_1": "p305",
+    "에스트로너츠_1": "p306"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -61756,7 +61848,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 305,
+ "_seq": 307,
  "prospects": [
   "p260",
   "p279",
