@@ -9848,7 +9848,7 @@
   "p80": {
    "id": "p80",
    "name": "운남",
-   "team": "FA",
+   "team": "에스트로너츠",
    "pos": "DH",
    "tier": "레귤러",
    "age": 38,
@@ -9873,7 +9873,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 18,
+    "total": 20,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 8,
@@ -9960,6 +9965,10 @@
     {
      "season": 16,
      "team": "재즈"
+    },
+    {
+     "season": 17,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -18108,7 +18117,7 @@
   "p168": {
    "id": "p168",
    "name": "파슨스",
-   "team": "FA",
+   "team": "세이버스",
    "pos": "SP",
    "tier": "레귤러",
    "age": 29,
@@ -18138,7 +18147,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 23,
+    "total": 84,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -18174,6 +18188,10 @@
     {
      "season": 16,
      "team": "다이노스"
+    },
+    {
+     "season": 17,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -57108,7 +57126,9 @@
     "다이노스_3": "다이너마이트",
     "다이노스_5": "다이너마이트",
     "데빌스_2": "마린즈",
-    "데빌스_4": "마린즈"
+    "데빌스_4": "마린즈",
+    "마린즈_2": "버커니어스",
+    "마린즈_3": "버커니어스"
    },
    "penalties": {}
   },
@@ -57432,6 +57452,22 @@
     "playerId": "p153",
     "from": "버커니어스",
     "to": "마린즈",
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p80",
+    "to": "에스트로너츠",
+    "total": 20,
+    "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p168",
+    "to": "세이버스",
+    "total": 84,
+    "years": 7,
     "applied": true
    }
   ]
