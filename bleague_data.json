@@ -28086,6 +28086,51 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p334": {
+   "id": "p334",
+   "name": "버나드",
+   "team": "챌린저스",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "승부욕",
+    "유리몸",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "갭"
+   ],
+   "weaknesses": [
+    "주루",
+    "수비 안정성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "챌린저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -63112,7 +63157,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 334,
+ "_seq": 335,
  "prospects": [
   "p260",
   "p279",
