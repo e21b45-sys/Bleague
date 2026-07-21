@@ -57767,10 +57767,47 @@
      "다이너마이트",
      "이글즈"
     ],
-    "races": {},
-    "potmBat": "",
-    "potmPit": "",
-    "injuries": []
+    "races": {
+     "MVP": [
+      "p125",
+      "p202",
+      "p176"
+     ],
+     "BP": [
+      "p131",
+      "p75",
+      "p84"
+     ],
+     "ROOKIE": [
+      "p233",
+      "p234",
+      "p266"
+     ]
+    },
+    "potmBat": "p85",
+    "potmPit": "p151",
+    "injuries": [
+     {
+      "playerId": "p98",
+      "note": "",
+      "months": 4
+     },
+     {
+      "playerId": "p54",
+      "note": "",
+      "months": 3
+     },
+     {
+      "playerId": "p214",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "10": {
     "standings": [],
