@@ -5291,7 +5291,7 @@
    "name": "올리",
    "team": "FA",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 40,
    "number": "4",
    "debutSeason": 1,
@@ -7841,7 +7841,7 @@
   "p61": {
    "id": "p61",
    "name": "오커너",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "DH",
    "tier": "코어",
    "age": 39,
@@ -7945,6 +7945,10 @@
     {
      "season": 16,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 17,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -9475,8 +9479,8 @@
    "id": "p77",
    "name": "칼리츠",
    "team": "FA",
-   "pos": "OF",
-   "tier": "엘리트",
+   "pos": "DH",
+   "tier": "레귤러",
    "age": 37,
    "number": "3",
    "debutSeason": 2,
@@ -9836,7 +9840,7 @@
    "id": "p80",
    "name": "운남",
    "team": "FA",
-   "pos": "C",
+   "pos": "DH",
    "tier": "레귤러",
    "age": 38,
    "number": "30",
@@ -9953,7 +9957,7 @@
    "injuries": [],
    "role": "5번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p81": {
    "id": "p81",
@@ -10069,7 +10073,7 @@
   "p82": {
    "id": "p82",
    "name": "아카시",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "3B",
    "tier": "레귤러",
    "age": 37,
@@ -10178,6 +10182,10 @@
     {
      "season": 16,
      "team": "버커니어스"
+    },
+    {
+     "season": 17,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -10492,7 +10500,7 @@
    "name": "에반",
    "team": "FA",
    "pos": "SS",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 34,
    "number": "7",
    "debutSeason": 3,
@@ -15291,7 +15299,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "good"
   },
   "p134": {
    "id": "p134",
@@ -15775,7 +15783,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p141": {
    "id": "p141",
@@ -15877,7 +15885,7 @@
      "note": "팔"
     }
    ],
-   "form": ""
+   "form": "good"
   },
   "p142": {
    "id": "p142",
@@ -18098,7 +18106,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p169": {
    "id": "p169",
@@ -21743,7 +21751,7 @@
    ],
    "role": "5번",
    "subPositions": [],
-   "form": "good",
+   "form": "",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
