@@ -62173,6 +62173,51 @@
      "name": "실버슬러거",
      "playerId": "p125",
      "detail": "3B"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p136",
+     "detail": "SS"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p202",
+     "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p165",
+     "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p72",
+     "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p83",
+     "detail": "DH"
+    },
+    {
+     "name": "홈런",
+     "playerId": "p202"
+    },
+    {
+     "name": "타율",
+     "playerId": "p202"
+    },
+    {
+     "name": "출루율",
+     "playerId": "p176"
+    },
+    {
+     "name": "장타율",
+     "playerId": "p125"
+    },
+    {
+     "name": "도루",
+     "playerId": "p171"
     }
    ],
    "awardsNote": ""
