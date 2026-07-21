@@ -25265,6 +25265,95 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p300": {
+   "id": "p300",
+   "name": "해거티",
+   "team": "에스트로너츠",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "트래쉬 토커",
+    "본헤드",
+    "BQ"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "출루형",
+   "strengths": [
+    "선구안"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p301": {
+   "id": "p301",
+   "name": "스미스",
+   "team": "라이언즈",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "성실함",
+    "프로"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "주루"
+   ],
+   "weaknesses": [
+    "파워",
+    "선구안"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "라이언즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -56688,7 +56777,9 @@
     "챌린저스_2": "p296",
     "다이노스_2": "p297",
     "세이버스_2": "p298",
-    "이글즈_2": "p299"
+    "이글즈_2": "p299",
+    "에스트로너츠_2": "p300",
+    "라이언즈_2": "p301"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56960,7 +57051,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 300,
+ "_seq": 302,
  "prospects": [
   "p260",
   "p244",
