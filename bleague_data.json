@@ -52489,7 +52489,15 @@
       "pos": "투수"
      },
      {
-      "playerId": "",
+      "playerId": "p84",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p154",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p141",
       "pos": "투수"
      }
     ],
@@ -52501,7 +52509,12 @@
    "teamB": {
     "name": "북동부",
     "captain": "",
-    "members": [],
+    "members": [
+     {
+      "playerId": "",
+      "pos": "선발"
+     }
+    ],
     "divFilter": [
      "동부",
      "북부"
