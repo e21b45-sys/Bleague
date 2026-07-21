@@ -24503,7 +24503,7 @@
   "p283": {
    "id": "p283",
    "name": "에이브라함",
-   "team": "이글즈",
+   "team": "다이너마이트",
    "pos": "OF",
    "tier": "D리그",
    "age": 18,
@@ -24538,7 +24538,7 @@
    "teamHistory": [
     {
      "season": 17,
-     "team": "이글즈"
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -24718,6 +24718,51 @@
     {
      "season": 17,
      "team": "프린스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p288": {
+   "id": "p288",
+   "name": "오션",
+   "team": "이글즈",
+   "pos": "RP",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "승부욕",
+    "새가슴"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "변칙형",
+   "strengths": [
+    "변화구",
+    "구위"
+   ],
+   "weaknesses": [
+    "구속",
+    "좌우 상대"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -56132,7 +56177,9 @@
     "에스트로너츠_1": "p284",
     "라이언즈_1": "p285",
     "마린즈_1": "p286",
-    "프린스_1": "p287"
+    "프린스_1": "p287",
+    "버커니어스_1": "p283",
+    "이글즈_1": "p288"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56404,7 +56451,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 288,
+ "_seq": 289,
  "prospects": [
   "p260",
   "p244",
