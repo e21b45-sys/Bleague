@@ -9360,7 +9360,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "2번",
+   "role": "4번",
    "subPositions": [],
    "form": "bad"
   },
@@ -10043,7 +10043,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "4번",
+   "role": "5번",
    "subPositions": [],
    "form": ""
   },
@@ -11887,7 +11887,7 @@
    "pos": "OF",
    "tier": "코어",
    "age": 31,
-   "number": "14",
+   "number": "10",
    "debutSeason": 5,
    "debutHalf": "전반기",
    "trait": "",
@@ -11982,7 +11982,7 @@
      "note": "어깨"
     }
    ],
-   "role": "6번",
+   "role": "2번",
    "subPositions": [],
    "form": ""
   },
@@ -13799,7 +13799,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "5번",
+   "role": "2번",
    "subPositions": [
     "1B",
     "SS"
@@ -15123,7 +15123,7 @@
     "제구",
     "이닝"
    ],
-   "role": "2선발",
+   "role": "1선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -16808,7 +16808,7 @@
     "주루",
     "수비 범위"
    ],
-   "role": "5번",
+   "role": "6번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -16906,7 +16906,7 @@
     "파워",
     "갭"
    ],
-   "role": "7번",
+   "role": "1번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -17192,7 +17192,7 @@
    "weaknesses": [
     "구위"
    ],
-   "role": "4선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -17439,7 +17439,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "3선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -17502,7 +17502,7 @@
     "구속",
     "경기운영"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -20385,7 +20385,7 @@
     "주루",
     "수비 안정성"
    ],
-   "role": "",
+   "role": "4번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -20485,7 +20485,7 @@
     "수비 안정성",
     "파워"
    ],
-   "role": "",
+   "role": "6번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
