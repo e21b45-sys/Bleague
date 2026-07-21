@@ -10228,7 +10228,7 @@
   "p83": {
    "id": "p83",
    "name": "세티안",
-   "team": "프린스",
+   "team": "타이거즈",
    "pos": "OF",
    "tier": "코어",
    "age": 36,
@@ -10332,6 +10332,10 @@
     {
      "season": 16,
      "team": "프린스"
+    },
+    {
+     "season": 17,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -17919,7 +17923,7 @@
   "p165": {
    "id": "p165",
    "name": "벤슨",
-   "team": "타이거즈",
+   "team": "프린스",
    "pos": "OF",
    "tier": "엘리트",
    "age": 26,
@@ -17949,7 +17953,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 26,
+    "total": 350,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -17977,6 +17986,10 @@
     {
      "season": 16,
      "team": "타이거즈"
+    },
+    {
+     "season": 17,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -57468,6 +57481,20 @@
     "to": "세이버스",
     "total": 84,
     "years": 7,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p83",
+    "from": "프린스",
+    "to": "타이거즈",
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p165",
+    "from": "타이거즈",
+    "to": "프린스",
     "applied": true
    }
   ]
