@@ -27030,6 +27030,98 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p311": {
+   "id": "p311",
+   "name": "메이너즈",
+   "team": "버커니어스",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "낙천적",
+    "기복형",
+    "소극적",
+    "클러치"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "기교형",
+   "strengths": [
+    "변화구",
+    "위기관리"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "버커니어스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p312": {
+   "id": "p312",
+   "name": "아론",
+   "team": "마린즈",
+   "pos": "1B",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "분위기 메이커",
+    "승부욕",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "출루형",
+   "strengths": [
+    "갭",
+    "선구안"
+   ],
+   "weaknesses": [
+    "파워",
+    "주루"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "마린즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -61746,7 +61838,9 @@
     "스틸러스_1": "p307",
     "세이버스_1": "p308",
     "다이노스_1": "p309",
-    "재즈_1": "p310"
+    "재즈_1": "p310",
+    "버커니어스_1": "p311",
+    "마린즈_1": "p312"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62033,7 +62127,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 311,
+ "_seq": 313,
  "prospects": [
   "p260",
   "p279",
