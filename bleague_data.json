@@ -6978,7 +6978,7 @@
    "name": "칼레바",
    "team": "트레일 블레이저스",
    "pos": "2B",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 39,
    "number": "6",
    "debutSeason": 1,
@@ -12403,7 +12403,7 @@
    "subPositions": [
     "2B"
    ],
-   "form": ""
+   "form": "bad"
   },
   "p102": {
    "id": "p102",
@@ -12500,7 +12500,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p103": {
    "id": "p103",
@@ -15120,7 +15120,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": "good"
   },
   "p132": {
    "id": "p132",
@@ -19936,7 +19936,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p196": {
    "id": "p196",
@@ -20168,7 +20168,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p200": {
    "id": "p200",
@@ -20283,7 +20283,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p202": {
    "id": "p202",
