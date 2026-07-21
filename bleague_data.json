@@ -62088,6 +62088,36 @@
     {
      "name": "MIP",
      "playerId": "p215"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p125",
+     "detail": "남부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p131",
+     "detail": "동부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p84",
+     "detail": "북부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p176",
+     "detail": "서부"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p163",
+     "detail": "P"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p233",
+     "detail": "C"
     }
    ],
    "awardsNote": ""
