@@ -24499,6 +24499,94 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p283": {
+   "id": "p283",
+   "name": "에이브라함",
+   "team": "이글즈",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "성실함",
+    "천재",
+    "운동능력"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "호타준족",
+   "strengths": [
+    "갭",
+    "주루",
+    "수비 안정성"
+   ],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p284": {
+   "id": "p284",
+   "name": "험프리",
+   "team": "에스트로너츠",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "승부욕",
+    "천재"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "갭",
+    "컨택"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -55905,7 +55993,9 @@
     "다이너마이트_1": "p279",
     "챌린저스_1": "p280",
     "다이노스_1": "p281",
-    "세이버스_1": "p282"
+    "세이버스_1": "p282",
+    "이글즈_1": "p283",
+    "에스트로너츠_1": "p284"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56177,7 +56267,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 283,
+ "_seq": 285,
  "prospects": [
   "p260",
   "p244",
