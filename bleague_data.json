@@ -52028,11 +52028,32 @@
       "p105",
       "p104",
       "p84"
+     ],
+     "ROOKIE": [
+      "p203",
+      "p216",
+      "p210"
      ]
     },
     "potmBat": "p176",
     "potmPit": "p105",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p259",
+      "note": "",
+      "months": 3
+     },
+     {
+      "playerId": "p83",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p61",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
