@@ -52115,11 +52115,55 @@
     "potmPit": "p104",
     "injuries": [
      {
-      "playerId": "",
+      "playerId": "p113",
+      "note": "",
+      "months": 3
+     },
+     {
+      "playerId": "p141",
       "note": "",
       "months": 1
+     },
+     {
+      "playerId": "p185",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p93",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p95",
+      "note": "",
+      "months": 2
      }
     ]
+   },
+   "6": {
+    "standings": [
+     "워리어스",
+     "스틸러스",
+     "프린스",
+     "트레일 블레이저스",
+     "다이노스",
+     "재즈",
+     "데빌스",
+     "마린즈",
+     "타이거즈",
+     "에스트로너츠",
+     "버커니어스",
+     "라이언즈",
+     "챌린저스",
+     "다이너마이트",
+     "이글즈",
+     "세이버스"
+    ],
+    "races": {},
+    "potmBat": "p98",
+    "potmPit": "",
+    "injuries": []
    }
   },
   "offseason": [
