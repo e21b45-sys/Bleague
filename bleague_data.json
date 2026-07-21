@@ -13267,14 +13267,14 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p106": {
    "id": "p106",
    "name": "베나세르",
    "team": "재즈",
    "pos": "SP",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 31,
    "number": "10",
    "debutSeason": 8,
@@ -13361,7 +13361,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p107": {
    "id": "p107",
@@ -13858,7 +13858,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p112": {
    "id": "p112",
@@ -15274,7 +15274,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p127": {
    "id": "p127",
@@ -15974,7 +15974,7 @@
    "name": "요아힘",
    "team": "챌린저스",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 30,
    "number": "16",
    "debutSeason": 10,
@@ -16054,7 +16054,7 @@
      "note": "손"
     }
    ],
-   "form": ""
+   "form": "bad"
   },
   "p136": {
    "id": "p136",
@@ -16137,7 +16137,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p137": {
    "id": "p137",
@@ -16855,7 +16855,7 @@
      "note": "햄스트링"
     }
    ],
-   "form": ""
+   "form": "injury"
   },
   "p145": {
    "id": "p145",
@@ -17051,7 +17051,7 @@
      "note": "팔"
     }
    ],
-   "form": "good"
+   "form": "bad"
   },
   "p147": {
    "id": "p147",
@@ -18579,7 +18579,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p165": {
    "id": "p165",
@@ -18885,7 +18885,7 @@
    "name": "커즌스",
    "team": "스틸러스",
    "pos": "3B",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 28,
    "number": "18",
    "debutSeason": 13,
@@ -18955,7 +18955,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p170": {
    "id": "p170",
@@ -19320,7 +19320,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p175": {
    "id": "p175",
@@ -19717,7 +19717,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p181": {
    "id": "p181",
@@ -22163,7 +22163,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "injury"
   },
   "p217": {
    "id": "p217",
@@ -22455,7 +22455,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p222": {
    "id": "p222",
