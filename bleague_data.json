@@ -25383,10 +25383,10 @@
    "name": "려즈완",
    "team": "프린스",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "14",
+   "debutSeason": 18,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -26681,7 +26681,7 @@
   "스틸러스": 190,
   "재즈": 120,
   "세이버스": 105,
-  "버커니어스": 100
+  "버커니어스": 170
  },
  "history": {
   "1": {
@@ -61865,10 +61865,10 @@
    "base": 50,
    "invest": 0,
    "game": 10,
-   "merch": 30,
-   "po": 0,
-   "fin": 0,
-   "champ": 0,
+   "merch": 40,
+   "po": 30,
+   "fin": 20,
+   "champ": 10,
    "tv": 10
   }
  }
