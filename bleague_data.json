@@ -9228,7 +9228,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": "injury"
   },
   "p75": {
    "id": "p75",
@@ -9960,7 +9960,7 @@
    "name": "팀",
    "team": "프린스",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 36,
    "number": "20",
    "debutSeason": 2,
@@ -10064,7 +10064,7 @@
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p82": {
    "id": "p82",
@@ -14797,7 +14797,7 @@
    "injuries": [],
    "role": "3선발",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p128": {
    "id": "p128",
@@ -18379,7 +18379,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p173": {
    "id": "p173",
@@ -25350,6 +25350,50 @@
     {
      "season": 17,
      "team": "라이언즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p302": {
+   "id": "p302",
+   "name": "마르셀리",
+   "team": "마린즈",
+   "pos": "RP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "팀플레이어",
+    "대기만성"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "기교형",
+   "strengths": [
+    "구위",
+    "좌우 상대"
+   ],
+   "weaknesses": [
+    "구속"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -56779,7 +56823,8 @@
     "세이버스_2": "p298",
     "이글즈_2": "p299",
     "에스트로너츠_2": "p300",
-    "라이언즈_2": "p301"
+    "라이언즈_2": "p301",
+    "마린즈_2": "p302"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -57051,7 +57096,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 302,
+ "_seq": 303,
  "prospects": [
   "p260",
   "p244",
