@@ -6986,7 +6986,7 @@
    "id": "p54",
    "name": "칼레바",
    "team": "트레일 블레이저스",
-   "pos": "2B",
+   "pos": "1B",
    "tier": "서브",
    "age": 39,
    "number": "6",
@@ -7097,10 +7097,11 @@
    "hof": null,
    "injuries": [],
    "titlesManual": 0,
-   "role": "7번",
+   "role": "8번",
    "subPositions": [
     "SS",
-    "3B"
+    "3B",
+    "2B"
    ],
    "form": "bad"
   },
@@ -8879,7 +8880,7 @@
      "note": "허벅지"
     }
    ],
-   "role": "5번",
+   "role": "6번",
    "subPositions": [],
    "form": "bad"
   },
@@ -11394,7 +11395,7 @@
      "note": "허벅지"
     }
    ],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "form": "bad"
   },
@@ -12593,7 +12594,7 @@
      "note": "허벅지"
     }
    ],
-   "role": "1번",
+   "role": "2번",
    "subPositions": [],
    "form": "bad"
   },
@@ -14193,7 +14194,7 @@
      "note": "어깨"
     }
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "form": ""
   },
@@ -15425,7 +15426,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "7번",
    "subPositions": [
     "3B"
    ],
@@ -16558,7 +16559,7 @@
    "weaknesses": [
     "위기관리"
    ],
-   "role": "3선발",
+   "role": "1선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -17691,7 +17692,7 @@
     "제구",
     "위기관리"
    ],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -19176,7 +19177,7 @@
    "weaknesses": [
     "수비 안정성"
    ],
-   "role": "2번",
+   "role": "3번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -19428,7 +19429,7 @@
    "pos": "2B",
    "tier": "레귤러",
    "age": 29,
-   "number": "2",
+   "number": "4",
    "debutSeason": 12,
    "debutHalf": "전반기",
    "trait": "",
@@ -19838,7 +19839,7 @@
     "제구",
     "이닝"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -20464,7 +20465,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "3번",
+   "role": "5번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -20705,7 +20706,7 @@
     "구위",
     "제구"
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -22344,7 +22345,7 @@
     "구위",
     "제구"
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -23553,7 +23554,7 @@
    "weaknesses": [
     "위기관리"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
