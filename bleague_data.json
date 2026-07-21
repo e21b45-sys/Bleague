@@ -9014,7 +9014,7 @@
    "name": "코스타",
    "team": "트레일 블레이저스",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 38,
    "number": "4",
    "debutSeason": 1,
@@ -12861,7 +12861,7 @@
    "name": "켄트",
    "team": "트레일 블레이저스",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 32,
    "number": "10",
    "debutSeason": 6,
@@ -12955,7 +12955,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p103": {
    "id": "p103",
@@ -13060,7 +13060,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p104": {
    "id": "p104",
@@ -13569,7 +13569,7 @@
    "subPositions": [
     "1B"
    ],
-   "form": ""
+   "form": "injury"
   },
   "p109": {
    "id": "p109",
@@ -14444,7 +14444,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p118": {
    "id": "p118",
@@ -14627,7 +14627,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p120": {
    "id": "p120",
@@ -15105,7 +15105,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p125": {
    "id": "p125",
@@ -17439,7 +17439,7 @@
      "note": "사타구니"
     }
    ],
-   "form": "good"
+   "form": ""
   },
   "p152": {
    "id": "p152",
@@ -21145,7 +21145,7 @@
    "name": "러커트",
    "team": "트레일 블레이저스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 27,
    "number": "8",
    "debutSeason": 15,
@@ -21200,7 +21200,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p202": {
    "id": "p202",
@@ -22726,7 +22726,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "injury"
   },
   "p226": {
    "id": "p226",
@@ -23145,7 +23145,7 @@
    "name": "휘트",
    "team": "트레일 블레이저스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "14",
    "debutSeason": 17,
@@ -23170,7 +23170,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
