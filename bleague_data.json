@@ -24857,6 +24857,53 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p291": {
+   "id": "p291",
+   "name": "포르티스",
+   "team": "타이거즈",
+   "pos": "2B",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "트러블메이커",
+    "낙천적",
+    "클러치"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "파워",
+    "송구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "타이거즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -56266,12 +56313,12 @@
     "세이버스_1": "p282",
     "에스트로너츠_1": "p284",
     "라이언즈_1": "p285",
-    "마린즈_1": "p286",
     "프린스_1": "p287",
     "버커니어스_1": "p283",
     "이글즈_1": "p288",
     "재즈_1": "p289",
-    "트레일 블레이저스_1": "p290"
+    "트레일 블레이저스_1": "p290",
+    "타이거즈_1": "p291"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56543,7 +56590,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 291,
+ "_seq": 292,
  "prospects": [
   "p260",
   "p244",
