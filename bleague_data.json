@@ -16818,7 +16818,7 @@
   "p151": {
    "id": "p151",
    "name": "칼리엔도",
-   "team": "트레일 블레이저스",
+   "team": "데빌스",
    "pos": "SP",
    "tier": "엘리트",
    "age": 25,
@@ -16847,8 +16847,8 @@
    "draftRound": null,
    "contract": {
     "startSeason": 17,
-    "endSeason": 23,
-    "total": 10,
+    "endSeason": 24,
+    "total": 240,
     "options": []
    },
    "contractHistory": [],
@@ -16882,6 +16882,10 @@
     {
      "season": 16,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 17,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -17687,7 +17691,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 23,
+    "total": 140,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -21844,7 +21853,7 @@
   "p225": {
    "id": "p225",
    "name": "라이즈",
-   "team": "데빌스",
+   "team": "트레일 블레이저스",
    "pos": "2B",
    "tier": "코어",
    "age": 25,
@@ -21897,6 +21906,10 @@
     {
      "season": 16,
      "team": "데빌스"
+    },
+    {
+     "season": 17,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -57500,6 +57513,13 @@
  "live": {
   "season": 17,
   "months": {
+   "8": {
+    "standings": [],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   },
    "10": {
     "standings": [],
     "races": {},
@@ -57671,6 +57691,20 @@
     "to": "데빌스",
     "total": 75,
     "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p151",
+    "from": "트레일 블레이저스",
+    "to": "데빌스",
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p225",
+    "from": "데빌스",
+    "to": "트레일 블레이저스",
     "applied": true
    }
   ]
