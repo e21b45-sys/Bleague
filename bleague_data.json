@@ -54828,7 +54828,20 @@
     "subs": [],
     "note": ""
    },
-   "awards": [],
+   "awards": [
+    {
+     "name": "MVP",
+     "playerId": "p202"
+    },
+    {
+     "name": "BP",
+     "playerId": "p104"
+    },
+    {
+     "name": "BRP",
+     "playerId": "p141"
+    }
+   ],
    "awardsNote": ""
   }
  },
