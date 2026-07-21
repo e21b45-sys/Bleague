@@ -52292,20 +52292,67 @@
      "데빌스",
      "재즈",
      "프린스",
+     "라이언즈",
      "다이노스",
      "마린즈",
      "버커니어스",
-     "라이언즈",
      "에스트로너츠",
      "이글즈",
-     "챌린저스",
      "다이너마이트",
+     "챌린저스",
      "세이버스"
     ],
-    "races": {},
-    "potmBat": "",
-    "potmPit": "",
-    "injuries": []
+    "races": {
+     "MVP": [
+      "p176",
+      "p202",
+      "p146"
+     ],
+     "BP": [
+      "p104",
+      "p131",
+      "p75"
+     ],
+     "ROOKIE": [
+      "p203",
+      "p210",
+      "p215"
+     ]
+    },
+    "potmBat": "p202",
+    "potmPit": "p75",
+    "injuries": [
+     {
+      "playerId": "p200",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p254",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p18",
+      "note": "",
+      "months": 4
+     },
+     {
+      "playerId": "p77",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
