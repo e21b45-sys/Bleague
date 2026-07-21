@@ -27951,6 +27951,50 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p331": {
+   "id": "p331",
+   "name": "킬로매",
+   "team": "마린즈",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "분위기 메이커",
+    "트러블메이커"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "주루"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "마린즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -62687,7 +62731,8 @@
     "버커니어스_2": "p327",
     "마린즈_2": "p328",
     "트레일 블레이저스_2": "p329",
-    "프린스_2": "p330"
+    "프린스_2": "p330",
+    "데빌스_2": "p331"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62974,7 +63019,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 331,
+ "_seq": 332,
  "prospects": [
   "p260",
   "p279",
