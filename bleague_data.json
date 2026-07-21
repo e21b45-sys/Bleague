@@ -52343,16 +52343,50 @@
       "months": 1
      },
      {
-      "playerId": "",
+      "playerId": "p107",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p166",
       "note": "",
       "months": 1
      },
      {
-      "playerId": "",
+      "playerId": "p163",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p145",
       "note": "",
       "months": 1
      }
     ]
+   },
+   "10": {
+    "standings": [
+     "워리어스",
+     "스틸러스",
+     "데빌스",
+     "타이거즈",
+     "트레일 블레이저스",
+     "재즈",
+     "버커니어스",
+     "프린스",
+     "마린즈",
+     "라이언즈",
+     "다이노스",
+     "에스트로너츠",
+     "이글즈",
+     "다이너마이트",
+     "챌린저스",
+     "세이버스"
+    ],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
    }
   },
   "offseason": [
