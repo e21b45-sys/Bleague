@@ -13088,7 +13088,7 @@
    "id": "p108",
    "name": "아데보",
    "team": "트레일 블레이저스",
-   "pos": "1B",
+   "pos": "DH",
    "tier": "코어",
    "age": 30,
    "number": "18",
@@ -13182,7 +13182,9 @@
     }
    ],
    "role": "4번",
-   "subPositions": [],
+   "subPositions": [
+    "1B"
+   ],
    "form": ""
   },
   "p109": {
@@ -19156,7 +19158,7 @@
    "weaknesses": [
     "수비 안정성"
    ],
-   "role": "",
+   "role": "2번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
