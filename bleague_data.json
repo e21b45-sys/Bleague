@@ -58001,8 +58001,32 @@
       "pos": "유격"
      },
      {
-      "playerId": "",
+      "playerId": "p162",
       "pos": "외야"
+     },
+     {
+      "playerId": "p126",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p117",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p144",
+      "pos": "지명"
+     },
+     {
+      "playerId": "p147",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p105",
+      "pos": "투수"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
      }
     ],
     "divFilter": [
