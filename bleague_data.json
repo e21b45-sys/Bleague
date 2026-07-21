@@ -10982,7 +10982,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p86": {
    "id": "p86",
@@ -13963,7 +13963,7 @@
    "name": "맥킨스트리",
    "team": "다이너마이트",
    "pos": "SS",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 30,
    "number": "7",
    "debutSeason": 8,
@@ -16312,7 +16312,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p139": {
    "id": "p139",
@@ -18443,7 +18443,7 @@
      "note": "손가락"
     }
    ],
-   "form": ""
+   "form": "good"
   },
   "p163": {
    "id": "p163",
@@ -19460,7 +19460,7 @@
    "name": "워커",
    "team": "다이너마이트",
    "pos": "3B",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 26,
    "number": "3",
    "debutSeason": 14,
@@ -20339,7 +20339,7 @@
    "weaknesses": [
     "제구"
    ],
-   "role": "셋업",
+   "role": "마무리",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -21795,7 +21795,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p211": {
    "id": "p211",
@@ -22045,7 +22045,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "injury"
   },
   "p215": {
    "id": "p215",
