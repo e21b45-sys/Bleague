@@ -57911,8 +57911,8 @@
       "p176"
      ],
      "BP": [
-      "p131",
       "p84",
+      "p131",
       "p75"
      ],
      "ROOKIE": [
@@ -57921,9 +57921,25 @@
       "p266"
      ]
     },
-    "potmBat": "",
-    "potmPit": "",
-    "injuries": []
+    "potmBat": "p215",
+    "potmPit": "p84",
+    "injuries": [
+     {
+      "playerId": "p86",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p225",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p80",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
