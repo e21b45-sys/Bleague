@@ -23942,10 +23942,10 @@
    "name": "짐머",
    "team": "에스트로너츠",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 22,
-   "number": "",
-   "debutSeason": null,
+   "number": "16",
+   "debutSeason": 18,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -23964,7 +23964,7 @@
    "weaknesses": [
     "이닝"
    ],
-   "role": "",
+   "role": "3선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -24653,10 +24653,10 @@
    "name": "페레즈",
    "team": "에스트로너츠",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "코어",
    "age": 20,
-   "number": "",
-   "debutSeason": null,
+   "number": "1",
+   "debutSeason": 18,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -24679,7 +24679,7 @@
     "제구",
     "위기관리"
    ],
-   "role": "",
+   "role": "1선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -25236,10 +25236,10 @@
    "name": "젠킨스",
    "team": "마린즈",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "28",
+   "debutSeason": 18,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -25257,7 +25257,7 @@
    "weaknesses": [
     "좌우 상대"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
