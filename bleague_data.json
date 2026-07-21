@@ -2272,7 +2272,7 @@
    "name": "에이튼",
    "team": "마린즈",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 40,
    "number": "11",
    "debutSeason": 1,
@@ -9350,7 +9350,7 @@
    "name": "토호루",
    "team": "마린즈",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 36,
    "number": "27",
    "debutSeason": 2,
@@ -10612,7 +10612,7 @@
    "name": "노아",
    "team": "다이노스",
    "pos": "RP",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 36,
    "number": "47",
    "debutSeason": 3,
@@ -10714,7 +10714,7 @@
    "injuries": [],
    "role": "마무리",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p87": {
    "id": "p87",
@@ -12091,7 +12091,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "good"
+   "form": "injury"
   },
   "p99": {
    "id": "p99",
@@ -14186,7 +14186,7 @@
     "1B",
     "SS"
    ],
-   "form": "good"
+   "form": ""
   },
   "p121": {
    "id": "p121",
@@ -15533,9 +15533,9 @@
   "p137": {
    "id": "p137",
    "name": "포드휘튼",
-   "team": "FA",
+   "team": "다이노스",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 28,
    "number": "5",
    "debutSeason": 11,
@@ -15601,6 +15601,10 @@
     },
     {
      "season": 16,
+     "team": "다이노스"
+    },
+    {
+     "season": 17,
      "team": "다이노스"
     }
    ],
@@ -20667,7 +20671,7 @@
    "name": "암스테드",
    "team": "다이노스",
    "pos": "RP",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 23,
    "number": "20",
    "debutSeason": 15,
@@ -57168,7 +57172,16 @@
     "injuries": []
    }
   },
-  "offseason": []
+  "offseason": [
+   {
+    "kind": "fa",
+    "playerId": "p137",
+    "to": "다이노스",
+    "total": 240,
+    "years": 8,
+    "applied": true
+   }
+  ]
  },
  "budgetParts": {
   "프린스": {
