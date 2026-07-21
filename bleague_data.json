@@ -57974,11 +57974,35 @@
   "allstar": {
    "teamA": {
     "name": "서북부",
-    "captain": "",
+    "captain": "p154",
     "members": [
      {
-      "playerId": "",
+      "playerId": "p154",
       "pos": "선발"
+     },
+     {
+      "playerId": "p41",
+      "pos": "포수"
+     },
+     {
+      "playerId": "p146",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p176",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p196",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p85",
+      "pos": "유격"
+     },
+     {
+      "playerId": "",
+      "pos": "외야"
      }
     ],
     "divFilter": [
