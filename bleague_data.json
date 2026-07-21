@@ -62143,6 +62143,36 @@
      "name": "골드글러브",
      "playerId": "p193",
      "detail": "OF"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p102",
+     "detail": "OF"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p159",
+     "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p149",
+     "detail": "C"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p92",
+     "detail": "1B"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p176",
+     "detail": "2B"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p125",
+     "detail": "3B"
     }
    ],
    "awardsNote": ""
