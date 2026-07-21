@@ -7820,7 +7820,7 @@
    "titlesManual": 0,
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p59": {
    "id": "p59",
@@ -9154,7 +9154,7 @@
    "name": "야누스",
    "team": "FA",
    "pos": "OF",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 37,
    "number": "3",
    "debutSeason": 2,
@@ -9272,7 +9272,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p73": {
    "id": "p73",
@@ -9931,7 +9931,7 @@
   "p78": {
    "id": "p78",
    "name": "아놀드",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
    "age": 39,
@@ -10036,6 +10036,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -10662,7 +10666,7 @@
    "injuries": [],
    "role": "5번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p84": {
    "id": "p84",
@@ -10853,7 +10857,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "injury"
+   "form": "good"
   },
   "p85": {
    "id": "p85",
@@ -11602,7 +11606,7 @@
    "name": "토모시",
    "team": "FA",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 36,
    "number": "13",
    "debutSeason": 4,
@@ -13769,7 +13773,7 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p111": {
    "id": "p111",
@@ -14155,7 +14159,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p115": {
    "id": "p115",
@@ -16862,7 +16866,7 @@
    "name": "트라우트먼",
    "team": "FA",
    "pos": "RP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 35,
    "number": "15",
    "debutSeason": 5,
@@ -18726,7 +18730,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": "good"
   },
   "p167": {
    "id": "p167",
@@ -19584,7 +19588,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p179": {
    "id": "p179",
@@ -20218,7 +20222,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p188": {
    "id": "p188",
@@ -20954,7 +20958,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p198": {
    "id": "p198",
@@ -21330,7 +21334,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p204": {
    "id": "p204",
@@ -22341,7 +22345,7 @@
    "name": "토마스",
    "team": "버커니어스",
    "pos": "RP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 26,
    "number": "29",
    "debutSeason": 16,
@@ -22389,7 +22393,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p221": {
    "id": "p221",
@@ -24918,7 +24922,7 @@
    "name": "나할",
    "team": "버커니어스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 23,
    "number": "12",
    "debutSeason": 17,
@@ -24942,7 +24946,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
