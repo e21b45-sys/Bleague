@@ -10294,7 +10294,7 @@
    "injuries": [],
    "role": "6번",
    "subPositions": [],
-   "form": ""
+   "form": "injury"
   },
   "p81": {
    "id": "p81",
@@ -10409,7 +10409,7 @@
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p82": {
    "id": "p82",
@@ -12749,7 +12749,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p101": {
    "id": "p101",
@@ -12854,7 +12854,7 @@
    "subPositions": [
     "2B"
    ],
-   "form": "bad"
+   "form": ""
   },
   "p102": {
    "id": "p102",
@@ -17517,7 +17517,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p153": {
    "id": "p153",
@@ -18366,7 +18366,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p162": {
    "id": "p162",
@@ -19255,7 +19255,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p174": {
    "id": "p174",
@@ -20829,7 +20829,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p196": {
    "id": "p196",
@@ -21989,7 +21989,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "injury"
   },
   "p214": {
    "id": "p214",
@@ -22052,7 +22052,7 @@
    "name": "장주",
    "team": "에스트로너츠",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 25,
    "number": "9",
    "debutSeason": 16,
@@ -23331,7 +23331,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "",
+   "form": "injury",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -23441,7 +23441,7 @@
    ],
    "role": "9번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
