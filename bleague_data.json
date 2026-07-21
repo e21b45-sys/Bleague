@@ -10785,7 +10785,7 @@
   "p87": {
    "id": "p87",
    "name": "헤네시",
-   "team": "FA",
+   "team": "워리어스",
    "pos": "SP",
    "tier": "코어",
    "age": 33,
@@ -10812,7 +10812,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 21,
+    "total": 75,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 10,
@@ -10879,6 +10884,10 @@
     {
      "season": 16,
      "team": "데빌스"
+    },
+    {
+     "season": 17,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -15292,7 +15301,7 @@
   "p133": {
    "id": "p133",
    "name": "크로머",
-   "team": "FA",
+   "team": "타이거즈",
    "pos": "OF",
    "tier": "엘리트",
    "age": 28,
@@ -15317,7 +15326,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 23,
+    "total": 210,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -15353,6 +15367,10 @@
     {
      "season": 16,
      "team": "버커니어스"
+    },
+    {
+     "season": 17,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -57553,6 +57571,22 @@
     "to": "마린즈",
     "total": 20,
     "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p133",
+    "to": "타이거즈",
+    "total": 210,
+    "years": 7,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p87",
+    "to": "워리어스",
+    "total": 75,
+    "years": 5,
     "applied": true
    }
   ]
