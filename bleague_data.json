@@ -11303,7 +11303,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p92": {
    "id": "p92",
@@ -12800,7 +12800,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p106": {
    "id": "p106",
@@ -12890,7 +12890,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p107": {
    "id": "p107",
@@ -13554,7 +13554,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p114": {
    "id": "p114",
@@ -14642,7 +14642,7 @@
    "name": "클레만",
    "team": "스틸러스",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 30,
    "number": "8",
    "debutSeason": 8,
@@ -14715,7 +14715,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p127": {
    "id": "p127",
@@ -14963,7 +14963,7 @@
    "injuries": [],
    "role": "6번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p130": {
    "id": "p130",
@@ -15454,7 +15454,7 @@
      "note": "손"
     }
    ],
-   "form": "good"
+   "form": ""
   },
   "p136": {
    "id": "p136",
@@ -18457,7 +18457,7 @@
    "name": "세군",
    "team": "스틸러스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 26,
    "number": "5",
    "debutSeason": 15,
@@ -18511,7 +18511,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p175": {
    "id": "p175",
@@ -18698,7 +18698,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "good"
   },
   "p178": {
    "id": "p178",
@@ -19357,7 +19357,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p188": {
    "id": "p188",
@@ -21186,7 +21186,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p217": {
    "id": "p217",
@@ -21458,7 +21458,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p222": {
    "id": "p222",
