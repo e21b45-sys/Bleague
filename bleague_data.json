@@ -25084,6 +25084,97 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p296": {
+   "id": "p296",
+   "name": "코체트코프",
+   "team": "챌린저스",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "분위기 메이커",
+    "기복형",
+    "본헤드"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "뜬공형",
+   "strengths": [
+    "구속"
+   ],
+   "weaknesses": [
+    "변화구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "챌린저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p297": {
+   "id": "p297",
+   "name": "버포드",
+   "team": "다이너마이트",
+   "pos": "RP",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "유리몸",
+    "승부욕",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "탈삼진형",
+   "strengths": [
+    "구속",
+    "구위"
+   ],
+   "weaknesses": [
+    "제구",
+    "이닝",
+    "내구성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "다이너마이트"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -56503,7 +56594,9 @@
     "마린즈_1": "p292",
     "스틸러스_1": "p293",
     "워리어스_1": "p294",
-    "다이너마이트_2": "p295"
+    "다이너마이트_2": "p295",
+    "챌린저스_2": "p296",
+    "다이노스_2": "p297"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56775,7 +56868,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 296,
+ "_seq": 298,
  "prospects": [
   "p260",
   "p244",
