@@ -24636,7 +24636,7 @@
   "p286": {
    "id": "p286",
    "name": "뱅크스",
-   "team": "마린즈",
+   "team": "데빌스",
    "pos": "SP",
    "tier": "D리그",
    "age": 19,
@@ -24672,7 +24672,7 @@
    "teamHistory": [
     {
      "season": 17,
-     "team": "마린즈"
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -24900,6 +24900,97 @@
     {
      "season": 17,
      "team": "타이거즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p292": {
+   "id": "p292",
+   "name": "캘커테라",
+   "team": "마린즈",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "빅게임 헌터",
+    "프로",
+    "슬럼프"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "제구형",
+   "strengths": [
+    "제구",
+    "구위"
+   ],
+   "weaknesses": [
+    "구속"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "마린즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p293": {
+   "id": "p293",
+   "name": "라파엘라",
+   "team": "스틸러스",
+   "pos": "C",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "올드스쿨",
+    "꾸준함",
+    "유리멘탈"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "송구",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "파워",
+    "주루"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -56318,7 +56409,10 @@
     "이글즈_1": "p288",
     "재즈_1": "p289",
     "트레일 블레이저스_1": "p290",
-    "타이거즈_1": "p291"
+    "타이거즈_1": "p291",
+    "데빌스_1": "p286",
+    "마린즈_1": "p292",
+    "스틸러스_1": "p293"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56590,7 +56684,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 292,
+ "_seq": 294,
  "prospects": [
   "p260",
   "p244",
