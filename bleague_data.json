@@ -10485,7 +10485,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": "injury"
   },
   "p85": {
    "id": "p85",
@@ -12601,7 +12601,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "injury"
+   "form": ""
   },
   "p104": {
    "id": "p104",
@@ -14554,7 +14554,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p125": {
    "id": "p125",
@@ -16976,7 +16976,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p155": {
    "id": "p155",
@@ -19531,7 +19531,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p190": {
    "id": "p190",
@@ -21658,7 +21658,7 @@
    "name": "라이즈",
    "team": "데빌스",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 25,
    "number": "26",
    "debutSeason": 14,
@@ -21711,7 +21711,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p226": {
    "id": "p226",
