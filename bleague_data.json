@@ -9112,7 +9112,7 @@
   "p76": {
    "id": "p76",
    "name": "토호루",
-   "team": "이글즈",
+   "team": "마린즈",
    "pos": "SP",
    "tier": "코어",
    "age": 35,
@@ -9139,7 +9139,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 18,
+    "total": 60,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 7,
@@ -9215,7 +9220,7 @@
     },
     {
      "season": 16,
-     "team": "이글즈"
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -15174,7 +15179,7 @@
   "p138": {
    "id": "p138",
    "name": "카브레라",
-   "team": "트레일 블레이저스",
+   "team": "다이너마이트",
    "pos": "C",
    "tier": "코어",
    "age": 26,
@@ -15202,7 +15207,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 25,
+    "total": 280,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -15234,6 +15244,10 @@
     {
      "season": 15,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 16,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -16958,7 +16972,7 @@
   "p160": {
    "id": "p160",
    "name": "크림슨",
-   "team": "다이너마이트",
+   "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "코어",
    "age": 26,
@@ -17012,6 +17026,10 @@
     {
      "season": 15,
      "team": "다이너마이트"
+    },
+    {
+     "season": 16,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -52173,6 +52191,28 @@
     "playerId": "p225",
     "from": "마린즈",
     "to": "데빌스",
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p76",
+    "to": "마린즈",
+    "total": 60,
+    "years": 3,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p138",
+    "from": "트레일 블레이저스",
+    "to": "다이너마이트",
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p160",
+    "from": "다이너마이트",
+    "to": "트레일 블레이저스",
     "applied": true
    }
   ]
