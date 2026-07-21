@@ -9235,7 +9235,7 @@
    "name": "아일린",
    "team": "타이거즈",
    "pos": "SP",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 35,
    "number": "11",
    "debutSeason": 2,
@@ -15561,7 +15561,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 24,
+    "total": 240,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -17883,7 +17888,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p166": {
    "id": "p166",
@@ -18812,7 +18817,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p180": {
    "id": "p180",
