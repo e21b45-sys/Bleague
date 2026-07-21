@@ -26940,6 +26940,96 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p309": {
+   "id": "p309",
+   "name": "이캄",
+   "team": "다이노스",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "팀플레이어",
+    "꾸준함",
+    "슬럼프"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "뜬공형",
+   "strengths": [
+    "구속"
+   ],
+   "weaknesses": [
+    "변화구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "다이노스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p310": {
+   "id": "p310",
+   "name": "실러",
+   "team": "재즈",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "루틴 집착",
+    "로열티",
+    "새가슴"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "주루",
+    "송구"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "재즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -61654,7 +61744,9 @@
     "이글즈_1": "p305",
     "에스트로너츠_1": "p306",
     "스틸러스_1": "p307",
-    "세이버스_1": "p308"
+    "세이버스_1": "p308",
+    "다이노스_1": "p309",
+    "재즈_1": "p310"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -61941,7 +62033,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 309,
+ "_seq": 311,
  "prospects": [
   "p260",
   "p279",
