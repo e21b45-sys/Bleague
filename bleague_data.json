@@ -15880,7 +15880,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 25,
+    "total": 350,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
