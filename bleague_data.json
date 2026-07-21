@@ -27995,6 +27995,97 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p332": {
+   "id": "p332",
+   "name": "케일리",
+   "team": "라이언즈",
+   "pos": "RP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "기복형",
+    "새가슴",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "무브먼트형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "좌우 상대"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "라이언즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p333": {
+   "id": "p333",
+   "name": "아마리",
+   "team": "이글즈",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "본헤드",
+    "유리멘탈",
+    "이기적",
+    "성실함"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "수비 범위",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "파워",
+    "갭"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -62732,7 +62823,9 @@
     "마린즈_2": "p328",
     "트레일 블레이저스_2": "p329",
     "프린스_2": "p330",
-    "데빌스_2": "p331"
+    "데빌스_2": "p331",
+    "라이언즈_2": "p332",
+    "타이거즈_2": "p333"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -63019,7 +63112,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 332,
+ "_seq": 334,
  "prospects": [
   "p260",
   "p279",
