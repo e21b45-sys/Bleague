@@ -52441,16 +52441,71 @@
   ],
   "allstar": {
    "teamA": {
-    "name": "",
-    "captain": "",
-    "members": [],
-    "divFilter": []
+    "name": "남서부",
+    "captain": "p104",
+    "members": [
+     {
+      "playerId": "p104",
+      "pos": "선발"
+     },
+     {
+      "playerId": "p109",
+      "pos": "포수"
+     },
+     {
+      "playerId": "p158",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p176",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p196",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p85",
+      "pos": "유격"
+     },
+     {
+      "playerId": "p98",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p162",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p124",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p144",
+      "pos": "지명"
+     },
+     {
+      "playerId": "p137",
+      "pos": "투수"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
+     }
+    ],
+    "divFilter": [
+     "남부",
+     "서부"
+    ]
    },
    "teamB": {
-    "name": "",
+    "name": "북동부",
     "captain": "",
     "members": [],
-    "divFilter": []
+    "divFilter": [
+     "동부",
+     "북부"
+    ]
    },
    "result": {
     "teamAScore": null,
