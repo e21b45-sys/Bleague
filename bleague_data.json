@@ -15815,7 +15815,7 @@
    "pos": "SP",
    "tier": "컨텐더",
    "age": 26,
-   "number": "5",
+   "number": "1",
    "debutSeason": 10,
    "debutHalf": "후반기",
    "trait": "",
@@ -22258,7 +22258,7 @@
    "weaknesses": [
     "주루"
    ],
-   "role": "",
+   "role": "7번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
