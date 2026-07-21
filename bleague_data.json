@@ -54852,6 +54852,26 @@
     {
      "name": "MIP",
      "playerId": "p225"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p202",
+     "detail": "남부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p104",
+     "detail": "서부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p131",
+     "detail": "동부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p146",
+     "detail": "북부"
     }
    ],
    "awardsNote": ""
