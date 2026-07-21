@@ -8988,7 +8988,7 @@
   "p73": {
    "id": "p73",
    "name": "콜레로프",
-   "team": "FA",
+   "team": "마린즈",
    "pos": "C",
    "tier": "레귤러",
    "age": 36,
@@ -9014,7 +9014,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 18,
+    "total": 20,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 8,
@@ -9091,6 +9096,10 @@
     {
      "season": 16,
      "team": "타이거즈"
+    },
+    {
+     "season": 17,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -18289,7 +18298,7 @@
   "p171": {
    "id": "p171",
    "name": "코르테리엔",
-   "team": "FA",
+   "team": "라이언즈",
    "pos": "OF",
    "tier": "코어",
    "age": 27,
@@ -18318,7 +18327,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 22,
+    "total": 90,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -18350,6 +18364,10 @@
     {
      "season": 16,
      "team": "버커니어스"
+    },
+    {
+     "season": 17,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -57340,6 +57358,22 @@
     "to": "타이거즈",
     "total": 60,
     "years": 3,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p171",
+    "to": "라이언즈",
+    "total": 90,
+    "years": 6,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p73",
+    "to": "마린즈",
+    "total": 20,
+    "years": 2,
     "applied": true
    }
   ]
