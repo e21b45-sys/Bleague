@@ -52160,10 +52160,57 @@
      "이글즈",
      "세이버스"
     ],
-    "races": {},
+    "races": {
+     "MVP": [
+      "p98",
+      "p176",
+      "p146"
+     ],
+     "BP": [
+      "p104",
+      "p131",
+      "p137"
+     ],
+     "ROOKIE": [
+      "p203",
+      "p210",
+      "p197"
+     ]
+    },
     "potmBat": "p98",
-    "potmPit": "",
-    "injuries": []
+    "potmPit": "p131",
+    "injuries": [
+     {
+      "playerId": "p74",
+      "note": "",
+      "months": 4
+     },
+     {
+      "playerId": "p181",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p82",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p247",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p130",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p114",
+      "note": "",
+      "months": 2
+     }
+    ]
    }
   },
   "offseason": [
@@ -52391,7 +52438,28 @@
     "applied": true,
     "ret": []
    }
-  ]
+  ],
+  "allstar": {
+   "teamA": {
+    "name": "",
+    "captain": "",
+    "members": [],
+    "divFilter": []
+   },
+   "teamB": {
+    "name": "",
+    "captain": "",
+    "members": [],
+    "divFilter": []
+   },
+   "result": {
+    "teamAScore": null,
+    "teamBScore": null,
+    "mvpId": ""
+   },
+   "subs": [],
+   "note": ""
+  }
  },
  "budgetParts": {
   "프린스": {
