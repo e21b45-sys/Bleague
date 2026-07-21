@@ -26663,6 +26663,56 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p303": {
+   "id": "p303",
+   "name": "클레이",
+   "team": "다이너마이트",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 17,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "트래쉬 토커",
+    "승부욕",
+    "머니캐쳐",
+    "천재",
+    "이기적"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속",
+    "구위"
+   ],
+   "weaknesses": [
+    "제구",
+    "위기관리",
+    "내구성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "다이너마이트"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -61371,7 +61421,9 @@
     "타이거즈",
     "워리어스"
    ],
-   "picks": {},
+   "picks": {
+    "다이너마이트_1": "p303"
+   },
    "pickOwners": {
     "워리어스_2": "챌린저스",
     "워리어스_3": "챌린저스",
@@ -61657,7 +61709,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 303,
+ "_seq": 304,
  "prospects": [
   "p260",
   "p279",
