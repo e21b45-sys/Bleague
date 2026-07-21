@@ -27122,6 +27122,98 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p313": {
+   "id": "p313",
+   "name": "브래디",
+   "team": "트레일 블레이저스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "리더",
+    "BQ",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "제구형",
+   "strengths": [
+    "제구",
+    "위기관리"
+   ],
+   "weaknesses": [
+    "구속"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p314": {
+   "id": "p314",
+   "name": "호프만 Jr",
+   "team": "타이거즈",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "리더",
+    "BQ",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정통파형",
+   "strengths": [
+    "구속",
+    "구위",
+    "제구"
+   ],
+   "weaknesses": [
+    "변화구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "타이거즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -61840,7 +61932,9 @@
     "다이노스_1": "p309",
     "재즈_1": "p310",
     "버커니어스_1": "p311",
-    "마린즈_1": "p312"
+    "마린즈_1": "p312",
+    "트레일 블레이저스_1": "p313",
+    "프린스_1": "p314"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62127,7 +62221,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 313,
+ "_seq": 315,
  "prospects": [
   "p260",
   "p279",
