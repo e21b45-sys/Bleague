@@ -15730,7 +15730,7 @@
   "p139": {
    "id": "p139",
    "name": "클라우디오",
-   "team": "FA",
+   "team": "프린스",
    "pos": "SP",
    "tier": "컨텐더",
    "age": 26,
@@ -15761,7 +15761,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 24,
+    "total": 280,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -15797,6 +15802,10 @@
     {
      "season": 16,
      "team": "재즈"
+    },
+    {
+     "season": 17,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -15806,7 +15815,7 @@
   "p141": {
    "id": "p141",
    "name": "어니스트",
-   "team": "FA",
+   "team": "타이거즈",
    "pos": "RP",
    "tier": "엘리트",
    "age": 33,
@@ -15834,7 +15843,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 19,
+    "total": 60,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 12,
@@ -15893,6 +15907,10 @@
     {
      "season": 16,
      "team": "데빌스"
+    },
+    {
+     "season": 17,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -57007,7 +57025,10 @@
     "다이노스_3": "다이너마이트",
     "다이노스_4": "다이너마이트",
     "데빌스_2": "마린즈",
-    "데빌스_4": "마린즈"
+    "데빌스_4": "마린즈",
+    "프린스_2": "이글즈",
+    "프린스_5": "이글즈",
+    "프린스_6": "이글즈"
    },
    "penalties": {}
   },
@@ -57303,6 +57324,22 @@
     "playerId": "p81",
     "from": "프린스",
     "to": "이글즈",
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p139",
+    "to": "프린스",
+    "total": 280,
+    "years": 8,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p141",
+    "to": "타이거즈",
+    "total": 60,
+    "years": 3,
     "applied": true
    }
   ]
