@@ -2398,7 +2398,7 @@
     }
    ],
    "titlesManual": 0,
-   "role": "3선발",
+   "role": "5선발",
    "subPositions": [],
    "form": "bad"
   },
@@ -11945,7 +11945,7 @@
    "id": "p97",
    "name": "벤달",
    "team": "에스트로너츠",
-   "pos": "SS",
+   "pos": "3B",
    "tier": "레귤러",
    "age": 34,
    "number": "23",
@@ -12042,7 +12042,9 @@
     }
    ],
    "role": "6번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "form": ""
   },
   "p98": {
@@ -16971,7 +16973,7 @@
    "pos": "SP",
    "tier": "코어",
    "age": 25,
-   "number": "13",
+   "number": "8",
    "debutSeason": 14,
    "debutHalf": "후반기",
    "trait": "",
@@ -16993,7 +16995,7 @@
     "이닝",
     "위기관리"
    ],
-   "role": "2선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -21396,7 +21398,7 @@
     "수비 안정성",
     "파워"
    ],
-   "role": "6번",
+   "role": "7번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -22356,7 +22358,7 @@
     "주루",
     "수비 범위"
    ],
-   "role": "",
+   "role": "5번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -22559,7 +22561,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "9번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
