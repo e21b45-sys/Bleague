@@ -27676,6 +27676,97 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p325": {
+   "id": "p325",
+   "name": "트리스탄",
+   "team": "에스트로너츠",
+   "pos": "2B",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "팀플레이어",
+    "분위기 메이커",
+    "낙천적"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "주루형",
+   "strengths": [
+    "주루",
+    "컨택",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p326": {
+   "id": "p326",
+   "name": "케이타",
+   "team": "재즈",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "유리몸",
+    "천재",
+    "빌런"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "출루형",
+   "strengths": [
+    "선구안",
+    "주루"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "재즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -62406,7 +62497,9 @@
     "이글즈_2": "p321",
     "에스트로너츠_2": "p322",
     "스틸러스_2": "p323",
-    "세이버스_2": "p324"
+    "세이버스_2": "p324",
+    "다이노스_2": "p325",
+    "재즈_2": "p326"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62693,7 +62786,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 325,
+ "_seq": 327,
  "prospects": [
   "p260",
   "p279",
