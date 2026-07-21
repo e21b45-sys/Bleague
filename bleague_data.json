@@ -10256,7 +10256,7 @@
    "id": "p83",
    "name": "세티안",
    "team": "타이거즈",
-   "pos": "OF",
+   "pos": "DH",
    "tier": "코어",
    "age": 36,
    "number": "70",
@@ -21504,7 +21504,7 @@
    "weaknesses": [
     "구위"
    ],
-   "role": "",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -23471,7 +23471,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "7번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
