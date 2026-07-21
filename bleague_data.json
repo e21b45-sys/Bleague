@@ -58025,7 +58025,11 @@
       "pos": "투수"
      },
      {
-      "playerId": "",
+      "playerId": "p104",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p210",
       "pos": "투수"
      }
     ],
@@ -58036,8 +58040,45 @@
    },
    "teamB": {
     "name": "남동부",
-    "captain": "",
-    "members": [],
+    "captain": "p131",
+    "members": [
+     {
+      "playerId": "p131",
+      "pos": "선발"
+     },
+     {
+      "playerId": "p233",
+      "pos": "포수"
+     },
+     {
+      "playerId": "p92",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p112",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p125",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p114",
+      "pos": "유격"
+     },
+     {
+      "playerId": "p165",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p202",
+      "pos": "외야"
+     },
+     {
+      "playerId": "",
+      "pos": "외야"
+     }
+    ],
     "divFilter": [
      "동부",
      "남부"
