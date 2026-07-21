@@ -8737,7 +8737,7 @@
   "p71": {
    "id": "p71",
    "name": "코스타",
-   "team": "FA",
+   "team": "트레일 블레이저스",
    "pos": "C",
    "tier": "코어",
    "age": 37,
@@ -8765,7 +8765,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 18,
+    "total": 30,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 7,
@@ -8846,6 +8851,10 @@
     {
      "season": 16,
      "team": "챌린저스"
+    },
+    {
+     "season": 17,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -16903,7 +16912,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 24,
+    "total": 160,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -21863,7 +21877,7 @@
   "p226": {
    "id": "p226",
    "name": "허핀",
-   "team": "FA",
+   "team": "에스트로너츠",
    "pos": "1B",
    "tier": "레귤러",
    "age": 28,
@@ -21893,7 +21907,12 @@
    "form": "",
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 21,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -21929,6 +21948,10 @@
     {
      "season": 16,
      "team": "이글즈"
+    },
+    {
+     "season": 17,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -57586,6 +57609,22 @@
     "playerId": "p87",
     "to": "워리어스",
     "total": 75,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p71",
+    "to": "트레일 블레이저스",
+    "total": 30,
+    "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p226",
+    "to": "에스트로너츠",
+    "total": 50,
     "years": 5,
     "applied": true
    }
