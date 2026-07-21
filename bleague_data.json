@@ -27543,6 +27543,94 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p322": {
+   "id": "p322",
+   "name": "나바레즈",
+   "team": "에스트로너츠",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "승부욕",
+    "4차원",
+    "천재",
+    "나태함"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "변칙형",
+   "strengths": [
+    "변화구",
+    "좌우 상대",
+    "구속"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "에스트로너츠"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p323": {
+   "id": "p323",
+   "name": "더글라스",
+   "team": "스틸러스",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "BQ",
+    "천재",
+    "4차원",
+    "새가슴"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "스틸러스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -62270,7 +62358,9 @@
     "워리어스_1": "p318",
     "다이너마이트_2": "p319",
     "챌린저스_2": "p320",
-    "이글즈_2": "p321"
+    "이글즈_2": "p321",
+    "에스트로너츠_2": "p322",
+    "스틸러스_2": "p323"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62557,7 +62647,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 322,
+ "_seq": 324,
  "prospects": [
   "p260",
   "p279",
