@@ -24706,10 +24706,10 @@
    "name": "사르",
    "team": "이글즈",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 20,
-   "number": "",
-   "debutSeason": null,
+   "number": "80",
+   "debutSeason": 18,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -24726,7 +24726,7 @@
    "weaknesses": [
     "제구"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -24753,10 +24753,10 @@
    "name": "바그너",
    "team": "이글즈",
    "pos": "OF",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 22,
-   "number": "",
-   "debutSeason": null,
+   "number": "7",
+   "debutSeason": 18,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -24774,7 +24774,7 @@
    "weaknesses": [
     "수비 안정성"
    ],
-   "role": "",
+   "role": "2번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -25993,10 +25993,10 @@
    "name": "오션",
    "team": "이글즈",
    "pos": "RP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "36",
+   "debutSeason": 18,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -26015,7 +26015,7 @@
     "구속",
     "좌우 상대"
    ],
-   "role": "",
+   "role": "추격조",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -26491,7 +26491,7 @@
    "name": "게일",
    "team": "이글즈",
    "pos": "SS",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 19,
    "number": "",
    "debutSeason": null,
