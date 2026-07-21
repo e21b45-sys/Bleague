@@ -54840,6 +54840,18 @@
     {
      "name": "BRP",
      "playerId": "p141"
+    },
+    {
+     "name": "ROOKIE",
+     "playerId": "p203"
+    },
+    {
+     "name": "POTY",
+     "playerId": "p104"
+    },
+    {
+     "name": "MIP",
+     "playerId": "p225"
     }
    ],
    "awardsNote": ""
