@@ -27631,6 +27631,51 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p324": {
+   "id": "p324",
+   "name": "파웰",
+   "team": "세이버스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "BQ",
+    "나태함"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "땅볼형",
+   "strengths": [
+    "구속",
+    "경기운영",
+    "이닝"
+   ],
+   "weaknesses": [
+    "제구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "세이버스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -62360,7 +62405,8 @@
     "챌린저스_2": "p320",
     "이글즈_2": "p321",
     "에스트로너츠_2": "p322",
-    "스틸러스_2": "p323"
+    "스틸러스_2": "p323",
+    "세이버스_2": "p324"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62647,7 +62693,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 324,
+ "_seq": 325,
  "prospects": [
   "p260",
   "p279",
