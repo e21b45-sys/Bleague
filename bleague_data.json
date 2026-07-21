@@ -52383,10 +52383,57 @@
      "세이버스",
      "다이너마이트"
     ],
-    "races": {},
+    "races": {
+     "MVP": [
+      "p202",
+      "p176",
+      "p146"
+     ],
+     "BP": [
+      "p104",
+      "p131",
+      "p75"
+     ],
+     "ROOKIE": [
+      "p203",
+      "p210",
+      "p215"
+     ]
+    },
     "potmBat": "p202",
-    "potmPit": "",
-    "injuries": []
+    "potmPit": "p130",
+    "injuries": [
+     {
+      "playerId": "p252",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p41",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p178",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p76",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p115",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p214",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
