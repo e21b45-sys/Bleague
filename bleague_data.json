@@ -54872,6 +54872,21 @@
      "name": "플레티넘볼",
      "playerId": "p146",
      "detail": "북부"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p127",
+     "detail": "P"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p99",
+     "detail": "C"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p101",
+     "detail": "1B"
     }
    ],
    "awardsNote": ""
