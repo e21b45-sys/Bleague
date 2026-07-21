@@ -676,7 +676,7 @@
   "p6": {
    "id": "p6",
    "name": "폴츠",
-   "team": "FA",
+   "team": "재즈",
    "pos": "RP",
    "tier": "레귤러",
    "age": 37,
@@ -701,7 +701,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 17,
+    "total": 20,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 7,
@@ -793,6 +798,10 @@
     {
      "season": 15,
      "team": "워리어스"
+    },
+    {
+     "season": 16,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -19322,7 +19331,7 @@
   "p197": {
    "id": "p197",
    "name": "올리바레스",
-   "team": "다이너마이트",
+   "team": "버커니어스",
    "pos": "SS",
    "tier": "레귤러",
    "age": 21,
@@ -19367,6 +19376,10 @@
     {
      "season": 15,
      "team": "다이너마이트"
+    },
+    {
+     "season": 16,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -20866,7 +20879,7 @@
   "p225": {
    "id": "p225",
    "name": "라이즈",
-   "team": "마린즈",
+   "team": "데빌스",
    "pos": "SS",
    "tier": "레귤러",
    "age": 24,
@@ -20913,6 +20926,10 @@
     {
      "season": 15,
      "team": "마린즈"
+    },
+    {
+     "season": 16,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -52133,6 +52150,28 @@
     "to": "세이버스",
     "total": 50,
     "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p6",
+    "to": "재즈",
+    "total": 20,
+    "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p197",
+    "from": "다이너마이트",
+    "to": "버커니어스",
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p225",
+    "from": "마린즈",
+    "to": "데빌스",
     "applied": true
    }
   ]
