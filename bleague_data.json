@@ -24356,6 +24356,57 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p280": {
+   "id": "p280",
+   "name": "에르난데스",
+   "team": "챌린저스",
+   "pos": "1B",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "이기적",
+    "유리몸",
+    "운동능력",
+    "낙천적",
+    "분위기 메이커",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "거포형",
+   "strengths": [
+    "파워",
+    "갭",
+    "컨택"
+   ],
+   "weaknesses": [
+    "주루",
+    "수비 안정성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "챌린저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -55758,7 +55809,10 @@
     "스틸러스",
     "워리어스"
    ],
-   "picks": {},
+   "picks": {
+    "다이너마이트_1": "p279",
+    "챌린저스_1": "p280"
+   },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
     "라이언즈_1": "버커니어스",
@@ -56029,7 +56083,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 280,
+ "_seq": 281,
  "prospects": [
   "p260",
   "p244",
@@ -56087,7 +56141,15 @@
  },
  "live": {
   "season": 17,
-  "months": {},
+  "months": {
+   "10": {
+    "standings": [],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   }
+  },
   "offseason": []
  },
  "budgetParts": {
