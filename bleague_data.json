@@ -62118,6 +62118,31 @@
      "name": "골드글러브",
      "playerId": "p233",
      "detail": "C"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p226",
+     "detail": "1B"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p194",
+     "detail": "2B"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p97",
+     "detail": "3B"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p239",
+     "detail": "SS"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p193",
+     "detail": "OF"
     }
    ],
    "awardsNote": ""
