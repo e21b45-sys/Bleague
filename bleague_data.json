@@ -9962,7 +9962,7 @@
   "p81": {
    "id": "p81",
    "name": "팀",
-   "team": "프린스",
+   "team": "이글즈",
    "pos": "SP",
    "tier": "코어",
    "age": 36,
@@ -10062,6 +10062,10 @@
     {
      "season": 16,
      "team": "프린스"
+    },
+    {
+     "season": 17,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -10321,7 +10325,7 @@
   "p84": {
    "id": "p84",
    "name": "히로",
-   "team": "워리어스",
+   "team": "FA",
    "pos": "SP",
    "tier": "컨텐더",
    "age": 35,
@@ -10350,32 +10354,37 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 14,
-    "endSeason": 16,
-    "total": 185,
-    "options": [
-     {
-      "type": "옵트아웃",
-      "actor": "선수 옵션",
-      "after": 16,
-      "extSalary": null
-     },
-     {
-      "type": "계약 연장",
-      "actor": "팀 옵션",
-      "after": 18,
-      "extSalary": 70,
-      "extYears": 2
-     }
-    ]
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 9,
      "endSeason": 13,
      "total": 170,
      "options": []
+    },
+    {
+     "startSeason": 14,
+     "endSeason": 16,
+     "total": 111,
+     "annual": 37,
+     "years": 3,
+     "team": "워리어스",
+     "ctype": "FA",
+     "options": [
+      {
+       "type": "옵트아웃",
+       "actor": "선수 옵션",
+       "after": 16,
+       "extSalary": null
+      },
+      {
+       "type": "계약 연장",
+       "actor": "팀 옵션",
+       "after": 18,
+       "extSalary": 70,
+       "extYears": 2
+      }
+     ]
     }
    ],
    "awards": [],
@@ -10436,6 +10445,10 @@
     {
      "season": 16,
      "team": "워리어스"
+    },
+    {
+     "season": 17,
+     "team": "FA"
     }
    ],
    "hof": null,
@@ -57283,6 +57296,13 @@
     "to": "다이노스",
     "total": 240,
     "years": 8,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p81",
+    "from": "프린스",
+    "to": "이글즈",
     "applied": true
    }
   ]
