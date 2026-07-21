@@ -13800,7 +13800,7 @@
   "p121": {
    "id": "p121",
    "name": "캐논",
-   "team": "FA",
+   "team": "세이버스",
    "pos": "SS",
    "tier": "레귤러",
    "age": 31,
@@ -13826,7 +13826,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 16,
+    "endSeason": 20,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 11,
@@ -13885,6 +13890,10 @@
     {
      "season": 15,
      "team": "데빌스"
+    },
+    {
+     "season": 16,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -52116,6 +52125,14 @@
     "to": "마린즈",
     "total": 20,
     "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p121",
+    "to": "세이버스",
+    "total": 50,
+    "years": 5,
     "applied": true
    }
   ]
