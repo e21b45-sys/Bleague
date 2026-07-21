@@ -54966,6 +54966,26 @@
     {
      "name": "홈런",
      "playerId": "p146"
+    },
+    {
+     "name": "타율",
+     "playerId": "p202"
+    },
+    {
+     "name": "출루율",
+     "playerId": "p176"
+    },
+    {
+     "name": "장타율",
+     "playerId": "p202"
+    },
+    {
+     "name": "도루",
+     "playerId": "p176"
+    },
+    {
+     "name": "타점",
+     "playerId": "p146"
     }
    ],
    "awardsNote": ""
