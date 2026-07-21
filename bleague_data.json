@@ -57742,7 +57742,7 @@
       "months": 1
      },
      {
-      "playerId": "",
+      "playerId": "p169",
       "note": "",
       "months": 1
      }
@@ -57970,7 +57970,39 @@
     "to": "다이노스",
     "applied": true
    }
-  ]
+  ],
+  "allstar": {
+   "teamA": {
+    "name": "서북부",
+    "captain": "",
+    "members": [
+     {
+      "playerId": "",
+      "pos": "선발"
+     }
+    ],
+    "divFilter": [
+     "서부",
+     "북부"
+    ]
+   },
+   "teamB": {
+    "name": "남동부",
+    "captain": "",
+    "members": [],
+    "divFilter": [
+     "동부",
+     "남부"
+    ]
+   },
+   "result": {
+    "teamAScore": null,
+    "teamBScore": null,
+    "mvpId": ""
+   },
+   "subs": [],
+   "note": ""
+  }
  },
  "budgetParts": {
   "프린스": {
