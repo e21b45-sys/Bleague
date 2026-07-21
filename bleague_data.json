@@ -21968,7 +21968,7 @@
    "tier": "레귤러",
    "age": 23,
    "number": "30",
-   "debutSeason": null,
+   "debutSeason": 17,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -62252,7 +62252,90 @@
      "playerId": "p84"
     }
    ],
-   "awardsNote": ""
+   "awardsNote": "",
+   "teamNotes": {
+    "워리어스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "타이거즈": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "라이언즈": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "데빌스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "프린스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "트레일 블레이저스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "마린즈": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "버커니어스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "재즈": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "다이노스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "스틸러스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "세이버스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "다이너마이트": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "에스트로너츠": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "이글즈": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    },
+    "챌린저스": {
+     "coreMembers": [],
+     "evaluation": "",
+     "changes": ""
+    }
+   },
+   "posters": {}
   }
  },
  "hofRounds": 3,
