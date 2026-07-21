@@ -23735,8 +23735,8 @@
    "pos": "OF",
    "tier": "레귤러",
    "age": 22,
-   "number": "",
-   "debutSeason": null,
+   "number": "12",
+   "debutSeason": 17,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -25036,6 +25036,50 @@
     {
      "season": 17,
      "team": "챌린저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p295": {
+   "id": "p295",
+   "name": "조던",
+   "team": "다이너마이트",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "성실함",
+    "승부욕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "주루"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -56458,7 +56502,8 @@
     "데빌스_1": "p286",
     "마린즈_1": "p292",
     "스틸러스_1": "p293",
-    "워리어스_1": "p294"
+    "워리어스_1": "p294",
+    "다이너마이트_2": "p295"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56730,7 +56775,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 295,
+ "_seq": 296,
  "prospects": [
   "p260",
   "p244",
