@@ -27214,6 +27214,90 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p315": {
+   "id": "p315",
+   "name": "샤크",
+   "team": "데빌스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "프로",
+    "유리몸",
+    "낙천적"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속",
+    "구위"
+   ],
+   "weaknesses": [
+    "제구",
+    "위기관리",
+    "내구성",
+    "경기운영"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "데빌스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p316": {
+   "id": "p316",
+   "name": "클락",
+   "team": "라이언즈",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "라이언즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -61934,7 +62018,8 @@
     "버커니어스_1": "p311",
     "마린즈_1": "p312",
     "트레일 블레이저스_1": "p313",
-    "프린스_1": "p314"
+    "프린스_1": "p314",
+    "데빌스_1": "p315"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62221,7 +62306,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 315,
+ "_seq": 317,
  "prospects": [
   "p260",
   "p279",
