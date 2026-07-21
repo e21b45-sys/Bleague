@@ -13370,7 +13370,7 @@
    "name": "우즈",
    "team": "마린즈",
    "pos": "2B",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 30,
    "number": "2",
    "debutSeason": 8,
@@ -17624,7 +17624,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p162": {
    "id": "p162",
@@ -20599,7 +20599,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p207": {
    "id": "p207",
@@ -21083,7 +21083,7 @@
    "name": "장주",
    "team": "에스트로너츠",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "9",
    "debutSeason": 16,
@@ -21133,7 +21133,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p216": {
    "id": "p216",
