@@ -52096,24 +52096,30 @@
     ],
     "races": {
      "MVP": [
+      "p98",
       "p176",
-      "p180",
-      "p124"
+      "p146"
      ],
      "BP": [
       "p104",
       "p74",
-      "p84"
+      "p131"
      ],
      "ROOKIE": [
       "p203",
-      "p216",
-      "p210"
+      "p210",
+      "p197"
      ]
     },
     "potmBat": "p196",
     "potmPit": "p104",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
