@@ -9653,7 +9653,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p76": {
    "id": "p76",
@@ -12155,7 +12155,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "injury"
+   "form": ""
   },
   "p96": {
    "id": "p96",
@@ -13462,7 +13462,7 @@
    ],
    "role": "5번",
    "subPositions": [],
-   "form": "injury"
+   "form": ""
   },
   "p108": {
    "id": "p108",
@@ -14252,7 +14252,7 @@
    ],
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p116": {
    "id": "p116",
@@ -15190,7 +15190,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p126": {
    "id": "p126",
@@ -16397,7 +16397,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p141": {
    "id": "p141",
@@ -18014,7 +18014,7 @@
    "name": "앨퍼드",
    "team": "프린스",
    "pos": "1B",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 33,
    "number": "2",
    "debutSeason": 7,
@@ -18113,7 +18113,7 @@
      "note": "질병"
     }
    ],
-   "form": ""
+   "form": "bad"
   },
   "p159": {
    "id": "p159",
@@ -19107,7 +19107,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p172": {
    "id": "p172",
@@ -19189,7 +19189,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p173": {
    "id": "p173",
@@ -20961,7 +20961,7 @@
    "name": "도널드",
    "team": "라이언즈",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 25,
    "number": "19",
    "debutSeason": 16,
@@ -21014,7 +21014,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p199": {
    "id": "p199",
@@ -22598,7 +22598,7 @@
      "note": "등"
     }
    ],
-   "form": ""
+   "form": "injury"
   },
   "p224": {
    "id": "p224",
@@ -23090,7 +23090,7 @@
    "name": "토레이라",
    "team": "프린스",
    "pos": "C",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 22,
    "number": "6",
    "debutSeason": 17,
@@ -23116,7 +23116,7 @@
    ],
    "role": "7번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
