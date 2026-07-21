@@ -52543,8 +52543,28 @@
       "pos": "외야"
      },
      {
-      "playerId": "",
+      "playerId": "p180",
       "pos": "외야"
+     },
+     {
+      "playerId": "p61",
+      "pos": "지명"
+     },
+     {
+      "playerId": "p132",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p106",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p151",
+      "pos": "투수"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
      }
     ],
     "divFilter": [
