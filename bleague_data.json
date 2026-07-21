@@ -24587,6 +24587,96 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p285": {
+   "id": "p285",
+   "name": "베르흐게르",
+   "team": "버커니어스",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "유리몸",
+    "성실함",
+    "루틴 집착"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "컨택",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "버커니어스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p286": {
+   "id": "p286",
+   "name": "뱅크스",
+   "team": "마린즈",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "천재",
+    "나태함",
+    "머니캐쳐"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속",
+    "이닝"
+   ],
+   "weaknesses": [
+    "제구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "마린즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -55995,7 +56085,9 @@
     "다이노스_1": "p281",
     "세이버스_1": "p282",
     "이글즈_1": "p283",
-    "에스트로너츠_1": "p284"
+    "에스트로너츠_1": "p284",
+    "라이언즈_1": "p285",
+    "마린즈_1": "p286"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56267,7 +56359,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 285,
+ "_seq": 287,
  "prospects": [
   "p260",
   "p244",
