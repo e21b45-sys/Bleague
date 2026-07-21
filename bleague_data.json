@@ -27812,6 +27812,98 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p328": {
+   "id": "p328",
+   "name": "유리아스",
+   "team": "마린즈",
+   "pos": "2B",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "클러치",
+    "빅게임 헌터",
+    "성실함"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "송구",
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "마린즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p329": {
+   "id": "p329",
+   "name": "시지카스",
+   "team": "트레일 블레이저스",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "본헤드",
+    "새가슴",
+    "승부욕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "갭",
+    "선구안"
+   ],
+   "weaknesses": [
+    "주루",
+    "수비 안정성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -62545,7 +62637,9 @@
     "세이버스_2": "p324",
     "다이노스_2": "p325",
     "재즈_2": "p326",
-    "버커니어스_2": "p327"
+    "버커니어스_2": "p327",
+    "마린즈_2": "p328",
+    "트레일 블레이저스_2": "p329"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62832,7 +62926,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 328,
+ "_seq": 330,
  "prospects": [
   "p260",
   "p279",
