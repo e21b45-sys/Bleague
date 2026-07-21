@@ -11417,7 +11417,7 @@
    "name": "테렐",
    "team": "라이언즈",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 35,
    "number": "14",
    "debutSeason": 4,
@@ -11730,7 +11730,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "bad"
+   "form": "injury"
   },
   "p96": {
    "id": "p96",
@@ -13278,7 +13278,7 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p111": {
    "id": "p111",
@@ -13739,7 +13739,7 @@
    ],
    "role": "2선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p116": {
    "id": "p116",
@@ -14472,7 +14472,7 @@
    "injuries": [],
    "role": "3번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p124": {
    "id": "p124",
@@ -14635,7 +14635,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p126": {
    "id": "p126",
@@ -17950,7 +17950,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "injury"
   },
   "p167": {
    "id": "p167",
