@@ -22037,9 +22037,9 @@
    "name": "토레이라",
    "team": "프린스",
    "pos": "C",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 21,
-   "number": "",
+   "number": "6",
    "debutSeason": null,
    "debutHalf": "전반기",
    "trait": "",
@@ -24991,6 +24991,51 @@
     {
      "season": 17,
      "team": "스틸러스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p294": {
+   "id": "p294",
+   "name": "무디",
+   "team": "챌린저스",
+   "pos": "RP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "클러치",
+    "승부욕",
+    "빌런"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "기교형",
+   "strengths": [
+    "구속",
+    "위기관리"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -56412,7 +56457,8 @@
     "타이거즈_1": "p291",
     "데빌스_1": "p286",
     "마린즈_1": "p292",
-    "스틸러스_1": "p293"
+    "스틸러스_1": "p293",
+    "워리어스_1": "p294"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56684,7 +56730,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 294,
+ "_seq": 295,
  "prospects": [
   "p260",
   "p244",
