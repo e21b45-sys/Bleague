@@ -9926,7 +9926,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p78": {
    "id": "p78",
@@ -10989,7 +10989,7 @@
    "name": "노아",
    "team": "다이노스",
    "pos": "RP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 37,
    "number": "47",
    "debutSeason": 3,
@@ -11095,7 +11095,7 @@
    "injuries": [],
    "role": "마무리",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p87": {
    "id": "p87",
@@ -11822,7 +11822,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p93": {
    "id": "p93",
@@ -13956,7 +13956,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p113": {
    "id": "p113",
@@ -14259,7 +14259,7 @@
    "name": "마셜",
    "team": "마린즈",
    "pos": "OF",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 29,
    "number": "10",
    "debutSeason": 8,
@@ -14353,7 +14353,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p117": {
    "id": "p117",
@@ -14533,7 +14533,7 @@
    "injuries": [],
    "role": "3번",
    "subPositions": [],
-   "form": "good"
+   "form": "bad"
   },
   "p119": {
    "id": "p119",
@@ -14719,7 +14719,7 @@
     "1B",
     "SS"
    ],
-   "form": ""
+   "form": "bad"
   },
   "p121": {
    "id": "p121",
@@ -15804,7 +15804,7 @@
      "note": "질병"
     }
    ],
-   "form": "good"
+   "form": ""
   },
   "p133": {
    "id": "p133",
@@ -15883,7 +15883,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p134": {
    "id": "p134",
@@ -16508,7 +16508,7 @@
      "note": "팔"
     }
    ],
-   "form": "good"
+   "form": ""
   },
   "p142": {
    "id": "p142",
@@ -17865,7 +17865,7 @@
      "note": "손목"
     }
    ],
-   "form": ""
+   "form": "bad"
   },
   "p157": {
    "id": "p157",
@@ -18510,7 +18510,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p164": {
    "id": "p164",
@@ -21734,7 +21734,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p210": {
    "id": "p210",
