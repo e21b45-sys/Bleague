@@ -58075,8 +58075,28 @@
       "pos": "외야"
      },
      {
-      "playerId": "",
+      "playerId": "p171",
       "pos": "외야"
+     },
+     {
+      "playerId": "p83",
+      "pos": "지명"
+     },
+     {
+      "playerId": "p137",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p75",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p115",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p166",
+      "pos": "투수"
      }
     ],
     "divFilter": [
@@ -58085,8 +58105,8 @@
     ]
    },
    "result": {
-    "teamAScore": null,
-    "teamBScore": null,
+    "teamAScore": 1,
+    "teamBScore": 4,
     "mvpId": ""
    },
    "subs": [],
