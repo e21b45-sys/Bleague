@@ -27447,6 +27447,102 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p320": {
+   "id": "p320",
+   "name": "리키",
+   "team": "챌린저스",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "이기적",
+    "승부욕",
+    "클러치",
+    "더티 플레이어",
+    "본헤드"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "제구형",
+   "strengths": [
+    "구속",
+    "구위"
+   ],
+   "weaknesses": [
+    "제구",
+    "경기운영"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "챌린저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p321": {
+   "id": "p321",
+   "name": "곽선웅",
+   "team": "이글즈",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "프로",
+    "성실함",
+    "팀플레이어",
+    "소극적"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "변화구형",
+   "strengths": [
+    "변화구",
+    "제구"
+   ],
+   "weaknesses": [
+    "구속",
+    "구위"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 18,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -62172,7 +62268,9 @@
     "라이언즈_1": "p316",
     "타이거즈_1": "p317",
     "워리어스_1": "p318",
-    "다이너마이트_2": "p319"
+    "다이너마이트_2": "p319",
+    "챌린저스_2": "p320",
+    "이글즈_2": "p321"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -62459,7 +62557,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 320,
+ "_seq": 322,
  "prospects": [
   "p260",
   "p279",
