@@ -54986,6 +54986,26 @@
     {
      "name": "타점",
      "playerId": "p146"
+    },
+    {
+     "name": "다승",
+     "playerId": "p104"
+    },
+    {
+     "name": "방어율",
+     "playerId": "p104"
+    },
+    {
+     "name": "삼진",
+     "playerId": "p104"
+    },
+    {
+     "name": "이닝",
+     "playerId": "p104"
+    },
+    {
+     "name": "세이브",
+     "playerId": "p141"
     }
    ],
    "awardsNote": ""
