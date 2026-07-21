@@ -24308,6 +24308,54 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p279": {
+   "id": "p279",
+   "name": "켈리",
+   "team": "다이너마이트",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "리더",
+    "꾸준함",
+    "팀플레이어",
+    "승부욕",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정통파형",
+   "strengths": [
+    "구속",
+    "구위",
+    "제구",
+    "변화구",
+    "내구성"
+   ],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "다이너마이트"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -55981,7 +56029,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 279,
+ "_seq": 280,
  "prospects": [
   "p260",
   "p244",
