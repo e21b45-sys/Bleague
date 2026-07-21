@@ -57705,17 +57705,48 @@
      "BP": [
       "p131",
       "p75",
-      "p106"
+      "p105"
      ],
      "ROOKIE": [
-      "p234",
       "p233",
+      "p234",
       "p266"
      ]
     },
     "potmBat": "p202",
     "potmPit": "p147",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p237",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p253",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p207",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p111",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p247",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "8": {
     "standings": [],
