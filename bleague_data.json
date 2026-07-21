@@ -24677,6 +24677,51 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p287": {
+   "id": "p287",
+   "name": "네일",
+   "team": "프린스",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "기복형",
+    "철강왕",
+    "4차원"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 17,
+     "team": "프린스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -56084,10 +56129,10 @@
     "챌린저스_1": "p280",
     "다이노스_1": "p281",
     "세이버스_1": "p282",
-    "이글즈_1": "p283",
     "에스트로너츠_1": "p284",
     "라이언즈_1": "p285",
-    "마린즈_1": "p286"
+    "마린즈_1": "p286",
+    "프린스_1": "p287"
    },
    "pickOwners": {
     "재즈_2": "에스트로너츠",
@@ -56359,7 +56404,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 287,
+ "_seq": 288,
  "prospects": [
   "p260",
   "p244",
