@@ -10334,7 +10334,7 @@
   "p84": {
    "id": "p84",
    "name": "히로",
-   "team": "FA",
+   "team": "버커니어스",
    "pos": "SP",
    "tier": "컨텐더",
    "age": 35,
@@ -10363,7 +10363,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 20,
+    "total": 80,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 9,
@@ -10457,7 +10462,7 @@
     },
     {
      "season": 17,
-     "team": "FA"
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -10520,7 +10525,7 @@
   "p85": {
    "id": "p85",
    "name": "에반",
-   "team": "FA",
+   "team": "워리어스",
    "pos": "SS",
    "tier": "엘리트",
    "age": 34,
@@ -10552,7 +10557,12 @@
    "weaknesses": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 19,
+    "total": 90,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 7,
@@ -10628,6 +10638,10 @@
     },
     {
      "season": 16,
+     "team": "워리어스"
+    },
+    {
+     "season": 17,
      "team": "워리어스"
     }
    ],
@@ -16523,7 +16537,7 @@
   "p148": {
    "id": "p148",
    "name": "러츠",
-   "team": "FA",
+   "team": "다이노스",
    "pos": "SP",
    "tier": "코어",
    "age": 30,
@@ -16548,7 +16562,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 21,
+    "total": 75,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -16580,6 +16599,10 @@
     {
      "season": 16,
      "team": "데빌스"
+    },
+    {
+     "season": 17,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -16881,7 +16904,7 @@
   "p153": {
    "id": "p153",
    "name": "트로이",
-   "team": "버커니어스",
+   "team": "마린즈",
    "pos": "SP",
    "tier": "코어",
    "age": 25,
@@ -16943,6 +16966,10 @@
     {
      "season": 16,
      "team": "버커니어스"
+    },
+    {
+     "season": 17,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -57374,6 +57401,37 @@
     "to": "마린즈",
     "total": 20,
     "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p148",
+    "to": "다이노스",
+    "total": 75,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p84",
+    "to": "버커니어스",
+    "total": 80,
+    "years": 4,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p85",
+    "to": "워리어스",
+    "total": 90,
+    "years": 3,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p153",
+    "from": "버커니어스",
+    "to": "마린즈",
     "applied": true
    }
   ]
