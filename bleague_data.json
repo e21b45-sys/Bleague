@@ -5289,7 +5289,7 @@
   "p41": {
    "id": "p41",
    "name": "올리",
-   "team": "FA",
+   "team": "챌린저스",
    "pos": "C",
    "tier": "레귤러",
    "age": 40,
@@ -5315,7 +5315,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 17,
+    "total": 10,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 5,
@@ -5410,6 +5415,10 @@
     {
      "season": 16,
      "team": "프린스"
+    },
+    {
+     "season": 17,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -17532,7 +17541,7 @@
   "p159": {
    "id": "p159",
    "name": "윌리엄스",
-   "team": "FA",
+   "team": "데빌스",
    "pos": "OF",
    "tier": "레귤러",
    "age": 31,
@@ -17562,7 +17571,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 21,
+    "total": 75,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 12,
@@ -17621,6 +17635,10 @@
     {
      "season": 16,
      "team": "다이노스"
+    },
+    {
+     "season": 17,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -57407,6 +57425,8 @@
  "_seq": 303,
  "prospects": [
   "p260",
+  "p279",
+  "p280",
   "p244",
   "p246",
   "p261",
@@ -57434,8 +57454,6 @@
   "p272",
   "p276",
   "p278",
-  "p279",
-  "p280",
   "p281",
   "p282",
   "p283",
@@ -57625,6 +57643,22 @@
     "playerId": "p226",
     "to": "에스트로너츠",
     "total": 50,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p41",
+    "to": "챌린저스",
+    "total": 10,
+    "years": 1,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p159",
+    "to": "데빌스",
+    "total": 75,
     "years": 5,
     "applied": true
    }
