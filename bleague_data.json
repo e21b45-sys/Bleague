@@ -24269,7 +24269,9 @@
     "수비 안정성"
    ],
    "role": "5번",
-   "subPositions": [],
+   "subPositions": [
+    "DH"
+   ],
    "form": "",
    "draftSeason": null,
    "draftRound": null,
