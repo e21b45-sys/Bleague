@@ -70087,12 +70087,25 @@
    {
     "playerId": "p34",
     "retired": true,
-    "note": ""
+    "note": "재즈의 소년"
    },
    {
     "playerId": "p157",
     "retired": false,
     "note": ""
+   }
+  ],
+  "세이버스": [],
+  "버커니어스": [
+   {
+    "playerId": "p58",
+    "retired": false,
+    "note": "돌아온 탕아"
+   },
+   {
+    "playerId": "p57",
+    "retired": true,
+    "note": "미스터 버커니어스"
    }
   ]
  }
