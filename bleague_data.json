@@ -19475,7 +19475,25 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 32,
+    "total": 450,
+    "options": [
+     {
+      "type": "옵트아웃",
+      "actor": "선수 옵션",
+      "after": 28,
+      "extSalary": null
+     },
+     {
+      "type": "옵트아웃",
+      "actor": "선수 옵션",
+      "after": 30,
+      "extSalary": null
+     }
+    ]
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
