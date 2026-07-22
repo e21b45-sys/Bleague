@@ -69957,11 +69957,43 @@
    },
    {
     "playerId": "p46",
+    "retired": true,
+    "note": "다이노스, 그리고 페네츠"
+   },
+   {
+    "playerId": "p49",
+    "retired": false,
+    "note": "다이노스에 의한, 다이노스를 위한"
+   }
+  ],
+  "마린즈": [
+   {
+    "playerId": "p9",
+    "retired": true,
+    "note": "리그 최고의 포수는, 오션 스타디움의 심장에 남는다"
+   },
+   {
+    "playerId": "p13",
     "retired": false,
     "note": ""
    },
    {
-    "playerId": "p49",
+    "playerId": "p10",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p8",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p76",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p60",
     "retired": false,
     "note": ""
    }
