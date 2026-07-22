@@ -67190,6 +67190,24 @@
      "name": "실버슬러거",
      "playerId": "p116",
      "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p133",
+     "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p93",
+     "detail": "DH"
+    },
+    {
+     "name": "홈런",
+     "playerId": "p165"
+    },
+    {
+     "name": "타율",
+     "playerId": "p116"
     }
    ],
    "awardsNote": "",
