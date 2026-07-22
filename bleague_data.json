@@ -30069,6 +30069,94 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p348": {
+   "id": "p348",
+   "name": "박현우",
+   "team": "워리어스",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "소극적",
+    "클러치"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "출루형",
+   "strengths": [
+    "선구안",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "워리어스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p349": {
+   "id": "p349",
+   "name": "와델",
+   "team": "라이언즈",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "꾸준함",
+    "루틴 집착"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택"
+   ],
+   "weaknesses": [
+    "파워",
+    "수비 범위"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "라이언즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -68843,7 +68931,9 @@
     "타이거즈_1": "p344",
     "스틸러스_1": "p345",
     "마린즈_1": "p346",
-    "데빌스_1": "p347"
+    "데빌스_1": "p347",
+    "워리어스_1": "p348",
+    "라이언즈_1": "p349"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -69089,7 +69179,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 348,
+ "_seq": 350,
  "prospects": [
   "p279",
   "p280",
