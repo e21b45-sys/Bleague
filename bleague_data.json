@@ -20211,7 +20211,7 @@
   "p186": {
    "id": "p186",
    "name": "마틴",
-   "team": "FA",
+   "team": "라이언즈",
    "pos": "2B",
    "tier": "레귤러",
    "age": 30,
@@ -20240,7 +20240,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 22,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -20276,6 +20281,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -63759,6 +63768,14 @@
     "playerId": "p86",
     "from": "다이노스",
     "to": "데빌스",
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p186",
+    "to": "라이언즈",
+    "total": 50,
+    "years": 5,
     "applied": true
    }
   ]
