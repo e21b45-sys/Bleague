@@ -70034,17 +70034,24 @@
    {
     "playerId": "p33",
     "retired": true,
-    "note": ""
+    "note": "영원한 리더"
    },
    {
     "playerId": "p29",
     "retired": true,
-    "note": ""
+    "note": "워리어스의 영원한 에이스"
    },
    {
     "playerId": "p30",
     "retired": true,
-    "note": ""
+    "note": "가을의 사나이"
+   }
+  ],
+  "다이너마이트": [
+   {
+    "playerId": "p50",
+    "retired": true,
+    "note": "미스터 미스테리어스"
    }
   ]
  }
