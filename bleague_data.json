@@ -67095,6 +67095,21 @@
      "name": "플레티넘볼",
      "playerId": "p74",
      "detail": "남부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p116",
+     "detail": "동부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p154",
+     "detail": "서부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p126",
+     "detail": "북부"
     }
    ],
    "awardsNote": "",
