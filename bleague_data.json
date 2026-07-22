@@ -9165,7 +9165,7 @@
      "note": "허벅지"
     }
    ],
-   "role": "6번",
+   "role": "",
    "subPositions": [],
    "form": "bad"
   },
@@ -13025,7 +13025,7 @@
      "note": "허벅지"
     }
    ],
-   "role": "2번",
+   "role": "9번",
    "subPositions": [],
    "form": ""
   },
@@ -24080,7 +24080,7 @@
    "weaknesses": [
     "송구"
    ],
-   "role": "",
+   "role": "2번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -25343,7 +25343,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "8번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
