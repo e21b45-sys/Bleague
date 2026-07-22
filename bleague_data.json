@@ -14341,7 +14341,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": ""
+   "form": "injury"
   },
   "p112": {
    "id": "p112",
@@ -17352,7 +17352,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p144": {
    "id": "p144",
@@ -19303,7 +19303,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p165": {
    "id": "p165",
@@ -19623,7 +19623,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "injury"
   },
   "p169": {
    "id": "p169",
@@ -22914,7 +22914,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p213": {
    "id": "p213",
@@ -23548,7 +23548,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p223": {
    "id": "p223",
@@ -24056,7 +24056,7 @@
    ],
    "role": "5선발",
    "subPositions": [],
-   "form": "",
+   "form": "injury",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -24803,7 +24803,7 @@
    "name": "베넷",
    "team": "세이버스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 22,
    "number": "11",
    "debutSeason": 18,
@@ -24828,7 +24828,7 @@
    ],
    "role": "4선발",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -25754,7 +25754,7 @@
    "subPositions": [
     "SP"
    ],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -26083,7 +26083,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -26502,7 +26502,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -26953,10 +26953,10 @@
    "name": "코난",
    "team": "세이버스",
    "pos": "3B",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "24",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
