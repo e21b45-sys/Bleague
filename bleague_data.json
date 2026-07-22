@@ -14911,7 +14911,7 @@
   "p122": {
    "id": "p122",
    "name": "워맥",
-   "team": "FA",
+   "team": "프린스",
    "pos": "RP",
    "tier": "레귤러",
    "age": 32,
@@ -14937,7 +14937,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 19,
+    "total": 20,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 13,
@@ -14992,6 +14997,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -63725,6 +63734,14 @@
     "kind": "fa",
     "playerId": "p145",
     "to": "재즈",
+    "total": 20,
+    "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p122",
+    "to": "프린스",
     "total": 20,
     "years": 2,
     "applied": true
