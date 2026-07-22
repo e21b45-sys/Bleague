@@ -29887,6 +29887,97 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p344": {
+   "id": "p344",
+   "name": "장하오",
+   "team": "타이거즈",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "성실함",
+    "프로",
+    "올드스쿨",
+    "소극적"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "수비 안정성",
+    "주루"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "타이거즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p345": {
+   "id": "p345",
+   "name": "카스틸",
+   "team": "스틸러스",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "4차원",
+    "본헤드"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택",
+    "갭"
+   ],
+   "weaknesses": [
+    "파워",
+    "수비 안정성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "스틸러스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -68657,7 +68748,8 @@
     "이글즈_1": "p340",
     "세이버스_1": "p341",
     "에스트로너츠_1": "p342",
-    "트레일 블레이저스_1": "p343"
+    "트레일 블레이저스_1": "p343",
+    "타이거즈_1": "p344"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -68903,7 +68995,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 344,
+ "_seq": 346,
  "prospects": [
   "p279",
   "p280",
