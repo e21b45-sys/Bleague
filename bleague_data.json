@@ -10881,7 +10881,7 @@
    "name": "세티안",
    "team": "다이너마이트",
    "pos": "DH",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 38,
    "number": "70",
    "debutSeason": 3,
@@ -12685,7 +12685,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p97": {
    "id": "p97",
@@ -14548,7 +14548,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p114": {
    "id": "p114",
@@ -25115,7 +25115,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -25978,7 +25978,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "",
+   "form": "injury",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -27715,7 +27715,7 @@
    ],
    "role": "추격조",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -28674,7 +28674,7 @@
    "name": "굿윈",
    "team": "워리어스",
    "pos": "OF",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 20,
    "number": "",
    "debutSeason": null,
