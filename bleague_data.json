@@ -63979,17 +63979,23 @@
      "BP": [
       "p74",
       "p154",
-      "p75"
+      "p95"
      ],
      "ROOKIE": [
       "p260",
-      "p212",
-      "p262"
+      "p262",
+      "p240"
      ]
     },
     "potmBat": "p171",
     "potmPit": "p151",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "9": {
     "standings": [],
