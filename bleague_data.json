@@ -18017,7 +18017,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p151": {
    "id": "p151",
@@ -20467,7 +20467,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p180": {
    "id": "p180",
@@ -23936,7 +23936,7 @@
    "weaknesses": [
     "구위"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -27886,10 +27886,10 @@
    "name": "스미스",
    "team": "라이언즈",
    "pos": "OF",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "16",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -28582,7 +28582,7 @@
    "name": "클락",
    "team": "라이언즈",
    "pos": "OF",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 20,
    "number": "",
    "debutSeason": null,
@@ -29315,10 +29315,10 @@
    "name": "케일리",
    "team": "라이언즈",
    "pos": "RP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 22,
-   "number": "",
-   "debutSeason": null,
+   "number": "30",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -29336,7 +29336,7 @@
    "weaknesses": [
     "좌우 상대"
    ],
-   "role": "",
+   "role": "추격조",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
