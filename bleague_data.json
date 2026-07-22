@@ -29937,7 +29937,7 @@
   "p345": {
    "id": "p345",
    "name": "카스틸",
-   "team": "스틸러스",
+   "team": "트레일 블레이저스",
    "pos": "OF",
    "tier": "D리그",
    "age": 19,
@@ -29973,7 +29973,54 @@
    "teamHistory": [
     {
      "season": 19,
-     "team": "스틸러스"
+     "team": "트레일 블레이저스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p346": {
+   "id": "p346",
+   "name": "니코",
+   "team": "마린즈",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "성실함",
+    "유리멘탈",
+    "트래쉬 토커"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "수비형",
+   "strengths": [
+    "수비 범위",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "파워",
+    "갭",
+    "선구안"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -68749,7 +68796,9 @@
     "세이버스_1": "p341",
     "에스트로너츠_1": "p342",
     "트레일 블레이저스_1": "p343",
-    "타이거즈_1": "p344"
+    "타이거즈_1": "p344",
+    "스틸러스_1": "p345",
+    "마린즈_1": "p346"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -68995,7 +69044,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 346,
+ "_seq": 347,
  "prospects": [
   "p279",
   "p280",
