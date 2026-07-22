@@ -64100,8 +64100,8 @@
      "워리어스",
      "데빌스",
      "마린즈",
-     "타이거즈",
      "스틸러스",
+     "타이거즈",
      "트레일 블레이저스",
      "에스트로너츠",
      "세이버스",
@@ -64112,10 +64112,57 @@
      "챌린저스",
      "재즈"
     ],
-    "races": {},
-    "potmBat": "",
-    "potmPit": "",
-    "injuries": []
+    "races": {
+     "MVP": [
+      "p74",
+      "p165",
+      "p133"
+     ],
+     "BP": [
+      "p74",
+      "p154",
+      "p95"
+     ],
+     "ROOKIE": [
+      "p260",
+      "p262",
+      "p244"
+     ]
+    },
+    "potmBat": "p262",
+    "potmPit": "p166",
+    "injuries": [
+     {
+      "playerId": "p223",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p181",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p263",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p169",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p168",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p99",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
