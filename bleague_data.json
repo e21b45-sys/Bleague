@@ -16734,7 +16734,7 @@
   "p143": {
    "id": "p143",
    "name": "미들턴",
-   "team": "FA",
+   "team": "세이버스",
    "pos": "OF",
    "tier": "레귤러",
    "age": 35,
@@ -16760,7 +16760,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 19,
+    "total": 20,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 12,
@@ -16837,6 +16842,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -19505,7 +19514,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 25,
+    "total": 10,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -63926,6 +63940,14 @@
     "to": "다이노스",
     "total": 30,
     "years": 3,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p143",
+    "to": "세이버스",
+    "total": 20,
+    "years": 2,
     "applied": true
    }
   ]
