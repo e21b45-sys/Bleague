@@ -11207,7 +11207,7 @@
    "name": "에반",
    "team": "워리어스",
    "pos": "SS",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 36,
    "number": "7",
    "debutSeason": 3,
@@ -11333,7 +11333,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p86": {
    "id": "p86",
@@ -11458,7 +11458,7 @@
    "name": "헤네시",
    "team": "워리어스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 35,
    "number": "11",
    "debutSeason": 4,
@@ -12332,7 +12332,7 @@
    "subPositions": [
     "OF"
    ],
-   "form": ""
+   "form": "good"
   },
   "p94": {
    "id": "p94",
@@ -13608,7 +13608,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": "bad"
   },
   "p105": {
    "id": "p105",
@@ -14132,7 +14132,7 @@
    "injuries": [],
    "role": "6번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p110": {
    "id": "p110",
@@ -20258,7 +20258,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p177": {
    "id": "p177",
@@ -21282,7 +21282,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p190": {
    "id": "p190",
@@ -21802,7 +21802,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p197": {
    "id": "p197",
@@ -22766,7 +22766,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p211": {
    "id": "p211",
@@ -27149,10 +27149,10 @@
    "name": "뱅크스",
    "team": "데빌스",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 21,
-   "number": "",
-   "debutSeason": null,
+   "number": "1",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -27171,7 +27171,7 @@
    "weaknesses": [
     "제구"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
