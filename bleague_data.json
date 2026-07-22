@@ -63743,6 +63743,30 @@
  "live": {
   "season": 18,
   "months": {
+   "4": {
+    "standings": [
+     "프린스",
+     "워리어스",
+     "마린즈",
+     "스틸러스",
+     "라이언즈",
+     "타이거즈",
+     "트레일 블레이저스",
+     "버커니어스",
+     "다이노스",
+     "에스트로너츠",
+     "이글즈",
+     "데빌스",
+     "다이너마이트",
+     "챌린저스",
+     "재즈",
+     "세이버스"
+    ],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   },
    "10": {
     "standings": [],
     "races": {},
@@ -63757,21 +63781,24 @@
     "playerId": "p119",
     "from": "데빌스",
     "to": "챌린저스",
-    "applied": true
+    "applied": true,
+    "ret": []
    },
    {
     "kind": "trade",
     "playerId": "p207",
     "from": "타이거즈",
     "to": "에스트로너츠",
-    "applied": true
+    "applied": true,
+    "ret": []
    },
    {
     "kind": "trade",
     "playerId": "p276",
     "from": "에스트로너츠",
     "to": "타이거즈",
-    "applied": true
+    "applied": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -63802,14 +63829,16 @@
     "playerId": "p230",
     "from": "버커니어스",
     "to": "세이버스",
-    "applied": true
+    "applied": true,
+    "ret": []
    },
    {
     "kind": "trade",
     "playerId": "p253",
     "from": "세이버스",
     "to": "버커니어스",
-    "applied": true
+    "applied": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -63864,7 +63893,8 @@
     "playerId": "p86",
     "from": "다이노스",
     "to": "데빌스",
-    "applied": true
+    "applied": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -63903,7 +63933,8 @@
     "playerId": "p162",
     "from": "워리어스",
     "to": "버커니어스",
-    "applied": true
+    "applied": true,
+    "ret": []
    },
    {
     "kind": "fa",
