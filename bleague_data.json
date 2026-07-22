@@ -13284,7 +13284,7 @@
    "subPositions": [
     "2B"
    ],
-   "form": ""
+   "form": "bad"
   },
   "p102": {
    "id": "p102",
@@ -16272,7 +16272,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p132": {
    "id": "p132",
@@ -25903,7 +25903,7 @@
    "name": "바그너",
    "team": "이글즈",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 23,
    "number": "7",
    "debutSeason": 18,
@@ -25926,7 +25926,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -26745,10 +26745,10 @@
    "name": "핸콕",
    "team": "이글즈",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 24,
-   "number": "",
-   "debutSeason": null,
+   "number": "22",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -28079,10 +28079,10 @@
    "name": "자이언",
    "team": "이글즈",
    "pos": "SS",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 21,
-   "number": "",
-   "debutSeason": null,
+   "number": "21",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -29359,7 +29359,7 @@
    "name": "아마리",
    "team": "이글즈",
    "pos": "OF",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 20,
    "number": "",
    "debutSeason": null,
