@@ -12799,7 +12799,7 @@
    "subPositions": [
     "SS"
    ],
-   "form": ""
+   "form": "bad"
   },
   "p98": {
    "id": "p98",
@@ -13175,7 +13175,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": "bad"
   },
   "p101": {
    "id": "p101",
@@ -21678,7 +21678,7 @@
    "name": "파스칼",
    "team": "에스트로너츠",
    "pos": "2B",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 27,
    "number": "7",
    "debutSeason": 15,
@@ -21735,7 +21735,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p196": {
    "id": "p196",
@@ -23102,7 +23102,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p216": {
    "id": "p216",
@@ -23692,7 +23692,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p225": {
    "id": "p225",
@@ -25056,7 +25056,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -25444,7 +25444,7 @@
    ],
    "role": "5번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -27838,10 +27838,10 @@
    "name": "해거티",
    "team": "에스트로너츠",
    "pos": "SS",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "18",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
