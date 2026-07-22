@@ -13615,7 +13615,7 @@
    "name": "킨로",
    "team": "스틸러스",
    "pos": "SP",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 33,
    "number": "12",
    "debutSeason": 7,
@@ -13717,7 +13717,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p106": {
    "id": "p106",
@@ -14248,7 +14248,7 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p111": {
    "id": "p111",
@@ -15827,7 +15827,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p127": {
    "id": "p127",
@@ -16187,7 +16187,7 @@
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p131": {
    "id": "p131",
@@ -17618,7 +17618,7 @@
    "name": "벌렌더",
    "team": "스틸러스",
    "pos": "1B",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 28,
    "number": "9",
    "debutSeason": 11,
@@ -19704,7 +19704,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p170": {
    "id": "p170",
@@ -22275,7 +22275,7 @@
    "name": "저스틴",
    "team": "스틸러스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 26,
    "number": "6",
    "debutSeason": 16,
@@ -22337,7 +22337,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p205": {
    "id": "p205",
@@ -23475,7 +23475,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p222": {
    "id": "p222",
@@ -24556,7 +24556,7 @@
    "name": "킹슬리",
    "team": "스틸러스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 23,
    "number": "13",
    "debutSeason": 18,
@@ -24582,7 +24582,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -26692,10 +26692,10 @@
    "name": "산체스",
    "team": "챌린저스",
    "pos": "SS",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 22,
-   "number": "",
-   "debutSeason": null,
+   "number": "26",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -26849,7 +26849,7 @@
    "name": "에르난데스",
    "team": "챌린저스",
    "pos": "1B",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 20,
    "number": "",
    "debutSeason": null,
@@ -27544,7 +27544,7 @@
    "name": "무디",
    "team": "챌린저스",
    "pos": "RP",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 21,
    "number": "",
    "debutSeason": null,
@@ -27641,7 +27641,7 @@
    "name": "코체트코프",
    "team": "챌린저스",
    "pos": "SP",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 22,
    "number": "",
    "debutSeason": null,
@@ -28033,7 +28033,7 @@
    "name": "로든",
    "team": "챌린저스",
    "pos": "3B",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 19,
    "number": "",
    "debutSeason": null,
@@ -29406,7 +29406,7 @@
    "name": "버나드",
    "team": "챌린저스",
    "pos": "OF",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 20,
    "number": "",
    "debutSeason": null,
