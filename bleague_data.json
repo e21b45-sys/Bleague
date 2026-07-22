@@ -18191,7 +18191,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p153": {
    "id": "p153",
@@ -18459,7 +18459,7 @@
      "note": "무릎"
     }
    ],
-   "form": ""
+   "form": "injury"
   },
   "p156": {
    "id": "p156",
@@ -20025,7 +20025,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p174": {
    "id": "p174",
@@ -20608,7 +20608,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "injury"
   },
   "p182": {
    "id": "p182",
@@ -24405,7 +24405,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "injury",
+   "form": "",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -25852,7 +25852,7 @@
    "name": "사르",
    "team": "이글즈",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 21,
    "number": "80",
    "debutSeason": 18,
@@ -25874,7 +25874,7 @@
    ],
    "role": "5선발",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -27052,10 +27052,10 @@
    "name": "험프리",
    "team": "에스트로너츠",
    "pos": "OF",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 21,
-   "number": "",
-   "debutSeason": null,
+   "number": "25",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -27271,7 +27271,7 @@
    ],
    "role": "추격조",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -28863,7 +28863,7 @@
    "name": "나바레즈",
    "team": "에스트로너츠",
    "pos": "SP",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 20,
    "number": "",
    "debutSeason": null,
@@ -28996,7 +28996,7 @@
    "name": "트리스탄",
    "team": "에스트로너츠",
    "pos": "2B",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 21,
    "number": "",
    "debutSeason": null,
