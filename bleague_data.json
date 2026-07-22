@@ -9712,7 +9712,9 @@
     "스타",
     "프로",
     "꾸준함",
-    "승부욕"
+    "승부욕",
+    "로열티",
+    "베테랑"
    ],
    "style": "",
    "strength": "",
@@ -9724,11 +9726,12 @@
     "제구",
     "변화구",
     "경기운영",
-    "내구성"
+    "내구성",
+    "위기관리",
+    "이닝",
+    "수비·견제"
    ],
-   "weaknesses": [
-    "위기관리"
-   ],
+   "weaknesses": [],
    "draftSeason": null,
    "draftRound": null,
    "contract": {
@@ -9827,7 +9830,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "injury"
+   "form": "good"
   },
   "p75": {
    "id": "p75",
@@ -15466,7 +15469,7 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p123": {
    "id": "p123",
@@ -15557,7 +15560,7 @@
    "injuries": [],
    "role": "3번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p124": {
    "id": "p124",
@@ -15914,7 +15917,7 @@
    "injuries": [],
    "role": "3선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p128": {
    "id": "p128",
@@ -19307,7 +19310,7 @@
    "name": "벤슨",
    "team": "프린스",
    "pos": "OF",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 28,
    "number": "4",
    "debutSeason": 12,
@@ -19380,7 +19383,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p166": {
    "id": "p166",
@@ -19952,7 +19955,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p173": {
    "id": "p173",
@@ -24145,7 +24148,7 @@
    "name": "토레이라",
    "team": "프린스",
    "pos": "C",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 23,
    "number": "6",
    "debutSeason": 17,
