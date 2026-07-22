@@ -10702,7 +10702,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "5번",
+   "role": "4번",
    "subPositions": [
     "OF"
    ],
@@ -14719,7 +14719,7 @@
      "note": "어깨"
     }
    ],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "form": "bad"
   },
@@ -15551,7 +15551,7 @@
      "note": "팔"
     }
    ],
-   "role": "2선발",
+   "role": "3선발",
    "subPositions": [],
    "form": ""
   },
@@ -18283,7 +18283,7 @@
     "파워",
     "갭"
    ],
-   "role": "7번",
+   "role": "1번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -18536,7 +18536,7 @@
     "선구안",
     "수비 범위"
    ],
-   "role": "4번",
+   "role": "3번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -18977,7 +18977,7 @@
     "구속",
     "경기운영"
    ],
-   "role": "4선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -19136,7 +19136,7 @@
    "weaknesses": [
     "경기운영"
    ],
-   "role": "추격조",
+   "role": "셋업",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -19996,7 +19996,7 @@
    "weaknesses": [
     "수비 안정성"
    ],
-   "role": "3번",
+   "role": "5번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -20731,7 +20731,7 @@
     "제구",
     "이닝"
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -21397,7 +21397,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "5번",
+   "role": "3번",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -21654,7 +21654,7 @@
     "구위",
     "제구"
    ],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -23086,7 +23086,7 @@
     "주루",
     "수비 안정성"
    ],
-   "role": "",
+   "role": "5번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -23249,7 +23249,7 @@
     "제구",
     "이닝"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -23630,7 +23630,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -23743,7 +23743,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "1번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -23973,7 +23973,7 @@
     "제구",
     "좌우 상대"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -24240,7 +24240,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "6번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -24724,7 +24724,7 @@
    "weaknesses": [
     "위기관리"
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -24841,7 +24841,7 @@
    "weaknesses": [
     "내구성"
    ],
-   "role": "",
+   "role": "셋업",
    "subPositions": [
     "SP"
    ],
@@ -25148,7 +25148,7 @@
    "weaknesses": [
     "주루"
    ],
-   "role": "",
+   "role": "6번",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -25244,7 +25244,7 @@
    "weaknesses": [
     "내구성"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -25292,7 +25292,7 @@
     "제구",
     "좌우 상대"
    ],
-   "role": "3선발",
+   "role": "4선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
