@@ -11031,7 +11031,7 @@
   "p86": {
    "id": "p86",
    "name": "노아",
-   "team": "다이노스",
+   "team": "데빌스",
    "pos": "RP",
    "tier": "코어",
    "age": 37,
@@ -11133,6 +11133,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -63744,6 +63748,13 @@
     "to": "프린스",
     "total": 20,
     "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p86",
+    "from": "다이노스",
+    "to": "데빌스",
     "applied": true
    }
   ]
