@@ -63768,10 +63768,70 @@
      ],
      "BP": [
       "p74"
+     ],
+     "ROOKIE": [
+      "p212",
+      "p240",
+      "p288"
      ]
     },
     "potmBat": "p116",
     "potmPit": "p74",
+    "injuries": [
+     {
+      "playerId": "p196",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p174",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p180",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p108",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p247",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p161",
+      "note": "",
+      "months": 1
+     }
+    ]
+   },
+   "5": {
+    "standings": [
+     "워리어스",
+     "마린즈",
+     "프린스",
+     "스틸러스",
+     "타이거즈",
+     "라이언즈",
+     "버커니어스",
+     "에스트로너츠",
+     "트레일 블레이저스",
+     "데빌스",
+     "다이노스",
+     "세이버스",
+     "다이너마이트",
+     "이글즈",
+     "재즈",
+     "챌린저스"
+    ],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
     "injuries": []
    },
    "10": {
