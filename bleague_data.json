@@ -21708,7 +21708,7 @@
    "pos": "2B",
    "tier": "엘리트",
    "age": 27,
-   "number": "7",
+   "number": "4",
    "debutSeason": 15,
    "debutHalf": "전반기",
    "trait": "",
@@ -70001,13 +70001,13 @@
   "에스트로너츠": [
    {
     "playerId": "p27",
-    "retired": false,
-    "note": ""
+    "retired": true,
+    "note": "리그 최고의 수비수"
    },
    {
     "playerId": "p42",
-    "retired": false,
-    "note": ""
+    "retired": true,
+    "note": "슈퍼팀의 클라이막스"
    }
   ]
  }
