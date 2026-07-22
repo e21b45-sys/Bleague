@@ -16655,7 +16655,7 @@
    "name": "요한",
    "team": "재즈",
    "pos": "SS",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 28,
    "number": "7",
    "debutSeason": 11,
@@ -16735,7 +16735,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p137": {
    "id": "p137",
@@ -20538,7 +20538,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p181": {
    "id": "p181",
@@ -22420,7 +22420,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p206": {
    "id": "p206",
@@ -24461,7 +24461,7 @@
    ],
    "role": "4선발",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -27296,10 +27296,10 @@
    "name": "마르케즈",
    "team": "재즈",
    "pos": "SP",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 22,
-   "number": "",
-   "debutSeason": null,
+   "number": "5",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -27318,7 +27318,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
@@ -28304,7 +28304,7 @@
    "name": "실러",
    "team": "재즈",
    "pos": "OF",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 19,
    "number": "",
    "debutSeason": null,
@@ -29042,7 +29042,7 @@
    "name": "케이타",
    "team": "재즈",
    "pos": "SS",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 19,
    "number": "",
    "debutSeason": null,
