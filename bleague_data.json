@@ -63991,14 +63991,56 @@
     "potmPit": "p151",
     "injuries": [
      {
-      "playerId": "",
+      "playerId": "p202",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p146",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p136",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p130",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p205",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p93",
       "note": "",
       "months": 1
      }
     ]
    },
    "9": {
-    "standings": [],
+    "standings": [
+     "프린스",
+     "마린즈",
+     "라이언즈",
+     "워리어스",
+     "타이거즈",
+     "데빌스",
+     "스틸러스",
+     "에스트로너츠",
+     "트레일 블레이저스",
+     "세이버스",
+     "다이노스",
+     "버커니어스",
+     "이글즈",
+     "다이너마이트",
+     "재즈",
+     "챌린저스"
+    ],
     "races": {},
     "potmBat": "",
     "potmPit": "",
