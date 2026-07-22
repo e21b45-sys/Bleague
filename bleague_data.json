@@ -64172,7 +64172,7 @@
   "allstar": {
    "teamA": {
     "name": "서북부",
-    "captain": "p154",
+    "captain": "p176",
     "members": [
      {
       "playerId": "p154",
@@ -64215,7 +64215,19 @@
       "pos": "지명"
      },
      {
-      "playerId": "",
+      "playerId": "p58",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p147",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p212",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p189",
       "pos": "투수"
      }
     ],
@@ -64226,8 +64238,61 @@
    },
    "teamB": {
     "name": "동남부",
-    "captain": "",
-    "members": [],
+    "captain": "p74",
+    "members": [
+     {
+      "playerId": "p74",
+      "pos": "선발"
+     },
+     {
+      "playerId": "p233",
+      "pos": "포수"
+     },
+     {
+      "playerId": "p92",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p112",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p125",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p114",
+      "pos": "유격"
+     },
+     {
+      "playerId": "p165",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p133",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p116",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p77",
+      "pos": "지명"
+     },
+     {
+      "playerId": "p95",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p75",
+      "pos": "투수"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
+     }
+    ],
     "divFilter": [
      "남부",
      "동부"
