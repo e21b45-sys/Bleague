@@ -70053,6 +70053,30 @@
     "retired": true,
     "note": "미스터 미스테리어스"
    }
+  ],
+  "챌린저스": [
+   {
+    "playerId": "p41",
+    "retired": true,
+    "note": "도전자들의 구심점"
+   }
+  ],
+  "스틸러스": [
+   {
+    "playerId": "p82",
+    "retired": true,
+    "note": "기쁠 때나, 슬플 때나"
+   },
+   {
+    "playerId": "p24",
+    "retired": true,
+    "note": "미스터 스틸러스"
+   },
+   {
+    "playerId": "p22",
+    "retired": true,
+    "note": ""
+   }
   ]
  }
 }
