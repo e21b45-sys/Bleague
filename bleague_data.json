@@ -63951,6 +63951,37 @@
      }
     ]
    },
+   "8": {
+    "standings": [
+     "프린스",
+     "마린즈",
+     "워리어스",
+     "타이거즈",
+     "라이언즈",
+     "스틸러스",
+     "에스트로너츠",
+     "데빌스",
+     "트레일 블레이저스",
+     "버커니어스",
+     "세이버스",
+     "다이너마이트",
+     "다이노스",
+     "이글즈",
+     "재즈",
+     "챌린저스"
+    ],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   },
+   "9": {
+    "standings": [],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   },
    "10": {
     "standings": [],
     "races": {},
@@ -64289,7 +64320,11 @@
       "pos": "투수"
      },
      {
-      "playerId": "",
+      "playerId": "p137",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p166",
       "pos": "투수"
      }
     ],
@@ -64299,9 +64334,9 @@
     ]
    },
    "result": {
-    "teamAScore": null,
-    "teamBScore": null,
-    "mvpId": ""
+    "teamAScore": 2,
+    "teamBScore": 5,
+    "mvpId": "p233"
    },
    "subs": [],
    "note": ""
