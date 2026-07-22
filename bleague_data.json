@@ -18850,7 +18850,7 @@
    "pos": "OF",
    "tier": "레귤러",
    "age": 33,
-   "number": "3",
+   "number": "2",
    "debutSeason": 6,
    "debutHalf": "전반기",
    "trait": "",
@@ -70023,6 +70023,28 @@
     "playerId": "p19",
     "retired": true,
     "note": "악마군단, 그 자체"
+   }
+  ],
+  "워리어스": [
+   {
+    "playerId": "p28",
+    "retired": true,
+    "note": "미스터 워리어스"
+   },
+   {
+    "playerId": "p33",
+    "retired": true,
+    "note": ""
+   },
+   {
+    "playerId": "p29",
+    "retired": true,
+    "note": ""
+   },
+   {
+    "playerId": "p30",
+    "retired": true,
+    "note": ""
    }
   ]
  }
