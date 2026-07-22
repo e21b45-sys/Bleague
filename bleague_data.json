@@ -69923,12 +69923,29 @@
    {
     "playerId": "p6",
     "retired": true,
-    "note": ""
+    "note": "게임을 굳히는 가장 확실한 존재"
    },
    {
     "playerId": "p2",
     "retired": true,
     "note": "프린스의 게임은 8회에서 끝난다"
+   }
+  ],
+  "라이언즈": [
+   {
+    "playerId": "p15",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p14",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p71",
+    "retired": false,
+    "note": ""
    }
   ]
  }
