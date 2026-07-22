@@ -69934,16 +69934,34 @@
   "라이언즈": [
    {
     "playerId": "p15",
-    "retired": false,
-    "note": ""
+    "retired": true,
+    "note": "라이언즈의 심장, 라이언즈 그 자체"
    },
    {
     "playerId": "p14",
     "retired": false,
-    "note": ""
+    "note": "사자 군단의 아버지"
    },
    {
     "playerId": "p71",
+    "retired": false,
+    "note": "사자 군단의 큰형님"
+   }
+  ],
+  "타이거즈": [],
+  "다이노스": [
+   {
+    "playerId": "p78",
+    "retired": true,
+    "note": "영원한 다이노스의 에이스"
+   },
+   {
+    "playerId": "p46",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p49",
     "retired": false,
     "note": ""
    }
