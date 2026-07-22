@@ -12561,7 +12561,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p96": {
    "id": "p96",
@@ -14756,7 +14756,7 @@
    ],
    "role": "2선발",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p116": {
    "id": "p116",
@@ -15739,7 +15739,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": "bad"
   },
   "p126": {
    "id": "p126",
@@ -20168,7 +20168,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p176": {
    "id": "p176",
@@ -21932,7 +21932,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p199": {
    "id": "p199",
@@ -22852,7 +22852,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p212": {
    "id": "p212",
@@ -23626,7 +23626,7 @@
      "note": "등"
     }
    ],
-   "form": "injury"
+   "form": ""
   },
   "p224": {
    "id": "p224",
@@ -24115,7 +24115,7 @@
    ],
    "role": "7번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -27198,10 +27198,10 @@
    "name": "네일",
    "team": "프린스",
    "pos": "SS",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 23,
-   "number": "",
-   "debutSeason": null,
+   "number": "17",
+   "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
