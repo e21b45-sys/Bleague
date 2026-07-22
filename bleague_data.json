@@ -13931,7 +13931,7 @@
    "name": "아데보",
    "team": "트레일 블레이저스",
    "pos": "DH",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 32,
    "number": "18",
    "debutSeason": 8,
@@ -14035,7 +14035,7 @@
    "subPositions": [
     "1B"
    ],
-   "form": "injury"
+   "form": "bad"
   },
   "p109": {
    "id": "p109",
@@ -20615,7 +20615,7 @@
    "name": "무노스",
    "team": "트레일 블레이저스",
    "pos": "1B",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 29,
    "number": "41",
    "debutSeason": 15,
@@ -20677,7 +20677,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p183": {
    "id": "p183",
@@ -20838,7 +20838,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p185": {
    "id": "p185",
@@ -21092,7 +21092,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p188": {
    "id": "p188",
@@ -23760,7 +23760,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": ""
   },
   "p226": {
    "id": "p226",
@@ -24232,7 +24232,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "good",
+   "form": "",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -24918,7 +24918,7 @@
    "name": "마이어",
    "team": "트레일 블레이저스",
    "pos": "2B",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 22,
    "number": "2",
    "debutSeason": 18,
@@ -24943,7 +24943,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
@@ -26294,7 +26294,7 @@
    ],
    "role": "8번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
