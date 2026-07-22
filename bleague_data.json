@@ -16932,7 +16932,7 @@
   "p145": {
    "id": "p145",
    "name": "트라우트먼",
-   "team": "FA",
+   "team": "재즈",
    "pos": "RP",
    "tier": "레귤러",
    "age": 35,
@@ -16960,7 +16960,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 19,
+    "total": 20,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 11,
@@ -17032,6 +17037,10 @@
     },
     {
      "season": 17,
+     "team": "재즈"
+    },
+    {
+     "season": 18,
      "team": "재즈"
     }
    ],
@@ -63709,6 +63718,14 @@
     "playerId": "p83",
     "to": "다이너마이트",
     "total": 40,
+    "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p145",
+    "to": "재즈",
+    "total": 20,
     "years": 2,
     "applied": true
    }
