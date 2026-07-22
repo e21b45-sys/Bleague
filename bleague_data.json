@@ -67118,8 +67118,13 @@
     },
     {
      "name": "골드글러브",
-     "playerId": "p250",
+     "playerId": "p175",
      "detail": "C"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p226",
+     "detail": "1B"
     }
    ],
    "awardsNote": "",
