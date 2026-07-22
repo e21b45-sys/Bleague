@@ -70075,6 +70075,23 @@
    {
     "playerId": "p22",
     "retired": true,
+    "note": "영원한 형님"
+   }
+  ],
+  "재즈": [
+   {
+    "playerId": "p80",
+    "retired": true,
+    "note": "예술적인 스윙, 감동적인 클러치"
+   },
+   {
+    "playerId": "p34",
+    "retired": true,
+    "note": ""
+   },
+   {
+    "playerId": "p157",
+    "retired": false,
     "note": ""
    }
   ]
