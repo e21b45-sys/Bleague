@@ -1,6 +1,6 @@
 {
  "meta": {
-  "season": 18
+  "season": 19
  },
  "players": {
   "p1": {
@@ -9,7 +9,7 @@
    "team": "명예의 전당",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 46,
+   "age": 47,
    "number": "1",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -123,6 +123,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -143,7 +147,7 @@
    "team": "명예의 전당",
    "pos": "RP",
    "tier": "코어",
-   "age": 48,
+   "age": 49,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -273,6 +277,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -299,7 +307,7 @@
    "team": "명예의 전당",
    "pos": "DH",
    "tier": "코어",
-   "age": 44,
+   "age": 45,
    "number": "9",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -426,6 +434,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -446,7 +458,7 @@
    "team": "명예의 전당",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "3",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -564,6 +576,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -590,7 +606,7 @@
    "team": "은퇴",
    "pos": "3B",
    "tier": "서브",
-   "age": 46,
+   "age": 47,
    "number": "25",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -704,6 +720,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -719,7 +739,7 @@
    "team": "은퇴",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 39,
+   "age": 40,
    "number": "44",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -866,7 +886,7 @@
    "team": "명예의 전당",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "15",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -968,6 +988,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -988,7 +1012,7 @@
    "team": "명예의 전당",
    "pos": "SP",
    "tier": "코어",
-   "age": 48,
+   "age": 49,
    "number": "17",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -1101,6 +1125,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -1121,7 +1149,7 @@
    "team": "명예의 전당",
    "pos": "C",
    "tier": "레귤러",
-   "age": 45,
+   "age": 46,
    "number": "5",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -1234,6 +1262,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -1254,7 +1286,7 @@
    "team": "명예의 전당",
    "pos": "DH",
    "tier": "코어",
-   "age": 43,
+   "age": 44,
    "number": "7",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -1375,6 +1407,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -1404,7 +1440,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 41,
+   "age": 42,
    "number": "6",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -1505,6 +1541,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -1526,7 +1566,7 @@
    "team": "은퇴",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 43,
+   "age": 44,
    "number": "8",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -1627,6 +1667,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -1642,7 +1686,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 40,
+   "age": 41,
    "number": "22",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -1764,6 +1808,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -1779,7 +1827,7 @@
    "team": "명예의 전당",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 51,
+   "age": 52,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -1881,6 +1929,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -1901,7 +1953,7 @@
    "team": "명예의 전당",
    "pos": "SS",
    "tier": "코어",
-   "age": 42,
+   "age": 43,
    "number": "7",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -2030,6 +2082,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -2061,7 +2117,7 @@
    "team": "명예의 전당",
    "pos": "DH",
    "tier": "코어",
-   "age": 45,
+   "age": 46,
    "number": "7",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -2173,6 +2229,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -2193,7 +2253,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 40,
+   "age": 41,
    "number": "31",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -2315,6 +2375,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -2346,7 +2410,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 41,
+   "age": 42,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -2490,7 +2554,7 @@
    "team": "명예의 전당",
    "pos": "OF",
    "tier": "코어",
-   "age": 44,
+   "age": 45,
    "number": "3",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -2612,6 +2676,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -2643,7 +2711,7 @@
    "team": "명예의 전당",
    "pos": "DH",
    "tier": "코어",
-   "age": 42,
+   "age": 43,
    "number": "8",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -2772,6 +2840,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -2795,7 +2867,7 @@
    "team": "은퇴",
    "pos": "SS",
    "tier": "레귤러",
-   "age": 41,
+   "age": 42,
    "number": "17",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -2902,6 +2974,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -2930,7 +3006,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 47,
+   "age": 48,
    "number": "21",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3036,6 +3112,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -3067,7 +3147,7 @@
    "team": "명예의 전당",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "5",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3192,6 +3272,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -3233,7 +3317,7 @@
    "team": "명예의 전당",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "7",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3332,6 +3416,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -3352,7 +3440,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 39,
+   "age": 40,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3492,7 +3580,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 46,
+   "age": 47,
    "number": "1",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3585,6 +3673,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -3600,7 +3692,7 @@
    "team": "명예의 전당",
    "pos": "SS",
    "tier": "서브",
-   "age": 44,
+   "age": 45,
    "number": "7",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3721,6 +3813,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -3752,7 +3848,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 38,
+   "age": 39,
    "number": "36",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3871,6 +3967,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -3892,7 +3992,7 @@
    "team": "은퇴",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 46,
+   "age": 47,
    "number": "2",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -3994,6 +4094,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -4017,7 +4121,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 39,
+   "age": 40,
    "number": "14",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -4139,6 +4243,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -4160,7 +4268,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 40,
+   "age": 41,
    "number": "10",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -4268,6 +4376,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -4289,7 +4401,7 @@
    "team": "은퇴",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 44,
+   "age": 45,
    "number": "19",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -4408,6 +4520,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -4423,7 +4539,7 @@
    "team": "명예의 전당",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 44,
+   "age": 45,
    "number": "8",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -4528,6 +4644,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -4564,7 +4684,7 @@
    "team": "은퇴",
    "pos": "2B",
    "tier": "레귤러",
-   "age": 41,
+   "age": 42,
    "number": "2",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -4675,6 +4795,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -4696,7 +4820,7 @@
    "team": "명예의 전당",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 47,
+   "age": 48,
    "number": "1",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -4799,6 +4923,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -4819,7 +4947,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "코어",
-   "age": 48,
+   "age": 49,
    "number": "28",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -4919,6 +5047,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -4934,7 +5066,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "10",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -5040,6 +5172,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -5061,7 +5197,7 @@
    "team": "명예의 전당",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 45,
+   "age": 46,
    "number": "10",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -5164,6 +5300,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -5195,7 +5335,7 @@
    "team": "은퇴",
    "pos": "3B",
    "tier": "엘리트",
-   "age": 46,
+   "age": 47,
    "number": "14",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -5298,6 +5438,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -5324,7 +5468,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 41,
+   "age": 42,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -5452,6 +5596,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -5467,7 +5615,7 @@
    "team": "은퇴",
    "pos": "C",
    "tier": "레귤러",
-   "age": 41,
+   "age": 42,
    "number": "4",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -5620,7 +5768,7 @@
    "team": "명예의 전당",
    "pos": "RP",
    "tier": "코어",
-   "age": 43,
+   "age": 44,
    "number": "22",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -5734,6 +5882,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -5754,7 +5906,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 44,
+   "age": 45,
    "number": "1",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -5870,6 +6022,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -5896,7 +6052,7 @@
    "team": "은퇴",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "23",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6018,6 +6174,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -6033,7 +6193,7 @@
    "team": "명예의 전당",
    "pos": "1B",
    "tier": "서브",
-   "age": 44,
+   "age": 45,
    "number": "6",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6140,6 +6300,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -6162,7 +6326,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 47,
+   "age": 48,
    "number": "13",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6270,6 +6434,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -6296,7 +6464,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 43,
+   "age": 44,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6404,6 +6572,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -6419,7 +6591,7 @@
    "team": "명예의 전당",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 45,
+   "age": 46,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6522,6 +6694,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -6563,7 +6739,7 @@
    "team": "은퇴",
    "pos": "2B",
    "tier": "서브",
-   "age": 41,
+   "age": 42,
    "number": "10",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6680,6 +6856,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -6695,7 +6875,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "1",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6804,6 +6984,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -6819,7 +7003,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 43,
+   "age": 44,
    "number": "2",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -6917,6 +7101,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -6932,7 +7120,7 @@
    "team": "은퇴",
    "pos": "2B",
    "tier": "코어",
-   "age": 41,
+   "age": 42,
    "number": "11",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7052,6 +7240,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -7078,7 +7270,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 44,
+   "age": 45,
    "number": "16",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7190,6 +7382,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -7216,7 +7412,7 @@
    "team": "은퇴",
    "pos": "1B",
    "tier": "서브",
-   "age": 40,
+   "age": 41,
    "number": "6",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7348,7 +7544,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 47,
+   "age": 48,
    "number": "9",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7449,6 +7645,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -7464,7 +7664,7 @@
    "team": "명예의 전당",
    "pos": "3B",
    "tier": "레귤러",
-   "age": 44,
+   "age": 45,
    "number": "30",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7577,6 +7777,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -7597,7 +7801,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 45,
+   "age": 46,
    "number": "66",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7698,6 +7902,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -7710,10 +7918,10 @@
   "p58": {
    "id": "p58",
    "name": "블랑코",
-   "team": "버커니어스",
+   "team": "FA",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 38,
+   "age": 39,
    "number": "7",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7737,12 +7945,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 15,
-    "endSeason": 18,
-    "total": 80,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 6,
@@ -7754,6 +7957,12 @@
      "startSeason": 11,
      "endSeason": 14,
      "total": 120,
+     "options": []
+    },
+    {
+     "startSeason": 15,
+     "endSeason": 18,
+     "total": 80,
      "options": []
     }
    ],
@@ -7827,6 +8036,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -7848,7 +8061,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 44,
+   "age": 45,
    "number": "30",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -7954,6 +8167,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -7975,7 +8192,7 @@
    "team": "명예의 전당",
    "pos": "RP",
    "tier": "코어",
-   "age": 41,
+   "age": 42,
    "number": "20",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -8095,6 +8312,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -8115,7 +8336,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "코어",
-   "age": 40,
+   "age": 41,
    "number": "7",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -8220,6 +8441,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -8235,7 +8460,7 @@
    "team": "은퇴",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "19",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -8350,6 +8575,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -8371,7 +8600,7 @@
    "team": "명예의 전당",
    "pos": "DH",
    "tier": "코어",
-   "age": 45,
+   "age": 46,
    "number": "39",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -8488,6 +8717,10 @@
     {
      "season": 17,
      "team": "명예의 전당"
+    },
+    {
+     "season": 18,
+     "team": "명예의 전당"
     }
    ],
    "hof": {
@@ -8519,7 +8752,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 47,
+   "age": 48,
    "number": "13",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -8626,6 +8859,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -8641,7 +8878,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 44,
+   "age": 45,
    "number": "10",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -8747,6 +8984,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -8762,7 +9003,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 42,
+   "age": 43,
    "number": "4",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -8880,6 +9121,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -8906,7 +9151,7 @@
    "team": "은퇴",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 43,
+   "age": 44,
    "number": "21",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -9014,6 +9259,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -9032,10 +9281,10 @@
   "p71": {
    "id": "p71",
    "name": "코스타",
-   "team": "트레일 블레이저스",
+   "team": "FA",
    "pos": "C",
    "tier": "레귤러",
-   "age": 38,
+   "age": 39,
    "number": "4",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -9060,12 +9309,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 17,
-    "endSeason": 18,
-    "total": 30,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 7,
@@ -9077,6 +9321,12 @@
      "startSeason": 11,
      "endSeason": 16,
      "total": 120,
+     "options": []
+    },
+    {
+     "startSeason": 17,
+     "endSeason": 18,
+     "total": 30,
      "options": []
     }
    ],
@@ -9150,6 +9400,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -9172,10 +9426,10 @@
   "p72": {
    "id": "p72",
    "name": "야누스",
-   "team": "버커니어스",
+   "team": "FA",
    "pos": "OF",
    "tier": "코어",
-   "age": 37,
+   "age": 38,
    "number": "3",
    "debutSeason": 2,
    "debutHalf": "전반기",
@@ -9195,12 +9449,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 18,
-    "endSeason": 18,
-    "total": 15,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 8,
@@ -9222,6 +9471,12 @@
      "startSeason": 16,
      "endSeason": 17,
      "total": 60,
+     "options": []
+    },
+    {
+     "startSeason": 18,
+     "endSeason": 18,
+     "total": 15,
      "options": []
     }
    ],
@@ -9306,10 +9561,10 @@
   "p73": {
    "id": "p73",
    "name": "콜레로프",
-   "team": "마린즈",
+   "team": "FA",
    "pos": "C",
    "tier": "레귤러",
-   "age": 37,
+   "age": 38,
    "number": "16",
    "debutSeason": 2,
    "debutHalf": "전반기",
@@ -9332,12 +9587,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 17,
-    "endSeason": 18,
-    "total": 20,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 8,
@@ -9349,6 +9599,12 @@
      "startSeason": 13,
      "endSeason": 16,
      "total": 40,
+     "options": []
+    },
+    {
+     "startSeason": 17,
+     "endSeason": 18,
+     "total": 20,
      "options": []
     }
    ],
@@ -9418,6 +9674,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -9443,7 +9703,7 @@
    "team": "프린스",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 36,
+   "age": 37,
    "number": "5",
    "debutSeason": 2,
    "debutHalf": "전반기",
@@ -9551,6 +9811,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -9571,7 +9835,7 @@
    "team": "타이거즈",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 36,
+   "age": 37,
    "number": "11",
    "debutSeason": 2,
    "debutHalf": "후반기",
@@ -9676,6 +9940,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -9687,10 +9955,10 @@
   "p76": {
    "id": "p76",
    "name": "토호루",
-   "team": "마린즈",
+   "team": "FA",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 37,
+   "age": 38,
    "number": "27",
    "debutSeason": 2,
    "debutHalf": "전반기",
@@ -9714,12 +9982,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 16,
-    "endSeason": 18,
-    "total": 60,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 7,
@@ -9731,6 +9994,12 @@
      "startSeason": 12,
      "endSeason": 15,
      "total": 80,
+     "options": []
+    },
+    {
+     "startSeason": 16,
+     "endSeason": 18,
+     "total": 60,
      "options": []
     }
    ],
@@ -9800,6 +10069,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -9817,10 +10090,10 @@
   "p77": {
    "id": "p77",
    "name": "칼리츠",
-   "team": "마린즈",
+   "team": "FA",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 38,
+   "age": 39,
    "number": "3",
    "debutSeason": 2,
    "debutHalf": "전반기",
@@ -9843,12 +10116,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 17,
-    "endSeason": 18,
-    "total": 20,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 5,
@@ -9881,6 +10149,12 @@
      "endSeason": 16,
      "total": 90,
      "options": []
+    },
+    {
+     "startSeason": 17,
+     "endSeason": 18,
+     "total": 20,
+     "options": []
     }
    ],
    "awards": [],
@@ -9949,6 +10223,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -9963,7 +10241,7 @@
    "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 39,
+   "age": 40,
    "number": "61",
    "debutSeason": 2,
    "debutHalf": "전반기",
@@ -10089,7 +10367,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "코어",
-   "age": 44,
+   "age": 45,
    "number": "4",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -10189,6 +10467,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -10200,10 +10482,10 @@
   "p80": {
    "id": "p80",
    "name": "운남",
-   "team": "에스트로너츠",
+   "team": "FA",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 39,
+   "age": 40,
    "number": "30",
    "debutSeason": 1,
    "debutHalf": "후반기",
@@ -10225,12 +10507,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 17,
-    "endSeason": 18,
-    "total": 20,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 8,
@@ -10248,6 +10525,12 @@
      "startSeason": 15,
      "endSeason": 16,
      "total": 30,
+     "options": []
+    },
+    {
+     "startSeason": 17,
+     "endSeason": 18,
+     "total": 20,
      "options": []
     }
    ],
@@ -10321,6 +10604,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -10332,10 +10619,10 @@
   "p81": {
    "id": "p81",
    "name": "팀",
-   "team": "이글즈",
+   "team": "FA",
    "pos": "SP",
    "tier": "코어",
-   "age": 37,
+   "age": 38,
    "number": "20",
    "debutSeason": 2,
    "debutHalf": "후반기",
@@ -10356,17 +10643,18 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 13,
-    "endSeason": 18,
-    "total": 210,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 9,
      "endSeason": 12,
      "total": 112,
+     "options": []
+    },
+    {
+     "startSeason": 13,
+     "endSeason": 18,
+     "total": 210,
      "options": []
     }
    ],
@@ -10436,6 +10724,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -10450,7 +10742,7 @@
    "team": "은퇴",
    "pos": "3B",
    "tier": "레귤러",
-   "age": 38,
+   "age": 39,
    "number": "25",
    "debutSeason": 2,
    "debutHalf": "후반기",
@@ -10560,6 +10852,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -10583,7 +10879,7 @@
    "team": "다이너마이트",
    "pos": "DH",
    "tier": "코어",
-   "age": 37,
+   "age": 38,
    "number": "70",
    "debutSeason": 3,
    "debutHalf": "전반기",
@@ -10714,7 +11010,7 @@
    "team": "버커니어스",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 36,
+   "age": 37,
    "number": "11",
    "debutSeason": 3,
    "debutHalf": "전반기",
@@ -10840,6 +11136,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -10905,7 +11205,7 @@
    "team": "워리어스",
    "pos": "SS",
    "tier": "엘리트",
-   "age": 35,
+   "age": 36,
    "number": "7",
    "debutSeason": 3,
    "debutHalf": "전반기",
@@ -11020,6 +11320,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -11031,10 +11335,10 @@
   "p86": {
    "id": "p86",
    "name": "노아",
-   "team": "데빌스",
+   "team": "FA",
    "pos": "RP",
    "tier": "코어",
-   "age": 37,
+   "age": 38,
    "number": "47",
    "debutSeason": 3,
    "debutHalf": "전반기",
@@ -11057,17 +11361,18 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 13,
-    "endSeason": 18,
-    "total": 120,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 9,
      "endSeason": 12,
      "total": 32,
+     "options": []
+    },
+    {
+     "startSeason": 13,
+     "endSeason": 18,
+     "total": 120,
      "options": []
     }
    ],
@@ -11151,7 +11456,7 @@
    "team": "워리어스",
    "pos": "SP",
    "tier": "코어",
-   "age": 34,
+   "age": 35,
    "number": "11",
    "debutSeason": 4,
    "debutHalf": "후반기",
@@ -11251,6 +11556,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -11271,7 +11580,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "코어",
-   "age": 44,
+   "age": 45,
    "number": "15",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -11368,6 +11677,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -11382,7 +11695,7 @@
    "team": "은퇴",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 43,
+   "age": 44,
    "number": "6",
    "debutSeason": 1,
    "debutHalf": "전반기",
@@ -11485,6 +11798,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -11510,7 +11827,7 @@
    "team": "은퇴",
    "pos": "2B",
    "tier": "레귤러",
-   "age": 37,
+   "age": 38,
    "number": "25",
    "debutSeason": 4,
    "debutHalf": "전반기",
@@ -11655,7 +11972,7 @@
    "team": "다이너마이트",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 36,
+   "age": 37,
    "number": "13",
    "debutSeason": 4,
    "debutHalf": "전반기",
@@ -11780,7 +12097,7 @@
    "team": "타이거즈",
    "pos": "1B",
    "tier": "엘리트",
-   "age": 33,
+   "age": 34,
    "number": "9",
    "debutSeason": 4,
    "debutHalf": "전반기",
@@ -11877,6 +12194,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -11891,7 +12212,7 @@
    "team": "워리어스",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 36,
+   "age": 37,
    "number": "14",
    "debutSeason": 4,
    "debutHalf": "전반기",
@@ -12013,10 +12334,10 @@
   "p94": {
    "id": "p94",
    "name": "블랙셔",
-   "team": "라이언즈",
+   "team": "FA",
    "pos": "SP",
    "tier": "코어",
-   "age": 35,
+   "age": 36,
    "number": "13",
    "debutSeason": 5,
    "debutHalf": "전반기",
@@ -12038,13 +12359,15 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 11,
-    "endSeason": 18,
-    "total": 60,
-    "options": []
-   },
-   "contractHistory": [],
+   "contract": null,
+   "contractHistory": [
+    {
+     "startSeason": 11,
+     "endSeason": 18,
+     "total": 60,
+     "options": []
+    }
+   ],
    "awards": [],
    "titles": 0,
    "teamHistory": [
@@ -12103,6 +12426,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -12128,7 +12455,7 @@
    "team": "라이언즈",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 32,
+   "age": 33,
    "number": "25",
    "debutSeason": 6,
    "debutHalf": "전반기",
@@ -12221,6 +12548,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -12235,7 +12566,7 @@
    "team": "다이너마이트",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 35,
+   "age": 36,
    "number": "8",
    "debutSeason": 7,
    "debutHalf": "전반기",
@@ -12330,6 +12661,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -12355,7 +12690,7 @@
    "team": "에스트로너츠",
    "pos": "3B",
    "tier": "레귤러",
-   "age": 35,
+   "age": 36,
    "number": "23",
    "debutSeason": 7,
    "debutHalf": "전반기",
@@ -12443,6 +12778,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -12465,7 +12804,7 @@
    "team": "다이노스",
    "pos": "OF",
    "tier": "컨텐더",
-   "age": 32,
+   "age": 33,
    "number": "10",
    "debutSeason": 5,
    "debutHalf": "전반기",
@@ -12560,6 +12899,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -12610,7 +12953,7 @@
    "team": "데빌스",
    "pos": "C",
    "tier": "코어",
-   "age": 34,
+   "age": 35,
    "number": "39",
    "debutSeason": 5,
    "debutHalf": "전반기",
@@ -12699,6 +13042,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -12719,7 +13066,7 @@
    "team": "에스트로너츠",
    "pos": "OF",
    "tier": "코어",
-   "age": 33,
+   "age": 34,
    "number": "10",
    "debutSeason": 5,
    "debutHalf": "전반기",
@@ -12809,6 +13156,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -12829,7 +13180,7 @@
    "team": "이글즈",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 34,
+   "age": 35,
    "number": "6",
    "debutSeason": 6,
    "debutHalf": "전반기",
@@ -12918,6 +13269,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -12931,10 +13286,10 @@
   "p102": {
    "id": "p102",
    "name": "켄트",
-   "team": "트레일 블레이저스",
+   "team": "FA",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 32,
+   "age": 33,
    "number": "10",
    "debutSeason": 6,
    "debutHalf": "후반기",
@@ -12958,13 +13313,15 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 13,
-    "endSeason": 18,
-    "total": 90,
-    "options": []
-   },
-   "contractHistory": [],
+   "contract": null,
+   "contractHistory": [
+    {
+     "startSeason": 13,
+     "endSeason": 18,
+     "total": 90,
+     "options": []
+    }
+   ],
    "awards": [],
    "titles": 0,
    "teamHistory": [
@@ -13015,6 +13372,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -13032,10 +13393,10 @@
   "p103": {
    "id": "p103",
    "name": "맥커니",
-   "team": "데빌스",
+   "team": "FA",
    "pos": "3B",
    "tier": "컨텐더",
-   "age": 33,
+   "age": 34,
    "number": "9",
    "debutSeason": 7,
    "debutHalf": "후반기",
@@ -13058,13 +13419,15 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 11,
-    "endSeason": 18,
-    "total": 240,
-    "options": []
-   },
-   "contractHistory": [],
+   "contract": null,
+   "contractHistory": [
+    {
+     "startSeason": 11,
+     "endSeason": 18,
+     "total": 240,
+     "options": []
+    }
+   ],
    "awards": [],
    "titles": 0,
    "teamHistory": [
@@ -13114,6 +13477,10 @@
     },
     {
      "season": 17,
+     "team": "데빌스"
+    },
+    {
+     "season": 18,
      "team": "데빌스"
     }
    ],
@@ -13140,7 +13507,7 @@
    "team": "워리어스",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 31,
+   "age": 32,
    "number": "1",
    "debutSeason": 6,
    "debutHalf": "전반기",
@@ -13228,6 +13595,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -13242,7 +13613,7 @@
    "team": "스틸러스",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 32,
+   "age": 33,
    "number": "12",
    "debutSeason": 7,
    "debutHalf": "전반기",
@@ -13322,6 +13693,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -13344,10 +13719,10 @@
   "p106": {
    "id": "p106",
    "name": "베나세르",
-   "team": "재즈",
+   "team": "FA",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 31,
+   "age": 32,
    "number": "10",
    "debutSeason": 8,
    "debutHalf": "전반기",
@@ -13370,13 +13745,15 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 10,
-    "endSeason": 18,
-    "total": 180,
-    "options": []
-   },
-   "contractHistory": [],
+   "contract": null,
+   "contractHistory": [
+    {
+     "startSeason": 10,
+     "endSeason": 18,
+     "total": 180,
+     "options": []
+    }
+   ],
    "awards": [],
    "titles": 0,
    "teamHistory": [
@@ -13427,6 +13804,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -13438,10 +13819,10 @@
   "p107": {
    "id": "p107",
    "name": "예이츠",
-   "team": "라이언즈",
+   "team": "FA",
    "pos": "SS",
    "tier": "레귤러",
-   "age": 33,
+   "age": 34,
    "number": "7",
    "debutSeason": 8,
    "debutHalf": "전반기",
@@ -13465,13 +13846,15 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 14,
-    "endSeason": 18,
-    "total": 50,
-    "options": []
-   },
-   "contractHistory": [],
+   "contract": null,
+   "contractHistory": [
+    {
+     "startSeason": 14,
+     "endSeason": 18,
+     "total": 50,
+     "options": []
+    }
+   ],
    "awards": [],
    "titles": 0,
    "teamHistory": [
@@ -13522,6 +13905,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -13542,7 +13929,7 @@
    "team": "트레일 블레이저스",
    "pos": "DH",
    "tier": "코어",
-   "age": 31,
+   "age": 32,
    "number": "18",
    "debutSeason": 8,
    "debutHalf": "후반기",
@@ -13622,6 +14009,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -13649,7 +14040,7 @@
    "team": "워리어스",
    "pos": "C",
    "tier": "레귤러",
-   "age": 31,
+   "age": 32,
    "number": "24",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -13728,6 +14119,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -13742,7 +14137,7 @@
    "team": "스틸러스",
    "pos": "RP",
    "tier": "코어",
-   "age": 33,
+   "age": 34,
    "number": "36",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -13858,7 +14253,7 @@
    "team": "세이버스",
    "pos": "1B",
    "tier": "엘리트",
-   "age": 30,
+   "age": 31,
    "number": "10",
    "debutSeason": 7,
    "debutHalf": "전반기",
@@ -13933,6 +14328,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -13947,7 +14346,7 @@
    "team": "마린즈",
    "pos": "2B",
    "tier": "엘리트",
-   "age": 31,
+   "age": 32,
    "number": "2",
    "debutSeason": 8,
    "debutHalf": "전반기",
@@ -14031,6 +14430,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -14045,7 +14448,7 @@
    "team": "다이너마이트",
    "pos": "SS",
    "tier": "엘리트",
-   "age": 30,
+   "age": 31,
    "number": "7",
    "debutSeason": 8,
    "debutHalf": "후반기",
@@ -14121,6 +14524,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -14146,7 +14553,7 @@
    "team": "타이거즈",
    "pos": "SS",
    "tier": "엘리트",
-   "age": 32,
+   "age": 33,
    "number": "7",
    "debutSeason": 7,
    "debutHalf": "전반기",
@@ -14253,7 +14660,7 @@
    "team": "라이언즈",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 31,
+   "age": 32,
    "number": "1",
    "debutSeason": 7,
    "debutHalf": "후반기",
@@ -14330,6 +14737,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -14350,7 +14761,7 @@
    "team": "마린즈",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 29,
+   "age": 30,
    "number": "10",
    "debutSeason": 8,
    "debutHalf": "전반기",
@@ -14426,6 +14837,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -14451,7 +14866,7 @@
    "team": "데빌스",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 31,
+   "age": 32,
    "number": "4",
    "debutSeason": 8,
    "debutHalf": "후반기",
@@ -14528,6 +14943,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -14542,7 +14961,7 @@
    "team": "마린즈",
    "pos": "3B",
    "tier": "컨텐더",
-   "age": 30,
+   "age": 31,
    "number": "12",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -14617,6 +15036,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -14631,7 +15054,7 @@
    "team": "챌린저스",
    "pos": "SP",
    "tier": "코어",
-   "age": 32,
+   "age": 33,
    "number": "30",
    "debutSeason": 9,
    "debutHalf": "후반기",
@@ -14729,7 +15152,7 @@
    "team": "다이노스",
    "pos": "2B",
    "tier": "코어",
-   "age": 31,
+   "age": 32,
    "number": "8",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -14804,6 +15227,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -14821,7 +15248,7 @@
    "team": "세이버스",
    "pos": "SS",
    "tier": "레귤러",
-   "age": 33,
+   "age": 34,
    "number": "26",
    "debutSeason": 5,
    "debutHalf": "전반기",
@@ -14916,6 +15343,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -14936,7 +15367,7 @@
    "team": "프린스",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 32,
+   "age": 33,
    "number": "30",
    "debutSeason": 7,
    "debutHalf": "전반기",
@@ -15043,7 +15474,7 @@
    "team": "프린스",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 32,
+   "age": 33,
    "number": "10",
    "debutSeason": 8,
    "debutHalf": "전반기",
@@ -15116,6 +15547,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -15130,7 +15565,7 @@
    "team": "데빌스",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 29,
+   "age": 30,
    "number": "11",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -15202,6 +15637,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -15216,7 +15655,7 @@
    "team": "라이언즈",
    "pos": "3B",
    "tier": "컨텐더",
-   "age": 29,
+   "age": 30,
    "number": "10",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -15287,6 +15726,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -15301,7 +15744,7 @@
    "team": "스틸러스",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 31,
+   "age": 32,
    "number": "8",
    "debutSeason": 8,
    "debutHalf": "후반기",
@@ -15371,6 +15814,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -15385,7 +15832,7 @@
    "team": "프린스",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 31,
+   "age": 32,
    "number": "31",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -15457,6 +15904,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -15471,7 +15922,7 @@
    "team": "챌린저스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 30,
+   "age": 31,
    "number": "2",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -15541,6 +15992,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -15561,7 +16016,7 @@
    "team": "스틸러스",
    "pos": "C",
    "tier": "코어",
-   "age": 31,
+   "age": 32,
    "number": "4",
    "debutSeason": 9,
    "debutHalf": "후반기",
@@ -15631,6 +16086,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -15645,7 +16104,7 @@
    "team": "스틸러스",
    "pos": "SP",
    "tier": "코어",
-   "age": 30,
+   "age": 31,
    "number": "15",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -15715,6 +16174,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -15729,7 +16192,7 @@
    "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 27,
+   "age": 28,
    "number": "11",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -15798,6 +16261,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -15810,7 +16277,7 @@
    "team": "마린즈",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 31,
+   "age": 32,
    "number": "1",
    "debutSeason": 9,
    "debutHalf": "전반기",
@@ -15882,6 +16349,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -15915,7 +16386,7 @@
    "team": "타이거즈",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 29,
+   "age": 30,
    "number": "10",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -15982,6 +16453,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -15994,7 +16469,7 @@
    "team": "다이노스",
    "pos": "SS",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "15",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -16087,7 +16562,7 @@
    "team": "챌린저스",
    "pos": "SP",
    "tier": "코어",
-   "age": 30,
+   "age": 31,
    "number": "16",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -16156,6 +16631,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -16174,7 +16653,7 @@
    "team": "재즈",
    "pos": "SS",
    "tier": "컨텐더",
-   "age": 27,
+   "age": 28,
    "number": "7",
    "debutSeason": 11,
    "debutHalf": "후반기",
@@ -16245,6 +16724,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -16257,7 +16740,7 @@
    "team": "다이노스",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 29,
+   "age": 30,
    "number": "5",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -16327,6 +16810,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -16350,7 +16837,7 @@
    "team": "다이너마이트",
    "pos": "C",
    "tier": "코어",
-   "age": 28,
+   "age": 29,
    "number": "4",
    "debutSeason": 10,
    "debutHalf": "후반기",
@@ -16420,6 +16907,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -16432,7 +16923,7 @@
    "team": "프린스",
    "pos": "SP",
    "tier": "컨텐더",
-   "age": 27,
+   "age": 28,
    "number": "1",
    "debutSeason": 10,
    "debutHalf": "후반기",
@@ -16505,6 +16996,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -16517,7 +17012,7 @@
    "team": "타이거즈",
    "pos": "RP",
    "tier": "엘리트",
-   "age": 34,
+   "age": 35,
    "number": "17",
    "debutSeason": 6,
    "debutHalf": "전반기",
@@ -16610,6 +17105,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -16628,7 +17127,7 @@
    "team": "다이노스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 32,
+   "age": 33,
    "number": "26",
    "debutSeason": 8,
    "debutHalf": "전반기",
@@ -16737,7 +17236,7 @@
    "team": "세이버스",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 35,
+   "age": 36,
    "number": "34",
    "debutSeason": 5,
    "debutHalf": "후반기",
@@ -16855,10 +17354,10 @@
   "p144": {
    "id": "p144",
    "name": "디안드레",
-   "team": "챌린저스",
+   "team": "FA",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 36,
+   "age": 37,
    "number": "9",
    "debutSeason": 3,
    "debutHalf": "전반기",
@@ -16888,12 +17387,7 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 16,
-    "endSeason": 18,
-    "total": 30,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [
     {
      "startSeason": 9,
@@ -16905,6 +17399,12 @@
      "startSeason": 12,
      "endSeason": 15,
      "total": 28,
+     "options": []
+    },
+    {
+     "startSeason": 16,
+     "endSeason": 18,
+     "total": 30,
      "options": []
     }
    ],
@@ -16970,6 +17470,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -16993,7 +17497,7 @@
    "team": "재즈",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 35,
+   "age": 36,
    "number": "15",
    "debutSeason": 5,
    "debutHalf": "전반기",
@@ -17112,7 +17616,7 @@
    "team": "스틸러스",
    "pos": "1B",
    "tier": "컨텐더",
-   "age": 27,
+   "age": 28,
    "number": "9",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -17180,6 +17684,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -17198,7 +17706,7 @@
    "team": "데빌스",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 26,
+   "age": 27,
    "number": "5",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -17259,6 +17767,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -17271,7 +17783,7 @@
    "team": "다이노스",
    "pos": "SP",
    "tier": "코어",
-   "age": 31,
+   "age": 32,
    "number": "12",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -17334,6 +17846,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -17349,10 +17865,10 @@
   "p149": {
    "id": "p149",
    "name": "바셋",
-   "team": "버커니어스",
+   "team": "FA",
    "pos": "C",
    "tier": "코어",
-   "age": 27,
+   "age": 28,
    "number": "6",
    "debutSeason": 12,
    "debutHalf": "후반기",
@@ -17414,6 +17930,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -17426,7 +17946,7 @@
    "team": "타이거즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "12",
    "debutSeason": 13,
    "debutHalf": "후반기",
@@ -17486,6 +18006,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -17498,7 +18022,7 @@
    "team": "데빌스",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 26,
+   "age": 27,
    "number": "17",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -17563,6 +18087,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -17586,7 +18114,7 @@
    "team": "이글즈",
    "pos": "OF",
    "tier": "코어",
-   "age": 27,
+   "age": 28,
    "number": "9",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -17652,6 +18180,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -17664,7 +18196,7 @@
    "team": "마린즈",
    "pos": "SP",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "8",
    "debutSeason": 14,
    "debutHalf": "후반기",
@@ -17727,6 +18259,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -17739,7 +18275,7 @@
    "team": "워리어스",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 26,
+   "age": 27,
    "number": "25",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -17813,6 +18349,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -17825,7 +18365,7 @@
    "team": "이글즈",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 30,
+   "age": 31,
    "number": "17",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -17897,6 +18437,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -17920,7 +18464,7 @@
    "team": "마린즈",
    "pos": "SS",
    "tier": "코어",
-   "age": 29,
+   "age": 30,
    "number": "50",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -17994,6 +18538,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -18012,7 +18560,7 @@
    "team": "은퇴",
    "pos": "DH",
    "tier": "레귤러",
-   "age": 38,
+   "age": 39,
    "number": "18",
    "debutSeason": 2,
    "debutHalf": "전반기",
@@ -18131,6 +18679,10 @@
     {
      "season": 17,
      "team": "은퇴"
+    },
+    {
+     "season": 18,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -18151,10 +18703,10 @@
   "p158": {
    "id": "p158",
    "name": "앨퍼드",
-   "team": "프린스",
+   "team": "FA",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 33,
+   "age": 34,
    "number": "2",
    "debutSeason": 7,
    "debutHalf": "전반기",
@@ -18181,13 +18733,15 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": {
-    "startSeason": 13,
-    "endSeason": 18,
-    "total": 60,
-    "options": []
-   },
-   "contractHistory": [],
+   "contract": null,
+   "contractHistory": [
+    {
+     "startSeason": 13,
+     "endSeason": 18,
+     "total": 60,
+     "options": []
+    }
+   ],
    "awards": [],
    "titles": 0,
    "teamHistory": [
@@ -18242,6 +18796,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -18260,7 +18818,7 @@
    "team": "데빌스",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 32,
+   "age": 33,
    "number": "3",
    "debutSeason": 6,
    "debutHalf": "전반기",
@@ -18355,6 +18913,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -18367,7 +18929,7 @@
    "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "코어",
-   "age": 28,
+   "age": 29,
    "number": "1",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -18431,6 +18993,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -18440,10 +19006,10 @@
   "p161": {
    "id": "p161",
    "name": "헤인즈",
-   "team": "에스트로너츠",
+   "team": "FA",
    "pos": "RP",
    "tier": "엘리트",
-   "age": 25,
+   "age": 26,
    "number": "14",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -18501,6 +19067,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -18510,10 +19080,10 @@
   "p162": {
    "id": "p162",
    "name": "레너드",
-   "team": "버커니어스",
+   "team": "FA",
    "pos": "OF",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "13",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -18591,10 +19161,10 @@
   "p163": {
    "id": "p163",
    "name": "하이아트",
-   "team": "다이노스",
+   "team": "FA",
    "pos": "SP",
    "tier": "코어",
-   "age": 25,
+   "age": 26,
    "number": "",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -18649,6 +19219,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -18661,7 +19235,7 @@
    "team": "세이버스",
    "pos": "OF",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "8",
    "debutSeason": 13,
    "debutHalf": "후반기",
@@ -18718,6 +19292,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -18730,7 +19308,7 @@
    "team": "프린스",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 27,
+   "age": 28,
    "number": "4",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -18794,6 +19372,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -18806,7 +19388,7 @@
    "team": "라이언즈",
    "pos": "RP",
    "tier": "컨텐더",
-   "age": 26,
+   "age": 27,
    "number": "11",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -18886,7 +19468,7 @@
    "team": "마린즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 26,
+   "age": 27,
    "number": "5",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -18942,6 +19524,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -18954,7 +19540,7 @@
    "team": "세이버스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 30,
+   "age": 31,
    "number": "42",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -19026,6 +19612,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -19038,7 +19628,7 @@
    "team": "스틸러스",
    "pos": "3B",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "18",
    "debutSeason": 13,
    "debutHalf": "후반기",
@@ -19103,6 +19693,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -19115,7 +19709,7 @@
    "team": "데빌스",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 29,
+   "age": 30,
    "number": "23",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -19197,7 +19791,7 @@
    "team": "라이언즈",
    "pos": "OF",
    "tier": "코어",
-   "age": 28,
+   "age": 29,
    "number": "2",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -19264,6 +19858,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -19276,7 +19874,7 @@
    "team": "프린스",
    "pos": "SS",
    "tier": "코어",
-   "age": 29,
+   "age": 30,
    "number": "27",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -19346,6 +19944,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -19358,7 +19960,7 @@
    "team": "이글즈",
    "pos": "SP",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "1",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -19412,6 +20014,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -19424,7 +20030,7 @@
    "team": "스틸러스",
    "pos": "SP",
    "tier": "코어",
-   "age": 27,
+   "age": 28,
    "number": "5",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -19477,6 +20083,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -19489,7 +20099,7 @@
    "team": "라이언즈",
    "pos": "C",
    "tier": "코어",
-   "age": 27,
+   "age": 28,
    "number": "6",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -19547,6 +20157,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -19559,7 +20173,7 @@
    "team": "워리어스",
    "pos": "2B",
    "tier": "컨텐더",
-   "age": 23,
+   "age": 24,
    "number": "2",
    "debutSeason": 13,
    "debutHalf": "후반기",
@@ -19633,6 +20247,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -19645,7 +20263,7 @@
    "team": "다이너마이트",
    "pos": "3B",
    "tier": "엘리트",
-   "age": 26,
+   "age": 27,
    "number": "3",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -19699,6 +20317,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -19711,7 +20333,7 @@
    "team": "버커니어스",
    "pos": "SP",
    "tier": "코어",
-   "age": 24,
+   "age": 25,
    "number": "1",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -19764,6 +20386,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -19776,7 +20402,7 @@
    "team": "타이거즈",
    "pos": "SP",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "19",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -19830,6 +20456,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -19842,7 +20472,7 @@
    "team": "재즈",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 24,
+   "age": 25,
    "number": "2",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -19897,6 +20527,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -19909,7 +20543,7 @@
    "team": "이글즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "28",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -19963,6 +20597,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -19975,7 +20613,7 @@
    "team": "트레일 블레이저스",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "41",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -20028,6 +20666,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -20040,7 +20682,7 @@
    "team": "프린스",
    "pos": "3B",
    "tier": "코어",
-   "age": 29,
+   "age": 30,
    "number": "8",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -20124,7 +20766,7 @@
    "team": "트레일 블레이저스",
    "pos": "C",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "25",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -20201,7 +20843,7 @@
    "team": "마린즈",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 29,
+   "age": 30,
    "number": "21",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -20286,7 +20928,7 @@
    "team": "라이언즈",
    "pos": "2B",
    "tier": "레귤러",
-   "age": 30,
+   "age": 31,
    "number": "4",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -20369,7 +21011,7 @@
    "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 29,
+   "age": 30,
    "number": "29",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -20455,7 +21097,7 @@
    "team": "에스트로너츠",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 32,
+   "age": 33,
    "number": "2",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -20536,6 +21178,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -20548,7 +21194,7 @@
    "team": "워리어스",
    "pos": "RP",
    "tier": "코어",
-   "age": 32,
+   "age": 33,
    "number": "19",
    "debutSeason": 10,
    "debutHalf": "전반기",
@@ -20625,6 +21271,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -20634,10 +21284,10 @@
   "p190": {
    "id": "p190",
    "name": "마하",
-   "team": "워리어스",
+   "team": "FA",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "18",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -20696,6 +21346,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -20708,7 +21362,7 @@
    "team": "데빌스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "16",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -20767,6 +21421,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -20779,7 +21437,7 @@
    "team": "프린스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "15",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -20835,6 +21493,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -20847,7 +21509,7 @@
    "team": "다이노스",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "3",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -20903,6 +21565,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -20915,7 +21581,7 @@
    "team": "스틸러스",
    "pos": "2B",
    "tier": "레귤러",
-   "age": 29,
+   "age": 30,
    "number": "28",
    "debutSeason": 8,
    "debutHalf": "전반기",
@@ -20994,6 +21660,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -21006,7 +21676,7 @@
    "team": "에스트로너츠",
    "pos": "2B",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "7",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -21054,6 +21724,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -21066,7 +21740,7 @@
    "team": "워리어스",
    "pos": "3B",
    "tier": "엘리트",
-   "age": 26,
+   "age": 27,
    "number": "3",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -21117,6 +21791,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -21129,7 +21807,7 @@
    "team": "버커니어스",
    "pos": "SS",
    "tier": "코어",
-   "age": 23,
+   "age": 24,
    "number": "8",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -21179,6 +21857,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -21191,7 +21873,7 @@
    "team": "라이언즈",
    "pos": "SP",
    "tier": "코어",
-   "age": 25,
+   "age": 26,
    "number": "19",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -21239,6 +21921,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -21251,7 +21937,7 @@
    "team": "이글즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "11",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -21302,6 +21988,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -21314,7 +22004,7 @@
    "team": "세이버스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 26,
+   "age": 27,
    "number": "16",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -21363,6 +22053,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -21375,7 +22069,7 @@
    "team": "트레일 블레이저스",
    "pos": "OF",
    "tier": "코어",
-   "age": 27,
+   "age": 28,
    "number": "8",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -21425,6 +22119,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -21437,7 +22135,7 @@
    "team": "타이거즈",
    "pos": "OF",
    "tier": "컨텐더",
-   "age": 25,
+   "age": 26,
    "number": "36",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -21492,6 +22190,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -21504,7 +22206,7 @@
    "team": "버커니어스",
    "pos": "SP",
    "tier": "엘리트",
-   "age": 24,
+   "age": 25,
    "number": "10",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -21555,6 +22257,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -21567,7 +22273,7 @@
    "team": "스틸러스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "6",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -21620,6 +22326,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -21632,7 +22342,7 @@
    "team": "재즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "16",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -21699,6 +22409,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -21708,10 +22422,10 @@
   "p206": {
    "id": "p206",
    "name": "찰리",
-   "team": "에스트로너츠",
+   "team": "FA",
    "pos": "SP",
    "tier": "코어",
-   "age": 27,
+   "age": 28,
    "number": "15",
    "debutSeason": 13,
    "debutHalf": "전반기",
@@ -21766,6 +22480,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -21778,7 +22496,7 @@
    "team": "에스트로너츠",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 26,
+   "age": 27,
    "number": "26",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -21851,7 +22569,7 @@
    "team": "다이노스",
    "pos": "RP",
    "tier": "엘리트",
-   "age": 24,
+   "age": 25,
    "number": "20",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -21900,6 +22618,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -21912,7 +22634,7 @@
    "team": "마린즈",
    "pos": "RP",
    "tier": "코어",
-   "age": 28,
+   "age": 29,
    "number": "13",
    "debutSeason": 13,
    "debutHalf": "후반기",
@@ -21968,6 +22690,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -21980,7 +22706,7 @@
    "team": "워리어스",
    "pos": "RP",
    "tier": "코어",
-   "age": 25,
+   "age": 26,
    "number": "23",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -22029,6 +22755,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -22041,7 +22771,7 @@
    "team": "라이언즈",
    "pos": "RP",
    "tier": "코어",
-   "age": 31,
+   "age": 32,
    "number": "21",
    "debutSeason": 12,
    "debutHalf": "전반기",
@@ -22127,7 +22857,7 @@
    "team": "세이버스",
    "pos": "SP",
    "tier": "코어",
-   "age": 22,
+   "age": 23,
    "number": "7",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -22173,6 +22903,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -22185,7 +22919,7 @@
    "team": "이글즈",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "30",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -22232,6 +22966,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -22244,7 +22982,7 @@
    "team": "다이너마이트",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "14",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -22288,6 +23026,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -22300,7 +23042,7 @@
    "team": "에스트로너츠",
    "pos": "OF",
    "tier": "엘리트",
-   "age": 25,
+   "age": 26,
    "number": "9",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -22349,6 +23091,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -22361,7 +23107,7 @@
    "team": "챌린저스",
    "pos": "3B",
    "tier": "코어",
-   "age": 22,
+   "age": 23,
    "number": "5",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -22406,6 +23152,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -22418,7 +23168,7 @@
    "team": "마린즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 26,
+   "age": 27,
    "number": "24",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -22465,6 +23215,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -22477,7 +23231,7 @@
    "team": "데빌스",
    "pos": "SS",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "34",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -22521,6 +23275,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -22533,7 +23291,7 @@
    "team": "타이거즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "29",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -22577,6 +23335,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -22589,7 +23351,7 @@
    "team": "버커니어스",
    "pos": "RP",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "29",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -22632,6 +23394,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -22644,7 +23410,7 @@
    "team": "스틸러스",
    "pos": "SS",
    "tier": "코어",
-   "age": 27,
+   "age": 28,
    "number": "7",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -22698,6 +23464,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -22710,7 +23480,7 @@
    "team": "세이버스",
    "pos": "3B",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "13",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -22767,6 +23537,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -22779,7 +23553,7 @@
    "team": "라이언즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 28,
+   "age": 29,
    "number": "12",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -22835,6 +23609,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -22853,7 +23631,7 @@
    "team": "에스트로너츠",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "5",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -22903,6 +23681,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -22915,7 +23697,7 @@
    "team": "트레일 블레이저스",
    "pos": "SS",
    "tier": "코어",
-   "age": 26,
+   "age": 27,
    "number": "26",
    "debutSeason": 14,
    "debutHalf": "전반기",
@@ -22967,6 +23749,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -22979,7 +23765,7 @@
    "team": "에스트로너츠",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 29,
+   "age": 30,
    "number": "29",
    "debutSeason": 11,
    "debutHalf": "전반기",
@@ -23051,6 +23837,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -23062,7 +23852,7 @@
    "team": "챌린저스",
    "pos": "C",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "8",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -23107,6 +23897,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -23118,7 +23912,7 @@
    "team": "타이거즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "13",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -23160,6 +23954,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -23171,7 +23969,7 @@
    "team": "다이너마이트",
    "pos": "OF",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -23215,6 +24013,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -23226,7 +24028,7 @@
    "team": "세이버스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "21",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -23285,7 +24087,7 @@
    "team": "라이언즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "27",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -23329,6 +24131,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -23340,7 +24146,7 @@
    "team": "프린스",
    "pos": "C",
    "tier": "코어",
-   "age": 22,
+   "age": 23,
    "number": "6",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -23384,6 +24190,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -23395,7 +24205,7 @@
    "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "코어",
-   "age": 24,
+   "age": 25,
    "number": "14",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -23438,6 +24248,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -23449,7 +24263,7 @@
    "team": "마린즈",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "22",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -23490,6 +24304,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -23501,7 +24319,7 @@
    "team": "데빌스",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "25",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -23544,6 +24362,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -23555,7 +24377,7 @@
    "team": "이글즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "29",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -23599,6 +24421,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -23610,7 +24436,7 @@
    "team": "재즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 21,
+   "age": 22,
    "number": "30",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -23651,6 +24477,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -23662,7 +24492,7 @@
    "team": "에스트로너츠",
    "pos": "SS",
    "tier": "코어",
-   "age": 25,
+   "age": 26,
    "number": "27",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -23709,6 +24539,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -23720,7 +24554,7 @@
    "team": "스틸러스",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "13",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -23768,6 +24602,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -23779,7 +24617,7 @@
    "team": "챌린저스",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "12",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -23823,6 +24661,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -23834,7 +24676,7 @@
    "team": "트레일 블레이저스",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 26,
+   "age": 27,
    "number": "34",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -23880,6 +24722,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -23891,7 +24737,7 @@
    "team": "재즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "22",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -23940,6 +24786,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -23951,7 +24801,7 @@
    "team": "세이버스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 21,
+   "age": 22,
    "number": "11",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -23994,6 +24844,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -24005,7 +24859,7 @@
    "team": "이글즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "23",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -24047,6 +24901,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -24058,7 +24916,7 @@
    "team": "트레일 블레이저스",
    "pos": "2B",
    "tier": "레귤러",
-   "age": 21,
+   "age": 22,
    "number": "2",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -24101,6 +24959,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -24112,7 +24974,7 @@
    "team": "다이너마이트",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "31",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -24153,6 +25015,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -24164,7 +25030,7 @@
    "team": "에스트로너츠",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "16",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -24206,6 +25072,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -24217,7 +25087,7 @@
    "team": "다이너마이트",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "39",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -24261,6 +25131,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -24272,7 +25146,7 @@
    "team": "다이노스",
    "pos": "C",
    "tier": "레귤러",
-   "age": 26,
+   "age": 27,
    "number": "68",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -24328,6 +25202,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -24339,7 +25217,7 @@
    "team": "워리어스",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "21",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -24397,6 +25275,10 @@
     {
      "season": 17,
      "team": "워리어스"
+    },
+    {
+     "season": 18,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -24408,7 +25290,7 @@
    "team": "타이거즈",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "27",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -24452,6 +25334,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -24463,7 +25349,7 @@
    "team": "버커니어스",
    "pos": "1B",
    "tier": "레귤러",
-   "age": 26,
+   "age": 27,
    "number": "18",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -24531,7 +25417,7 @@
    "team": "에스트로너츠",
    "pos": "C",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "20",
    "debutSeason": 16,
    "debutHalf": "전반기",
@@ -24578,6 +25464,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -24589,7 +25479,7 @@
    "team": "스틸러스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "16",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -24635,6 +25525,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -24646,7 +25540,7 @@
    "team": "타이거즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "16",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -24693,6 +25587,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -24704,7 +25602,7 @@
    "team": "재즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "23",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -24749,6 +25647,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -24760,7 +25662,7 @@
    "team": "다이너마이트",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "12",
    "debutSeason": 15,
    "debutHalf": "전반기",
@@ -24810,6 +25712,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -24821,7 +25727,7 @@
    "team": "세이버스",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 27,
+   "age": 28,
    "number": "15",
    "debutSeason": 14,
    "debutHalf": "후반기",
@@ -24872,6 +25778,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -24883,7 +25793,7 @@
    "team": "에스트로너츠",
    "pos": "SP",
    "tier": "코어",
-   "age": 20,
+   "age": 21,
    "number": "1",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -24925,6 +25835,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -24936,7 +25850,7 @@
    "team": "이글즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 20,
+   "age": 21,
    "number": "80",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -24972,6 +25886,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -24983,7 +25901,7 @@
    "team": "이글즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "7",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25020,6 +25938,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -25031,7 +25953,7 @@
    "team": "다이너마이트",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 21,
+   "age": 22,
    "number": "18",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25068,6 +25990,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -25079,7 +26005,7 @@
    "team": "트레일 블레이저스",
    "pos": "SS",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25116,6 +26042,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -25127,7 +26057,7 @@
    "team": "세이버스",
    "pos": "C",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "20",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25165,6 +26095,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -25176,7 +26110,7 @@
    "team": "버커니어스",
    "pos": "OF",
    "tier": "코어",
-   "age": 23,
+   "age": 24,
    "number": "12",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -25214,6 +26148,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -25225,7 +26163,7 @@
    "team": "데빌스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "24",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25261,6 +26199,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -25272,7 +26214,7 @@
    "team": "챌린저스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 22,
+   "age": 23,
    "number": "33",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25309,6 +26251,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -25320,7 +26266,7 @@
    "team": "트레일 블레이저스",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 21,
+   "age": 22,
    "number": "30",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25360,6 +26306,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -25371,7 +26321,7 @@
    "team": "버커니어스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "2",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -25407,6 +26357,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -25418,7 +26372,7 @@
    "team": "타이거즈",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "41",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25455,6 +26409,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -25466,7 +26424,7 @@
    "team": "마린즈",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "28",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25503,6 +26461,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -25514,7 +26476,7 @@
    "team": "재즈",
    "pos": "OF",
    "tier": "레귤러",
-   "age": 24,
+   "age": 25,
    "number": "12",
    "debutSeason": 17,
    "debutHalf": "전반기",
@@ -25552,6 +26514,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -25563,7 +26529,7 @@
    "team": "다이너마이트",
    "pos": "3B",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25602,6 +26568,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -25613,7 +26583,7 @@
    "team": "프린스",
    "pos": "SP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "14",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25651,6 +26621,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -25662,7 +26636,7 @@
    "team": "타이거즈",
    "pos": "2B",
    "tier": "레귤러",
-   "age": 25,
+   "age": 26,
    "number": "32",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -25716,7 +26690,7 @@
    "team": "챌린저스",
    "pos": "SS",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25754,6 +26728,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -25765,7 +26743,7 @@
    "team": "이글즈",
    "pos": "SP",
    "tier": "C리그",
-   "age": 23,
+   "age": 24,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25802,6 +26780,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -25813,7 +26795,7 @@
    "team": "다이너마이트",
    "pos": "SP",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25850,6 +26832,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -25861,7 +26847,7 @@
    "team": "챌린저스",
    "pos": "1B",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25901,6 +26887,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -25912,7 +26902,7 @@
    "team": "다이노스",
    "pos": "OF",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25946,6 +26936,10 @@
     {
      "season": 17,
      "team": "다이노스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -25957,7 +26951,7 @@
    "team": "세이버스",
    "pos": "3B",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -25993,6 +26987,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -26004,7 +27002,7 @@
    "team": "다이너마이트",
    "pos": "OF",
    "tier": "C리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26037,6 +27035,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -26048,7 +27050,7 @@
    "team": "에스트로너츠",
    "pos": "OF",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26081,6 +27083,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -26092,7 +27098,7 @@
    "team": "버커니어스",
    "pos": "SS",
    "tier": "C리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26126,6 +27132,10 @@
     {
      "season": 17,
      "team": "버커니어스"
+    },
+    {
+     "season": 18,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -26137,7 +27147,7 @@
    "team": "데빌스",
    "pos": "SP",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26171,6 +27181,10 @@
     {
      "season": 17,
      "team": "데빌스"
+    },
+    {
+     "season": 18,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -26182,7 +27196,7 @@
    "team": "프린스",
    "pos": "SS",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26216,6 +27230,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "프린스"
     }
    ],
    "hof": null,
@@ -26227,7 +27245,7 @@
    "team": "이글즈",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "36",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -26261,6 +27279,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -26272,7 +27294,7 @@
    "team": "재즈",
    "pos": "SP",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26306,6 +27328,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "재즈"
     }
    ],
    "hof": null,
@@ -26317,7 +27343,7 @@
    "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26351,6 +27377,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -26362,7 +27392,7 @@
    "team": "타이거즈",
    "pos": "2B",
    "tier": "C리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26398,6 +27428,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -26409,7 +27443,7 @@
    "team": "마린즈",
    "pos": "SP",
    "tier": "C리그",
-   "age": 23,
+   "age": 24,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26443,6 +27477,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -26454,7 +27492,7 @@
    "team": "스틸러스",
    "pos": "C",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26489,6 +27527,10 @@
     {
      "season": 17,
      "team": "스틸러스"
+    },
+    {
+     "season": 18,
+     "team": "스틸러스"
     }
    ],
    "hof": null,
@@ -26500,7 +27542,7 @@
    "team": "챌린저스",
    "pos": "RP",
    "tier": "D리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26534,6 +27576,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -26545,7 +27591,7 @@
    "team": "다이너마이트",
    "pos": "OF",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26578,6 +27624,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -26589,7 +27639,7 @@
    "team": "챌린저스",
    "pos": "SP",
    "tier": "D리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26622,6 +27672,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "챌린저스"
     }
    ],
    "hof": null,
@@ -26633,7 +27687,7 @@
    "team": "다이너마이트",
    "pos": "RP",
    "tier": "레귤러",
-   "age": 23,
+   "age": 24,
    "number": "22",
    "debutSeason": 18,
    "debutHalf": "전반기",
@@ -26669,6 +27723,10 @@
     {
      "season": 17,
      "team": "다이너마이트"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -26680,7 +27738,7 @@
    "team": "세이버스",
    "pos": "OF",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26714,6 +27772,10 @@
     {
      "season": 17,
      "team": "세이버스"
+    },
+    {
+     "season": 18,
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -26725,7 +27787,7 @@
    "team": "이글즈",
    "pos": "SS",
    "tier": "C리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26759,6 +27821,10 @@
     {
      "season": 17,
      "team": "이글즈"
+    },
+    {
+     "season": 18,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -26770,7 +27836,7 @@
    "team": "에스트로너츠",
    "pos": "SS",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26803,6 +27869,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -26814,7 +27884,7 @@
    "team": "라이언즈",
    "pos": "OF",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26848,6 +27918,10 @@
     {
      "season": 17,
      "team": "라이언즈"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -26859,7 +27933,7 @@
    "team": "마린즈",
    "pos": "RP",
    "tier": "D리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26892,6 +27966,10 @@
     {
      "season": 17,
      "team": "마린즈"
+    },
+    {
+     "season": 18,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -26903,7 +27981,7 @@
    "team": "다이너마이트",
    "pos": "SP",
    "tier": "D리그",
-   "age": 17,
+   "age": 18,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26953,7 +28031,7 @@
    "team": "챌린저스",
    "pos": "3B",
    "tier": "D리그",
-   "age": 18,
+   "age": 19,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -26999,7 +28077,7 @@
    "team": "이글즈",
    "pos": "SS",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27045,7 +28123,7 @@
    "team": "에스트로너츠",
    "pos": "SP",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27089,7 +28167,7 @@
    "team": "스틸러스",
    "pos": "SS",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27134,7 +28212,7 @@
    "team": "세이버스",
    "pos": "2B",
    "tier": "D리그",
-   "age": 18,
+   "age": 19,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27180,7 +28258,7 @@
    "team": "다이노스",
    "pos": "SP",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27224,7 +28302,7 @@
    "team": "재즈",
    "pos": "OF",
    "tier": "D리그",
-   "age": 18,
+   "age": 19,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27270,7 +28348,7 @@
    "team": "버커니어스",
    "pos": "SP",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27316,7 +28394,7 @@
    "team": "마린즈",
    "pos": "1B",
    "tier": "D리그",
-   "age": 18,
+   "age": 19,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27362,7 +28440,7 @@
    "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27407,7 +28485,7 @@
    "team": "타이거즈",
    "pos": "SP",
    "tier": "D리그",
-   "age": 18,
+   "age": 19,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27454,7 +28532,7 @@
    "team": "데빌스",
    "pos": "SP",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27502,7 +28580,7 @@
    "team": "라이언즈",
    "pos": "OF",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27548,7 +28626,7 @@
    "team": "타이거즈",
    "pos": "SS",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27594,7 +28672,7 @@
    "team": "워리어스",
    "pos": "OF",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27641,7 +28719,7 @@
    "team": "다이너마이트",
    "pos": "OF",
    "tier": "D리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27687,7 +28765,7 @@
    "team": "챌린저스",
    "pos": "SP",
    "tier": "C리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27736,7 +28814,7 @@
    "team": "이글즈",
    "pos": "SP",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27783,7 +28861,7 @@
    "team": "에스트로너츠",
    "pos": "SP",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27830,7 +28908,7 @@
    "team": "스틸러스",
    "pos": "OF",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27871,7 +28949,7 @@
    "team": "세이버스",
    "pos": "SP",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27916,7 +28994,7 @@
    "team": "에스트로너츠",
    "pos": "2B",
    "tier": "D리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -27962,7 +29040,7 @@
    "team": "재즈",
    "pos": "SS",
    "tier": "D리그",
-   "age": 18,
+   "age": 19,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28007,7 +29085,7 @@
    "team": "세이버스",
    "pos": "SP",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28052,7 +29130,7 @@
    "team": "마린즈",
    "pos": "2B",
    "tier": "D리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28098,7 +29176,7 @@
    "team": "트레일 블레이저스",
    "pos": "OF",
    "tier": "C리그",
-   "age": 22,
+   "age": 23,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28144,7 +29222,7 @@
    "team": "이글즈",
    "pos": "SS",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28191,7 +29269,7 @@
    "team": "마린즈",
    "pos": "SS",
    "tier": "D리그",
-   "age": 20,
+   "age": 21,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28235,7 +29313,7 @@
    "team": "라이언즈",
    "pos": "RP",
    "tier": "C리그",
-   "age": 21,
+   "age": 22,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28279,7 +29357,7 @@
    "team": "이글즈",
    "pos": "OF",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -28326,7 +29404,7 @@
    "team": "챌린저스",
    "pos": "OF",
    "tier": "D리그",
-   "age": 19,
+   "age": 20,
    "number": "",
    "debutSeason": null,
    "debutHalf": "전반기",
@@ -62569,6 +63647,3440 @@
     }
    },
    "posters": {}
+  },
+  "18": {
+   "season": 18,
+   "standings": [
+    "프린스",
+    "라이언즈",
+    "워리어스",
+    "데빌스",
+    "마린즈",
+    "스틸러스",
+    "타이거즈",
+    "트레일 블레이저스",
+    "에스트로너츠",
+    "세이버스",
+    "다이노스",
+    "버커니어스",
+    "이글즈",
+    "다이너마이트",
+    "챌린저스",
+    "재즈"
+   ],
+   "ports": [
+    "프린스",
+    "워리어스",
+    "마린즈",
+    "스틸러스",
+    "라이언즈",
+    "데빌스"
+   ],
+   "divWinners": [
+    "프린스",
+    "워리어스",
+    "마린즈",
+    "스틸러스"
+   ],
+   "wildcards": [
+    "라이언즈",
+    "데빌스"
+   ],
+   "lottery": [
+    "다이노스",
+    "버커니어스",
+    "이글즈",
+    "다이너마이트",
+    "챌린저스",
+    "재즈"
+   ],
+   "champion": "프린스",
+   "finalists": [
+    "프린스",
+    "마린즈"
+   ],
+   "roster": [
+    {
+     "id": "p58",
+     "name": "블랑코",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 38
+    },
+    {
+     "id": "p71",
+     "name": "코스타",
+     "team": "트레일 블레이저스",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 38
+    },
+    {
+     "id": "p72",
+     "name": "야누스",
+     "team": "버커니어스",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 37
+    },
+    {
+     "id": "p73",
+     "name": "콜레로프",
+     "team": "마린즈",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 37
+    },
+    {
+     "id": "p74",
+     "name": "워싱턴",
+     "team": "프린스",
+     "pos": "SP",
+     "tier": "컨텐더",
+     "age": 36
+    },
+    {
+     "id": "p75",
+     "name": "아일린",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 36
+    },
+    {
+     "id": "p76",
+     "name": "토호루",
+     "team": "마린즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 37
+    },
+    {
+     "id": "p77",
+     "name": "칼리츠",
+     "team": "마린즈",
+     "pos": "DH",
+     "tier": "레귤러",
+     "age": 38
+    },
+    {
+     "id": "p80",
+     "name": "운남",
+     "team": "에스트로너츠",
+     "pos": "DH",
+     "tier": "레귤러",
+     "age": 39
+    },
+    {
+     "id": "p81",
+     "name": "팀",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 37
+    },
+    {
+     "id": "p83",
+     "name": "세티안",
+     "team": "다이너마이트",
+     "pos": "DH",
+     "tier": "코어",
+     "age": 37
+    },
+    {
+     "id": "p84",
+     "name": "히로",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "컨텐더",
+     "age": 36
+    },
+    {
+     "id": "p85",
+     "name": "에반",
+     "team": "워리어스",
+     "pos": "SS",
+     "tier": "엘리트",
+     "age": 35
+    },
+    {
+     "id": "p86",
+     "name": "노아",
+     "team": "데빌스",
+     "pos": "RP",
+     "tier": "코어",
+     "age": 37
+    },
+    {
+     "id": "p87",
+     "name": "헤네시",
+     "team": "워리어스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 34
+    },
+    {
+     "id": "p91",
+     "name": "토모시",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 36
+    },
+    {
+     "id": "p92",
+     "name": "포셔",
+     "team": "타이거즈",
+     "pos": "1B",
+     "tier": "엘리트",
+     "age": 33
+    },
+    {
+     "id": "p93",
+     "name": "테렐",
+     "team": "워리어스",
+     "pos": "DH",
+     "tier": "레귤러",
+     "age": 36
+    },
+    {
+     "id": "p94",
+     "name": "블랙셔",
+     "team": "라이언즈",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 35
+    },
+    {
+     "id": "p95",
+     "name": "나다니엘",
+     "team": "라이언즈",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 32
+    },
+    {
+     "id": "p96",
+     "name": "르메이아",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 35
+    },
+    {
+     "id": "p97",
+     "name": "벤달",
+     "team": "에스트로너츠",
+     "pos": "3B",
+     "tier": "레귤러",
+     "age": 35
+    },
+    {
+     "id": "p98",
+     "name": "그리핀",
+     "team": "다이노스",
+     "pos": "OF",
+     "tier": "컨텐더",
+     "age": 32
+    },
+    {
+     "id": "p99",
+     "name": "헨리",
+     "team": "데빌스",
+     "pos": "C",
+     "tier": "코어",
+     "age": 34
+    },
+    {
+     "id": "p100",
+     "name": "토니",
+     "team": "에스트로너츠",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 33
+    },
+    {
+     "id": "p101",
+     "name": "볼브",
+     "team": "이글즈",
+     "pos": "1B",
+     "tier": "레귤러",
+     "age": 34
+    },
+    {
+     "id": "p102",
+     "name": "켄트",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 32
+    },
+    {
+     "id": "p103",
+     "name": "맥커니",
+     "team": "데빌스",
+     "pos": "3B",
+     "tier": "컨텐더",
+     "age": 33
+    },
+    {
+     "id": "p104",
+     "name": "히튼",
+     "team": "워리어스",
+     "pos": "SP",
+     "tier": "컨텐더",
+     "age": 31
+    },
+    {
+     "id": "p105",
+     "name": "킨로",
+     "team": "스틸러스",
+     "pos": "SP",
+     "tier": "컨텐더",
+     "age": 32
+    },
+    {
+     "id": "p106",
+     "name": "베나세르",
+     "team": "재즈",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 31
+    },
+    {
+     "id": "p107",
+     "name": "예이츠",
+     "team": "라이언즈",
+     "pos": "SS",
+     "tier": "레귤러",
+     "age": 33
+    },
+    {
+     "id": "p108",
+     "name": "아데보",
+     "team": "트레일 블레이저스",
+     "pos": "DH",
+     "tier": "코어",
+     "age": 31
+    },
+    {
+     "id": "p109",
+     "name": "파란",
+     "team": "워리어스",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 31
+    },
+    {
+     "id": "p110",
+     "name": "라반테",
+     "team": "스틸러스",
+     "pos": "RP",
+     "tier": "코어",
+     "age": 33
+    },
+    {
+     "id": "p111",
+     "name": "아이다라",
+     "team": "세이버스",
+     "pos": "1B",
+     "tier": "엘리트",
+     "age": 30
+    },
+    {
+     "id": "p112",
+     "name": "우즈",
+     "team": "마린즈",
+     "pos": "2B",
+     "tier": "엘리트",
+     "age": 31
+    },
+    {
+     "id": "p113",
+     "name": "맥킨스트리",
+     "team": "다이너마이트",
+     "pos": "SS",
+     "tier": "엘리트",
+     "age": 30
+    },
+    {
+     "id": "p114",
+     "name": "클락스턴",
+     "team": "타이거즈",
+     "pos": "SS",
+     "tier": "엘리트",
+     "age": 32
+    },
+    {
+     "id": "p115",
+     "name": "터너",
+     "team": "라이언즈",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 31
+    },
+    {
+     "id": "p116",
+     "name": "마셜",
+     "team": "마린즈",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 29
+    },
+    {
+     "id": "p117",
+     "name": "피터슨",
+     "team": "데빌스",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 31
+    },
+    {
+     "id": "p118",
+     "name": "포이스",
+     "team": "마린즈",
+     "pos": "3B",
+     "tier": "컨텐더",
+     "age": 30
+    },
+    {
+     "id": "p119",
+     "name": "보라스",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 32
+    },
+    {
+     "id": "p120",
+     "name": "페서뇽",
+     "team": "다이노스",
+     "pos": "2B",
+     "tier": "코어",
+     "age": 31
+    },
+    {
+     "id": "p121",
+     "name": "캐논",
+     "team": "세이버스",
+     "pos": "SS",
+     "tier": "레귤러",
+     "age": 33
+    },
+    {
+     "id": "p122",
+     "name": "워맥",
+     "team": "프린스",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 32
+    },
+    {
+     "id": "p123",
+     "name": "존슨",
+     "team": "프린스",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 32
+    },
+    {
+     "id": "p124",
+     "name": "밀러",
+     "team": "데빌스",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 29
+    },
+    {
+     "id": "p125",
+     "name": "파쿤도",
+     "team": "라이언즈",
+     "pos": "3B",
+     "tier": "컨텐더",
+     "age": 29
+    },
+    {
+     "id": "p126",
+     "name": "클레만",
+     "team": "스틸러스",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 31
+    },
+    {
+     "id": "p127",
+     "name": "케네디",
+     "team": "프린스",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 31
+    },
+    {
+     "id": "p128",
+     "name": "맬러리",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 30
+    },
+    {
+     "id": "p129",
+     "name": "조나스",
+     "team": "스틸러스",
+     "pos": "C",
+     "tier": "코어",
+     "age": 31
+    },
+    {
+     "id": "p130",
+     "name": "누스마이어",
+     "team": "스틸러스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 30
+    },
+    {
+     "id": "p131",
+     "name": "세르히오",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "컨텐더",
+     "age": 27
+    },
+    {
+     "id": "p132",
+     "name": "메이슨",
+     "team": "마린즈",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 31
+    },
+    {
+     "id": "p133",
+     "name": "크로머",
+     "team": "타이거즈",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 29
+    },
+    {
+     "id": "p134",
+     "name": "필립",
+     "team": "다이노스",
+     "pos": "SS",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p135",
+     "name": "요아힘",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 30
+    },
+    {
+     "id": "p136",
+     "name": "요한",
+     "team": "재즈",
+     "pos": "SS",
+     "tier": "컨텐더",
+     "age": 27
+    },
+    {
+     "id": "p137",
+     "name": "포드휘튼",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "컨텐더",
+     "age": 29
+    },
+    {
+     "id": "p138",
+     "name": "카브레라",
+     "team": "다이너마이트",
+     "pos": "C",
+     "tier": "코어",
+     "age": 28
+    },
+    {
+     "id": "p139",
+     "name": "클라우디오",
+     "team": "프린스",
+     "pos": "SP",
+     "tier": "컨텐더",
+     "age": 27
+    },
+    {
+     "id": "p141",
+     "name": "어니스트",
+     "team": "타이거즈",
+     "pos": "RP",
+     "tier": "엘리트",
+     "age": 34
+    },
+    {
+     "id": "p142",
+     "name": "피네이로",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 32
+    },
+    {
+     "id": "p143",
+     "name": "미들턴",
+     "team": "세이버스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 35
+    },
+    {
+     "id": "p144",
+     "name": "디안드레",
+     "team": "챌린저스",
+     "pos": "DH",
+     "tier": "레귤러",
+     "age": 36
+    },
+    {
+     "id": "p145",
+     "name": "트라우트먼",
+     "team": "재즈",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 35
+    },
+    {
+     "id": "p146",
+     "name": "벌렌더",
+     "team": "스틸러스",
+     "pos": "1B",
+     "tier": "컨텐더",
+     "age": 27
+    },
+    {
+     "id": "p147",
+     "name": "커비",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 26
+    },
+    {
+     "id": "p148",
+     "name": "러츠",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 31
+    },
+    {
+     "id": "p149",
+     "name": "바셋",
+     "team": "버커니어스",
+     "pos": "C",
+     "tier": "코어",
+     "age": 27
+    },
+    {
+     "id": "p150",
+     "name": "핀리",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p151",
+     "name": "칼리엔도",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 26
+    },
+    {
+     "id": "p152",
+     "name": "엔더슨",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 27
+    },
+    {
+     "id": "p153",
+     "name": "트로이",
+     "team": "마린즈",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p154",
+     "name": "퀸",
+     "team": "워리어스",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 26
+    },
+    {
+     "id": "p155",
+     "name": "알드레드",
+     "team": "이글즈",
+     "pos": "DH",
+     "tier": "레귤러",
+     "age": 30
+    },
+    {
+     "id": "p156",
+     "name": "해밀턴",
+     "team": "마린즈",
+     "pos": "SS",
+     "tier": "코어",
+     "age": 29
+    },
+    {
+     "id": "p158",
+     "name": "앨퍼드",
+     "team": "프린스",
+     "pos": "1B",
+     "tier": "레귤러",
+     "age": 33
+    },
+    {
+     "id": "p159",
+     "name": "윌리엄스",
+     "team": "데빌스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 32
+    },
+    {
+     "id": "p160",
+     "name": "크림슨",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 28
+    },
+    {
+     "id": "p161",
+     "name": "헤인즈",
+     "team": "에스트로너츠",
+     "pos": "RP",
+     "tier": "엘리트",
+     "age": 25
+    },
+    {
+     "id": "p162",
+     "name": "레너드",
+     "team": "버커니어스",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p163",
+     "name": "하이아트",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 25
+    },
+    {
+     "id": "p164",
+     "name": "리븐",
+     "team": "세이버스",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p165",
+     "name": "벤슨",
+     "team": "프린스",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 27
+    },
+    {
+     "id": "p166",
+     "name": "훌리오",
+     "team": "라이언즈",
+     "pos": "RP",
+     "tier": "컨텐더",
+     "age": 26
+    },
+    {
+     "id": "p167",
+     "name": "더든",
+     "team": "마린즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 26
+    },
+    {
+     "id": "p168",
+     "name": "파슨스",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 30
+    },
+    {
+     "id": "p169",
+     "name": "커즌스",
+     "team": "스틸러스",
+     "pos": "3B",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p170",
+     "name": "나쿠아",
+     "team": "데빌스",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 29
+    },
+    {
+     "id": "p171",
+     "name": "코르테리엔",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 28
+    },
+    {
+     "id": "p172",
+     "name": "렉스",
+     "team": "프린스",
+     "pos": "SS",
+     "tier": "코어",
+     "age": 29
+    },
+    {
+     "id": "p173",
+     "name": "올센",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p174",
+     "name": "세군",
+     "team": "스틸러스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 27
+    },
+    {
+     "id": "p175",
+     "name": "피소로",
+     "team": "라이언즈",
+     "pos": "C",
+     "tier": "코어",
+     "age": 27
+    },
+    {
+     "id": "p176",
+     "name": "테버",
+     "team": "워리어스",
+     "pos": "2B",
+     "tier": "컨텐더",
+     "age": 23
+    },
+    {
+     "id": "p177",
+     "name": "워커",
+     "team": "다이너마이트",
+     "pos": "3B",
+     "tier": "엘리트",
+     "age": 26
+    },
+    {
+     "id": "p178",
+     "name": "칼슨",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 24
+    },
+    {
+     "id": "p179",
+     "name": "카서스",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p180",
+     "name": "아서",
+     "team": "재즈",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 24
+    },
+    {
+     "id": "p181",
+     "name": "비우크",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p182",
+     "name": "무노스",
+     "team": "트레일 블레이저스",
+     "pos": "1B",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p183",
+     "name": "홈즈",
+     "team": "프린스",
+     "pos": "3B",
+     "tier": "코어",
+     "age": 29
+    },
+    {
+     "id": "p184",
+     "name": "조니",
+     "team": "트레일 블레이저스",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p185",
+     "name": "카이츠",
+     "team": "마린즈",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 29
+    },
+    {
+     "id": "p186",
+     "name": "마틴",
+     "team": "라이언즈",
+     "pos": "2B",
+     "tier": "레귤러",
+     "age": 30
+    },
+    {
+     "id": "p187",
+     "name": "에버렛",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 29
+    },
+    {
+     "id": "p188",
+     "name": "타바이",
+     "team": "에스트로너츠",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 32
+    },
+    {
+     "id": "p189",
+     "name": "버크스",
+     "team": "워리어스",
+     "pos": "RP",
+     "tier": "코어",
+     "age": 32
+    },
+    {
+     "id": "p190",
+     "name": "마하",
+     "team": "워리어스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p191",
+     "name": "오웬스",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p192",
+     "name": "뤼프키",
+     "team": "프린스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p193",
+     "name": "허드슨",
+     "team": "다이노스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p194",
+     "name": "베일리",
+     "team": "스틸러스",
+     "pos": "2B",
+     "tier": "레귤러",
+     "age": 29
+    },
+    {
+     "id": "p195",
+     "name": "파스칼",
+     "team": "에스트로너츠",
+     "pos": "2B",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p196",
+     "name": "데버스",
+     "team": "워리어스",
+     "pos": "3B",
+     "tier": "엘리트",
+     "age": 26
+    },
+    {
+     "id": "p197",
+     "name": "올리바레스",
+     "team": "버커니어스",
+     "pos": "SS",
+     "tier": "코어",
+     "age": 23
+    },
+    {
+     "id": "p198",
+     "name": "도널드",
+     "team": "라이언즈",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 25
+    },
+    {
+     "id": "p199",
+     "name": "더커",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p200",
+     "name": "라힘",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 26
+    },
+    {
+     "id": "p201",
+     "name": "러커트",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 27
+    },
+    {
+     "id": "p202",
+     "name": "마자르",
+     "team": "타이거즈",
+     "pos": "OF",
+     "tier": "컨텐더",
+     "age": 25
+    },
+    {
+     "id": "p203",
+     "name": "폰",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "엘리트",
+     "age": 24
+    },
+    {
+     "id": "p204",
+     "name": "저스틴",
+     "team": "스틸러스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p205",
+     "name": "스크로닉",
+     "team": "재즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p206",
+     "name": "찰리",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 27
+    },
+    {
+     "id": "p207",
+     "name": "셔넬",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 26
+    },
+    {
+     "id": "p208",
+     "name": "암스테드",
+     "team": "다이노스",
+     "pos": "RP",
+     "tier": "엘리트",
+     "age": 24
+    },
+    {
+     "id": "p209",
+     "name": "에스크리지",
+     "team": "마린즈",
+     "pos": "RP",
+     "tier": "코어",
+     "age": 28
+    },
+    {
+     "id": "p210",
+     "name": "마빈",
+     "team": "워리어스",
+     "pos": "RP",
+     "tier": "코어",
+     "age": 25
+    },
+    {
+     "id": "p211",
+     "name": "자브릴",
+     "team": "라이언즈",
+     "pos": "RP",
+     "tier": "코어",
+     "age": 31
+    },
+    {
+     "id": "p212",
+     "name": "파커",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 22
+    },
+    {
+     "id": "p213",
+     "name": "그루지어",
+     "team": "이글즈",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p214",
+     "name": "디아모도어",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p215",
+     "name": "장주",
+     "team": "에스트로너츠",
+     "pos": "OF",
+     "tier": "엘리트",
+     "age": 25
+    },
+    {
+     "id": "p216",
+     "name": "비사치아",
+     "team": "챌린저스",
+     "pos": "3B",
+     "tier": "코어",
+     "age": 22
+    },
+    {
+     "id": "p217",
+     "name": "베텔",
+     "team": "마린즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 26
+    },
+    {
+     "id": "p218",
+     "name": "테오",
+     "team": "데빌스",
+     "pos": "SS",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p219",
+     "name": "말로우",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p220",
+     "name": "토마스",
+     "team": "버커니어스",
+     "pos": "RP",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p221",
+     "name": "그라인더",
+     "team": "스틸러스",
+     "pos": "SS",
+     "tier": "코어",
+     "age": 27
+    },
+    {
+     "id": "p222",
+     "name": "알렌",
+     "team": "세이버스",
+     "pos": "3B",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p223",
+     "name": "디미트리",
+     "team": "라이언즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 28
+    },
+    {
+     "id": "p224",
+     "name": "허스트",
+     "team": "에스트로너츠",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p225",
+     "name": "라이즈",
+     "team": "트레일 블레이저스",
+     "pos": "SS",
+     "tier": "코어",
+     "age": 26
+    },
+    {
+     "id": "p226",
+     "name": "허핀",
+     "team": "에스트로너츠",
+     "pos": "1B",
+     "tier": "레귤러",
+     "age": 29
+    },
+    {
+     "id": "p227",
+     "name": "베르만",
+     "team": "챌린저스",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p228",
+     "name": "로렌스",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p229",
+     "name": "에페네스",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p230",
+     "name": "켄드릭",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p231",
+     "name": "치크",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p233",
+     "name": "토레이라",
+     "team": "프린스",
+     "pos": "C",
+     "tier": "코어",
+     "age": 22
+    },
+    {
+     "id": "p234",
+     "name": "휘트",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 24
+    },
+    {
+     "id": "p235",
+     "name": "오닉",
+     "team": "마린즈",
+     "pos": "1B",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p236",
+     "name": "바인달",
+     "team": "데빌스",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p237",
+     "name": "닉슨",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p238",
+     "name": "파울리우",
+     "team": "재즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 21
+    },
+    {
+     "id": "p239",
+     "name": "폴",
+     "team": "에스트로너츠",
+     "pos": "SS",
+     "tier": "코어",
+     "age": 25
+    },
+    {
+     "id": "p240",
+     "name": "킹슬리",
+     "team": "스틸러스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p241",
+     "name": "햄린",
+     "team": "챌린저스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p242",
+     "name": "아켈로",
+     "team": "트레일 블레이저스",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 26
+    },
+    {
+     "id": "p243",
+     "name": "린더바움",
+     "team": "재즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p244",
+     "name": "베넷",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 21
+    },
+    {
+     "id": "p245",
+     "name": "마리오",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p246",
+     "name": "마이어",
+     "team": "트레일 블레이저스",
+     "pos": "2B",
+     "tier": "레귤러",
+     "age": 21
+    },
+    {
+     "id": "p247",
+     "name": "퀘즈",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p248",
+     "name": "짐머",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p249",
+     "name": "듀버네이",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p250",
+     "name": "바에르",
+     "team": "다이노스",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 26
+    },
+    {
+     "id": "p251",
+     "name": "카마라",
+     "team": "워리어스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p252",
+     "name": "아일리자",
+     "team": "타이거즈",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p253",
+     "name": "브랭크",
+     "team": "버커니어스",
+     "pos": "1B",
+     "tier": "레귤러",
+     "age": 26
+    },
+    {
+     "id": "p254",
+     "name": "토비",
+     "team": "에스트로너츠",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p255",
+     "name": "블라스코",
+     "team": "스틸러스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p256",
+     "name": "가버",
+     "team": "타이거즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p257",
+     "name": "락",
+     "team": "재즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p258",
+     "name": "샌더스",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p259",
+     "name": "럭스",
+     "team": "세이버스",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 27
+    },
+    {
+     "id": "p260",
+     "name": "페레즈",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "코어",
+     "age": 20
+    },
+    {
+     "id": "p261",
+     "name": "사르",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 20
+    },
+    {
+     "id": "p262",
+     "name": "바그너",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p263",
+     "name": "아이재아",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 21
+    },
+    {
+     "id": "p264",
+     "name": "조쉬",
+     "team": "트레일 블레이저스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p265",
+     "name": "브랜든",
+     "team": "세이버스",
+     "pos": "C",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p266",
+     "name": "나할",
+     "team": "버커니어스",
+     "pos": "OF",
+     "tier": "코어",
+     "age": 23
+    },
+    {
+     "id": "p267",
+     "name": "크위티",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p268",
+     "name": "카터",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 22
+    },
+    {
+     "id": "p269",
+     "name": "브라이언",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 21
+    },
+    {
+     "id": "p270",
+     "name": "워드",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p271",
+     "name": "제이시",
+     "team": "타이거즈",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p272",
+     "name": "젠킨스",
+     "team": "마린즈",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p273",
+     "name": "베이커",
+     "team": "재즈",
+     "pos": "OF",
+     "tier": "레귤러",
+     "age": 24
+    },
+    {
+     "id": "p274",
+     "name": "헤라르드",
+     "team": "다이너마이트",
+     "pos": "3B",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p275",
+     "name": "려즈완",
+     "team": "프린스",
+     "pos": "SP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p276",
+     "name": "세틀",
+     "team": "타이거즈",
+     "pos": "2B",
+     "tier": "레귤러",
+     "age": 25
+    },
+    {
+     "id": "p277",
+     "name": "산체스",
+     "team": "챌린저스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p278",
+     "name": "핸콕",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 23
+    },
+    {
+     "id": "p279",
+     "name": "켈리",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p280",
+     "name": "에르난데스",
+     "team": "챌린저스",
+     "pos": "1B",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p281",
+     "name": "코헨",
+     "team": "다이노스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p282",
+     "name": "코난",
+     "team": "세이버스",
+     "pos": "3B",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p283",
+     "name": "에이브라함",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p284",
+     "name": "험프리",
+     "team": "에스트로너츠",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p285",
+     "name": "베르흐게르",
+     "team": "버커니어스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p286",
+     "name": "뱅크스",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p287",
+     "name": "네일",
+     "team": "프린스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p288",
+     "name": "오션",
+     "team": "이글즈",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p289",
+     "name": "마르케즈",
+     "team": "재즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p290",
+     "name": "제이크",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p291",
+     "name": "포르티스",
+     "team": "타이거즈",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p292",
+     "name": "캘커테라",
+     "team": "마린즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 23
+    },
+    {
+     "id": "p293",
+     "name": "라파엘라",
+     "team": "스틸러스",
+     "pos": "C",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p294",
+     "name": "무디",
+     "team": "챌린저스",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p295",
+     "name": "조던",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p296",
+     "name": "코체트코프",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 21
+    },
+    {
+     "id": "p297",
+     "name": "버포드",
+     "team": "다이너마이트",
+     "pos": "RP",
+     "tier": "레귤러",
+     "age": 23
+    },
+    {
+     "id": "p298",
+     "name": "롱",
+     "team": "세이버스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p299",
+     "name": "게일",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p300",
+     "name": "해거티",
+     "team": "에스트로너츠",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p301",
+     "name": "스미스",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p302",
+     "name": "마르셀리",
+     "team": "마린즈",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 21
+    },
+    {
+     "id": "p303",
+     "name": "클레이",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 17
+    },
+    {
+     "id": "p304",
+     "name": "로든",
+     "team": "챌린저스",
+     "pos": "3B",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p305",
+     "name": "자이언",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p306",
+     "name": "오를로프",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p307",
+     "name": "이노아",
+     "team": "스틸러스",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p308",
+     "name": "타이리스",
+     "team": "세이버스",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p309",
+     "name": "이캄",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p310",
+     "name": "실러",
+     "team": "재즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p311",
+     "name": "메이너즈",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p312",
+     "name": "아론",
+     "team": "마린즈",
+     "pos": "1B",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p313",
+     "name": "브래디",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p314",
+     "name": "호프만 Jr",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p315",
+     "name": "샤크",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p316",
+     "name": "클락",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p317",
+     "name": "제레미",
+     "team": "타이거즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p318",
+     "name": "굿윈",
+     "team": "워리어스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p319",
+     "name": "버트리",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p320",
+     "name": "리키",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p321",
+     "name": "곽선웅",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p322",
+     "name": "나바레즈",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p323",
+     "name": "더글라스",
+     "team": "스틸러스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p324",
+     "name": "파웰",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p325",
+     "name": "트리스탄",
+     "team": "에스트로너츠",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p326",
+     "name": "케이타",
+     "team": "재즈",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p327",
+     "name": "머서",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p328",
+     "name": "유리아스",
+     "team": "마린즈",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p329",
+     "name": "시지카스",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p330",
+     "name": "귄터",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p331",
+     "name": "킬로매",
+     "team": "마린즈",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p332",
+     "name": "케일리",
+     "team": "라이언즈",
+     "pos": "RP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p333",
+     "name": "아마리",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p334",
+     "name": "버나드",
+     "team": "챌린저스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    }
+   ],
+   "coaches": {
+    "프린스": "호너",
+    "라이언즈": "제프리",
+    "타이거즈": "프릴런",
+    "다이노스": "뷔에스",
+    "마린즈": "글라스너",
+    "에스트로너츠": "존스",
+    "이글즈": "데브",
+    "트레일 블레이저스": "놀라",
+    "데빌스": "제이스",
+    "워리어스": "엘런",
+    "다이너마이트": "셰인",
+    "챌린저스": "트레이넨",
+    "스틸러스": "퓨리",
+    "재즈": "리베인",
+    "세이버스": "스티븐스",
+    "버커니어스": "코"
+   },
+   "pipeline": [
+    {
+     "id": "p279",
+     "name": "켈리",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p280",
+     "name": "에르난데스",
+     "team": "챌린저스",
+     "pos": "1B",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p303",
+     "name": "클레이",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 17
+    },
+    {
+     "id": "p281",
+     "name": "코헨",
+     "team": "다이노스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p283",
+     "name": "에이브라함",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p304",
+     "name": "로든",
+     "team": "챌린저스",
+     "pos": "3B",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p305",
+     "name": "자이언",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p286",
+     "name": "뱅크스",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p284",
+     "name": "험프리",
+     "team": "에스트로너츠",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p306",
+     "name": "오를로프",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p308",
+     "name": "타이리스",
+     "team": "세이버스",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p285",
+     "name": "베르흐게르",
+     "team": "버커니어스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p229",
+     "name": "에페네스",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p264",
+     "name": "조쉬",
+     "team": "트레일 블레이저스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p282",
+     "name": "코난",
+     "team": "세이버스",
+     "pos": "3B",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p291",
+     "name": "포르티스",
+     "team": "타이거즈",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p292",
+     "name": "캘커테라",
+     "team": "마린즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 23
+    },
+    {
+     "id": "p310",
+     "name": "실러",
+     "team": "재즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p317",
+     "name": "제레미",
+     "team": "타이거즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p274",
+     "name": "헤라르드",
+     "team": "다이너마이트",
+     "pos": "3B",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p278",
+     "name": "핸콕",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 23
+    },
+    {
+     "id": "p287",
+     "name": "네일",
+     "team": "프린스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p311",
+     "name": "메이너즈",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p290",
+     "name": "제이크",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p309",
+     "name": "이캄",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p312",
+     "name": "아론",
+     "team": "마린즈",
+     "pos": "1B",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p316",
+     "name": "클락",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p293",
+     "name": "라파엘라",
+     "team": "스틸러스",
+     "pos": "C",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p314",
+     "name": "호프만 Jr",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p294",
+     "name": "무디",
+     "team": "챌린저스",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p307",
+     "name": "이노아",
+     "team": "스틸러스",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p315",
+     "name": "샤크",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p313",
+     "name": "브래디",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p300",
+     "name": "해거티",
+     "team": "에스트로너츠",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p318",
+     "name": "굿윈",
+     "team": "워리어스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p295",
+     "name": "조던",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p289",
+     "name": "마르케즈",
+     "team": "재즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p298",
+     "name": "롱",
+     "team": "세이버스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p296",
+     "name": "코체트코프",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 21
+    },
+    {
+     "id": "p299",
+     "name": "게일",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 19
+    },
+    {
+     "id": "p325",
+     "name": "트리스탄",
+     "team": "에스트로너츠",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p302",
+     "name": "마르셀리",
+     "team": "마린즈",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 21
+    },
+    {
+     "id": "p301",
+     "name": "스미스",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p319",
+     "name": "버트리",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p320",
+     "name": "리키",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20
+    },
+    {
+     "id": "p333",
+     "name": "아마리",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p321",
+     "name": "곽선웅",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p322",
+     "name": "나바레즈",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p323",
+     "name": "더글라스",
+     "team": "스틸러스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p324",
+     "name": "파웰",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p326",
+     "name": "케이타",
+     "team": "재즈",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 18
+    },
+    {
+     "id": "p277",
+     "name": "산체스",
+     "team": "챌린저스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p327",
+     "name": "머서",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19
+    },
+    {
+     "id": "p328",
+     "name": "유리아스",
+     "team": "마린즈",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p329",
+     "name": "시지카스",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22
+    },
+    {
+     "id": "p330",
+     "name": "귄터",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p331",
+     "name": "킬로매",
+     "team": "마린즈",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20
+    },
+    {
+     "id": "p332",
+     "name": "케일리",
+     "team": "라이언즈",
+     "pos": "RP",
+     "tier": "C리그",
+     "age": 21
+    },
+    {
+     "id": "p334",
+     "name": "버나드",
+     "team": "챌린저스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19
+    }
+   ],
+   "note": "",
+   "playoff": [
+    {
+     "round": "1차 플레이오프",
+     "a": "스틸러스",
+     "b": "라이언즈",
+     "winner": "라이언즈"
+    },
+    {
+     "round": "1차 플레이오프",
+     "a": "마린즈",
+     "b": "데빌스",
+     "winner": "마린즈"
+    },
+    {
+     "round": "2차 플레이오프",
+     "a": "프린스",
+     "b": "라이언즈",
+     "winner": "프린스"
+    },
+    {
+     "round": "2차 플레이오프",
+     "a": "워리어스",
+     "b": "마린즈",
+     "winner": "마린즈"
+    },
+    {
+     "round": "파이널",
+     "a": "프린스",
+     "b": "마린즈",
+     "winner": "프린스"
+    }
+   ],
+   "months": {
+    "4": {
+     "standings": [
+      "프린스",
+      "워리어스",
+      "마린즈",
+      "스틸러스",
+      "라이언즈",
+      "타이거즈",
+      "트레일 블레이저스",
+      "버커니어스",
+      "에스트로너츠",
+      "다이노스",
+      "세이버스",
+      "데빌스",
+      "다이너마이트",
+      "이글즈",
+      "챌린저스",
+      "재즈"
+     ],
+     "races": {
+      "MVP": [
+       "p116",
+       "p176",
+       "p133"
+      ],
+      "BP": [
+       "p74",
+       "p154",
+       "p137"
+      ],
+      "ROOKIE": [
+       "p212",
+       "p240",
+       "p288"
+      ]
+     },
+     "potmBat": "p116",
+     "potmPit": "p74",
+     "injuries": [
+      {
+       "playerId": "p196",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p174",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p180",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p108",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p247",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p161",
+       "note": "",
+       "months": 1
+      }
+     ]
+    },
+    "5": {
+     "standings": [
+      "워리어스",
+      "마린즈",
+      "프린스",
+      "스틸러스",
+      "타이거즈",
+      "라이언즈",
+      "버커니어스",
+      "에스트로너츠",
+      "트레일 블레이저스",
+      "데빌스",
+      "다이노스",
+      "세이버스",
+      "다이너마이트",
+      "이글즈",
+      "재즈",
+      "챌린저스"
+     ],
+     "races": {
+      "MVP": [
+       "p116",
+       "p165",
+       "p112"
+      ],
+      "BP": [
+       "p74",
+       "p58",
+       "p95"
+      ],
+      "ROOKIE": [
+       "p212",
+       "p260",
+       "p240"
+      ]
+     },
+     "potmBat": "p165",
+     "potmPit": "p58",
+     "injuries": [
+      {
+       "playerId": "p84",
+       "note": "",
+       "months": 7
+      },
+      {
+       "playerId": "p98",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p71",
+       "note": "",
+       "months": 2
+      },
+      {
+       "playerId": "p224",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p199",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p194",
+       "note": "",
+       "months": 1
+      }
+     ]
+    },
+    "6": {
+     "standings": [
+      "마린즈",
+      "프린스",
+      "워리어스",
+      "타이거즈",
+      "라이언즈",
+      "스틸러스",
+      "에스트로너츠",
+      "데빌스",
+      "트레일 블레이저스",
+      "버커니어스",
+      "세이버스",
+      "다이너마이트",
+      "다이노스",
+      "이글즈",
+      "재즈",
+      "챌린저스"
+     ],
+     "races": {
+      "MVP": [
+       "p116",
+       "p112",
+       "p165"
+      ],
+      "BP": [
+       "p74",
+       "p154",
+       "p75"
+      ],
+      "ROOKIE": [
+       "p260",
+       "p212",
+       "p262"
+      ]
+     },
+     "potmBat": "p114",
+     "potmPit": "p74",
+     "injuries": [
+      {
+       "playerId": "p192",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p222",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p144",
+       "note": "",
+       "months": 3
+      },
+      {
+       "playerId": "p191",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p235",
+       "note": "",
+       "months": 1
+      }
+     ]
+    },
+    "8": {
+     "standings": [
+      "프린스",
+      "마린즈",
+      "라이언즈",
+      "워리어스",
+      "타이거즈",
+      "데빌스",
+      "스틸러스",
+      "에스트로너츠",
+      "트레일 블레이저스",
+      "세이버스",
+      "다이노스",
+      "버커니어스",
+      "이글즈",
+      "다이너마이트",
+      "재즈",
+      "챌린저스"
+     ],
+     "races": {
+      "MVP": [
+       "p116",
+       "p74",
+       "p112"
+      ],
+      "BP": [
+       "p74",
+       "p154",
+       "p95"
+      ],
+      "ROOKIE": [
+       "p260",
+       "p262",
+       "p240"
+      ]
+     },
+     "potmBat": "p171",
+     "potmPit": "p151",
+     "injuries": [
+      {
+       "playerId": "p202",
+       "note": "",
+       "months": 2
+      },
+      {
+       "playerId": "p146",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p136",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p130",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p205",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p93",
+       "note": "",
+       "months": 1
+      }
+     ]
+    },
+    "9": {
+     "standings": [
+      "프린스",
+      "워리어스",
+      "라이언즈",
+      "마린즈",
+      "데빌스",
+      "타이거즈",
+      "스틸러스",
+      "트레일 블레이저스",
+      "에스트로너츠",
+      "세이버스",
+      "다이노스",
+      "이글즈",
+      "다이너마이트",
+      "버커니어스",
+      "챌린저스",
+      "재즈"
+     ],
+     "races": {
+      "MVP": [
+       "p74",
+       "p165",
+       "p116"
+      ],
+      "BP": [
+       "p74",
+       "p154",
+       "p137"
+      ],
+      "ROOKIE": [
+       "p260",
+       "p262",
+       "p244"
+      ]
+     },
+     "potmBat": "p98",
+     "potmPit": "p74",
+     "injuries": [
+      {
+       "playerId": "p199",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p213",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p111",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p87",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p134",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p203",
+       "note": "",
+       "months": 2
+      }
+     ]
+    },
+    "10": {
+     "standings": [
+      "프린스",
+      "라이언즈",
+      "워리어스",
+      "데빌스",
+      "마린즈",
+      "스틸러스",
+      "타이거즈",
+      "트레일 블레이저스",
+      "에스트로너츠",
+      "세이버스",
+      "다이노스",
+      "버커니어스",
+      "이글즈",
+      "다이너마이트",
+      "챌린저스",
+      "재즈"
+     ],
+     "races": {
+      "MVP": [
+       "p74",
+       "p165",
+       "p133"
+      ],
+      "BP": [
+       "p74",
+       "p154",
+       "p95"
+      ],
+      "ROOKIE": [
+       "p260",
+       "p262",
+       "p244"
+      ]
+     },
+     "potmBat": "p262",
+     "potmPit": "p166",
+     "injuries": [
+      {
+       "playerId": "p223",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p181",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p263",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p169",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p168",
+       "note": "",
+       "months": 1
+      },
+      {
+       "playerId": "p99",
+       "note": "",
+       "months": 1
+      }
+     ]
+    }
+   },
+   "offseason": [
+    {
+     "kind": "trade",
+     "playerId": "p119",
+     "from": "데빌스",
+     "to": "챌린저스",
+     "applied": true,
+     "ret": []
+    },
+    {
+     "kind": "trade",
+     "playerId": "p207",
+     "from": "타이거즈",
+     "to": "에스트로너츠",
+     "applied": true,
+     "ret": []
+    },
+    {
+     "kind": "trade",
+     "playerId": "p276",
+     "from": "에스트로너츠",
+     "to": "타이거즈",
+     "applied": true,
+     "ret": []
+    },
+    {
+     "kind": "fa",
+     "playerId": "p166",
+     "to": "라이언즈",
+     "total": 150,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p72",
+     "to": "버커니어스",
+     "total": 15,
+     "years": 1,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p170",
+     "to": "데빌스",
+     "total": 40,
+     "years": 4,
+     "applied": true
+    },
+    {
+     "kind": "trade",
+     "playerId": "p230",
+     "from": "버커니어스",
+     "to": "세이버스",
+     "applied": true,
+     "ret": []
+    },
+    {
+     "kind": "trade",
+     "playerId": "p253",
+     "from": "세이버스",
+     "to": "버커니어스",
+     "applied": true,
+     "ret": []
+    },
+    {
+     "kind": "fa",
+     "playerId": "p183",
+     "to": "프린스",
+     "total": 50,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p114",
+     "to": "타이거즈",
+     "total": 160,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p110",
+     "to": "스틸러스",
+     "total": 60,
+     "years": 4,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p83",
+     "to": "다이너마이트",
+     "total": 40,
+     "years": 2,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p145",
+     "to": "재즈",
+     "total": 20,
+     "years": 2,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p122",
+     "to": "프린스",
+     "total": 20,
+     "years": 2,
+     "applied": true
+    },
+    {
+     "kind": "trade",
+     "playerId": "p86",
+     "from": "다이노스",
+     "to": "데빌스",
+     "applied": true,
+     "ret": []
+    },
+    {
+     "kind": "fa",
+     "playerId": "p186",
+     "to": "라이언즈",
+     "total": 50,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p184",
+     "to": "트레일 블레이저스",
+     "total": 50,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p187",
+     "to": "트레일 블레이저스",
+     "total": 50,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p93",
+     "to": "워리어스",
+     "total": 20,
+     "years": 2,
+     "applied": true
+    },
+    {
+     "kind": "trade",
+     "playerId": "p162",
+     "from": "워리어스",
+     "to": "버커니어스",
+     "applied": true,
+     "ret": []
+    },
+    {
+     "kind": "fa",
+     "playerId": "p185",
+     "to": "마린즈",
+     "total": 50,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p134",
+     "to": "다이노스",
+     "total": 50,
+     "years": 5,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p91",
+     "to": "다이너마이트",
+     "total": 20,
+     "years": 2,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p211",
+     "to": "라이언즈",
+     "total": 4,
+     "years": 60,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p142",
+     "to": "다이노스",
+     "total": 30,
+     "years": 3,
+     "applied": true
+    },
+    {
+     "kind": "fa",
+     "playerId": "p143",
+     "to": "세이버스",
+     "total": 20,
+     "years": 2,
+     "applied": true
+    }
+   ],
+   "budgets": {
+    "프린스": 260,
+    "라이언즈": 235,
+    "타이거즈": 240,
+    "다이노스": 145,
+    "마린즈": 205,
+    "에스트로너츠": 175,
+    "이글즈": 140,
+    "트레일 블레이저스": 135,
+    "데빌스": 235,
+    "워리어스": 215,
+    "다이너마이트": 120,
+    "챌린저스": 115,
+    "스틸러스": 190,
+    "재즈": 120,
+    "세이버스": 105,
+    "버커니어스": 170
+   },
+   "allstar": {
+    "teamA": {
+     "name": "서북부",
+     "captain": "p176",
+     "members": [
+      {
+       "playerId": "p154",
+       "pos": "선발"
+      },
+      {
+       "playerId": "p129",
+       "pos": "포수"
+      },
+      {
+       "playerId": "p146",
+       "pos": "1루"
+      },
+      {
+       "playerId": "p176",
+       "pos": "2루"
+      },
+      {
+       "playerId": "p103",
+       "pos": "3루"
+      },
+      {
+       "playerId": "p85",
+       "pos": "유격"
+      },
+      {
+       "playerId": "p126",
+       "pos": "외야"
+      },
+      {
+       "playerId": "p72",
+       "pos": "외야"
+      },
+      {
+       "playerId": "p251",
+       "pos": "외야"
+      },
+      {
+       "playerId": "p93",
+       "pos": "지명"
+      },
+      {
+       "playerId": "p58",
+       "pos": "투수"
+      },
+      {
+       "playerId": "p147",
+       "pos": "투수"
+      },
+      {
+       "playerId": "p212",
+       "pos": "투수"
+      },
+      {
+       "playerId": "p189",
+       "pos": "투수"
+      }
+     ],
+     "divFilter": [
+      "서부",
+      "북부"
+     ]
+    },
+    "teamB": {
+     "name": "동남부",
+     "captain": "p74",
+     "members": [
+      {
+       "playerId": "p74",
+       "pos": "선발"
+      },
+      {
+       "playerId": "p233",
+       "pos": "포수"
+      },
+      {
+       "playerId": "p92",
+       "pos": "1루"
+      },
+      {
+       "playerId": "p112",
+       "pos": "2루"
+      },
+      {
+       "playerId": "p125",
+       "pos": "3루"
+      },
+      {
+       "playerId": "p114",
+       "pos": "유격"
+      },
+      {
+       "playerId": "p165",
+       "pos": "외야"
+      },
+      {
+       "playerId": "p133",
+       "pos": "외야"
+      },
+      {
+       "playerId": "p116",
+       "pos": "외야"
+      },
+      {
+       "playerId": "p77",
+       "pos": "지명"
+      },
+      {
+       "playerId": "p95",
+       "pos": "투수"
+      },
+      {
+       "playerId": "p75",
+       "pos": "투수"
+      },
+      {
+       "playerId": "p137",
+       "pos": "투수"
+      },
+      {
+       "playerId": "p166",
+       "pos": "투수"
+      }
+     ],
+     "divFilter": [
+      "남부",
+      "동부"
+     ]
+    },
+    "result": {
+     "teamAScore": 2,
+     "teamBScore": 5,
+     "mvpId": "p233"
+    },
+    "subs": [],
+    "note": ""
+   },
+   "awards": [
+    {
+     "name": "MVP",
+     "playerId": "p74"
+    },
+    {
+     "name": "BP",
+     "playerId": "p74"
+    },
+    {
+     "name": "BRP",
+     "playerId": "p166"
+    }
+   ],
+   "awardsNote": ""
   }
  },
  "hofRounds": 3,
@@ -63741,781 +68253,9 @@
   "tax3Rate": 200
  },
  "live": {
-  "season": 18,
-  "months": {
-   "4": {
-    "standings": [
-     "프린스",
-     "워리어스",
-     "마린즈",
-     "스틸러스",
-     "라이언즈",
-     "타이거즈",
-     "트레일 블레이저스",
-     "버커니어스",
-     "에스트로너츠",
-     "다이노스",
-     "세이버스",
-     "데빌스",
-     "다이너마이트",
-     "이글즈",
-     "챌린저스",
-     "재즈"
-    ],
-    "races": {
-     "MVP": [
-      "p116",
-      "p176",
-      "p133"
-     ],
-     "BP": [
-      "p74",
-      "p154",
-      "p137"
-     ],
-     "ROOKIE": [
-      "p212",
-      "p240",
-      "p288"
-     ]
-    },
-    "potmBat": "p116",
-    "potmPit": "p74",
-    "injuries": [
-     {
-      "playerId": "p196",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p174",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p180",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p108",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p247",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p161",
-      "note": "",
-      "months": 1
-     }
-    ]
-   },
-   "5": {
-    "standings": [
-     "워리어스",
-     "마린즈",
-     "프린스",
-     "스틸러스",
-     "타이거즈",
-     "라이언즈",
-     "버커니어스",
-     "에스트로너츠",
-     "트레일 블레이저스",
-     "데빌스",
-     "다이노스",
-     "세이버스",
-     "다이너마이트",
-     "이글즈",
-     "재즈",
-     "챌린저스"
-    ],
-    "races": {
-     "MVP": [
-      "p116",
-      "p165",
-      "p112"
-     ],
-     "BP": [
-      "p74",
-      "p58",
-      "p95"
-     ],
-     "ROOKIE": [
-      "p212",
-      "p260",
-      "p240"
-     ]
-    },
-    "potmBat": "p165",
-    "potmPit": "p58",
-    "injuries": [
-     {
-      "playerId": "p84",
-      "note": "",
-      "months": 7
-     },
-     {
-      "playerId": "p98",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p71",
-      "note": "",
-      "months": 2
-     },
-     {
-      "playerId": "p224",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p199",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p194",
-      "note": "",
-      "months": 1
-     }
-    ]
-   },
-   "6": {
-    "standings": [
-     "마린즈",
-     "프린스",
-     "워리어스",
-     "타이거즈",
-     "라이언즈",
-     "스틸러스",
-     "에스트로너츠",
-     "데빌스",
-     "트레일 블레이저스",
-     "버커니어스",
-     "세이버스",
-     "다이너마이트",
-     "다이노스",
-     "이글즈",
-     "재즈",
-     "챌린저스"
-    ],
-    "races": {
-     "MVP": [
-      "p116",
-      "p112",
-      "p165"
-     ],
-     "BP": [
-      "p74",
-      "p154",
-      "p75"
-     ],
-     "ROOKIE": [
-      "p260",
-      "p212",
-      "p262"
-     ]
-    },
-    "potmBat": "p114",
-    "potmPit": "p74",
-    "injuries": [
-     {
-      "playerId": "p192",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p222",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p144",
-      "note": "",
-      "months": 3
-     },
-     {
-      "playerId": "p191",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p235",
-      "note": "",
-      "months": 1
-     }
-    ]
-   },
-   "8": {
-    "standings": [
-     "프린스",
-     "마린즈",
-     "라이언즈",
-     "워리어스",
-     "타이거즈",
-     "데빌스",
-     "스틸러스",
-     "에스트로너츠",
-     "트레일 블레이저스",
-     "세이버스",
-     "다이노스",
-     "버커니어스",
-     "이글즈",
-     "다이너마이트",
-     "재즈",
-     "챌린저스"
-    ],
-    "races": {
-     "MVP": [
-      "p116",
-      "p74",
-      "p112"
-     ],
-     "BP": [
-      "p74",
-      "p154",
-      "p95"
-     ],
-     "ROOKIE": [
-      "p260",
-      "p262",
-      "p240"
-     ]
-    },
-    "potmBat": "p171",
-    "potmPit": "p151",
-    "injuries": [
-     {
-      "playerId": "p202",
-      "note": "",
-      "months": 2
-     },
-     {
-      "playerId": "p146",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p136",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p130",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p205",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p93",
-      "note": "",
-      "months": 1
-     }
-    ]
-   },
-   "9": {
-    "standings": [
-     "프린스",
-     "워리어스",
-     "라이언즈",
-     "마린즈",
-     "데빌스",
-     "타이거즈",
-     "스틸러스",
-     "트레일 블레이저스",
-     "에스트로너츠",
-     "세이버스",
-     "다이노스",
-     "이글즈",
-     "다이너마이트",
-     "버커니어스",
-     "챌린저스",
-     "재즈"
-    ],
-    "races": {
-     "MVP": [
-      "p74",
-      "p165",
-      "p116"
-     ],
-     "BP": [
-      "p74",
-      "p154",
-      "p137"
-     ],
-     "ROOKIE": [
-      "p260",
-      "p262",
-      "p244"
-     ]
-    },
-    "potmBat": "p98",
-    "potmPit": "p74",
-    "injuries": [
-     {
-      "playerId": "p199",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p213",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p111",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p87",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p134",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p203",
-      "note": "",
-      "months": 2
-     }
-    ]
-   },
-   "10": {
-    "standings": [
-     "프린스",
-     "라이언즈",
-     "워리어스",
-     "데빌스",
-     "마린즈",
-     "스틸러스",
-     "타이거즈",
-     "트레일 블레이저스",
-     "에스트로너츠",
-     "세이버스",
-     "다이노스",
-     "버커니어스",
-     "이글즈",
-     "다이너마이트",
-     "챌린저스",
-     "재즈"
-    ],
-    "races": {
-     "MVP": [
-      "p74",
-      "p165",
-      "p133"
-     ],
-     "BP": [
-      "p74",
-      "p154",
-      "p95"
-     ],
-     "ROOKIE": [
-      "p260",
-      "p262",
-      "p244"
-     ]
-    },
-    "potmBat": "p262",
-    "potmPit": "p166",
-    "injuries": [
-     {
-      "playerId": "p223",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p181",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p263",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p169",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p168",
-      "note": "",
-      "months": 1
-     },
-     {
-      "playerId": "p99",
-      "note": "",
-      "months": 1
-     }
-    ]
-   }
-  },
-  "offseason": [
-   {
-    "kind": "trade",
-    "playerId": "p119",
-    "from": "데빌스",
-    "to": "챌린저스",
-    "applied": true,
-    "ret": []
-   },
-   {
-    "kind": "trade",
-    "playerId": "p207",
-    "from": "타이거즈",
-    "to": "에스트로너츠",
-    "applied": true,
-    "ret": []
-   },
-   {
-    "kind": "trade",
-    "playerId": "p276",
-    "from": "에스트로너츠",
-    "to": "타이거즈",
-    "applied": true,
-    "ret": []
-   },
-   {
-    "kind": "fa",
-    "playerId": "p166",
-    "to": "라이언즈",
-    "total": 150,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p72",
-    "to": "버커니어스",
-    "total": 15,
-    "years": 1,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p170",
-    "to": "데빌스",
-    "total": 40,
-    "years": 4,
-    "applied": true
-   },
-   {
-    "kind": "trade",
-    "playerId": "p230",
-    "from": "버커니어스",
-    "to": "세이버스",
-    "applied": true,
-    "ret": []
-   },
-   {
-    "kind": "trade",
-    "playerId": "p253",
-    "from": "세이버스",
-    "to": "버커니어스",
-    "applied": true,
-    "ret": []
-   },
-   {
-    "kind": "fa",
-    "playerId": "p183",
-    "to": "프린스",
-    "total": 50,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p114",
-    "to": "타이거즈",
-    "total": 160,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p110",
-    "to": "스틸러스",
-    "total": 60,
-    "years": 4,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p83",
-    "to": "다이너마이트",
-    "total": 40,
-    "years": 2,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p145",
-    "to": "재즈",
-    "total": 20,
-    "years": 2,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p122",
-    "to": "프린스",
-    "total": 20,
-    "years": 2,
-    "applied": true
-   },
-   {
-    "kind": "trade",
-    "playerId": "p86",
-    "from": "다이노스",
-    "to": "데빌스",
-    "applied": true,
-    "ret": []
-   },
-   {
-    "kind": "fa",
-    "playerId": "p186",
-    "to": "라이언즈",
-    "total": 50,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p184",
-    "to": "트레일 블레이저스",
-    "total": 50,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p187",
-    "to": "트레일 블레이저스",
-    "total": 50,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p93",
-    "to": "워리어스",
-    "total": 20,
-    "years": 2,
-    "applied": true
-   },
-   {
-    "kind": "trade",
-    "playerId": "p162",
-    "from": "워리어스",
-    "to": "버커니어스",
-    "applied": true,
-    "ret": []
-   },
-   {
-    "kind": "fa",
-    "playerId": "p185",
-    "to": "마린즈",
-    "total": 50,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p134",
-    "to": "다이노스",
-    "total": 50,
-    "years": 5,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p91",
-    "to": "다이너마이트",
-    "total": 20,
-    "years": 2,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p211",
-    "to": "라이언즈",
-    "total": 4,
-    "years": 60,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p142",
-    "to": "다이노스",
-    "total": 30,
-    "years": 3,
-    "applied": true
-   },
-   {
-    "kind": "fa",
-    "playerId": "p143",
-    "to": "세이버스",
-    "total": 20,
-    "years": 2,
-    "applied": true
-   }
-  ],
-  "allstar": {
-   "teamA": {
-    "name": "서북부",
-    "captain": "p176",
-    "members": [
-     {
-      "playerId": "p154",
-      "pos": "선발"
-     },
-     {
-      "playerId": "p129",
-      "pos": "포수"
-     },
-     {
-      "playerId": "p146",
-      "pos": "1루"
-     },
-     {
-      "playerId": "p176",
-      "pos": "2루"
-     },
-     {
-      "playerId": "p103",
-      "pos": "3루"
-     },
-     {
-      "playerId": "p85",
-      "pos": "유격"
-     },
-     {
-      "playerId": "p126",
-      "pos": "외야"
-     },
-     {
-      "playerId": "p72",
-      "pos": "외야"
-     },
-     {
-      "playerId": "p251",
-      "pos": "외야"
-     },
-     {
-      "playerId": "p93",
-      "pos": "지명"
-     },
-     {
-      "playerId": "p58",
-      "pos": "투수"
-     },
-     {
-      "playerId": "p147",
-      "pos": "투수"
-     },
-     {
-      "playerId": "p212",
-      "pos": "투수"
-     },
-     {
-      "playerId": "p189",
-      "pos": "투수"
-     }
-    ],
-    "divFilter": [
-     "서부",
-     "북부"
-    ]
-   },
-   "teamB": {
-    "name": "동남부",
-    "captain": "p74",
-    "members": [
-     {
-      "playerId": "p74",
-      "pos": "선발"
-     },
-     {
-      "playerId": "p233",
-      "pos": "포수"
-     },
-     {
-      "playerId": "p92",
-      "pos": "1루"
-     },
-     {
-      "playerId": "p112",
-      "pos": "2루"
-     },
-     {
-      "playerId": "p125",
-      "pos": "3루"
-     },
-     {
-      "playerId": "p114",
-      "pos": "유격"
-     },
-     {
-      "playerId": "p165",
-      "pos": "외야"
-     },
-     {
-      "playerId": "p133",
-      "pos": "외야"
-     },
-     {
-      "playerId": "p116",
-      "pos": "외야"
-     },
-     {
-      "playerId": "p77",
-      "pos": "지명"
-     },
-     {
-      "playerId": "p95",
-      "pos": "투수"
-     },
-     {
-      "playerId": "p75",
-      "pos": "투수"
-     },
-     {
-      "playerId": "p137",
-      "pos": "투수"
-     },
-     {
-      "playerId": "p166",
-      "pos": "투수"
-     }
-    ],
-    "divFilter": [
-     "남부",
-     "동부"
-    ]
-   },
-   "result": {
-    "teamAScore": 2,
-    "teamBScore": 5,
-    "mvpId": "p233"
-   },
-   "subs": [],
-   "note": ""
-  }
+  "season": 19,
+  "months": {},
+  "offseason": []
  },
  "budgetParts": {
   "프린스": {
