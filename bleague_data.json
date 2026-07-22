@@ -67155,6 +67155,16 @@
      "name": "골드글러브",
      "playerId": "p240",
      "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p149",
+     "detail": "C"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p182",
+     "detail": "1B"
     }
    ],
    "awardsNote": "",
