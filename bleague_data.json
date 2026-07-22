@@ -305,7 +305,7 @@
    "id": "p3",
    "name": "페레이라",
    "team": "명예의 전당",
-   "pos": "DH",
+   "pos": "1B",
    "tier": "코어",
    "age": 45,
    "number": "9",
@@ -1284,7 +1284,7 @@
    "id": "p10",
    "name": "크리스",
    "team": "명예의 전당",
-   "pos": "DH",
+   "pos": "3B",
    "tier": "코어",
    "age": 44,
    "number": "7",
@@ -1429,7 +1429,6 @@
    "titlesManual": 0,
    "role": "4번",
    "subPositions": [
-    "3B",
     "1B"
    ],
    "form": "bad"
