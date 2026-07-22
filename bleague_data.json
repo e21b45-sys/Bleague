@@ -10685,7 +10685,9 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "good"
   },
   "p84": {
@@ -11963,7 +11965,9 @@
     }
    ],
    "role": "4번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": ""
   },
   "p94": {
