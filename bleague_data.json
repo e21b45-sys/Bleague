@@ -18696,7 +18696,7 @@
   "p166": {
    "id": "p166",
    "name": "훌리오",
-   "team": "FA",
+   "team": "라이언즈",
    "pos": "RP",
    "tier": "컨텐더",
    "age": 26,
@@ -18726,7 +18726,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 22,
+    "total": 150,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -18757,6 +18762,10 @@
     },
     {
      "season": 17,
+     "team": "라이언즈"
+    },
+    {
+     "season": 18,
      "team": "라이언즈"
     }
    ],
@@ -63551,6 +63560,14 @@
     "playerId": "p276",
     "from": "에스트로너츠",
     "to": "타이거즈",
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p166",
+    "to": "라이언즈",
+    "total": 150,
+    "years": 5,
     "applied": true
    }
   ]
