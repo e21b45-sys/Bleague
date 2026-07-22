@@ -30371,6 +30371,275 @@
    "awards": [],
    "draftSeason": null,
    "draftRound": null
+  },
+  "p356": {
+   "id": "p356",
+   "name": "아지쿠에",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 20,
+   "number": "",
+   "ptype": "뜬공형",
+   "strengths": [
+    "구속",
+    "이닝"
+   ],
+   "weaknesses": [
+    "변화구"
+   ],
+   "traits": [
+    "꾸준함"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
+  },
+  "p357": {
+   "id": "p357",
+   "name": "은잘라",
+   "team": "드래프티",
+   "pos": "3B",
+   "tier": "D리그",
+   "age": 21,
+   "number": "",
+   "ptype": "주루형",
+   "strengths": [
+    "송구"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "철강왕"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
+  },
+  "p358": {
+   "id": "p358",
+   "name": "피게로아",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "거포형",
+   "strengths": [
+    "송구"
+   ],
+   "weaknesses": [
+    "갭"
+   ],
+   "traits": [
+    "4차원"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
+  },
+  "p359": {
+   "id": "p359",
+   "name": "파라",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "무브먼트형",
+   "strengths": [
+    "구속"
+   ],
+   "weaknesses": [
+    "좌우 상대"
+   ],
+   "traits": [
+    "철강왕"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
+  },
+  "p360": {
+   "id": "p360",
+   "name": "라르손",
+   "team": "드래프티",
+   "pos": "2B",
+   "tier": "D리그",
+   "age": 22,
+   "number": "",
+   "ptype": "만능형",
+   "strengths": [
+    "컨택",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "유리멘탈"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
+  },
+  "p361": {
+   "id": "p361",
+   "name": "은도예",
+   "team": "드래프티",
+   "pos": "3B",
+   "tier": "D리그",
+   "age": 21,
+   "number": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "선구안",
+    "송구"
+   ],
+   "weaknesses": [
+    "갭"
+   ],
+   "traits": [
+    "운동능력"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
+  },
+  "p362": {
+   "id": "p362",
+   "name": "스탠필드",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "만능형",
+   "strengths": [
+    "파워",
+    "선구안"
+   ],
+   "weaknesses": [
+    "컨택"
+   ],
+   "traits": [
+    "루틴 집착"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
+  },
+  "p363": {
+   "id": "p363",
+   "name": "랜돌프",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 21,
+   "number": "",
+   "ptype": "호타준족",
+   "strengths": [
+    "갭",
+    "컨택"
+   ],
+   "weaknesses": [
+    "작전수행"
+   ],
+   "traits": [
+    "새가슴"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null
   }
  },
  "budgets": {
@@ -69398,7 +69667,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 355,
+ "_seq": 363,
  "prospects": [
   "p279",
   "p280",
@@ -69643,5 +69912,19 @@
    "champ": 0,
    "tv": 10
   }
+ },
+ "legends": {
+  "프린스": [
+   {
+    "playerId": "p3",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p6",
+    "retired": false,
+    "note": ""
+   }
+  ]
  }
 }
