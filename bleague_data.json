@@ -63930,7 +63930,22 @@
       "months": 1
      },
      {
-      "playerId": "",
+      "playerId": "p222",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p144",
+      "note": "",
+      "months": 3
+     },
+     {
+      "playerId": "p191",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p235",
       "note": "",
       "months": 1
      }
@@ -64153,7 +64168,43 @@
     "years": 2,
     "applied": true
    }
-  ]
+  ],
+  "allstar": {
+   "teamA": {
+    "name": "서북부",
+    "captain": "p154",
+    "members": [
+     {
+      "playerId": "p154",
+      "pos": "선발"
+     },
+     {
+      "playerId": "",
+      "pos": "포수"
+     }
+    ],
+    "divFilter": [
+     "서부",
+     "북부"
+    ]
+   },
+   "teamB": {
+    "name": "동남부",
+    "captain": "",
+    "members": [],
+    "divFilter": [
+     "남부",
+     "동부"
+    ]
+   },
+   "result": {
+    "teamAScore": null,
+    "teamBScore": null,
+    "mvpId": ""
+   },
+   "subs": [],
+   "note": ""
+  }
  },
  "budgetParts": {
   "프린스": {
