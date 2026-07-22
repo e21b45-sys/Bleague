@@ -70009,6 +70009,21 @@
     "retired": true,
     "note": "슈퍼팀의 클라이막스"
    }
+  ],
+  "이글즈": [],
+  "트레일 블레이저스": [
+   {
+    "playerId": "p61",
+    "retired": true,
+    "note": "로맨티스트"
+   }
+  ],
+  "데빌스": [
+   {
+    "playerId": "p19",
+    "retired": true,
+    "note": "악마군단, 그 자체"
+   }
   ]
  }
 }
