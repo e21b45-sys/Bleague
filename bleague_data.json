@@ -14937,7 +14937,7 @@
    "pos": "RP",
    "tier": "레귤러",
    "age": 32,
-   "number": "31",
+   "number": "30",
    "debutSeason": 7,
    "debutHalf": "전반기",
    "trait": "",
@@ -19517,7 +19517,7 @@
    "contract": {
     "startSeason": 18,
     "endSeason": 25,
-    "total": 10,
+    "total": 160,
     "options": []
    },
    "contractHistory": [],
@@ -20799,7 +20799,7 @@
     "제구",
     "이닝"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
@@ -21658,7 +21658,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 22,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -25631,7 +25636,7 @@
    "weaknesses": [
     "구위"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": null,
