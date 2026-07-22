@@ -63907,23 +63907,34 @@
     "races": {
      "MVP": [
       "p116",
-      "p165",
-      "p112"
+      "p112",
+      "p165"
      ],
      "BP": [
       "p74",
       "p154",
-      "p95"
+      "p75"
      ],
      "ROOKIE": [
-      "p212",
       "p260",
-      "p240"
+      "p212",
+      "p262"
      ]
     },
     "potmBat": "p114",
     "potmPit": "p74",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p192",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "10": {
     "standings": [],
