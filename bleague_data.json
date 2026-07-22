@@ -20067,7 +20067,7 @@
   "p184": {
    "id": "p184",
    "name": "조니",
-   "team": "FA",
+   "team": "트레일 블레이저스",
    "pos": "C",
    "tier": "레귤러",
    "age": 28,
@@ -20094,7 +20094,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 22,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -20126,6 +20131,10 @@
     {
      "season": 17,
      "team": "타이거즈"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -20294,7 +20303,7 @@
   "p187": {
    "id": "p187",
    "name": "에버렛",
-   "team": "FA",
+   "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "레귤러",
    "age": 29,
@@ -20322,7 +20331,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 22,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -20362,6 +20376,10 @@
     {
      "season": 17,
      "team": "챌린저스"
+    },
+    {
+     "season": 18,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -63774,6 +63792,22 @@
     "kind": "fa",
     "playerId": "p186",
     "to": "라이언즈",
+    "total": 50,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p184",
+    "to": "트레일 블레이저스",
+    "total": 50,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p187",
+    "to": "트레일 블레이저스",
     "total": 50,
     "years": 5,
     "applied": true
