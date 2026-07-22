@@ -11652,7 +11652,7 @@
   "p91": {
    "id": "p91",
    "name": "토모시",
-   "team": "FA",
+   "team": "다이너마이트",
    "pos": "SP",
    "tier": "레귤러",
    "age": 36,
@@ -11678,7 +11678,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 19,
+    "total": 20,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 10,
@@ -11751,6 +11756,10 @@
     {
      "season": 17,
      "team": "재즈"
+    },
+    {
+     "season": 18,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -15982,7 +15991,7 @@
   "p134": {
    "id": "p134",
    "name": "필립",
-   "team": "FA",
+   "team": "다이노스",
    "pos": "SS",
    "tier": "레귤러",
    "age": 28,
@@ -16011,7 +16020,12 @@
    ],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 22,
+    "total": 50,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -16051,6 +16065,10 @@
     {
      "season": 17,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -63858,6 +63876,22 @@
     "to": "마린즈",
     "total": 50,
     "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p134",
+    "to": "다이노스",
+    "total": 50,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p91",
+    "to": "다이너마이트",
+    "total": 20,
+    "years": 2,
     "applied": true
    }
   ]
