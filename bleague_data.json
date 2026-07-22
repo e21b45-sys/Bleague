@@ -7918,7 +7918,7 @@
   "p58": {
    "id": "p58",
    "name": "블랑코",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "SP",
    "tier": "엘리트",
    "age": 39,
@@ -8040,6 +8040,10 @@
     {
      "season": 18,
      "team": "버커니어스"
+    },
+    {
+     "season": 19,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -9281,7 +9285,7 @@
   "p71": {
    "id": "p71",
    "name": "코스타",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "C",
    "tier": "레귤러",
    "age": 39,
@@ -9404,6 +9408,10 @@
     {
      "season": 18,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 19,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -9426,7 +9434,7 @@
   "p72": {
    "id": "p72",
    "name": "야누스",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "OF",
    "tier": "코어",
    "age": 38,
@@ -9550,6 +9558,10 @@
     {
      "season": 18,
      "team": "버커니어스"
+    },
+    {
+     "season": 19,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -9958,7 +9970,7 @@
   "p76": {
    "id": "p76",
    "name": "토호루",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
    "age": 38,
@@ -10076,6 +10088,10 @@
     {
      "season": 18,
      "team": "마린즈"
+    },
+    {
+     "season": 19,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -10622,7 +10638,7 @@
   "p81": {
    "id": "p81",
    "name": "팀",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "SP",
    "tier": "코어",
    "age": 38,
@@ -10731,6 +10747,10 @@
     {
      "season": 18,
      "team": "이글즈"
+    },
+    {
+     "season": 19,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -11451,7 +11471,7 @@
    "injuries": [],
    "role": "마무리",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p87": {
    "id": "p87",
@@ -12450,7 +12470,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": ""
+   "form": "injury"
   },
   "p95": {
    "id": "p95",
@@ -13817,7 +13837,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p107": {
    "id": "p107",
@@ -17941,7 +17961,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p150": {
    "id": "p150",
@@ -19078,7 +19098,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "injury"
   },
   "p162": {
    "id": "p162",
@@ -19159,7 +19179,7 @@
      "note": "손가락"
     }
    ],
-   "form": "good"
+   "form": ""
   },
   "p163": {
    "id": "p163",
@@ -19230,7 +19250,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p164": {
    "id": "p164",
@@ -21357,7 +21377,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p191": {
    "id": "p191",
