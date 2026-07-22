@@ -29702,6 +29702,96 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p340": {
+   "id": "p340",
+   "name": "베르스탕",
+   "team": "이글즈",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "이기적",
+    "머니캐쳐",
+    "천재",
+    "트러블메이커"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "호타준족",
+   "strengths": [
+    "파워",
+    "갭",
+    "주루",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "이글즈"
+    }
+   ],
+   "hof": null,
+   "injuries": []
+  },
+  "p341": {
+   "id": "p341",
+   "name": "크로스비",
+   "team": "세이버스",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "변화구형",
+   "strengths": [
+    "변화구",
+    "구위"
+   ],
+   "weaknesses": [
+    "구속"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "세이버스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -68468,7 +68558,8 @@
     "재즈_1": "p336",
     "다이너마이트_1": "p337",
     "버커니어스_1": "p338",
-    "다이노스_1": "p339"
+    "다이노스_1": "p339",
+    "이글즈_1": "p340"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -68714,7 +68805,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 340,
+ "_seq": 342,
  "prospects": [
   "p279",
   "p280",
