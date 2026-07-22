@@ -69994,6 +69994,18 @@
    },
    {
     "playerId": "p60",
+    "retired": true,
+    "note": "9회를 닫는, 리그 최고의 클로저"
+   }
+  ],
+  "에스트로너츠": [
+   {
+    "playerId": "p27",
+    "retired": false,
+    "note": ""
+   },
+   {
+    "playerId": "p42",
     "retired": false,
     "note": ""
    }
