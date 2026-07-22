@@ -69917,13 +69917,18 @@
   "프린스": [
    {
     "playerId": "p3",
-    "retired": false,
-    "note": ""
+    "retired": true,
+    "note": "프린스 최고의, 리그 최고의 1루수"
    },
    {
     "playerId": "p6",
-    "retired": false,
+    "retired": true,
     "note": ""
+   },
+   {
+    "playerId": "p2",
+    "retired": true,
+    "note": "프린스의 게임은 8회에서 끝난다"
    }
   ]
  }
