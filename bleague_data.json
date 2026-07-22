@@ -30025,6 +30025,50 @@
    ],
    "hof": null,
    "injuries": []
+  },
+  "p347": {
+   "id": "p347",
+   "name": "에르손",
+   "team": "데빌스",
+   "pos": "2B",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "나태함",
+    "천재"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "갭"
+   ],
+   "weaknesses": [
+    "파워",
+    "수비 안정성"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "데빌스"
+    }
+   ],
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -68798,7 +68842,8 @@
     "트레일 블레이저스_1": "p343",
     "타이거즈_1": "p344",
     "스틸러스_1": "p345",
-    "마린즈_1": "p346"
+    "마린즈_1": "p346",
+    "데빌스_1": "p347"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -69044,7 +69089,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 347,
+ "_seq": 348,
  "prospects": [
   "p279",
   "p280",
