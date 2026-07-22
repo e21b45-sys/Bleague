@@ -64179,8 +64179,44 @@
       "pos": "선발"
      },
      {
-      "playerId": "",
+      "playerId": "p129",
       "pos": "포수"
+     },
+     {
+      "playerId": "p146",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p176",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p103",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p85",
+      "pos": "유격"
+     },
+     {
+      "playerId": "p126",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p72",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p251",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p93",
+      "pos": "지명"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
      }
     ],
     "divFilter": [
