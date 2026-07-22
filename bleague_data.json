@@ -16625,7 +16625,7 @@
   "p142": {
    "id": "p142",
    "name": "피네이로",
-   "team": "FA",
+   "team": "다이노스",
    "pos": "SP",
    "tier": "레귤러",
    "age": 32,
@@ -16651,7 +16651,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 20,
+    "total": 30,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 14,
@@ -16710,6 +16715,10 @@
     {
      "season": 17,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 18,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -22010,7 +22019,7 @@
   "p211": {
    "id": "p211",
    "name": "자브릴",
-   "team": "FA",
+   "team": "라이언즈",
    "pos": "RP",
    "tier": "코어",
    "age": 31,
@@ -22038,7 +22047,12 @@
    "subPositions": [],
    "draftSeason": null,
    "draftRound": null,
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 77,
+    "total": 4,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -22078,6 +22092,10 @@
     {
      "season": 17,
      "team": "프린스"
+    },
+    {
+     "season": 18,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -63892,6 +63910,22 @@
     "to": "다이너마이트",
     "total": 20,
     "years": 2,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p211",
+    "to": "라이언즈",
+    "total": 4,
+    "years": 60,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p142",
+    "to": "다이노스",
+    "total": 30,
+    "years": 3,
     "applied": true
    }
   ]
