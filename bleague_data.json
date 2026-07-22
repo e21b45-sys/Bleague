@@ -12955,7 +12955,7 @@
    "name": "헨리",
    "team": "데빌스",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 35,
    "number": "39",
    "debutSeason": 5,
@@ -14956,7 +14956,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p118": {
    "id": "p118",
@@ -18109,7 +18109,7 @@
      "note": "사타구니"
     }
    ],
-   "form": ""
+   "form": "good"
   },
   "p152": {
    "id": "p152",
@@ -18924,7 +18924,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p160": {
    "id": "p160",
@@ -19786,7 +19786,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p171": {
    "id": "p171",
@@ -21432,7 +21432,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p192": {
    "id": "p192",
@@ -24346,7 +24346,7 @@
    ],
    "role": "추격조",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": null,
    "draftRound": null,
    "contract": null,
