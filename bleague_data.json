@@ -69583,7 +69583,12 @@
     "changes": ""
    },
    "라이언즈": {
-    "coreMembers": [],
+    "coreMembers": [
+     "p95",
+     "p115",
+     "p166",
+     "p125"
+    ],
     "evaluation": "",
     "changes": ""
    },
@@ -69593,6 +69598,11 @@
     "changes": ""
    },
    "스틸러스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "타이거즈": {
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
@@ -69967,15 +69977,15 @@
    ]
   },
   "라이언즈": {
-   "c": "",
+   "c": "p95",
    "vc": [
-    "",
-    "",
+    "p125",
+    "p115",
     ""
    ]
   },
   "타이거즈": {
-   "c": "",
+   "c": "p114",
    "vc": [
     "",
     "",
