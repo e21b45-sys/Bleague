@@ -69442,7 +69442,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 385,
+ "_seq": 386,
  "prospects": [
   "p280",
   "p303",
@@ -70291,6 +70291,24 @@
      "to": 11
     }
    ],
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 21,
+    "reason": ""
+   },
+   "contractHistory": [],
+   "note": ""
+  },
+  "c386": {
+   "id": "c386",
+   "name": "새 감독",
+   "age": 50,
+   "playerId": "",
+   "ctype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "traits": [],
+   "tenures": [],
    "contract": null,
    "contractHistory": [],
    "note": ""
