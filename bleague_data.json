@@ -37959,7 +37959,9 @@
      "age": 25
     }
    ],
-   "coaches": {},
+   "coaches": {
+    "이글즈": "c364"
+   },
    "pipeline": [
     {
      "id": "p95",
@@ -39600,7 +39602,9 @@
      "age": 24
     }
    ],
-   "coaches": {},
+   "coaches": {
+    "이글즈": "c364"
+   },
    "pipeline": [
     {
      "id": "p103",
@@ -69380,7 +69384,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 380,
+ "_seq": 381,
  "prospects": [
   "p280",
   "p303",
@@ -70009,6 +70013,11 @@
      "team": "라이언즈",
      "from": 8,
      "to": 10
+    },
+    {
+     "team": "이글즈",
+     "from": 6,
+     "to": 7
     }
    ],
    "contract": {
@@ -70016,6 +70025,20 @@
     "endSeason": 19,
     "reason": ""
    },
+   "contractHistory": [],
+   "note": ""
+  },
+  "c381": {
+   "id": "c381",
+   "name": "새 감독",
+   "age": 50,
+   "playerId": "",
+   "ctype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "traits": [],
+   "tenures": [],
+   "contract": null,
    "contractHistory": [],
    "note": ""
   }
