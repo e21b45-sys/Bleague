@@ -47805,7 +47805,8 @@
     "마린즈": "c385",
     "버커니어스": "c386",
     "챌린저스": "c387",
-    "트레일 블레이저스": "c390"
+    "트레일 블레이저스": "c390",
+    "세이버스": "c423"
    },
    "pipeline": [
     {
@@ -70319,7 +70320,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 423,
+ "_seq": 424,
  "prospects": [
   "p280",
   "p303",
@@ -71529,10 +71530,28 @@
     },
     {
      "team": "세이버스",
-     "from": 19,
-     "to": null
+     "from": 11,
+     "to": 11
     }
    ],
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 20,
+    "reason": ""
+   },
+   "contractHistory": [],
+   "note": ""
+  },
+  "c424": {
+   "id": "c424",
+   "name": "새 감독",
+   "age": 50,
+   "playerId": "",
+   "ctype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "traits": [],
+   "tenures": [],
    "contract": null,
    "contractHistory": [],
    "note": ""
