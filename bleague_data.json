@@ -31255,7 +31255,9 @@
      "age": 30
     }
    ],
-   "coaches": {},
+   "coaches": {
+    "마린즈": "c381"
+   },
    "pipeline": [],
    "note": "",
    "awards": [
@@ -32416,7 +32418,9 @@
      "age": 30
     }
    ],
-   "coaches": {},
+   "coaches": {
+    "마린즈": "c381"
+   },
    "pipeline": [
     {
      "id": "p83",
@@ -33668,7 +33672,9 @@
      "age": 30
     }
    ],
-   "coaches": {},
+   "coaches": {
+    "마린즈": "c381"
+   },
    "pipeline": [
     {
      "id": "p87",
@@ -35007,7 +35013,9 @@
      "age": 30
     }
    ],
-   "coaches": {},
+   "coaches": {
+    "마린즈": "c381"
+   },
    "pipeline": [
     {
      "id": "p95",
@@ -36429,7 +36437,9 @@
      "age": 25
     }
    ],
-   "coaches": {},
+   "coaches": {
+    "재즈": "c381"
+   },
    "pipeline": [
     {
      "id": "p95",
@@ -37960,7 +37970,8 @@
     }
    ],
    "coaches": {
-    "이글즈": "c364"
+    "이글즈": "c364",
+    "재즈": "c381"
    },
    "pipeline": [
     {
@@ -39603,7 +39614,8 @@
     }
    ],
    "coaches": {
-    "이글즈": "c364"
+    "이글즈": "c364",
+    "재즈": "c381"
    },
    "pipeline": [
     {
@@ -70030,14 +70042,39 @@
   },
   "c381": {
    "id": "c381",
-   "name": "새 감독",
-   "age": 50,
+   "name": "졸스",
+   "age": 58,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
-   "tenures": [],
+   "ctype": "관리형",
+   "strengths": [
+    "불펜 관리",
+    "타선 구성"
+   ],
+   "weaknesses": [
+    "단기전 운영"
+   ],
+   "traits": [
+    "소통형",
+    "신뢰 중시",
+    "유연함"
+   ],
+   "tenures": [
+    {
+     "team": "마린즈",
+     "from": 1,
+     "to": 4
+    },
+    {
+     "team": "재즈",
+     "from": 5,
+     "to": 7
+    },
+    {
+     "team": "",
+     "from": 19,
+     "to": null
+    }
+   ],
    "contract": null,
    "contractHistory": [],
    "note": ""
