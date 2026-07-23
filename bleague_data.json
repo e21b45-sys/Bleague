@@ -70146,14 +70146,29 @@
   },
   "c383": {
    "id": "c383",
-   "name": "새 감독",
-   "age": 50,
+   "name": "뷔에스",
+   "age": 54,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
-   "tenures": [],
+   "ctype": "전술가형",
+   "strengths": [
+    "단기전 운영",
+    "데이터 활용"
+   ],
+   "weaknesses": [
+    "미디어 대응",
+    "유망주 육성"
+   ],
+   "traits": [
+    "유연함",
+    "소통형"
+   ],
+   "tenures": [
+    {
+     "team": "",
+     "from": 19,
+     "to": null
+    }
+   ],
    "contract": null,
    "contractHistory": [],
    "note": ""
