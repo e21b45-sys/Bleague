@@ -69593,7 +69593,11 @@
     "changes": ""
    },
    "다이노스": {
-    "coreMembers": [],
+    "coreMembers": [
+     "p137",
+     "p208",
+     "p98"
+    ],
     "evaluation": "",
     "changes": ""
    },
@@ -69603,6 +69607,22 @@
     "changes": ""
    },
    "타이거즈": {
+    "coreMembers": [
+     "p75",
+     "p141",
+     "p114",
+     "p133",
+     "p202"
+    ],
+    "evaluation": "",
+    "changes": ""
+   },
+   "에스트로너츠": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "마린즈": {
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
@@ -69987,16 +70007,16 @@
   "타이거즈": {
    "c": "p114",
    "vc": [
-    "",
-    "",
+    "p75",
+    "p141",
     ""
    ]
   },
   "다이노스": {
-   "c": "",
+   "c": "p137",
    "vc": [
-    "",
-    "",
+    "p98",
+    "p120",
     ""
    ]
   },
