@@ -66761,7 +66761,7 @@
     "라이언즈": "c382",
     "워리어스": "c383",
     "다이너마이트": "c384",
-    "재즈": "c385",
+    "재즈": "c388",
     "다이노스": "c386",
     "이글즈": "c387"
    },
@@ -70359,7 +70359,11 @@
      "to": 13
     }
    ],
-   "contract": null,
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 21,
+    "reason": ""
+   },
    "contractHistory": [],
    "note": ""
   },
@@ -70393,7 +70397,11 @@
      "to": null
     }
    ],
-   "contract": null,
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 21,
+    "reason": ""
+   },
    "contractHistory": [],
    "note": ""
   },
@@ -70417,12 +70425,16 @@
    ],
    "tenures": [
     {
-     "team": "",
-     "from": 19,
+     "team": "재즈",
+     "from": 18,
      "to": null
     }
    ],
-   "contract": null,
+   "contract": {
+    "startSeason": 18,
+    "endSeason": 20,
+    "reason": ""
+   },
    "contractHistory": [],
    "note": ""
   }
