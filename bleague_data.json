@@ -70443,11 +70443,26 @@
    "name": "",
    "age": null,
    "playerId": "p5",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
-   "tenures": [],
+   "ctype": "타격 중시형",
+   "strengths": [
+    "타선 구성",
+    "미디어 대응"
+   ],
+   "weaknesses": [
+    "불펜 관리",
+    "유망주 육성"
+   ],
+   "traits": [
+    "신뢰 중시",
+    "소통형"
+   ],
+   "tenures": [
+    {
+     "team": "에스트로너츠",
+     "from": 19,
+     "to": null
+    }
+   ],
    "contract": null,
    "contractHistory": [],
    "note": ""
