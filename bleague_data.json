@@ -69430,7 +69430,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 384,
+ "_seq": 385,
  "prospects": [
   "p280",
   "p303",
@@ -70229,6 +70229,39 @@
      "team": "에스트로너츠",
      "from": 11,
      "to": 13
+    }
+   ],
+   "contract": {
+    "startSeason": 17,
+    "endSeason": 19,
+    "reason": ""
+   },
+   "contractHistory": [],
+   "note": ""
+  },
+  "c385": {
+   "id": "c385",
+   "name": "코먼",
+   "age": 61,
+   "playerId": "",
+   "ctype": "승부사형",
+   "strengths": [
+    "단기전 운영",
+    "타선 구성"
+   ],
+   "weaknesses": [
+    "불펜 관리"
+   ],
+   "traits": [
+    "도박사",
+    "베테랑 선호",
+    "권위적"
+   ],
+   "tenures": [
+    {
+     "team": "",
+     "from": 19,
+     "to": null
     }
    ],
    "contract": null,
