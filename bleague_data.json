@@ -71494,14 +71494,28 @@
   },
   "c423": {
    "id": "c423",
-   "name": "새 감독",
-   "age": 50,
+   "name": "브루스",
+   "age": 55,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
-   "tenures": [],
+   "ctype": "데이터형",
+   "strengths": [
+    "데이터 활용",
+    "불펜 관리"
+   ],
+   "weaknesses": [
+    "라커룸 장악"
+   ],
+   "traits": [
+    "원칙주의",
+    "권위적"
+   ],
+   "tenures": [
+    {
+     "team": "",
+     "from": 19,
+     "to": null
+    }
+   ],
    "contract": null,
    "contractHistory": [],
    "note": ""
