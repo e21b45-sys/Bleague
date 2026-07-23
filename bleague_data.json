@@ -70400,13 +70400,28 @@
   "c388": {
    "id": "c388",
    "name": "나다브",
-   "age": 50,
+   "age": 46,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
-   "tenures": [],
+   "ctype": "투수 운용형",
+   "strengths": [
+    "투수 운용",
+    "불펜 관리"
+   ],
+   "weaknesses": [
+    "타선 구성"
+   ],
+   "traits": [
+    "로테이션 집착",
+    "온화함",
+    "소통형"
+   ],
+   "tenures": [
+    {
+     "team": "",
+     "from": 19,
+     "to": null
+    }
+   ],
    "contract": null,
    "contractHistory": [],
    "note": ""
