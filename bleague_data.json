@@ -70246,10 +70246,21 @@
    "name": "호너",
    "age": 61,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
+   "ctype": "타격 중시형",
+   "strengths": [
+    "타선 구성",
+    "라커룸 장악",
+    "미디어 대응",
+    "단기전 운영"
+   ],
+   "weaknesses": [
+    "불펜 관리",
+    "유망주 육성"
+   ],
+   "traits": [
+    "권위적",
+    "베테랑 선호"
+   ],
    "tenures": [
     {
      "team": "프린스",
