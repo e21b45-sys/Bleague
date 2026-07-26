@@ -70417,7 +70417,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 432,
+ "_seq": 433,
  "prospects": [
   "p280",
   "p303",
@@ -71991,6 +71991,20 @@
      "to": 12
     }
    ],
+   "contract": null,
+   "contractHistory": [],
+   "note": ""
+  },
+  "c433": {
+   "id": "c433",
+   "name": "시냔",
+   "age": 66,
+   "playerId": "",
+   "ctype": "육성형",
+   "strengths": [],
+   "weaknesses": [],
+   "traits": [],
+   "tenures": [],
    "contract": null,
    "contractHistory": [],
    "note": ""
