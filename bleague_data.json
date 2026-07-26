@@ -70351,7 +70351,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 425,
+ "_seq": 426,
  "prospects": [
   "p280",
   "p303",
@@ -71612,6 +71612,20 @@
   },
   "c425": {
    "id": "c425",
+   "name": "새 감독",
+   "age": 50,
+   "playerId": "",
+   "ctype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "traits": [],
+   "tenures": [],
+   "contract": null,
+   "contractHistory": [],
+   "note": ""
+  },
+  "c426": {
+   "id": "c426",
    "name": "새 감독",
    "age": 50,
    "playerId": "",
