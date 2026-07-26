@@ -12116,7 +12116,7 @@
      "note": "허벅지"
     }
    ],
-   "role": "2선발",
+   "role": "5선발",
    "subPositions": [],
    "form": "bad"
   },
@@ -16329,7 +16329,7 @@
     "구속",
     "경기운영"
    ],
-   "role": "2선발",
+   "role": "1선발",
    "subPositions": [],
    "draftSeason": 9,
    "draftRound": 1,
@@ -18248,7 +18248,7 @@
     "이닝",
     "위기관리"
    ],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 1,
@@ -19517,7 +19517,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": 11,
    "draftRound": 1,
@@ -20383,7 +20383,7 @@
     "제구",
     "좌우 상대"
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": 12,
    "draftRound": 1,
@@ -22258,7 +22258,7 @@
     "제구",
     "내구성"
    ],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": 13,
    "draftRound": 1,
@@ -23031,7 +23031,7 @@
    "weaknesses": [
     "위기관리"
    ],
-   "role": "1선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": 14,
    "draftRound": 1,
@@ -25898,7 +25898,7 @@
    "weaknesses": [
     "제구"
    ],
-   "role": "5선발",
+   "role": "2선발",
    "subPositions": [],
    "form": "good",
    "draftSeason": 16,
@@ -26369,7 +26369,7 @@
    "weaknesses": [
     "경기운영"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "form": "",
    "draftSeason": 16,
@@ -26473,7 +26473,7 @@
    "weaknesses": [
     "좌우 상대"
    ],
-   "role": "5선발",
+   "role": "4선발",
    "subPositions": [],
    "form": "good",
    "draftSeason": 16,
@@ -26792,7 +26792,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": 16,
@@ -27393,7 +27393,7 @@
    "weaknesses": [
     "이닝"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -27493,7 +27493,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -71671,5 +71671,52 @@
  },
  "stanceFix": {
   "다이너마이트": "rebuild"
- }
+ },
+ "tradeModel": {
+  "round": {
+   "1": 4.33,
+   "2": 1.25,
+   "3": 0.14,
+   "4": 0,
+   "5": 0
+  },
+  "scen": "평년",
+  "futureDisc": 0.95,
+  "debut": 0.72,
+  "updated": null
+ },
+ "ageCurve": [
+  {
+   "to": 21,
+   "m": 0.86
+  },
+  {
+   "to": 24,
+   "m": 0.82
+  },
+  {
+   "to": 27,
+   "m": 0.89
+  },
+  {
+   "to": 30,
+   "m": 0.97
+  },
+  {
+   "to": 32,
+   "m": 0.99
+  },
+  {
+   "to": 34,
+   "m": 0.93
+  },
+  {
+   "to": 36,
+   "m": 0.83
+  },
+  {
+   "to": 99,
+   "m": 0.66
+  }
+ ]
 }
