@@ -70368,7 +70368,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 428,
+ "_seq": 429,
  "prospects": [
   "p280",
   "p303",
@@ -71746,8 +71746,34 @@
     "타선 구성"
    ],
    "traits": [
-    "온화함"
+    "온화함",
+    "도박사",
+    "베테랑 선호"
    ],
+   "tenures": [
+    {
+     "team": "타이거즈",
+     "from": 19,
+     "to": null
+    }
+   ],
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 21,
+    "reason": ""
+   },
+   "contractHistory": [],
+   "note": ""
+  },
+  "c429": {
+   "id": "c429",
+   "name": "새 감독",
+   "age": 50,
+   "playerId": "",
+   "ctype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "traits": [],
    "tenures": [],
    "contract": null,
    "contractHistory": [],
