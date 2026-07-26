@@ -72099,14 +72099,29 @@
   },
   "c435": {
    "id": "c435",
-   "name": "새 감독",
+   "name": "오너",
    "age": 60,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
-   "tenures": [],
+   "ctype": "전술가형",
+   "strengths": [
+    "단기전 운영",
+    "작전 수행"
+   ],
+   "weaknesses": [
+    "라커룸 장악"
+   ],
+   "traits": [
+    "소통형",
+    "도박사",
+    "베테랑 선호"
+   ],
+   "tenures": [
+    {
+     "team": "",
+     "from": 19,
+     "to": null
+    }
+   ],
    "contract": null,
    "contractHistory": [],
    "note": ""
