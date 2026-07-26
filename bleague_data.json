@@ -71892,13 +71892,22 @@
   },
   "c431": {
    "id": "c431",
-   "name": "새 감독",
+   "name": "톰프스",
    "age": 50,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
+   "ctype": "육성형",
+   "strengths": [
+    "유망주 육성"
+   ],
+   "weaknesses": [
+    "타선 구성",
+    "단기전 운영"
+   ],
+   "traits": [
+    "유망주 선호",
+    "온화함",
+    "신뢰 중시"
+   ],
    "tenures": [],
    "contract": null,
    "contractHistory": [],
