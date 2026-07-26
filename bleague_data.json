@@ -30639,7 +30639,7 @@
   "p399": {
    "id": "p399",
    "name": "스미르노프",
-   "team": "드래프티",
+   "team": "타이거즈",
    "pos": "SP",
    "tier": "C리그",
    "age": 21,
@@ -30659,15 +30659,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "타이거즈"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "안전"
   },
@@ -30887,7 +30892,7 @@
   "p406": {
    "id": "p406",
    "name": "사이토",
-   "team": "드래프티",
+   "team": "스틸러스",
    "pos": "OF",
    "tier": "C리그",
    "age": 20,
@@ -30907,15 +30912,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "스틸러스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "안전"
   },
@@ -31325,7 +31335,7 @@
   "p418": {
    "id": "p418",
    "name": "헤레라",
-   "team": "드래프티",
+   "team": "워리어스",
    "pos": "SP",
    "tier": "C리그",
    "age": 20,
@@ -31346,15 +31356,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "워리어스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "보통"
   },
@@ -70225,7 +70240,10 @@
     "이글즈_2": "p398",
     "세이버스_2": "p411",
     "에스트로너츠_2": "p412",
-    "트레일 블레이저스_2": "p396"
+    "트레일 블레이저스_2": "p396",
+    "타이거즈_2": "p399",
+    "스틸러스_2": "p406",
+    "마린즈_2": "p418"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -70560,7 +70578,10 @@
   "p398",
   "p411",
   "p412",
-  "p396"
+  "p396",
+  "p399",
+  "p406",
+  "p418"
  ],
  "salaryRules": {
   "floor": 60,
@@ -72215,14 +72236,11 @@
   "p401",
   "p408",
   "p417",
-  "p399",
   "p403",
-  "p406",
   "p394",
   "p416",
   "p395",
   "p409",
-  "p418",
   "p422",
   "p420",
   "p392",
