@@ -71626,13 +71626,26 @@
   },
   "c426": {
    "id": "c426",
-   "name": "새 감독",
-   "age": 50,
+   "name": "롭",
+   "age": 48,
    "playerId": "",
-   "ctype": "",
-   "strengths": [],
-   "weaknesses": [],
-   "traits": [],
+   "ctype": "전술가형",
+   "strengths": [
+    "데이터 활용",
+    "불펜 관리",
+    "단기전 운영",
+    "작전 수행"
+   ],
+   "weaknesses": [
+    "라커룸 장악",
+    "유망주 육성",
+    "미디어 대응"
+   ],
+   "traits": [
+    "권위적",
+    "유연함",
+    "베테랑 선호"
+   ],
    "tenures": [],
    "contract": null,
    "contractHistory": [],
