@@ -30451,7 +30451,7 @@
   "p394": {
    "id": "p394",
    "name": "리들리",
-   "team": "드래프티",
+   "team": "타이거즈",
    "pos": "OF",
    "tier": "D리그",
    "age": 19,
@@ -30472,22 +30472,27 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "타이거즈"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "안전"
   },
   "p395": {
    "id": "p395",
    "name": "아세베도",
-   "team": "드래프티",
+   "team": "챌린저스",
    "pos": "OF",
    "tier": "C리그",
    "age": 22,
@@ -30508,15 +30513,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "챌린저스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "보통"
   },
@@ -30719,7 +30729,7 @@
   "p401": {
    "id": "p401",
    "name": "슈타이거",
-   "team": "드래프티",
+   "team": "재즈",
    "pos": "SS",
    "tier": "C리그",
    "age": 20,
@@ -30740,15 +30750,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "재즈"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 3,
    "ceiling": "코어",
    "risk": "보통"
   },
@@ -31503,7 +31518,7 @@
   "p422": {
    "id": "p422",
    "name": "예르마코프",
-   "team": "드래프티",
+   "team": "다이너마이트",
    "pos": "OF",
    "tier": "C리그",
    "age": 22,
@@ -31523,15 +31538,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "다이너마이트"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "보통"
   }
@@ -70261,7 +70281,11 @@
     "마린즈_2": "p418",
     "데빌스_2": "p416",
     "워리어스_2": "p403",
-    "라이언즈_2": "p392"
+    "라이언즈_2": "p392",
+    "프린스_2": "p394",
+    "챌린저스_3": "p395",
+    "재즈_3": "p401",
+    "다이너마이트_3": "p422"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -70601,7 +70625,12 @@
   "p406",
   "p418",
   "p416",
-  "p403"
+  "p403",
+  "p392",
+  "p394",
+  "p395",
+  "p401",
+  "p422"
  ],
  "salaryRules": {
   "floor": 60,
@@ -72253,13 +72282,9 @@
   "p405",
   "p407",
   "p419",
-  "p401",
   "p408",
   "p417",
-  "p394",
-  "p395",
   "p409",
-  "p422",
   "p420",
   "p415",
   "p391",
