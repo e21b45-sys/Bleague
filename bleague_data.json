@@ -30518,7 +30518,7 @@
   "p396": {
    "id": "p396",
    "name": "음보테",
-   "team": "드래프티",
+   "team": "트레일 블레이저스",
    "pos": "3B",
    "tier": "C리그",
    "age": 19,
@@ -30538,15 +30538,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "트레일 블레이저스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 2,
    "ceiling": "코어",
    "risk": "안전"
   },
@@ -31057,7 +31062,7 @@
   "p411": {
    "id": "p411",
    "name": "은도예",
-   "team": "드래프티",
+   "team": "세이버스",
    "pos": "SS",
    "tier": "C리그",
    "age": 18,
@@ -31078,22 +31083,27 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "세이버스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "안전"
   },
   "p412": {
    "id": "p412",
    "name": "헤이스팅스",
-   "team": "드래프티",
+   "team": "에스트로너츠",
    "pos": "SP",
    "tier": "C리그",
    "age": 18,
@@ -31113,15 +31123,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 19,
+     "team": "에스트로너츠"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 19,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "안전"
   },
@@ -70207,7 +70222,10 @@
     "다이너마이트_2": "p421",
     "버커니어스_2": "p397",
     "다이노스_2": "p413",
-    "이글즈_2": "p398"
+    "이글즈_2": "p398",
+    "세이버스_2": "p411",
+    "에스트로너츠_2": "p412",
+    "트레일 블레이저스_2": "p396"
    },
    "pickOwners": {
     "워리어스_2": "챌린저스",
@@ -70539,7 +70557,10 @@
   "p421",
   "p397",
   "p413",
-  "p398"
+  "p398",
+  "p411",
+  "p412",
+  "p396"
  ],
  "salaryRules": {
   "floor": 60,
@@ -72187,7 +72208,6 @@
   "p393",
   "p402",
   "p400",
-  "p396",
   "p404",
   "p405",
   "p407",
@@ -72198,8 +72218,6 @@
   "p399",
   "p403",
   "p406",
-  "p411",
-  "p412",
   "p394",
   "p416",
   "p395",
