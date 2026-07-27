@@ -13748,7 +13748,7 @@
   "p106": {
    "id": "p106",
    "name": "베나세르",
-   "team": "FA",
+   "team": "재즈",
    "pos": "SP",
    "tier": "엘리트",
    "age": 32,
@@ -13774,7 +13774,12 @@
    ],
    "draftSeason": 6,
    "draftRound": 2,
-   "contract": null,
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 23,
+    "total": 150,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 10,
@@ -13836,6 +13841,10 @@
     },
     {
      "season": 18,
+     "team": "재즈"
+    },
+    {
+     "season": 19,
      "team": "재즈"
     }
    ],
@@ -70659,7 +70668,16 @@
     "injuries": []
    }
   },
-  "offseason": [],
+  "offseason": [
+   {
+    "kind": "fa",
+    "playerId": "p106",
+    "to": "재즈",
+    "total": 150,
+    "years": 5,
+    "applied": true
+   }
+  ],
   "teamNotes": {
    "프린스": {
     "coreMembers": [
@@ -72412,5 +72430,10400 @@
    "to": 99,
    "m": 0.66
   }
- ]
+ ],
+ "derived": {
+  "generatedAt": {
+   "season": 19,
+   "ts": 1785133804217
+  },
+  "teams": {
+   "프린스": {
+    "stance": "winnow",
+    "stanceLabel": "윈나우",
+    "stanceWhy": {
+     "cont": 3,
+     "core": 8,
+     "avgAge": 29.1,
+     "payRatio": 0.625,
+     "farm": 0,
+     "farmTop": 0,
+     "recent": 1,
+     "avgRk": 4.7
+    },
+    "appeal": 1.86,
+    "market": "빅마켓",
+    "free": 110,
+    "power": 72.7,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "2B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "프린스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "프린스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "프린스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "프린스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "프린스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "프린스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "프린스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "프린스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "프린스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "프린스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "프린스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "프린스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "프린스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "프린스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "라이언즈": {
+    "stance": "allin",
+    "stanceLabel": "올인",
+    "stanceWhy": {
+     "cont": 2,
+     "core": 8,
+     "avgAge": 28.2,
+     "payRatio": 0.723404255319149,
+     "farm": 3,
+     "farmTop": 1,
+     "recent": 2,
+     "avgRk": 5
+    },
+    "appeal": 1.4,
+    "market": "빅마켓",
+    "free": 65,
+    "power": 50.7,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "3~5선발",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "SS",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "라이언즈",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "타이거즈": {
+    "stance": "allin",
+    "stanceLabel": "올인",
+    "stanceWhy": {
+     "cont": 1,
+     "core": 7,
+     "avgAge": 28.3,
+     "payRatio": 0.7405405405405405,
+     "farm": 6,
+     "farmTop": 2,
+     "recent": 7,
+     "avgRk": 4.3
+    },
+    "appeal": 1.17,
+    "market": "중형",
+    "free": 48,
+    "power": 54.9,
+    "window": {
+     "open": 19,
+     "left": 0,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "C",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "3B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "프린스",
+      "own": false,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "프린스",
+      "own": false,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "프린스",
+      "own": false,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "프린스",
+      "own": false,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "프린스",
+      "own": false,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "프린스",
+      "own": false,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "프린스",
+      "own": false,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "프린스",
+      "own": false,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "프린스",
+      "own": false,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "프린스",
+      "own": false,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "프린스",
+      "own": false,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "타이거즈",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "다이노스": {
+    "stance": "winnow",
+    "stanceLabel": "윈나우",
+    "stanceWhy": {
+     "cont": 2,
+     "core": 6,
+     "avgAge": 29.9,
+     "payRatio": 0.9259259259259259,
+     "farm": 3,
+     "farmTop": 2,
+     "recent": 11,
+     "avgRk": 11
+    },
+    "appeal": 1.19,
+    "market": "중형",
+    "free": 10,
+    "power": 42.2,
+    "window": {
+     "open": 19,
+     "left": 1,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "3~5선발",
+      "lv": "부족",
+      "slots": 3,
+      "have": 1
+     },
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "다이노스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "데빌스",
+      "own": false,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "다이노스",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "데빌스",
+      "own": false,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "다이노스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "다이노스",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "다이노스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "다이노스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "다이노스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "다이노스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "마린즈": {
+    "stance": "allin",
+    "stanceLabel": "올인",
+    "stanceWhy": {
+     "cont": 1,
+     "core": 7,
+     "avgAge": 28.4,
+     "payRatio": 0.5094339622641509,
+     "farm": 6,
+     "farmTop": 1,
+     "recent": 5,
+     "avgRk": 7
+    },
+    "appeal": 1.38,
+    "market": "빅마켓",
+    "free": 130,
+    "power": 50.2,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "C",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "마린즈",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "마린즈",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "마린즈",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "마린즈",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "마린즈",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "마린즈",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "마린즈",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "마린즈",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "마린즈",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "마린즈",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "에스트로너츠": {
+    "stance": "hold",
+    "stanceLabel": "관망",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 5,
+     "avgAge": 27.2,
+     "payRatio": 0.2,
+     "farm": 5,
+     "farmTop": 1,
+     "recent": 9,
+     "avgRk": 11.3
+    },
+    "appeal": 1.12,
+    "market": "빅마켓",
+    "free": 140,
+    "power": 41.1,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "1·2선발",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "3~5선발",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "에스트로너츠",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "이글즈": {
+    "stance": "rebuild",
+    "stanceLabel": "리빌딩",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 4,
+     "avgAge": 25.4,
+     "payRatio": 0.26666666666666666,
+     "farm": 6,
+     "farmTop": 0,
+     "recent": 13,
+     "avgRk": 13.7
+    },
+    "appeal": 0.84,
+    "market": "중형",
+    "free": 90,
+    "power": 25.9,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "C",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "3B",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "이글즈",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "이글즈",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "이글즈",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "이글즈",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "이글즈",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "이글즈",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "이글즈",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "이글즈",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "이글즈",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "이글즈",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "트레일 블레이저스": {
+    "stance": "winnow",
+    "stanceLabel": "윈나우",
+    "stanceWhy": {
+     "cont": 1,
+     "core": 7,
+     "avgAge": 26.6,
+     "payRatio": 0.8095238095238095,
+     "farm": 5,
+     "farmTop": 0,
+     "recent": 8,
+     "avgRk": 6.3
+    },
+    "appeal": 1.09,
+    "market": "스몰마켓",
+    "free": 20,
+    "power": 40.4,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "3B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "데빌스",
+      "own": false,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "스틸러스",
+      "own": false,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "트레일 블레이저스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "데빌스": {
+    "stance": "retool",
+    "stanceLabel": "리툴링",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 4,
+     "avgAge": 28.1,
+     "payRatio": 0.48936170212765956,
+     "farm": 2,
+     "farmTop": 0,
+     "recent": 4,
+     "avgRk": 3.7
+    },
+    "appeal": 1.35,
+    "market": "빅마켓",
+    "free": 120,
+    "power": 42,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "2B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "3B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "데빌스",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "데빌스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "데빌스",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "데빌스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "데빌스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "데빌스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "데빌스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "워리어스": {
+    "stance": "winnow",
+    "stanceLabel": "윈나우",
+    "stanceWhy": {
+     "cont": 2,
+     "core": 7,
+     "avgAge": 30.6,
+     "payRatio": 0.8372093023255814,
+     "farm": 4,
+     "farmTop": 0,
+     "recent": 3,
+     "avgRk": 1.7
+    },
+    "appeal": 1.52,
+    "market": "중형",
+    "free": 35,
+    "power": 52.5,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "3~5선발",
+      "lv": "부족",
+      "slots": 3,
+      "have": 1
+     },
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "워리어스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "워리어스",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "버커니어스",
+      "own": false,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "워리어스",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "워리어스",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "워리어스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "워리어스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "워리어스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "워리어스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "워리어스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "다이너마이트": {
+    "stance": "rebuild",
+    "stanceLabel": "리빌딩",
+    "stanceWhy": null,
+    "appeal": 0.75,
+    "market": "중형",
+    "free": 27,
+    "power": 40.3,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "2B",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "다이노스",
+      "own": false,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "다이노스",
+      "own": false,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "다이노스",
+      "own": false,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "다이노스",
+      "own": false,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "다이너마이트",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "챌린저스": {
+    "stance": "rebuild",
+    "stanceLabel": "리빌딩",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 2,
+     "avgAge": 26.4,
+     "payRatio": 0.5652173913043478,
+     "farm": 10,
+     "farmTop": 3,
+     "recent": 15,
+     "avgRk": 15
+    },
+    "appeal": 0.73,
+    "market": "중형",
+    "free": 50,
+    "power": 15.7,
+    "window": {
+     "open": 19,
+     "left": 0,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "3~5선발",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "RP",
+      "lv": "공백",
+      "slots": 2
+     },
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "2B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "데빌스",
+      "own": false,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "워리어스",
+      "own": false,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "워리어스",
+      "own": false,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "워리어스",
+      "own": false,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "워리어스",
+      "own": false,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "챌린저스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "스틸러스": {
+    "stance": "winnow",
+    "stanceLabel": "윈나우",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 10,
+     "avgAge": 29.2,
+     "payRatio": 0.7090909090909091,
+     "farm": 5,
+     "farmTop": 1,
+     "recent": 6,
+     "avgRk": 6.3
+    },
+    "appeal": 1.5,
+    "market": "빅마켓",
+    "free": 64,
+    "power": 44.5,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "스틸러스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "재즈": {
+    "stance": "rebuild",
+    "stanceLabel": "리빌딩",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 3,
+     "avgAge": 27,
+     "payRatio": 0.7272727272727273,
+     "farm": 5,
+     "farmTop": 2,
+     "recent": 16,
+     "avgRk": 10.3
+    },
+    "appeal": 0.69,
+    "market": "스몰마켓",
+    "free": 30,
+    "power": 33.4,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "C",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "2B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "3B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "재즈",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "재즈",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "재즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "재즈",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "재즈",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "재즈",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "재즈",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "재즈",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "재즈",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "재즈",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "재즈",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "재즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "재즈",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "재즈",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "재즈",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "재즈",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "세이버스": {
+    "stance": "rebuild",
+    "stanceLabel": "리빌딩",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 4,
+     "avgAge": 27.1,
+     "payRatio": 0.456,
+     "farm": 5,
+     "farmTop": 1,
+     "recent": 10,
+     "avgRk": 12.3
+    },
+    "appeal": 0.78,
+    "market": "스몰마켓",
+    "free": 65,
+    "power": 31.2,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "2B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "세이버스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "세이버스",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 3,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "세이버스",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "세이버스",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "세이버스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "세이버스",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "세이버스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "세이버스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "세이버스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "세이버스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   },
+   "버커니어스": {
+    "stance": "rebuild",
+    "stanceLabel": "리빌딩",
+    "stanceWhy": {
+     "cont": 0,
+     "core": 6,
+     "avgAge": 26.8,
+     "payRatio": 0.2222222222222222,
+     "farm": 4,
+     "farmTop": 3,
+     "recent": 12,
+     "avgRk": 9
+    },
+    "appeal": 0.63,
+    "market": "스몰마켓",
+    "free": 30,
+    "power": 23.5,
+    "window": {
+     "open": 19,
+     "left": 2,
+     "note": ""
+    },
+    "needs": [
+     {
+      "pos": "3~5선발",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
+      "pos": "C",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "2B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "3B",
+      "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 1
+     }
+    ],
+    "picks": [
+     {
+      "season": 20,
+      "round": 1,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 4.11
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 4,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 20,
+      "round": 5,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 1,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 3.91
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 4,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 21,
+      "round": 5,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 1,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 3.71
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 1.07
+     },
+     {
+      "season": 22,
+      "round": 3,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0.12
+     },
+     {
+      "season": 22,
+      "round": 4,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 22,
+      "round": 5,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 1,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 3.53
+     },
+     {
+      "season": 23,
+      "round": 2,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 1.02
+     },
+     {
+      "season": 23,
+      "round": 3,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 23,
+      "round": 4,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 23,
+      "round": 5,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 1,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 3.35
+     },
+     {
+      "season": 24,
+      "round": 2,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0.97
+     },
+     {
+      "season": 24,
+      "round": 3,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0.11
+     },
+     {
+      "season": 24,
+      "round": 4,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     },
+     {
+      "season": 24,
+      "round": 5,
+      "origin": "버커니어스",
+      "own": true,
+      "value": 0
+     }
+    ]
+   }
+  },
+  "players": {
+   "p1": {
+    "name": "벨",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 47,
+    "team": "명예의 전당",
+    "power": 8.1
+   },
+   "p2": {
+    "name": "제논",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 49,
+    "team": "명예의 전당",
+    "power": 1.3
+   },
+   "p3": {
+    "name": "페레이라",
+    "pos": "1B",
+    "tier": "코어",
+    "age": 45,
+    "team": "명예의 전당",
+    "power": 2.5
+   },
+   "p4": {
+    "name": "로드리게스",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p5": {
+    "name": "브롱스",
+    "pos": "3B",
+    "tier": "서브",
+    "age": 47,
+    "team": "은퇴",
+    "power": 0.2
+   },
+   "p6": {
+    "name": "폴츠",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 40,
+    "team": "은퇴",
+    "power": 0.8
+   },
+   "p7": {
+    "name": "라이보",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p8": {
+    "name": "세나",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 49,
+    "team": "명예의 전당",
+    "power": 2.9
+   },
+   "p9": {
+    "name": "후버",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 46,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p10": {
+    "name": "크리스",
+    "pos": "3B",
+    "tier": "코어",
+    "age": 44,
+    "team": "명예의 전당",
+    "power": 2.5
+   },
+   "p11": {
+    "name": "네케",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 42,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p12": {
+    "name": "바이날스",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 44,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p13": {
+    "name": "코츠",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 41,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p14": {
+    "name": "호프만",
+    "pos": "SP",
+    "tier": "컨텐더",
+    "age": 52,
+    "team": "명예의 전당",
+    "power": 13.8
+   },
+   "p15": {
+    "name": "로즈",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 43,
+    "team": "명예의 전당",
+    "power": 2.5
+   },
+   "p16": {
+    "name": "사이온",
+    "pos": "DH",
+    "tier": "코어",
+    "age": 46,
+    "team": "명예의 전당",
+    "power": 2.5
+   },
+   "p17": {
+    "name": "챈들러",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 41,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p18": {
+    "name": "에이튼",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 42,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p19": {
+    "name": "카일",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 45,
+    "team": "명예의 전당",
+    "power": 2.5
+   },
+   "p20": {
+    "name": "델론즈",
+    "pos": "DH",
+    "tier": "코어",
+    "age": 43,
+    "team": "명예의 전당",
+    "power": 2.5
+   },
+   "p21": {
+    "name": "허키",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 42,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p22": {
+    "name": "해커",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 48,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p23": {
+    "name": "얀",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "명예의 전당",
+    "power": 1.8
+   },
+   "p24": {
+    "name": "리오스",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p25": {
+    "name": "로베스",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 40,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p26": {
+    "name": "칼론",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 47,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p27": {
+    "name": "나카도모",
+    "pos": "SS",
+    "tier": "서브",
+    "age": 45,
+    "team": "명예의 전당",
+    "power": 0.2
+   },
+   "p28": {
+    "name": "하우든",
+    "pos": "3B",
+    "tier": "레귤러",
+    "age": 39,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p29": {
+    "name": "채퍼슨",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 47,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p30": {
+    "name": "블레이크",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 40,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p31": {
+    "name": "알레한드로",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 41,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p32": {
+    "name": "파에스",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 45,
+    "team": "은퇴",
+    "power": 0.8
+   },
+   "p33": {
+    "name": "루시우",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 45,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p34": {
+    "name": "더피",
+    "pos": "2B",
+    "tier": "레귤러",
+    "age": 42,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p35": {
+    "name": "타임",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 48,
+    "team": "명예의 전당",
+    "power": 1.8
+   },
+   "p36": {
+    "name": "부오테",
+    "pos": "DH",
+    "tier": "코어",
+    "age": 49,
+    "team": "은퇴",
+    "power": 2.5
+   },
+   "p37": {
+    "name": "로베르토",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p38": {
+    "name": "앤디",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 46,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p39": {
+    "name": "트레인",
+    "pos": "3B",
+    "tier": "엘리트",
+    "age": 47,
+    "team": "은퇴",
+    "power": 7
+   },
+   "p40": {
+    "name": "베넨",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 42,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p41": {
+    "name": "올리",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 42,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p42": {
+    "name": "줄리오",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 44,
+    "team": "명예의 전당",
+    "power": 1.3
+   },
+   "p43": {
+    "name": "리크루아",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 45,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p44": {
+    "name": "헤이즈",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "은퇴",
+    "power": 0.8
+   },
+   "p45": {
+    "name": "히메네스",
+    "pos": "1B",
+    "tier": "서브",
+    "age": 45,
+    "team": "명예의 전당",
+    "power": 0.2
+   },
+   "p46": {
+    "name": "페네츠",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 48,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p47": {
+    "name": "폰세",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 44,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p48": {
+    "name": "치노베",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 46,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p49": {
+    "name": "갈로",
+    "pos": "2B",
+    "tier": "서브",
+    "age": 42,
+    "team": "은퇴",
+    "power": 0.2
+   },
+   "p50": {
+    "name": "안키오",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p51": {
+    "name": "조지",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 44,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p52": {
+    "name": "세인츠",
+    "pos": "2B",
+    "tier": "코어",
+    "age": 42,
+    "team": "은퇴",
+    "power": 2.5
+   },
+   "p53": {
+    "name": "맥컬린",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 45,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p54": {
+    "name": "칼레바",
+    "pos": "1B",
+    "tier": "서브",
+    "age": 41,
+    "team": "은퇴",
+    "power": 0.2
+   },
+   "p55": {
+    "name": "글레이버",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 48,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p56": {
+    "name": "카이로",
+    "pos": "3B",
+    "tier": "레귤러",
+    "age": 45,
+    "team": "명예의 전당",
+    "power": 1.6
+   },
+   "p57": {
+    "name": "뢰흐",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 46,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p58": {
+    "name": "블랑코",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 39,
+    "team": "은퇴",
+    "power": 8.1
+   },
+   "p59": {
+    "name": "피칸",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 45,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p60": {
+    "name": "가이즈",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 42,
+    "team": "명예의 전당",
+    "power": 1.3
+   },
+   "p61": {
+    "name": "오커너",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 41,
+    "team": "은퇴",
+    "power": 2.5
+   },
+   "p62": {
+    "name": "베르나르",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "은퇴",
+    "power": 0.8
+   },
+   "p63": {
+    "name": "카림",
+    "pos": "DH",
+    "tier": "코어",
+    "age": 46,
+    "team": "명예의 전당",
+    "power": 2.5
+   },
+   "p64": {
+    "name": "뤼카",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 48,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p65": {
+    "name": "예이다",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 45,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p66": {
+    "name": "자마이",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 43,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p67": {
+    "name": "은디야",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 44,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p71": {
+    "name": "코스타",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 39,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p72": {
+    "name": "야누스",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 38,
+    "team": "은퇴",
+    "power": 2.5
+   },
+   "p73": {
+    "name": "콜레로프",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 38,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p74": {
+    "name": "워싱턴",
+    "pos": "SP",
+    "tier": "컨텐더",
+    "age": 37,
+    "team": "프린스",
+    "power": 13.8,
+    "asset": {
+     "value": 13.3,
+     "grade": "S",
+     "left": 4,
+     "effM": 0.94
+    }
+   },
+   "p75": {
+    "name": "아일린",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 37,
+    "team": "타이거즈",
+    "power": 8.1,
+    "asset": {
+     "value": 4.6,
+     "grade": "C",
+     "left": 1,
+     "effM": 0.86
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 27.1,
+     "total": 54.2
+    }
+   },
+   "p76": {
+    "name": "토호루",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 38,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p77": {
+    "name": "칼리츠",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 39,
+    "team": "FA",
+    "power": 1.6,
+    "expContract": {
+     "years": 1,
+     "aav": 11.1,
+     "total": 11.1
+    }
+   },
+   "p78": {
+    "name": "아놀드",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 40,
+    "team": "은퇴",
+    "power": 1.8
+   },
+   "p79": {
+    "name": "헤이넌",
+    "pos": "DH",
+    "tier": "코어",
+    "age": 45,
+    "team": "은퇴",
+    "power": 2.5
+   },
+   "p80": {
+    "name": "운남",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 40,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p81": {
+    "name": "팀",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 38,
+    "team": "은퇴",
+    "power": 2.9
+   },
+   "p82": {
+    "name": "아카시",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 39,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p83": {
+    "name": "세티안",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 38,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 0.6,
+     "grade": "D",
+     "left": 1,
+     "effM": 0.59
+    },
+    "expContract": {
+     "years": 1,
+     "aav": 11.1,
+     "total": 11.1
+    }
+   },
+   "p84": {
+    "name": "히로",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 37,
+    "team": "버커니어스",
+    "power": 2.9,
+    "asset": {
+     "value": 2.4,
+     "grade": "D",
+     "left": 2,
+     "effM": 0.95
+    }
+   },
+   "p85": {
+    "name": "에반",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 36,
+    "team": "워리어스",
+    "power": 2.5,
+    "asset": {
+     "value": 1.3,
+     "grade": "D",
+     "left": 1,
+     "effM": 0.61
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 18.3,
+     "total": 36.6
+    }
+   },
+   "p86": {
+    "name": "노아",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 38,
+    "team": "FA",
+    "power": 1.3,
+    "expContract": {
+     "years": 1,
+     "aav": 15.9,
+     "total": 15.9
+    }
+   },
+   "p87": {
+    "name": "헤네시",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 35,
+    "team": "워리어스",
+    "power": 1.8,
+    "asset": {
+     "value": 1.7,
+     "grade": "D",
+     "left": 3,
+     "effM": 0.75
+    }
+   },
+   "p88": {
+    "name": "마이콘",
+    "pos": "DH",
+    "tier": "코어",
+    "age": 45,
+    "team": "은퇴",
+    "power": 2.5
+   },
+   "p89": {
+    "name": "리퀴뇨",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 44,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p90": {
+    "name": "배준승",
+    "pos": "2B",
+    "tier": "레귤러",
+    "age": 38,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p91": {
+    "name": "토모시",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 37,
+    "team": "다이너마이트",
+    "power": 1.8,
+    "asset": {
+     "value": 1.4,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.18
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 11.8,
+     "total": 23.6
+    }
+   },
+   "p92": {
+    "name": "포셔",
+    "pos": "1B",
+    "tier": "코어",
+    "age": 34,
+    "team": "타이거즈",
+    "power": 2.5,
+    "asset": {
+     "value": 3,
+     "grade": "C",
+     "left": 4,
+     "effM": 0.82
+    }
+   },
+   "p93": {
+    "name": "테렐",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 37,
+    "team": "워리어스",
+    "power": 1.6,
+    "asset": {
+     "value": 1.2,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.11
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 11.1,
+     "total": 22.2
+    }
+   },
+   "p94": {
+    "name": "블랙셔",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 36,
+    "team": "FA",
+    "power": 2.9,
+    "expContract": {
+     "years": 2,
+     "aav": 18.3,
+     "total": 36.6
+    }
+   },
+   "p95": {
+    "name": "나다니엘",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 33,
+    "team": "라이언즈",
+    "power": 8.1,
+    "asset": {
+     "value": 19.9,
+     "grade": "S",
+     "left": 7,
+     "effM": 1.49
+    }
+   },
+   "p96": {
+    "name": "르메이아",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 36,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 1.4,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.04
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 10.9,
+     "total": 21.8
+    }
+   },
+   "p97": {
+    "name": "벤달",
+    "pos": "3B",
+    "tier": "레귤러",
+    "age": 36,
+    "team": "에스트로너츠",
+    "power": 1.6,
+    "asset": {
+     "value": 1.5,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.11
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 10.5,
+     "total": 21
+    }
+   },
+   "p98": {
+    "name": "그리핀",
+    "pos": "OF",
+    "tier": "컨텐더",
+    "age": 33,
+    "team": "다이노스",
+    "power": 12,
+    "asset": {
+     "value": 14.5,
+     "grade": "S",
+     "left": 5,
+     "effM": 0.79
+    }
+   },
+   "p99": {
+    "name": "헨리",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 35,
+    "team": "데빌스",
+    "power": 1.6,
+    "asset": {
+     "value": 2.1,
+     "grade": "D",
+     "left": 2,
+     "effM": 1.19
+    }
+   },
+   "p100": {
+    "name": "토니",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 34,
+    "team": "에스트로너츠",
+    "power": 2.5,
+    "asset": {
+     "value": 5.1,
+     "grade": "B",
+     "left": 2,
+     "effM": 1.66
+    }
+   },
+   "p101": {
+    "name": "볼브",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 35,
+    "team": "이글즈",
+    "power": 1.6,
+    "asset": {
+     "value": 1.4,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.03
+    },
+    "expContract": {
+     "years": 3,
+     "aav": 10.8,
+     "total": 32.400000000000006
+    }
+   },
+   "p102": {
+    "name": "켄트",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 33,
+    "team": "FA",
+    "power": 1.6,
+    "expContract": {
+     "years": 3,
+     "aav": 11.2,
+     "total": 33.599999999999994
+    }
+   },
+   "p103": {
+    "name": "맥커니",
+    "pos": "3B",
+    "tier": "엘리트",
+    "age": 34,
+    "team": "FA",
+    "power": 7,
+    "expContract": {
+     "years": 4,
+     "aav": 23.6,
+     "total": 94.4
+    }
+   },
+   "p104": {
+    "name": "히튼",
+    "pos": "SP",
+    "tier": "컨텐더",
+    "age": 32,
+    "team": "워리어스",
+    "power": 13.8,
+    "asset": {
+     "value": 21.4,
+     "grade": "S",
+     "left": 4,
+     "effM": 1.01
+    }
+   },
+   "p105": {
+    "name": "킨로",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 33,
+    "team": "스틸러스",
+    "power": 8.1,
+    "asset": {
+     "value": 11.2,
+     "grade": "A",
+     "left": 4,
+     "effM": 0.96
+    }
+   },
+   "p106": {
+    "name": "베나세르",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 32,
+    "team": "재즈",
+    "power": 8.1,
+    "asset": {
+     "value": 11.2,
+     "grade": "A",
+     "left": 5,
+     "effM": 0.86
+    }
+   },
+   "p107": {
+    "name": "예이츠",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 34,
+    "team": "FA",
+    "power": 1.6,
+    "expContract": {
+     "years": 2,
+     "aav": 10.5,
+     "total": 21
+    }
+   },
+   "p108": {
+    "name": "아데보",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 32,
+    "team": "트레일 블레이저스",
+    "power": 1.6,
+    "asset": {
+     "value": 1.1,
+     "grade": "D",
+     "left": 1,
+     "effM": 0.71
+    },
+    "expContract": {
+     "years": 3,
+     "aav": 11.1,
+     "total": 33.3
+    }
+   },
+   "p109": {
+    "name": "파란",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 32,
+    "team": "워리어스",
+    "power": 1.6,
+    "asset": {
+     "value": 1.1,
+     "grade": "D",
+     "left": 1,
+     "effM": 0.69
+    },
+    "expContract": {
+     "years": 3,
+     "aav": 10.9,
+     "total": 32.7
+    }
+   },
+   "p110": {
+    "name": "라반테",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 34,
+    "team": "스틸러스",
+    "power": 1.3,
+    "asset": {
+     "value": 1.7,
+     "grade": "D",
+     "left": 3,
+     "effM": 0.99
+    }
+   },
+   "p111": {
+    "name": "아이다라",
+    "pos": "1B",
+    "tier": "엘리트",
+    "age": 31,
+    "team": "세이버스",
+    "power": 7,
+    "asset": {
+     "value": 7.8,
+     "grade": "B",
+     "left": 1,
+     "effM": 1.12
+    },
+    "expContract": {
+     "years": 6,
+     "aav": 26.3,
+     "total": 157.8
+    }
+   },
+   "p112": {
+    "name": "우즈",
+    "pos": "2B",
+    "tier": "엘리트",
+    "age": 32,
+    "team": "마린즈",
+    "power": 7,
+    "asset": {
+     "value": 10,
+     "grade": "A",
+     "left": 4,
+     "effM": 0.93
+    }
+   },
+   "p113": {
+    "name": "맥킨스트리",
+    "pos": "SS",
+    "tier": "엘리트",
+    "age": 31,
+    "team": "다이너마이트",
+    "power": 7,
+    "asset": {
+     "value": 11.3,
+     "grade": "A",
+     "left": 3,
+     "effM": 1.12
+    }
+   },
+   "p114": {
+    "name": "클락스턴",
+    "pos": "SS",
+    "tier": "엘리트",
+    "age": 33,
+    "team": "타이거즈",
+    "power": 7,
+    "asset": {
+     "value": 7.3,
+     "grade": "B",
+     "left": 4,
+     "effM": 0.72
+    }
+   },
+   "p115": {
+    "name": "터너",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 32,
+    "team": "라이언즈",
+    "power": 8.1,
+    "asset": {
+     "value": 7.4,
+     "grade": "B",
+     "left": 1,
+     "effM": 0.93
+    },
+    "expContract": {
+     "years": 5,
+     "aav": 25,
+     "total": 125
+    }
+   },
+   "p116": {
+    "name": "마셜",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 30,
+    "team": "마린즈",
+    "power": 7,
+    "asset": {
+     "value": 6.6,
+     "grade": "B",
+     "left": 1,
+     "effM": 0.97
+    },
+    "expContract": {
+     "years": 5,
+     "aav": 24.5,
+     "total": 122.5
+    }
+   },
+   "p117": {
+    "name": "피터슨",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 32,
+    "team": "데빌스",
+    "power": 7,
+    "asset": {
+     "value": 9,
+     "grade": "A",
+     "left": 3,
+     "effM": 0.89
+    }
+   },
+   "p118": {
+    "name": "포이스",
+    "pos": "3B",
+    "tier": "컨텐더",
+    "age": 31,
+    "team": "마린즈",
+    "power": 12,
+    "asset": {
+     "value": 23.6,
+     "grade": "S",
+     "left": 3,
+     "effM": 1.37
+    }
+   },
+   "p119": {
+    "name": "보라스",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 33,
+    "team": "챌린저스",
+    "power": 2.9,
+    "asset": {
+     "value": 2.7,
+     "grade": "D",
+     "left": 4,
+     "effM": 0.65
+    }
+   },
+   "p120": {
+    "name": "페서뇽",
+    "pos": "2B",
+    "tier": "코어",
+    "age": 32,
+    "team": "다이노스",
+    "power": 2.5,
+    "asset": {
+     "value": 4.3,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.19
+    }
+   },
+   "p121": {
+    "name": "캐논",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 34,
+    "team": "세이버스",
+    "power": 1.6,
+    "asset": {
+     "value": 2,
+     "grade": "D",
+     "left": 2,
+     "effM": 1
+    }
+   },
+   "p122": {
+    "name": "워맥",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 33,
+    "team": "프린스",
+    "power": 0.8,
+    "asset": {
+     "value": 0.7,
+     "grade": "D",
+     "left": 1,
+     "effM": 1
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 10,
+     "total": 20
+    }
+   },
+   "p123": {
+    "name": "존슨",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 33,
+    "team": "프린스",
+    "power": 7,
+    "asset": {
+     "value": 6.9,
+     "grade": "B",
+     "left": 1,
+     "effM": 1.06
+    },
+    "expContract": {
+     "years": 4,
+     "aav": 23.8,
+     "total": 95.2
+    }
+   },
+   "p124": {
+    "name": "밀러",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 30,
+    "team": "데빌스",
+    "power": 7,
+    "asset": {
+     "value": 15,
+     "grade": "S",
+     "left": 4,
+     "effM": 1.42
+    }
+   },
+   "p125": {
+    "name": "파쿤도",
+    "pos": "3B",
+    "tier": "컨텐더",
+    "age": 30,
+    "team": "라이언즈",
+    "power": 12,
+    "asset": {
+     "value": 19.3,
+     "grade": "S",
+     "left": 3,
+     "effM": 1.14
+    }
+   },
+   "p126": {
+    "name": "클레만",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 32,
+    "team": "스틸러스",
+    "power": 7,
+    "asset": {
+     "value": 10.2,
+     "grade": "A",
+     "left": 2,
+     "effM": 1.11
+    }
+   },
+   "p127": {
+    "name": "케네디",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 32,
+    "team": "프린스",
+    "power": 8.1,
+    "asset": {
+     "value": 13,
+     "grade": "S",
+     "left": 3,
+     "effM": 1.12
+    }
+   },
+   "p128": {
+    "name": "맬러리",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 31,
+    "team": "챌린저스",
+    "power": 1.8,
+    "asset": {
+     "value": 2,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.09
+    },
+    "expContract": {
+     "years": 5,
+     "aav": 10.9,
+     "total": 54.5
+    }
+   },
+   "p129": {
+    "name": "조나스",
+    "pos": "C",
+    "tier": "코어",
+    "age": 32,
+    "team": "스틸러스",
+    "power": 2.5,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 0.99
+    }
+   },
+   "p130": {
+    "name": "누스마이어",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 31,
+    "team": "스틸러스",
+    "power": 2.9,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 2,
+     "effM": 0.97
+    }
+   },
+   "p131": {
+    "name": "세르히오",
+    "pos": "SP",
+    "tier": "컨텐더",
+    "age": 28,
+    "team": "트레일 블레이저스",
+    "power": 13.8,
+    "asset": {
+     "value": 16.7,
+     "grade": "S",
+     "left": 1,
+     "effM": 1.25
+    },
+    "expContract": {
+     "years": 8,
+     "aav": 37.5,
+     "total": 300
+    }
+   },
+   "p132": {
+    "name": "메이슨",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 32,
+    "team": "마린즈",
+    "power": 8.1,
+    "asset": {
+     "value": 13,
+     "grade": "S",
+     "left": 3,
+     "effM": 1.12
+    }
+   },
+   "p133": {
+    "name": "크로머",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 30,
+    "team": "타이거즈",
+    "power": 7,
+    "asset": {
+     "value": 9.9,
+     "grade": "A",
+     "left": 5,
+     "effM": 0.89
+    }
+   },
+   "p134": {
+    "name": "필립",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 29,
+    "team": "다이노스",
+    "power": 1.6,
+    "asset": {
+     "value": 2.4,
+     "grade": "D",
+     "left": 4,
+     "effM": 1
+    }
+   },
+   "p135": {
+    "name": "요아힘",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 31,
+    "team": "챌린저스",
+    "power": 1.8,
+    "asset": {
+     "value": 1.6,
+     "grade": "D",
+     "left": 4,
+     "effM": 0.56
+    }
+   },
+   "p136": {
+    "name": "요한",
+    "pos": "SS",
+    "tier": "엘리트",
+    "age": 28,
+    "team": "재즈",
+    "power": 7,
+    "asset": {
+     "value": 11.3,
+     "grade": "A",
+     "left": 7,
+     "effM": 0.93
+    }
+   },
+   "p137": {
+    "name": "포드휘튼",
+    "pos": "SP",
+    "tier": "컨텐더",
+    "age": 30,
+    "team": "다이노스",
+    "power": 13.8,
+    "asset": {
+     "value": 28.7,
+     "grade": "S",
+     "left": 6,
+     "effM": 1.25
+    }
+   },
+   "p138": {
+    "name": "카브레라",
+    "pos": "C",
+    "tier": "코어",
+    "age": 29,
+    "team": "다이너마이트",
+    "power": 2.5,
+    "asset": {
+     "value": 3,
+     "grade": "C",
+     "left": 7,
+     "effM": 0.7
+    }
+   },
+   "p139": {
+    "name": "클라우디오",
+    "pos": "SP",
+    "tier": "컨텐더",
+    "age": 28,
+    "team": "프린스",
+    "power": 13.8,
+    "asset": {
+     "value": 24.6,
+     "grade": "S",
+     "left": 6,
+     "effM": 1.07
+    }
+   },
+   "p141": {
+    "name": "어니스트",
+    "pos": "RP",
+    "tier": "엘리트",
+    "age": 35,
+    "team": "타이거즈",
+    "power": 3.5,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.12
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 22.4,
+     "total": 44.8
+    }
+   },
+   "p142": {
+    "name": "피네이로",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 33,
+    "team": "다이노스",
+    "power": 1.8,
+    "asset": {
+     "value": 2.6,
+     "grade": "D",
+     "left": 2,
+     "effM": 1.14
+    }
+   },
+   "p143": {
+    "name": "미들턴",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 36,
+    "team": "세이버스",
+    "power": 1.6,
+    "asset": {
+     "value": 1.4,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.09
+    },
+    "expContract": {
+     "years": 2,
+     "aav": 10.9,
+     "total": 21.8
+    }
+   },
+   "p144": {
+    "name": "디안드레",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 37,
+    "team": "FA",
+    "power": 1.6,
+    "expContract": {
+     "years": 2,
+     "aav": 11.1,
+     "total": 22.2
+    }
+   },
+   "p145": {
+    "name": "트라우트먼",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 36,
+    "team": "재즈",
+    "power": 0.8,
+    "asset": {
+     "value": 0.7,
+     "grade": "D",
+     "left": 1,
+     "effM": 1
+    },
+    "expContract": {
+     "years": 1,
+     "aav": 9.4,
+     "total": 9.4
+    }
+   },
+   "p146": {
+    "name": "벌렌더",
+    "pos": "1B",
+    "tier": "엘리트",
+    "age": 28,
+    "team": "스틸러스",
+    "power": 7,
+    "asset": {
+     "value": 9.7,
+     "grade": "A",
+     "left": 7,
+     "effM": 0.8
+    }
+   },
+   "p147": {
+    "name": "커비",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 27,
+    "team": "데빌스",
+    "power": 8.1,
+    "asset": {
+     "value": 15.1,
+     "grade": "S",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p148": {
+    "name": "러츠",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 32,
+    "team": "다이노스",
+    "power": 2.9,
+    "asset": {
+     "value": 4.8,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.16
+    }
+   },
+   "p149": {
+    "name": "바셋",
+    "pos": "C",
+    "tier": "코어",
+    "age": 28,
+    "team": "FA",
+    "power": 2.5,
+    "expContract": {
+     "years": 6,
+     "aav": 18.5,
+     "total": 111
+    }
+   },
+   "p150": {
+    "name": "핀리",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "타이거즈",
+    "power": 1.8,
+    "asset": {
+     "value": 2.9,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p151": {
+    "name": "칼리엔도",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 27,
+    "team": "데빌스",
+    "power": 8.1,
+    "asset": {
+     "value": 12.2,
+     "grade": "S",
+     "left": 6,
+     "effM": 0.99
+    }
+   },
+   "p152": {
+    "name": "엔더슨",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 28,
+    "team": "이글즈",
+    "power": 2.5,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 6,
+     "effM": 0.99
+    }
+   },
+   "p153": {
+    "name": "트로이",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 27,
+    "team": "마린즈",
+    "power": 2.9,
+    "asset": {
+     "value": 5.4,
+     "grade": "B",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p154": {
+    "name": "퀸",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 27,
+    "team": "워리어스",
+    "power": 8.1,
+    "asset": {
+     "value": 13.1,
+     "grade": "S",
+     "left": 8,
+     "effM": 0.99
+    }
+   },
+   "p155": {
+    "name": "알드레드",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 31,
+    "team": "이글즈",
+    "power": 1.6,
+    "asset": {
+     "value": 2.8,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.14
+    }
+   },
+   "p156": {
+    "name": "해밀턴",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 30,
+    "team": "마린즈",
+    "power": 2.5,
+    "asset": {
+     "value": 4.2,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.19
+    }
+   },
+   "p157": {
+    "name": "론돈",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 39,
+    "team": "은퇴",
+    "power": 1.6
+   },
+   "p158": {
+    "name": "앨퍼드",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 34,
+    "team": "FA",
+    "power": 1.6,
+    "expContract": {
+     "years": 3,
+     "aav": 10.8,
+     "total": 32.400000000000006
+    }
+   },
+   "p159": {
+    "name": "윌리엄스",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 33,
+    "team": "데빌스",
+    "power": 1.6,
+    "asset": {
+     "value": 1.5,
+     "grade": "D",
+     "left": 3,
+     "effM": 0.69
+    }
+   },
+   "p160": {
+    "name": "크림슨",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 29,
+    "team": "트레일 블레이저스",
+    "power": 2.9,
+    "asset": {
+     "value": 4.4,
+     "grade": "C",
+     "left": 5,
+     "effM": 0.97
+    }
+   },
+   "p161": {
+    "name": "헤인즈",
+    "pos": "RP",
+    "tier": "엘리트",
+    "age": 26,
+    "team": "FA",
+    "power": 3.5,
+    "expContract": {
+     "years": 5,
+     "aav": 21.2,
+     "total": 106
+    }
+   },
+   "p162": {
+    "name": "레너드",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 27,
+    "team": "FA",
+    "power": 2.5,
+    "expContract": {
+     "years": 6,
+     "aav": 18.5,
+     "total": 111
+    }
+   },
+   "p163": {
+    "name": "하이아트",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 26,
+    "team": "FA",
+    "power": 2.9,
+    "expContract": {
+     "years": 7,
+     "aav": 19.4,
+     "total": 135.79999999999998
+    }
+   },
+   "p164": {
+    "name": "리븐",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 27,
+    "team": "세이버스",
+    "power": 2.5,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p165": {
+    "name": "벤슨",
+    "pos": "OF",
+    "tier": "컨텐더",
+    "age": 28,
+    "team": "프린스",
+    "power": 12,
+    "asset": {
+     "value": 21.9,
+     "grade": "S",
+     "left": 8,
+     "effM": 1.02
+    }
+   },
+   "p166": {
+    "name": "훌리오",
+    "pos": "RP",
+    "tier": "컨텐더",
+    "age": 27,
+    "team": "라이언즈",
+    "power": 6,
+    "asset": {
+     "value": 7.4,
+     "grade": "B",
+     "left": 4,
+     "effM": 0.89
+    }
+   },
+   "p167": {
+    "name": "더든",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 27,
+    "team": "마린즈",
+    "power": 1.8,
+    "asset": {
+     "value": 2.6,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p168": {
+    "name": "파슨스",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 31,
+    "team": "세이버스",
+    "power": 1.8,
+    "asset": {
+     "value": 3,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.01
+    }
+   },
+   "p169": {
+    "name": "커즌스",
+    "pos": "3B",
+    "tier": "레귤러",
+    "age": 29,
+    "team": "스틸러스",
+    "power": 1.6,
+    "asset": {
+     "value": 2.5,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p170": {
+    "name": "나쿠아",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 30,
+    "team": "데빌스",
+    "power": 0.8,
+    "asset": {
+     "value": 1,
+     "grade": "D",
+     "left": 3,
+     "effM": 0.92
+    }
+   },
+   "p171": {
+    "name": "코르테리엔",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 29,
+    "team": "라이언즈",
+    "power": 2.5,
+    "asset": {
+     "value": 4.6,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.23
+    }
+   },
+   "p172": {
+    "name": "렉스",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 30,
+    "team": "프린스",
+    "power": 2.5,
+    "asset": {
+     "value": 3.1,
+     "grade": "C",
+     "left": 3,
+     "effM": 0.89
+    }
+   },
+   "p173": {
+    "name": "올센",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 27,
+    "team": "이글즈",
+    "power": 2.9,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p174": {
+    "name": "세군",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 28,
+    "team": "스틸러스",
+    "power": 2.9,
+    "asset": {
+     "value": 5.9,
+     "grade": "B",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p175": {
+    "name": "피소로",
+    "pos": "C",
+    "tier": "코어",
+    "age": 28,
+    "team": "라이언즈",
+    "power": 2.5,
+    "asset": {
+     "value": 4.3,
+     "grade": "C",
+     "left": 7,
+     "effM": 0.99
+    }
+   },
+   "p176": {
+    "name": "테버",
+    "pos": "2B",
+    "tier": "컨텐더",
+    "age": 24,
+    "team": "워리어스",
+    "power": 12,
+    "asset": {
+     "value": 21.3,
+     "grade": "S",
+     "left": 14,
+     "effM": 1.14
+    }
+   },
+   "p177": {
+    "name": "워커",
+    "pos": "3B",
+    "tier": "엘리트",
+    "age": 27,
+    "team": "다이너마이트",
+    "power": 7,
+    "asset": {
+     "value": 10,
+     "grade": "A",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p178": {
+    "name": "칼슨",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 25,
+    "team": "버커니어스",
+    "power": 2.9,
+    "asset": {
+     "value": 5.4,
+     "grade": "B",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p179": {
+    "name": "카서스",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 27,
+    "team": "타이거즈",
+    "power": 2.9,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p180": {
+    "name": "아서",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 25,
+    "team": "재즈",
+    "power": 7,
+    "asset": {
+     "value": 10,
+     "grade": "A",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p181": {
+    "name": "비우크",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "이글즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p182": {
+    "name": "무노스",
+    "pos": "1B",
+    "tier": "코어",
+    "age": 29,
+    "team": "트레일 블레이저스",
+    "power": 2.5,
+    "asset": {
+     "value": 5.1,
+     "grade": "B",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p183": {
+    "name": "홈즈",
+    "pos": "3B",
+    "tier": "코어",
+    "age": 30,
+    "team": "프린스",
+    "power": 2.5,
+    "asset": {
+     "value": 6,
+     "grade": "B",
+     "left": 4,
+     "effM": 1.59
+    }
+   },
+   "p184": {
+    "name": "조니",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 29,
+    "team": "트레일 블레이저스",
+    "power": 1.6,
+    "asset": {
+     "value": 2.5,
+     "grade": "D",
+     "left": 4,
+     "effM": 1.04
+    }
+   },
+   "p185": {
+    "name": "카이츠",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 30,
+    "team": "마린즈",
+    "power": 0.8,
+    "asset": {
+     "value": 1.1,
+     "grade": "D",
+     "left": 4,
+     "effM": 0.92
+    }
+   },
+   "p186": {
+    "name": "마틴",
+    "pos": "2B",
+    "tier": "레귤러",
+    "age": 31,
+    "team": "라이언즈",
+    "power": 1.6,
+    "asset": {
+     "value": 2.5,
+     "grade": "D",
+     "left": 4,
+     "effM": 1
+    }
+   },
+   "p187": {
+    "name": "에버렛",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 30,
+    "team": "트레일 블레이저스",
+    "power": 1.8,
+    "asset": {
+     "value": 3,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.09
+    }
+   },
+   "p188": {
+    "name": "타바이",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 33,
+    "team": "에스트로너츠",
+    "power": 1.6,
+    "asset": {
+     "value": 2,
+     "grade": "D",
+     "left": 2,
+     "effM": 1.04
+    }
+   },
+   "p189": {
+    "name": "버크스",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 33,
+    "team": "워리어스",
+    "power": 1.3,
+    "asset": {
+     "value": 1.9,
+     "grade": "D",
+     "left": 3,
+     "effM": 1.1
+    }
+   },
+   "p190": {
+    "name": "마하",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 29,
+    "team": "FA",
+    "power": 1.8,
+    "expContract": {
+     "years": 5,
+     "aav": 10.9,
+     "total": 54.5
+    }
+   },
+   "p191": {
+    "name": "오웬스",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "데빌스",
+    "power": 1.8,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p192": {
+    "name": "뤼프키",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "프린스",
+    "power": 1.8,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p193": {
+    "name": "허드슨",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "다이노스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p194": {
+    "name": "베일리",
+    "pos": "2B",
+    "tier": "레귤러",
+    "age": 30,
+    "team": "스틸러스",
+    "power": 1.6,
+    "asset": {
+     "value": 2.3,
+     "grade": "D",
+     "left": 2,
+     "effM": 1.11
+    }
+   },
+   "p195": {
+    "name": "파스칼",
+    "pos": "2B",
+    "tier": "엘리트",
+    "age": 27,
+    "team": "에스트로너츠",
+    "power": 7,
+    "asset": {
+     "value": 13.2,
+     "grade": "S",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p196": {
+    "name": "데버스",
+    "pos": "3B",
+    "tier": "엘리트",
+    "age": 27,
+    "team": "워리어스",
+    "power": 7,
+    "asset": {
+     "value": 13.2,
+     "grade": "S",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p197": {
+    "name": "올리바레스",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 24,
+    "team": "버커니어스",
+    "power": 2.5,
+    "asset": {
+     "value": 4.8,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p198": {
+    "name": "도널드",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 26,
+    "team": "라이언즈",
+    "power": 2.9,
+    "asset": {
+     "value": 5.9,
+     "grade": "B",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p199": {
+    "name": "더커",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "이글즈",
+    "power": 1.8,
+    "asset": {
+     "value": 3.5,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p200": {
+    "name": "라힘",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 27,
+    "team": "세이버스",
+    "power": 1.8,
+    "asset": {
+     "value": 3.5,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p201": {
+    "name": "러커트",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 28,
+    "team": "트레일 블레이저스",
+    "power": 2.5,
+    "asset": {
+     "value": 5.1,
+     "grade": "B",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p202": {
+    "name": "마자르",
+    "pos": "OF",
+    "tier": "컨텐더",
+    "age": 26,
+    "team": "타이거즈",
+    "power": 12,
+    "asset": {
+     "value": 22.6,
+     "grade": "S",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p203": {
+    "name": "폰",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 25,
+    "team": "버커니어스",
+    "power": 8.1,
+    "asset": {
+     "value": 16.7,
+     "grade": "S",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p204": {
+    "name": "저스틴",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 26,
+    "team": "스틸러스",
+    "power": 2.9,
+    "asset": {
+     "value": 5.9,
+     "grade": "B",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p205": {
+    "name": "스크로닉",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 29,
+    "team": "재즈",
+    "power": 1.8,
+    "asset": {
+     "value": 3,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.09
+    }
+   },
+   "p206": {
+    "name": "찰리",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 28,
+    "team": "FA",
+    "power": 2.9,
+    "expContract": {
+     "years": 6,
+     "aav": 19.4,
+     "total": 116.39999999999999
+    }
+   },
+   "p207": {
+    "name": "셔넬",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 27,
+    "team": "에스트로너츠",
+    "power": 1.8,
+    "asset": {
+     "value": 3.5,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p208": {
+    "name": "암스테드",
+    "pos": "RP",
+    "tier": "엘리트",
+    "age": 25,
+    "team": "다이노스",
+    "power": 3.5,
+    "asset": {
+     "value": 6.6,
+     "grade": "B",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p209": {
+    "name": "에스크리지",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 29,
+    "team": "마린즈",
+    "power": 1.3,
+    "asset": {
+     "value": 1.9,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p210": {
+    "name": "마빈",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 26,
+    "team": "워리어스",
+    "power": 1.3,
+    "asset": {
+     "value": 2.6,
+     "grade": "D",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p211": {
+    "name": "자브릴",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 32,
+    "team": "라이언즈",
+    "power": 1.3,
+    "asset": {
+     "value": 1.8,
+     "grade": "D",
+     "left": 3,
+     "effM": 0.99
+    }
+   },
+   "p212": {
+    "name": "파커",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 23,
+    "team": "세이버스",
+    "power": 2.9,
+    "asset": {
+     "value": 6.2,
+     "grade": "B",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p213": {
+    "name": "그루지어",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "이글즈",
+    "power": 0.8,
+    "asset": {
+     "value": 1.6,
+     "grade": "D",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p214": {
+    "name": "디아모도어",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "다이너마이트",
+    "power": 1.8,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p215": {
+    "name": "장주",
+    "pos": "OF",
+    "tier": "엘리트",
+    "age": 26,
+    "team": "에스트로너츠",
+    "power": 7,
+    "asset": {
+     "value": 14.5,
+     "grade": "S",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p216": {
+    "name": "비사치아",
+    "pos": "3B",
+    "tier": "코어",
+    "age": 23,
+    "team": "챌린저스",
+    "power": 2.5,
+    "asset": {
+     "value": 4.8,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p217": {
+    "name": "베텔",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 27,
+    "team": "마린즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.9,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p218": {
+    "name": "테오",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "데빌스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p219": {
+    "name": "말로우",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "타이거즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p220": {
+    "name": "토마스",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 27,
+    "team": "버커니어스",
+    "power": 1.3,
+    "asset": {
+     "value": 2.6,
+     "grade": "D",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p221": {
+    "name": "그라인더",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 28,
+    "team": "스틸러스",
+    "power": 2.5,
+    "asset": {
+     "value": 3.9,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p222": {
+    "name": "알렌",
+    "pos": "3B",
+    "tier": "레귤러",
+    "age": 29,
+    "team": "세이버스",
+    "power": 1.6,
+    "asset": {
+     "value": 2.5,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p223": {
+    "name": "디미트리",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 29,
+    "team": "라이언즈",
+    "power": 1.8,
+    "asset": {
+     "value": 2.9,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p224": {
+    "name": "허스트",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "에스트로너츠",
+    "power": 0.8,
+    "asset": {
+     "value": 1.1,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p225": {
+    "name": "라이즈",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 27,
+    "team": "트레일 블레이저스",
+    "power": 2.5,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 1,
+     "effM": 1.6
+    }
+   },
+   "p226": {
+    "name": "허핀",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 30,
+    "team": "에스트로너츠",
+    "power": 1.6,
+    "asset": {
+     "value": 2.3,
+     "grade": "D",
+     "left": 3,
+     "effM": 1
+    }
+   },
+   "p227": {
+    "name": "베르만",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "챌린저스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p228": {
+    "name": "로렌스",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "타이거즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4.3,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p229": {
+    "name": "에페네스",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p230": {
+    "name": "켄드릭",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "세이버스",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p231": {
+    "name": "치크",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "라이언즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.5,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p233": {
+    "name": "토레이라",
+    "pos": "C",
+    "tier": "엘리트",
+    "age": 23,
+    "team": "프린스",
+    "power": 7,
+    "asset": {
+     "value": 14.3,
+     "grade": "S",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p234": {
+    "name": "휘트",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 25,
+    "team": "트레일 블레이저스",
+    "power": 2.9,
+    "asset": {
+     "value": 6.4,
+     "grade": "B",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p235": {
+    "name": "오닉",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "마린즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.5,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p236": {
+    "name": "바인달",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "데빌스",
+    "power": 0.8,
+    "asset": {
+     "value": 1.8,
+     "grade": "D",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p237": {
+    "name": "닉슨",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "이글즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p238": {
+    "name": "파울리우",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "재즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p239": {
+    "name": "폴",
+    "pos": "SS",
+    "tier": "코어",
+    "age": 26,
+    "team": "에스트로너츠",
+    "power": 2.5,
+    "asset": {
+     "value": 6.1,
+     "grade": "B",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p240": {
+    "name": "킹슬리",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 23,
+    "team": "스틸러스",
+    "power": 2.5,
+    "asset": {
+     "value": 5.4,
+     "grade": "B",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p241": {
+    "name": "햄린",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "챌린저스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p242": {
+    "name": "아켈로",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 27,
+    "team": "트레일 블레이저스",
+    "power": 0.8,
+    "asset": {
+     "value": 1.7,
+     "grade": "D",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p243": {
+    "name": "린더바움",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "재즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p244": {
+    "name": "베넷",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 22,
+    "team": "세이버스",
+    "power": 2.9,
+    "asset": {
+     "value": 6.2,
+     "grade": "B",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p245": {
+    "name": "마리오",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "이글즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p246": {
+    "name": "마이어",
+    "pos": "2B",
+    "tier": "코어",
+    "age": 22,
+    "team": "트레일 블레이저스",
+    "power": 2.5,
+    "asset": {
+     "value": 5.4,
+     "grade": "B",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p247": {
+    "name": "퀘즈",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "다이너마이트",
+    "power": 1.8,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p248": {
+    "name": "짐머",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "에스트로너츠",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p249": {
+    "name": "듀버네이",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 3.4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p250": {
+    "name": "바에르",
+    "pos": "C",
+    "tier": "코어",
+    "age": 27,
+    "team": "다이노스",
+    "power": 2.5,
+    "asset": {
+     "value": 5.2,
+     "grade": "B",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p251": {
+    "name": "카마라",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "워리어스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p252": {
+    "name": "아일리자",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "타이거즈",
+    "power": 0.8,
+    "asset": {
+     "value": 1.7,
+     "grade": "D",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p253": {
+    "name": "브랭크",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 27,
+    "team": "버커니어스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p254": {
+    "name": "토비",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "에스트로너츠",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 3,
+     "effM": 1.6
+    }
+   },
+   "p255": {
+    "name": "블라스코",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "스틸러스",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p256": {
+    "name": "가버",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "타이거즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.9,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p257": {
+    "name": "락",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "재즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p258": {
+    "name": "샌더스",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 3.3,
+     "grade": "C",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p259": {
+    "name": "럭스",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 28,
+    "team": "세이버스",
+    "power": 0.8,
+    "asset": {
+     "value": 1.6,
+     "grade": "D",
+     "left": 2,
+     "effM": 1.6
+    }
+   },
+   "p260": {
+    "name": "페레즈",
+    "pos": "SP",
+    "tier": "엘리트",
+    "age": 21,
+    "team": "에스트로너츠",
+    "power": 8.1,
+    "asset": {
+     "value": 18.2,
+     "grade": "S",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p261": {
+    "name": "사르",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 21,
+    "team": "이글즈",
+    "power": 2.9,
+    "asset": {
+     "value": 6.5,
+     "grade": "B",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p262": {
+    "name": "바그너",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 23,
+    "team": "이글즈",
+    "power": 2.5,
+    "asset": {
+     "value": 5.4,
+     "grade": "B",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p263": {
+    "name": "아이재아",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "다이너마이트",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p264": {
+    "name": "조쉬",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "트레일 블레이저스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p265": {
+    "name": "브랜든",
+    "pos": "C",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "세이버스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p266": {
+    "name": "나할",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 24,
+    "team": "버커니어스",
+    "power": 2.5,
+    "asset": {
+     "value": 5.1,
+     "grade": "B",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p267": {
+    "name": "크위티",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "데빌스",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p268": {
+    "name": "카터",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "챌린저스",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p269": {
+    "name": "브라이언",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "트레일 블레이저스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p270": {
+    "name": "워드",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "버커니어스",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p271": {
+    "name": "제이시",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "타이거즈",
+    "power": 0.8,
+    "asset": {
+     "value": 1.7,
+     "grade": "D",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p272": {
+    "name": "젠킨스",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "마린즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p273": {
+    "name": "베이커",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 25,
+    "team": "재즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.5,
+     "grade": "C",
+     "left": 4,
+     "effM": 1.6
+    }
+   },
+   "p274": {
+    "name": "헤라르드",
+    "pos": "3B",
+    "tier": "레귤러",
+    "age": 21,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p275": {
+    "name": "려즈완",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "프린스",
+    "power": 1.8,
+    "asset": {
+     "value": 4,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p276": {
+    "name": "세틀",
+    "pos": "2B",
+    "tier": "레귤러",
+    "age": 26,
+    "team": "타이거즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.7,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p277": {
+    "name": "산체스",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "챌린저스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p278": {
+    "name": "핸콕",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "이글즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p279": {
+    "name": "켈리",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 21,
+    "team": "다이너마이트",
+    "power": 2.9,
+    "asset": {
+     "value": 6.8,
+     "grade": "B",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p280": {
+    "name": "에르난데스",
+    "pos": "1B",
+    "tier": "C리그",
+    "age": 20,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p281": {
+    "name": "코헨",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "다이노스",
+    "power": 0
+   },
+   "p282": {
+    "name": "코난",
+    "pos": "3B",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "세이버스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p283": {
+    "name": "에이브라함",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 20,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p284": {
+    "name": "험프리",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 21,
+    "team": "에스트로너츠",
+    "power": 1.6,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p285": {
+    "name": "베르흐게르",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 20,
+    "team": "버커니어스",
+    "power": 0
+   },
+   "p286": {
+    "name": "뱅크스",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 21,
+    "team": "데빌스",
+    "power": 1.8,
+    "asset": {
+     "value": 4.3,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p287": {
+    "name": "네일",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "프린스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p288": {
+    "name": "오션",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "이글즈",
+    "power": 0.8,
+    "asset": {
+     "value": 1.7,
+     "grade": "D",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p289": {
+    "name": "마르케즈",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "재즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p290": {
+    "name": "제이크",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "트레일 블레이저스",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p291": {
+    "name": "포르티스",
+    "pos": "2B",
+    "tier": "C리그",
+    "age": 20,
+    "team": "타이거즈",
+    "power": 0
+   },
+   "p292": {
+    "name": "캘커테라",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "마린즈",
+    "power": 1.8,
+    "asset": {
+     "value": 4.1,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p293": {
+    "name": "라파엘라",
+    "pos": "C",
+    "tier": "C리그",
+    "age": 22,
+    "team": "스틸러스",
+    "power": 0
+   },
+   "p294": {
+    "name": "무디",
+    "pos": "RP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p295": {
+    "name": "조던",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "다이너마이트",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p296": {
+    "name": "코체트코프",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 22,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p297": {
+    "name": "버포드",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 24,
+    "team": "다이너마이트",
+    "power": 0.8,
+    "asset": {
+     "value": 1.7,
+     "grade": "D",
+     "left": 5,
+     "effM": 1.6
+    }
+   },
+   "p298": {
+    "name": "롱",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 21,
+    "team": "세이버스",
+    "power": 1.6,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p299": {
+    "name": "게일",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 20,
+    "team": "이글즈",
+    "power": 0
+   },
+   "p300": {
+    "name": "해거티",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "에스트로너츠",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p301": {
+    "name": "스미스",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "라이언즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p302": {
+    "name": "마르셀리",
+    "pos": "RP",
+    "tier": "C리그",
+    "age": 22,
+    "team": "마린즈",
+    "power": 0
+   },
+   "p303": {
+    "name": "클레이",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 18,
+    "team": "다이너마이트",
+    "power": 0
+   },
+   "p304": {
+    "name": "로든",
+    "pos": "3B",
+    "tier": "C리그",
+    "age": 19,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p305": {
+    "name": "자이언",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 21,
+    "team": "이글즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p306": {
+    "name": "오를로프",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 22,
+    "team": "에스트로너츠",
+    "power": 0
+   },
+   "p307": {
+    "name": "이노아",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 20,
+    "team": "스틸러스",
+    "power": 0
+   },
+   "p308": {
+    "name": "타이리스",
+    "pos": "2B",
+    "tier": "C리그",
+    "age": 19,
+    "team": "세이버스",
+    "power": 0
+   },
+   "p309": {
+    "name": "이캄",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "다이노스",
+    "power": 0
+   },
+   "p310": {
+    "name": "실러",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 19,
+    "team": "재즈",
+    "power": 0
+   },
+   "p311": {
+    "name": "메이너즈",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "버커니어스",
+    "power": 0
+   },
+   "p312": {
+    "name": "아론",
+    "pos": "1B",
+    "tier": "C리그",
+    "age": 19,
+    "team": "마린즈",
+    "power": 0
+   },
+   "p313": {
+    "name": "브래디",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 22,
+    "team": "트레일 블레이저스",
+    "power": 0
+   },
+   "p314": {
+    "name": "호프만 Jr",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 19,
+    "team": "타이거즈",
+    "power": 0
+   },
+   "p315": {
+    "name": "샤크",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "데빌스",
+    "power": 0
+   },
+   "p316": {
+    "name": "클락",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 20,
+    "team": "라이언즈",
+    "power": 0
+   },
+   "p317": {
+    "name": "제레미",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 23,
+    "team": "타이거즈",
+    "power": 1.6,
+    "asset": {
+     "value": 3.6,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p318": {
+    "name": "굿윈",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 20,
+    "team": "워리어스",
+    "power": 0
+   },
+   "p319": {
+    "name": "버트리",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "다이너마이트",
+    "power": 0
+   },
+   "p320": {
+    "name": "리키",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p321": {
+    "name": "곽선웅",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 22,
+    "team": "이글즈",
+    "power": 0
+   },
+   "p322": {
+    "name": "나바레즈",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "에스트로너츠",
+    "power": 0
+   },
+   "p323": {
+    "name": "더글라스",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 22,
+    "team": "스틸러스",
+    "power": 0
+   },
+   "p324": {
+    "name": "파웰",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 23,
+    "team": "세이버스",
+    "power": 0
+   },
+   "p325": {
+    "name": "트리스탄",
+    "pos": "2B",
+    "tier": "C리그",
+    "age": 21,
+    "team": "에스트로너츠",
+    "power": 0
+   },
+   "p326": {
+    "name": "케이타",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 19,
+    "team": "재즈",
+    "power": 0
+   },
+   "p327": {
+    "name": "머서",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "세이버스",
+    "power": 0
+   },
+   "p328": {
+    "name": "유리아스",
+    "pos": "2B",
+    "tier": "C리그",
+    "age": 21,
+    "team": "마린즈",
+    "power": 0
+   },
+   "p329": {
+    "name": "시지카스",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 23,
+    "team": "트레일 블레이저스",
+    "power": 0
+   },
+   "p330": {
+    "name": "귄터",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 22,
+    "team": "이글즈",
+    "power": 0
+   },
+   "p331": {
+    "name": "킬로매",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 21,
+    "team": "마린즈",
+    "power": 0
+   },
+   "p332": {
+    "name": "케일리",
+    "pos": "RP",
+    "tier": "레귤러",
+    "age": 22,
+    "team": "라이언즈",
+    "power": 0.8,
+    "asset": {
+     "value": 1.8,
+     "grade": "D",
+     "left": 6,
+     "effM": 1.6
+    }
+   },
+   "p333": {
+    "name": "아마리",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 20,
+    "team": "이글즈",
+    "power": 0
+   },
+   "p334": {
+    "name": "버나드",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 20,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p335": {
+    "name": "벤자민",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 19,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p336": {
+    "name": "반펠",
+    "pos": "C",
+    "tier": "D리그",
+    "age": 19,
+    "team": "재즈",
+    "power": 0
+   },
+   "p337": {
+    "name": "에레브",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 18,
+    "team": "다이너마이트",
+    "power": 0
+   },
+   "p338": {
+    "name": "스피드",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 19,
+    "team": "버커니어스",
+    "power": 0
+   },
+   "p339": {
+    "name": "브레데슨",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "다이너마이트",
+    "power": 0
+   },
+   "p340": {
+    "name": "베르스탕",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "이글즈",
+    "power": 0
+   },
+   "p341": {
+    "name": "크로스비",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "세이버스",
+    "power": 0
+   },
+   "p342": {
+    "name": "라이아베리",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 18,
+    "team": "에스트로너츠",
+    "power": 0
+   },
+   "p343": {
+    "name": "제이콥",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "트레일 블레이저스",
+    "power": 0
+   },
+   "p344": {
+    "name": "장하오",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 20,
+    "team": "타이거즈",
+    "power": 0
+   },
+   "p345": {
+    "name": "카스틸",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 19,
+    "team": "트레일 블레이저스",
+    "power": 0
+   },
+   "p346": {
+    "name": "니코",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "마린즈",
+    "power": 0
+   },
+   "p347": {
+    "name": "에르손",
+    "pos": "2B",
+    "tier": "D리그",
+    "age": 19,
+    "team": "데빌스",
+    "power": 0
+   },
+   "p348": {
+    "name": "박현우",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 22,
+    "team": "워리어스",
+    "power": 0
+   },
+   "p349": {
+    "name": "와델",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 18,
+    "team": "라이언즈",
+    "power": 0
+   },
+   "p350": {
+    "name": "스태닉",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "타이거즈",
+    "power": 0
+   },
+   "p351": {
+    "name": "해더웨이",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p352": {
+    "name": "매클라우드",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "재즈",
+    "power": 0
+   },
+   "p353": {
+    "name": "마타케비치",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "스틸러스",
+    "power": 0
+   },
+   "p391": {
+    "name": "시도로프",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 22,
+    "team": "버커니어스",
+    "power": 0
+   },
+   "p392": {
+    "name": "파올리",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "라이언즈",
+    "power": 0
+   },
+   "p393": {
+    "name": "랜돌프",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 22,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p394": {
+    "name": "리들리",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 19,
+    "team": "타이거즈",
+    "power": 0
+   },
+   "p395": {
+    "name": "아세베도",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 22,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p396": {
+    "name": "음보테",
+    "pos": "3B",
+    "tier": "C리그",
+    "age": 19,
+    "team": "트레일 블레이저스",
+    "power": 0
+   },
+   "p397": {
+    "name": "하킴",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "워리어스",
+    "power": 0
+   },
+   "p398": {
+    "name": "슈타인",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "이글즈",
+    "power": 0
+   },
+   "p399": {
+    "name": "스미르노프",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "타이거즈",
+    "power": 0
+   },
+   "p400": {
+    "name": "음벰바",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p401": {
+    "name": "슈타이거",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 20,
+    "team": "재즈",
+    "power": 0
+   },
+   "p402": {
+    "name": "은쿠",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p403": {
+    "name": "자키",
+    "pos": "1B",
+    "tier": "C리그",
+    "age": 21,
+    "team": "챌린저스",
+    "power": 0
+   },
+   "p404": {
+    "name": "카마르",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p405": {
+    "name": "마르케티",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p406": {
+    "name": "사이토",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 20,
+    "team": "스틸러스",
+    "power": 0
+   },
+   "p407": {
+    "name": "버넷",
+    "pos": "2B",
+    "tier": "D리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p408": {
+    "name": "타히르",
+    "pos": "2B",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p409": {
+    "name": "자밀",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p410": {
+    "name": "코바야시",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 22,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p411": {
+    "name": "은도예",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 18,
+    "team": "세이버스",
+    "power": 0
+   },
+   "p412": {
+    "name": "헤이스팅스",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 18,
+    "team": "에스트로너츠",
+    "power": 0
+   },
+   "p413": {
+    "name": "페이턴",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 22,
+    "team": "다이노스",
+    "power": 0
+   },
+   "p414": {
+    "name": "아니시모프",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p415": {
+    "name": "아졸라",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p416": {
+    "name": "시마다",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 18,
+    "team": "마린즈",
+    "power": 0
+   },
+   "p417": {
+    "name": "도허티",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p418": {
+    "name": "헤레라",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 20,
+    "team": "워리어스",
+    "power": 0
+   },
+   "p419": {
+    "name": "스즈키",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 22,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p420": {
+    "name": "마르티네스",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p421": {
+    "name": "모로조프",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 22,
+    "team": "다이너마이트",
+    "power": 0
+   },
+   "p422": {
+    "name": "예르마코프",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 22,
+    "team": "다이너마이트",
+    "power": 0
+   }
+  },
+  "faMarket": {
+   "p77": {
+    "name": "칼리츠",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 39,
+    "rarity": 1.9,
+    "expContract": {
+     "years": 1,
+     "aav": 11.1,
+     "total": 11.1
+    },
+    "teams": [
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.07,
+      "focus": 7,
+      "real": 1
+     },
+     {
+      "team": "스틸러스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.13,
+      "focus": 4,
+      "real": 0.9
+     },
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.16,
+      "focus": 2,
+      "real": 0.7
+     },
+     {
+      "team": "세이버스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 10,
+      "real": 0.6
+     },
+     {
+      "team": "마린즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.14,
+      "focus": 2,
+      "real": 0.5
+     },
+     {
+      "team": "데빌스",
+      "stance": "retool",
+      "lv": "공백",
+      "win": 0.09,
+      "focus": 2,
+      "real": 0.4
+     },
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.14,
+      "focus": 1,
+      "real": 0.3
+     },
+     {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 5,
+      "real": 0.3
+     },
+     {
+      "team": "타이거즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.12,
+      "focus": 1,
+      "real": 0.2
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "공백",
+      "win": 0.06,
+      "focus": 2,
+      "real": 0.2
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 3,
+      "real": 0.2
+     }
+    ],
+    "altFA": [
+     "디안드레"
+    ],
+    "altTrade": [
+     {
+      "name": "테렐",
+      "team": "워리어스"
+     }
+    ]
+   },
+   "p86": {
+    "name": "노아",
+    "pos": "RP",
+    "tier": "코어",
+    "age": 38,
+    "rarity": 1.81,
+    "expContract": {
+     "years": 1,
+     "aav": 15.9,
+     "total": 15.9
+    },
+    "teams": [
+     {
+      "team": "스틸러스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.2,
+      "focus": 4,
+      "real": 1.6
+     },
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.24,
+      "focus": 3,
+      "real": 1.3
+     },
+     {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.05,
+      "focus": 14,
+      "real": 1.2
+     },
+     {
+      "team": "세이버스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.05,
+      "focus": 12,
+      "real": 1.1
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.07,
+      "focus": 7,
+      "real": 0.9
+     },
+     {
+      "team": "트레일 블레이저스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.11,
+      "focus": 3,
+      "real": 0.6
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.09,
+      "focus": 3,
+      "real": 0.4
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "부족",
+      "win": 0.1,
+      "focus": 2,
+      "real": 0.4
+     },
+     {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.04,
+      "focus": 4,
+      "real": 0.3
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.04,
+      "focus": 3,
+      "real": 0.2
+     }
+    ],
+    "altFA": [],
+    "altTrade": []
+   },
+   "p94": {
+    "name": "블랙셔",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 36,
+    "rarity": 0.5,
+    "expContract": {
+     "years": 2,
+     "aav": 18.3,
+     "total": 36.6
+    },
+    "teams": [
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.24,
+      "focus": 31,
+      "real": 3.6
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.1,
+      "focus": 24,
+      "real": 1.2
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "부족",
+      "win": 0.17,
+      "focus": 12,
+      "real": 1
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.07,
+      "focus": 18,
+      "real": 0.6
+     },
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "부족",
+      "win": 0.38,
+      "focus": 2,
+      "real": 0.3
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.05,
+      "focus": 14,
+      "real": 0.3
+     }
+    ],
+    "altFA": [
+     "하이아트",
+     "찰리"
+    ],
+    "altTrade": [
+     {
+      "name": "누스마이어",
+      "team": "스틸러스"
+     },
+     {
+      "name": "올센",
+      "team": "이글즈"
+     },
+     {
+      "name": "카서스",
+      "team": "타이거즈"
+     }
+    ]
+   },
+   "p102": {
+    "name": "켄트",
+    "pos": "OF",
+    "tier": "레귤러",
+    "age": 33,
+    "rarity": 1.57,
+    "expContract": {
+     "years": 3,
+     "aav": 11.2,
+     "total": 33.599999999999994
+    },
+    "teams": [
+     {
+      "team": "스틸러스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.19,
+      "focus": 8,
+      "real": 2.3
+     },
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.24,
+      "focus": 5,
+      "real": 2
+     },
+     {
+      "team": "마린즈",
+      "stance": "allin",
+      "lv": "부족",
+      "win": 0.22,
+      "focus": 4,
+      "real": 1.5
+     },
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.14,
+      "focus": 4,
+      "real": 0.9
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.04,
+      "focus": 7,
+      "real": 0.5
+     },
+     {
+      "team": "트레일 블레이저스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.08,
+      "focus": 3,
+      "real": 0.4
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.06,
+      "focus": 3,
+      "real": 0.3
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 5,
+      "real": 0.2
+     }
+    ],
+    "altFA": [],
+    "altTrade": [
+     {
+      "name": "타바이",
+      "team": "에스트로너츠"
+     },
+     {
+      "name": "비우크",
+      "team": "이글즈"
+     }
+    ]
+   },
+   "p103": {
+    "name": "맥커니",
+    "pos": "3B",
+    "tier": "엘리트",
+    "age": 34,
+    "rarity": 1.33,
+    "expContract": {
+     "years": 4,
+     "aav": 23.6,
+     "total": 94.4
+    },
+    "teams": [
+     {
+      "team": "타이거즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.45,
+      "focus": 72,
+      "real": 42.7
+     },
+     {
+      "team": "데빌스",
+      "stance": "retool",
+      "lv": "공백",
+      "win": 0.27,
+      "focus": 82,
+      "real": 29.2
+     },
+     {
+      "team": "이글즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.09,
+      "focus": 77,
+      "real": 9.4
+     },
+     {
+      "team": "트레일 블레이저스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.11,
+      "focus": 61,
+      "real": 9.2
+     },
+     {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.04,
+      "focus": 48,
+      "real": 2.8
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.04,
+      "focus": 33,
+      "real": 1.8
+     }
+    ],
+    "altFA": [],
+    "altTrade": [
+     {
+      "name": "워커",
+      "team": "다이너마이트"
+     },
+     {
+      "name": "데버스",
+      "team": "워리어스"
+     }
+    ]
+   },
+   "p107": {
+    "name": "예이츠",
+    "pos": "SS",
+    "tier": "레귤러",
+    "age": 34,
+    "rarity": 0.82,
+    "expContract": {
+     "years": 2,
+     "aav": 10.5,
+     "total": 21
+    },
+    "teams": [
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 1,
+      "focus": 38,
+      "real": 31.1
+     }
+    ],
+    "altFA": [],
+    "altTrade": [
+     {
+      "name": "캐논",
+      "team": "세이버스"
+     }
+    ]
+   },
+   "p144": {
+    "name": "디안드레",
+    "pos": "DH",
+    "tier": "레귤러",
+    "age": 37,
+    "rarity": 1.9,
+    "expContract": {
+     "years": 2,
+     "aav": 11.1,
+     "total": 22.2
+    },
+    "teams": [
+     {
+      "team": "스틸러스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.13,
+      "focus": 11,
+      "real": 2.6
+     },
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.16,
+      "focus": 7,
+      "real": 2.2
+     },
+     {
+      "team": "마린즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.14,
+      "focus": 7,
+      "real": 2
+     },
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.15,
+      "focus": 4,
+      "real": 1.1
+     },
+     {
+      "team": "세이버스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 14,
+      "real": 0.9
+     },
+     {
+      "team": "타이거즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.12,
+      "focus": 3,
+      "real": 0.8
+     },
+     {
+      "team": "데빌스",
+      "stance": "retool",
+      "lv": "공백",
+      "win": 0.09,
+      "focus": 5,
+      "real": 0.8
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "공백",
+      "win": 0.07,
+      "focus": 4,
+      "real": 0.5
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.05,
+      "focus": 2,
+      "real": 0.2
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 4,
+      "real": 0.2
+     },
+     {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 3,
+      "real": 0.1
+     }
+    ],
+    "altFA": [
+     "칼리츠"
+    ],
+    "altTrade": [
+     {
+      "name": "테렐",
+      "team": "워리어스"
+     }
+    ]
+   },
+   "p149": {
+    "name": "바셋",
+    "pos": "C",
+    "tier": "코어",
+    "age": 28,
+    "rarity": 1.38,
+    "expContract": {
+     "years": 6,
+     "aav": 18.5,
+     "total": 111
+    },
+    "teams": [
+     {
+      "team": "마린즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.46,
+      "focus": 53,
+      "real": 34
+     },
+     {
+      "team": "타이거즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.39,
+      "focus": 24,
+      "real": 13
+     },
+     {
+      "team": "이글즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.07,
+      "focus": 23,
+      "real": 2.4
+     },
+     {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.04,
+      "focus": 15,
+      "real": 0.7
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 10,
+      "real": 0.5
+     }
+    ],
+    "altFA": [],
+    "altTrade": []
+   },
+   "p158": {
+    "name": "앨퍼드",
+    "pos": "1B",
+    "tier": "레귤러",
+    "age": 34,
+    "rarity": 1.62,
+    "expContract": {
+     "years": 3,
+     "aav": 10.8,
+     "total": 32.400000000000006
+    },
+    "teams": [
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.28,
+      "focus": 18,
+      "real": 8.2
+     },
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.26,
+      "focus": 10,
+      "real": 4.1
+     },
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.17,
+      "focus": 14,
+      "real": 3.9
+     },
+     {
+      "team": "데빌스",
+      "stance": "retool",
+      "lv": "공백",
+      "win": 0.16,
+      "focus": 11,
+      "real": 3
+     },
+     {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.04,
+      "focus": 31,
+      "real": 1.9
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.05,
+      "focus": 8,
+      "real": 0.7
+     },
+     {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.04,
+      "focus": 9,
+      "real": 0.5
+     }
+    ],
+    "altFA": [],
+    "altTrade": []
+   },
+   "p161": {
+    "name": "헤인즈",
+    "pos": "RP",
+    "tier": "엘리트",
+    "age": 26,
+    "rarity": 1.81,
+    "expContract": {
+     "years": 5,
+     "aav": 21.2,
+     "total": 106
+    },
+    "teams": [
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.32,
+      "focus": 41,
+      "real": 23.6
+     },
+     {
+      "team": "스틸러스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.19,
+      "focus": 47,
+      "real": 16.5
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "부족",
+      "win": 0.15,
+      "focus": 25,
+      "real": 6.5
+     },
+     {
+      "team": "세이버스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.05,
+      "focus": 64,
+      "real": 5.9
+     },
+     {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 55,
+      "real": 3.1
+     },
+     {
+      "team": "트레일 블레이저스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.08,
+      "focus": 21,
+      "real": 3
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.06,
+      "focus": 22,
+      "real": 2.5
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.06,
+      "focus": 20,
+      "real": 2.2
+     },
+     {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 16,
+      "real": 0.9
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 11,
+      "real": 0.6
+     }
+    ],
+    "altFA": [],
+    "altTrade": [
+     {
+      "name": "암스테드",
+      "team": "다이노스"
+     },
+     {
+      "name": "어니스트",
+      "team": "타이거즈"
+     }
+    ]
+   },
+   "p162": {
+    "name": "레너드",
+    "pos": "OF",
+    "tier": "코어",
+    "age": 27,
+    "rarity": 1.2,
+    "expContract": {
+     "years": 6,
+     "aav": 18.5,
+     "total": 111
+    },
+    "teams": [
+     {
+      "team": "마린즈",
+      "stance": "allin",
+      "lv": "부족",
+      "win": 0.32,
+      "focus": 33,
+      "real": 12.7
+     },
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.25,
+      "focus": 23,
+      "real": 7
+     },
+     {
+      "team": "스틸러스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.15,
+      "focus": 27,
+      "real": 4.9
+     },
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.12,
+      "focus": 14,
+      "real": 1.9
+     },
+     {
+      "team": "트레일 블레이저스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.06,
+      "focus": 12,
+      "real": 0.9
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.05,
+      "focus": 11,
+      "real": 0.6
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 8,
+      "real": 0.3
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.02,
+      "focus": 6,
+      "real": 0.2
+     }
+    ],
+    "altFA": [],
+    "altTrade": [
+     {
+      "name": "리븐",
+      "team": "세이버스"
+     }
+    ]
+   },
+   "p163": {
+    "name": "하이아트",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 26,
+    "rarity": 0.5,
+    "expContract": {
+     "years": 7,
+     "aav": 19.4,
+     "total": 135.79999999999998
+    },
+    "teams": [
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "부족",
+      "win": 0.52,
+      "focus": 9,
+      "real": 2.4
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "부족",
+      "win": 0.17,
+      "focus": 23,
+      "real": 1.9
+     },
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.17,
+      "focus": 8,
+      "real": 0.7
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.07,
+      "focus": 6,
+      "real": 0.2
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.05,
+      "focus": 7,
+      "real": 0.2
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 5,
+      "real": 0.1
+     }
+    ],
+    "altFA": [
+     "찰리",
+     "블랙셔"
+    ],
+    "altTrade": [
+     {
+      "name": "올센",
+      "team": "이글즈"
+     },
+     {
+      "name": "카서스",
+      "team": "타이거즈"
+     },
+     {
+      "name": "누스마이어",
+      "team": "스틸러스"
+     }
+    ]
+   },
+   "p190": {
+    "name": "마하",
+    "pos": "SP",
+    "tier": "레귤러",
+    "age": 29,
+    "rarity": 0.5,
+    "expContract": {
+     "years": 5,
+     "aav": 10.9,
+     "total": 54.5
+    },
+    "teams": [
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "부족",
+      "win": 0.18,
+      "focus": 5,
+      "real": 0.5
+     },
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.21,
+      "focus": 3,
+      "real": 0.3
+     },
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "부족",
+      "win": 0.41,
+      "focus": 0,
+      "real": 0.1
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.09,
+      "focus": 2,
+      "real": 0.1
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.06,
+      "focus": 4,
+      "real": 0.1
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.04,
+      "focus": 3,
+      "real": 0.1
+     }
+    ],
+    "altFA": [],
+    "altTrade": [
+     {
+      "name": "핀리",
+      "team": "타이거즈"
+     },
+     {
+      "name": "디미트리",
+      "team": "라이언즈"
+     },
+     {
+      "name": "피네이로",
+      "team": "다이노스"
+     }
+    ]
+   },
+   "p206": {
+    "name": "찰리",
+    "pos": "SP",
+    "tier": "코어",
+    "age": 28,
+    "rarity": 0.5,
+    "expContract": {
+     "years": 6,
+     "aav": 19.4,
+     "total": 116.39999999999999
+    },
+    "teams": [
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "부족",
+      "win": 0.5,
+      "focus": 35,
+      "real": 8.8
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "hold",
+      "lv": "부족",
+      "win": 0.17,
+      "focus": 26,
+      "real": 2.3
+     },
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.17,
+      "focus": 27,
+      "real": 2.3
+     },
+     {
+      "team": "다이노스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.07,
+      "focus": 21,
+      "real": 0.8
+     },
+     {
+      "team": "챌린저스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.05,
+      "focus": 11,
+      "real": 0.3
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 8,
+      "real": 0.1
+     }
+    ],
+    "altFA": [
+     "하이아트",
+     "블랙셔"
+    ],
+    "altTrade": [
+     {
+      "name": "올센",
+      "team": "이글즈"
+     },
+     {
+      "name": "카서스",
+      "team": "타이거즈"
+     },
+     {
+      "name": "누스마이어",
+      "team": "스틸러스"
+     }
+    ]
+   }
+  },
+  "allTime": {
+   "topPlayers": [
+    {
+     "name": "워싱턴",
+     "team": "프린스",
+     "pos": "SP",
+     "total": 273.4,
+     "hof": false
+    },
+    {
+     "name": "그리핀",
+     "team": "다이노스",
+     "pos": "OF",
+     "total": 188.4,
+     "hof": false
+    },
+    {
+     "name": "히로",
+     "team": "버커니어스",
+     "pos": "SP",
+     "total": 146,
+     "hof": false
+    },
+    {
+     "name": "아일린",
+     "team": "타이거즈",
+     "pos": "SP",
+     "total": 129.5,
+     "hof": false
+    },
+    {
+     "name": "히튼",
+     "team": "워리어스",
+     "pos": "SP",
+     "total": 124.5,
+     "hof": false
+    },
+    {
+     "name": "에반",
+     "team": "워리어스",
+     "pos": "SS",
+     "total": 120.5,
+     "hof": false
+    },
+    {
+     "name": "크리스",
+     "team": "명예의 전당",
+     "pos": "3B",
+     "total": 116.9,
+     "hof": true
+    },
+    {
+     "name": "페레이라",
+     "team": "명예의 전당",
+     "pos": "1B",
+     "total": 109.7,
+     "hof": true
+    },
+    {
+     "name": "베나세르",
+     "team": "FA",
+     "pos": "SP",
+     "total": 108.3,
+     "hof": false
+    },
+    {
+     "name": "마셜",
+     "team": "마린즈",
+     "pos": "OF",
+     "total": 104.6,
+     "hof": false
+    },
+    {
+     "name": "델론즈",
+     "team": "명예의 전당",
+     "pos": "DH",
+     "total": 93.8,
+     "hof": true
+    },
+    {
+     "name": "벨",
+     "team": "명예의 전당",
+     "pos": "SP",
+     "total": 77,
+     "hof": true
+    },
+    {
+     "name": "세르히오",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "total": 77,
+     "hof": false
+    },
+    {
+     "name": "포셔",
+     "team": "타이거즈",
+     "pos": "1B",
+     "total": 75.3,
+     "hof": false
+    },
+    {
+     "name": "폴츠",
+     "team": "은퇴",
+     "pos": "RP",
+     "total": 70,
+     "hof": false
+    },
+    {
+     "name": "치노베",
+     "team": "명예의 전당",
+     "pos": "OF",
+     "total": 67,
+     "hof": true
+    },
+    {
+     "name": "세나",
+     "team": "명예의 전당",
+     "pos": "SP",
+     "total": 65.5,
+     "hof": true
+    },
+    {
+     "name": "카일",
+     "team": "명예의 전당",
+     "pos": "OF",
+     "total": 65.3,
+     "hof": true
+    },
+    {
+     "name": "후버",
+     "team": "명예의 전당",
+     "pos": "C",
+     "total": 64,
+     "hof": true
+    },
+    {
+     "name": "맥커니",
+     "team": "FA",
+     "pos": "3B",
+     "total": 61.2,
+     "hof": false
+    }
+   ],
+   "topTeamSeasons": [
+    {
+     "season": 8,
+     "team": "에스트로너츠",
+     "score": 38.8
+    },
+    {
+     "season": 16,
+     "team": "워리어스",
+     "score": 36.1
+    },
+    {
+     "season": 14,
+     "team": "재즈",
+     "score": 33.6
+    },
+    {
+     "season": 18,
+     "team": "프린스",
+     "score": 33.6
+    },
+    {
+     "season": 3,
+     "team": "프린스",
+     "score": 32.8
+    },
+    {
+     "season": 4,
+     "team": "프린스",
+     "score": 32.6
+    },
+    {
+     "season": 1,
+     "team": "프린스",
+     "score": 32.4
+    },
+    {
+     "season": 12,
+     "team": "다이노스",
+     "score": 32
+    },
+    {
+     "season": 13,
+     "team": "프린스",
+     "score": 32
+    },
+    {
+     "season": 11,
+     "team": "다이노스",
+     "score": 31.2
+    }
+   ]
+  },
+  "draft": {
+   "farmRank": [
+    {
+     "rank": 1,
+     "team": "챌린저스",
+     "score": 424,
+     "prospects": 10
+    },
+    {
+     "rank": 2,
+     "team": "다이너마이트",
+     "score": 275,
+     "prospects": 6
+    },
+    {
+     "rank": 3,
+     "team": "마린즈",
+     "score": 218,
+     "prospects": 6
+    },
+    {
+     "rank": 4,
+     "team": "에스트로너츠",
+     "score": 212,
+     "prospects": 5
+    },
+    {
+     "rank": 5,
+     "team": "타이거즈",
+     "score": 211,
+     "prospects": 6
+    },
+    {
+     "rank": 6,
+     "team": "이글즈",
+     "score": 205,
+     "prospects": 6
+    },
+    {
+     "rank": 7,
+     "team": "재즈",
+     "score": 195,
+     "prospects": 5
+    },
+    {
+     "rank": 8,
+     "team": "버커니어스",
+     "score": 194,
+     "prospects": 4
+    },
+    {
+     "rank": 9,
+     "team": "세이버스",
+     "score": 172,
+     "prospects": 5
+    },
+    {
+     "rank": 10,
+     "team": "트레일 블레이저스",
+     "score": 163,
+     "prospects": 5
+    },
+    {
+     "rank": 11,
+     "team": "다이노스",
+     "score": 151,
+     "prospects": 3
+    },
+    {
+     "rank": 12,
+     "team": "스틸러스",
+     "score": 137,
+     "prospects": 5
+    },
+    {
+     "rank": 13,
+     "team": "워리어스",
+     "score": 124,
+     "prospects": 4
+    },
+    {
+     "rank": 14,
+     "team": "라이언즈",
+     "score": 91,
+     "prospects": 3
+    },
+    {
+     "rank": 15,
+     "team": "데빌스",
+     "score": 78,
+     "prospects": 2
+    },
+    {
+     "rank": 16,
+     "team": "프린스",
+     "score": 0,
+     "prospects": 0
+    }
+   ],
+   "pipeline": [
+    {
+     "rank": 1,
+     "name": "에르난데스",
+     "team": "챌린저스",
+     "pos": "1B",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 2,
+     "name": "클레이",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 18,
+     "eta": 2,
+     "score": 41.5
+    },
+    {
+     "rank": 3,
+     "name": "코헨",
+     "team": "다이노스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 4,
+     "name": "벤자민",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 38.7
+    },
+    {
+     "rank": 5,
+     "name": "로든",
+     "team": "챌린저스",
+     "pos": "3B",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 40.7
+    },
+    {
+     "rank": 6,
+     "name": "오를로프",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 7,
+     "name": "타이리스",
+     "team": "세이버스",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 40.7
+    },
+    {
+     "rank": 8,
+     "name": "반펠",
+     "team": "재즈",
+     "pos": "C",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 38.7
+    },
+    {
+     "rank": 9,
+     "name": "베르흐게르",
+     "team": "버커니어스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 10,
+     "name": "포르티스",
+     "team": "타이거즈",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 11,
+     "name": "에레브",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 18,
+     "eta": 3,
+     "score": 39.5
+    },
+    {
+     "rank": 12,
+     "name": "실러",
+     "team": "재즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 40.7
+    },
+    {
+     "rank": 13,
+     "name": "스피드",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 38.7
+    },
+    {
+     "rank": 14,
+     "name": "메이너즈",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 15,
+     "name": "이캄",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 37.9
+    },
+    {
+     "rank": 16,
+     "name": "아론",
+     "team": "마린즈",
+     "pos": "1B",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 40.7
+    },
+    {
+     "rank": 17,
+     "name": "클락",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 18,
+     "name": "브레데슨",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 19,
+     "name": "라파엘라",
+     "team": "스틸러스",
+     "pos": "C",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 20,
+     "name": "호프만 Jr",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 40.7
+    },
+    {
+     "rank": 21,
+     "name": "베르스탕",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 22,
+     "name": "무디",
+     "team": "챌린저스",
+     "pos": "RP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 23,
+     "name": "이노아",
+     "team": "스틸러스",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 37.9
+    },
+    {
+     "rank": 24,
+     "name": "샤크",
+     "team": "데빌스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 25,
+     "name": "크로스비",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 37.9
+    },
+    {
+     "rank": 26,
+     "name": "브래디",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 27,
+     "name": "굿윈",
+     "team": "워리어스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 28,
+     "name": "코체트코프",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 29,
+     "name": "장하오",
+     "team": "타이거즈",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 37.9
+    },
+    {
+     "rank": 30,
+     "name": "게일",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 31,
+     "name": "트리스탄",
+     "team": "에스트로너츠",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 32,
+     "name": "라이아베리",
+     "team": "에스트로너츠",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 18,
+     "eta": 3,
+     "score": 39.5
+    },
+    {
+     "rank": 33,
+     "name": "마르셀리",
+     "team": "마린즈",
+     "pos": "RP",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 34,
+     "name": "버트리",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 35,
+     "name": "리키",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 36,
+     "name": "곽선웅",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 37,
+     "name": "나바레즈",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 38,
+     "name": "케이타",
+     "team": "재즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 40.7
+    },
+    {
+     "rank": 39,
+     "name": "카스틸",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 38.7
+    },
+    {
+     "rank": 40,
+     "name": "머서",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 41,
+     "name": "니코",
+     "team": "마린즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 42,
+     "name": "유리아스",
+     "team": "마린즈",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 43,
+     "name": "모로조프",
+     "team": "다이너마이트",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 22,
+     "eta": 2,
+     "score": 65.5,
+     "ceiling": "컨텐더",
+     "risk": "모험"
+    },
+    {
+     "rank": 44,
+     "name": "제이콥",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 45,
+     "name": "시지카스",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 37.5
+    },
+    {
+     "rank": 46,
+     "name": "박현우",
+     "team": "워리어스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 47,
+     "name": "귄터",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 48,
+     "name": "시마다",
+     "team": "마린즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 18,
+     "eta": 3,
+     "score": 40.1,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 49,
+     "name": "버나드",
+     "team": "챌린저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 50,
+     "name": "에르손",
+     "team": "데빌스",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 38.7
+    },
+    {
+     "rank": 51,
+     "name": "헤레라",
+     "team": "워리어스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 52,
+     "name": "와델",
+     "team": "라이언즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 18,
+     "eta": 3,
+     "score": 39.5
+    },
+    {
+     "rank": 53,
+     "name": "스태닉",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 37.9
+    },
+    {
+     "rank": 54,
+     "name": "해더웨이",
+     "team": "챌린저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 55,
+     "name": "매클라우드",
+     "team": "재즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 37.9
+    },
+    {
+     "rank": 56,
+     "name": "하킴",
+     "team": "워리어스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 49.9,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "rank": 57,
+     "name": "아마리",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 39.9
+    },
+    {
+     "rank": 58,
+     "name": "킬로매",
+     "team": "마린즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 59,
+     "name": "페이턴",
+     "team": "다이노스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 48.3,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "rank": 60,
+     "name": "슈타인",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 40.5,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 61,
+     "name": "은도예",
+     "team": "세이버스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 18,
+     "eta": 2,
+     "score": 42.1,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 62,
+     "name": "헤이스팅스",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 18,
+     "eta": 2,
+     "score": 42.1,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 63,
+     "name": "음보테",
+     "team": "트레일 블레이저스",
+     "pos": "3B",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 51.3,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "rank": 64,
+     "name": "스미르노프",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.7,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 65,
+     "name": "더글라스",
+     "team": "스틸러스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3
+    },
+    {
+     "rank": 66,
+     "name": "사이토",
+     "team": "스틸러스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 40.5,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 67,
+     "name": "자키",
+     "team": "챌린저스",
+     "pos": "1B",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.7,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 68,
+     "name": "파올리",
+     "team": "라이언즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 30.5,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "rank": 69,
+     "name": "리들리",
+     "team": "타이거즈",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 39.3,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 70,
+     "name": "마타케비치",
+     "team": "스틸러스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1
+    },
+    {
+     "rank": 71,
+     "name": "아세베도",
+     "team": "챌린저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 72,
+     "name": "슈타이거",
+     "team": "재즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 49.9,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "rank": 73,
+     "name": "예르마코프",
+     "team": "다이너마이트",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 38.3,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 74,
+     "name": "시도로프",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 22,
+     "eta": 2,
+     "score": 26.9,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "rank": 75,
+     "name": "파웰",
+     "team": "세이버스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 37.5
+    }
+   ],
+   "draftees": [
+    {
+     "name": "랜돌프",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    },
+    {
+     "name": "음벰바",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    },
+    {
+     "name": "은쿠",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    },
+    {
+     "name": "카마르",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "마르케티",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "버넷",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 21,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "타히르",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "name": "자밀",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "코바야시",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 22,
+     "ceiling": "서브",
+     "risk": "보통"
+    },
+    {
+     "name": "아니시모프",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 21,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "아졸라",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "도허티",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 18,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
+     "name": "스즈키",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 22,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "마르티네스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    }
+   ],
+   "draftOrder": {
+    "20": [
+     "세이버스",
+     "이글즈",
+     "다이너마이트",
+     "에스트로너츠",
+     "워리어스",
+     "마린즈",
+     "라이언즈",
+     "데빌스",
+     "타이거즈",
+     "버커니어스",
+     "다이노스",
+     "스틸러스",
+     "트레일 블레이저스",
+     "프린스",
+     "재즈",
+     "챌린저스"
+    ],
+    "21": [
+     "세이버스",
+     "이글즈",
+     "다이너마이트",
+     "에스트로너츠",
+     "워리어스",
+     "마린즈",
+     "라이언즈",
+     "데빌스",
+     "타이거즈",
+     "버커니어스",
+     "다이노스",
+     "스틸러스",
+     "트레일 블레이저스",
+     "프린스",
+     "재즈",
+     "챌린저스"
+    ],
+    "22": [
+     "세이버스",
+     "이글즈",
+     "다이너마이트",
+     "에스트로너츠",
+     "워리어스",
+     "마린즈",
+     "라이언즈",
+     "데빌스",
+     "타이거즈",
+     "버커니어스",
+     "다이노스",
+     "스틸러스",
+     "트레일 블레이저스",
+     "프린스",
+     "재즈",
+     "챌린저스"
+    ],
+    "23": [
+     "세이버스",
+     "이글즈",
+     "다이너마이트",
+     "에스트로너츠",
+     "워리어스",
+     "마린즈",
+     "라이언즈",
+     "데빌스",
+     "타이거즈",
+     "버커니어스",
+     "다이노스",
+     "스틸러스",
+     "트레일 블레이저스",
+     "프린스",
+     "재즈",
+     "챌린저스"
+    ],
+    "24": [
+     "세이버스",
+     "이글즈",
+     "다이너마이트",
+     "에스트로너츠",
+     "워리어스",
+     "마린즈",
+     "라이언즈",
+     "데빌스",
+     "타이거즈",
+     "버커니어스",
+     "다이노스",
+     "스틸러스",
+     "트레일 블레이저스",
+     "프린스",
+     "재즈",
+     "챌린저스"
+    ]
+   }
+  }
+ }
 }
