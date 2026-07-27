@@ -14835,7 +14835,16 @@
     "startSeason": 10,
     "endSeason": 19,
     "total": 300,
-    "options": []
+    "options": [
+     {
+      "type": "계약 연장",
+      "actor": "선수 옵션",
+      "after": 19,
+      "extSalary": 140,
+      "extYears": 5,
+      "exercised": true
+     }
+    ]
    },
    "contractHistory": [],
    "awards": [],
@@ -72490,7 +72499,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785135946669
+   "ts": 1785136799067
   },
   "teams": {
    "프린스": {
@@ -77193,15 +77202,10 @@
     "team": "마린즈",
     "power": 7,
     "asset": {
-     "value": 6.6,
-     "grade": "B",
-     "left": 1,
+     "value": 11.3,
+     "grade": "A",
+     "left": 6,
      "effM": 0.97
-    },
-    "expContract": {
-     "years": 5,
-     "aav": 24.5,
-     "total": 122.5
     }
    },
    "p117": {
