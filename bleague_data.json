@@ -13938,7 +13938,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p104": {
    "id": "p104",
@@ -16211,7 +16211,7 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p125": {
    "id": "p125",
@@ -18440,7 +18440,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p148": {
    "id": "p148",
@@ -18792,7 +18792,7 @@
      "note": "사타구니"
     }
    ],
-   "form": "good"
+   "form": ""
   },
   "p152": {
    "id": "p152",
@@ -19644,7 +19644,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p160": {
    "id": "p160",
@@ -21441,7 +21441,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": ""
   },
   "p182": {
    "id": "p182",
@@ -21514,7 +21514,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p183": {
    "id": "p183",
@@ -21949,7 +21949,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p188": {
    "id": "p188",
@@ -22310,7 +22310,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p192": {
    "id": "p192",
@@ -24404,7 +24404,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p221": {
    "id": "p221",
@@ -25281,7 +25281,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -25403,7 +25403,7 @@
    ],
    "role": "추격조",
    "subPositions": [],
-   "form": "bad",
+   "form": "",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -26040,7 +26040,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "good",
+   "form": "bad",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -27370,7 +27370,7 @@
    ],
    "role": "4선발",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27459,7 +27459,7 @@
    "name": "브라이언",
    "team": "트레일 블레이저스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 23,
    "number": "30",
    "debutSeason": 18,
@@ -27485,7 +27485,7 @@
    ],
    "role": "8번",
    "subPositions": [],
-   "form": "bad",
+   "form": "good",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27767,7 +27767,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -28438,7 +28438,7 @@
    ],
    "role": "5선발",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 17,
    "draftRound": 1,
    "contract": null,
@@ -77383,7 +77383,9 @@
     "changes": ""
    },
    "트레일 블레이저스": {
-    "coreMembers": [],
+    "coreMembers": [
+     "p269"
+    ],
     "evaluation": "",
     "changes": ""
    },
@@ -79049,7 +79051,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785241013925
+   "ts": 1785241078734
   },
   "teams": {
    "프린스": {
@@ -80622,7 +80624,7 @@
     "stanceLabel": "관망",
     "stanceWhy": {
      "cont": 0,
-     "core": 6,
+     "core": 7,
      "avgAge": 26.9,
      "payRatio": 0.38095238095238093,
      "farm": 4,
@@ -80633,7 +80635,7 @@
     "appeal": 0.86,
     "market": "스몰마켓",
     "free": 45,
-    "power": 25.4,
+    "power": 26.3,
     "window": {
      "open": 20,
      "left": 2,
@@ -85877,13 +85879,13 @@
    "p269": {
     "name": "브라이언",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 23,
     "team": "트레일 블레이저스",
-    "power": 1.6,
+    "power": 2.5,
     "asset": {
-     "value": 2.6,
-     "grade": "D",
+     "value": 4.1,
+     "grade": "C",
      "left": 4,
      "effM": 1.6
     }
