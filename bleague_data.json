@@ -17506,7 +17506,7 @@
   "p144": {
    "id": "p144",
    "name": "디안드레",
-   "team": "FA",
+   "team": "트레일 블레이저스",
    "pos": "DH",
    "tier": "레귤러",
    "age": 37,
@@ -17539,7 +17539,12 @@
    ],
    "draftSeason": 3,
    "draftRound": 2,
-   "contract": null,
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 19,
+    "total": 10,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 9,
@@ -17626,6 +17631,10 @@
     {
      "season": 18,
      "team": "챌린저스"
+    },
+    {
+     "season": 19,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -18868,7 +18877,7 @@
   "p158": {
    "id": "p158",
    "name": "앨퍼드",
-   "team": "FA",
+   "team": "데빌스",
    "pos": "1B",
    "tier": "레귤러",
    "age": 34,
@@ -18898,7 +18907,12 @@
    "subPositions": [],
    "draftSeason": 5,
    "draftRound": 2,
-   "contract": null,
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 21,
+    "total": 30,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 13,
@@ -18965,6 +18979,10 @@
     {
      "season": 18,
      "team": "프린스"
+    },
+    {
+     "season": 19,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -26242,7 +26260,7 @@
   "p264": {
    "id": "p264",
    "name": "조쉬",
-   "team": "트레일 블레이저스",
+   "team": "다이너마이트",
    "pos": "SS",
    "tier": "레귤러",
    "age": 23,
@@ -26286,6 +26304,10 @@
     {
      "season": 18,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 19,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -26766,7 +26788,7 @@
   "p274": {
    "id": "p274",
    "name": "헤라르드",
-   "team": "다이너마이트",
+   "team": "트레일 블레이저스",
    "pos": "3B",
    "tier": "레귤러",
    "age": 21,
@@ -26812,6 +26834,10 @@
     {
      "season": 18,
      "team": "다이너마이트"
+    },
+    {
+     "season": 19,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -71192,6 +71218,38 @@
     "to": "다이노스",
     "applied": true,
     "multi": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p158",
+    "to": "데빌스",
+    "total": 30,
+    "years": 3,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p144",
+    "to": "트레일 블레이저스",
+    "total": 10,
+    "years": 1,
+    "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p274",
+    "from": "다이너마이트",
+    "to": "트레일 블레이저스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p264",
+    "from": "트레일 블레이저스",
+    "to": "다이너마이트",
+    "applied": true,
+    "multi": true
    }
   ],
   "teamNotes": {
@@ -72950,7 +73008,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785205450455
+   "ts": 1785205940047
   },
   "teams": {
    "프린스": {
@@ -74467,8 +74525,8 @@
     "stanceWhy": {
      "cont": 1,
      "core": 8,
-     "avgAge": 26.3,
-     "payRatio": 0.6666666666666666,
+     "avgAge": 26.8,
+     "payRatio": 0.7619047619047619,
      "farm": 4,
      "farmTop": 0,
      "recent": 8,
@@ -74476,25 +74534,14 @@
     },
     "appeal": 1.09,
     "market": "스몰마켓",
-    "free": 35,
-    "power": 41.7,
+    "free": 25,
+    "power": 43.3,
     "window": {
      "open": 19,
      "left": 2,
      "note": ""
     },
-    "needs": [
-     {
-      "pos": "3B",
-      "lv": "공백",
-      "slots": 1
-     },
-     {
-      "pos": "DH",
-      "lv": "공백",
-      "slots": 1
-     }
-    ],
+    "needs": [],
     "picks": [
      {
       "season": 20,
@@ -74679,8 +74726,8 @@
     "stanceWhy": {
      "cont": 0,
      "core": 6,
-     "avgAge": 29.2,
-     "payRatio": 0.6382978723404256,
+     "avgAge": 29.5,
+     "payRatio": 0.6808510638297872,
      "farm": 2,
      "farmTop": 0,
      "recent": 4,
@@ -74688,19 +74735,14 @@
     },
     "appeal": 1.62,
     "market": "빅마켓",
-    "free": 85,
-    "power": 49.5,
+    "free": 75,
+    "power": 51.1,
     "window": {
      "open": 19,
      "left": 1,
      "note": ""
     },
     "needs": [
-     {
-      "pos": "1B",
-      "lv": "공백",
-      "slots": 1
-     },
      {
       "pos": "2B",
       "lv": "공백",
@@ -78038,8 +78080,14 @@
     "pos": "DH",
     "tier": "레귤러",
     "age": 37,
-    "team": "FA",
+    "team": "트레일 블레이저스",
     "power": 1.6,
+    "asset": {
+     "value": 1.1,
+     "grade": "D",
+     "left": 1,
+     "effM": 1.05
+    },
     "expContract": {
      "years": 2,
      "aav": 11.1,
@@ -78232,12 +78280,13 @@
     "pos": "1B",
     "tier": "레귤러",
     "age": 34,
-    "team": "FA",
+    "team": "데빌스",
     "power": 1.6,
-    "expContract": {
-     "years": 3,
-     "aav": 10.8,
-     "total": 32.400000000000006
+    "asset": {
+     "value": 2.3,
+     "grade": "D",
+     "left": 3,
+     "effM": 1.08
     }
    },
    "p159": {
@@ -79701,7 +79750,7 @@
     "pos": "SS",
     "tier": "레귤러",
     "age": 23,
-    "team": "트레일 블레이저스",
+    "team": "다이너마이트",
     "power": 1.6,
     "asset": {
      "value": 3.6,
@@ -79841,7 +79890,7 @@
     "pos": "3B",
     "tier": "레귤러",
     "age": 21,
-    "team": "다이너마이트",
+    "team": "트레일 블레이저스",
     "power": 1.6,
     "asset": {
      "value": 3.8,
@@ -81021,189 +81070,7 @@
     "value": 1.9
    }
   },
-  "faMarket": {
-   "p144": {
-    "name": "디안드레",
-    "pos": "DH",
-    "tier": "레귤러",
-    "age": 37,
-    "rarity": 2.02,
-    "expContract": {
-     "years": 2,
-     "aav": 11.1,
-     "total": 22.2
-    },
-    "teams": [
-     {
-      "team": "마린즈",
-      "stance": "allin",
-      "lv": "공백",
-      "win": 0.15,
-      "focus": 100,
-      "real": 29.6
-     },
-     {
-      "team": "스틸러스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.13,
-      "focus": 100,
-      "real": 26.5
-     },
-     {
-      "team": "트레일 블레이저스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.09,
-      "focus": 100,
-      "real": 17.3
-     },
-     {
-      "team": "다이노스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.08,
-      "focus": 100,
-      "real": 15.9
-     },
-     {
-      "team": "에스트로너츠",
-      "stance": "hold",
-      "lv": "공백",
-      "win": 0.07,
-      "focus": 100,
-      "real": 13.4
-     },
-     {
-      "team": "라이언즈",
-      "stance": "allin",
-      "lv": "공백",
-      "win": 0.15,
-      "focus": 26,
-      "real": 7.8
-     },
-     {
-      "team": "데빌스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.14,
-      "focus": 26,
-      "real": 7.5
-     },
-     {
-      "team": "프린스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.12,
-      "focus": 30,
-      "real": 7.4
-     },
-     {
-      "team": "세이버스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.03,
-      "focus": 100,
-      "real": 6.9
-     },
-     {
-      "team": "챌린저스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.03,
-      "focus": 28,
-      "real": 1.8
-     },
-     {
-      "team": "재즈",
-      "stance": "reset",
-      "lv": "공백",
-      "win": 0.01,
-      "focus": 30,
-      "real": 0.6
-     }
-    ],
-    "altFA": [],
-    "altTrade": [
-     {
-      "name": "테렐",
-      "team": "워리어스"
-     }
-    ]
-   },
-   "p158": {
-    "name": "앨퍼드",
-    "pos": "1B",
-    "tier": "레귤러",
-    "age": 34,
-    "rarity": 1.62,
-    "expContract": {
-     "years": 3,
-     "aav": 10.8,
-     "total": 32.400000000000006
-    },
-    "teams": [
-     {
-      "team": "라이언즈",
-      "stance": "allin",
-      "lv": "공백",
-      "win": 0.3,
-      "focus": 74,
-      "real": 35.8
-     },
-     {
-      "team": "데빌스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.28,
-      "focus": 74,
-      "real": 34.1
-     },
-     {
-      "team": "프린스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.21,
-      "focus": 70,
-      "real": 23.3
-     },
-     {
-      "team": "워리어스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.09,
-      "focus": 100,
-      "real": 15.4
-     },
-     {
-      "team": "다이너마이트",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.04,
-      "focus": 100,
-      "real": 7
-     },
-     {
-      "team": "챌린저스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.06,
-      "focus": 72,
-      "real": 6.6
-     },
-     {
-      "team": "재즈",
-      "stance": "reset",
-      "lv": "공백",
-      "win": 0.02,
-      "focus": 70,
-      "real": 1.9
-     }
-    ],
-    "altFA": [],
-    "altTrade": []
-   }
-  },
+  "faMarket": {},
   "allTime": {
    "topPlayers": [
     {
