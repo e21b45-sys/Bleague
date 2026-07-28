@@ -17966,7 +17966,7 @@
     "변화구"
    ],
    "weaknesses": [],
-   "role": "2선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 1,
@@ -22078,7 +22078,7 @@
     "파워",
     "주루"
    ],
-   "role": "6번",
+   "role": "3번",
    "subPositions": [],
    "draftSeason": 13,
    "draftRound": 1,
@@ -26614,7 +26614,7 @@
    "weaknesses": [
     "경기운영"
    ],
-   "role": "4선발",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": 16,
@@ -27909,7 +27909,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "2번",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -71044,6 +71044,30 @@
  "live": {
   "season": 19,
   "months": {
+   "4": {
+    "standings": [
+     "마린즈",
+     "스틸러스",
+     "프린스",
+     "라이언즈",
+     "타이거즈",
+     "에스트로너츠",
+     "데빌스",
+     "워리어스",
+     "다이노스",
+     "트레일 블레이저스",
+     "이글즈",
+     "재즈",
+     "다이너마이트",
+     "세이버스",
+     "챌린저스",
+     "버커니어스"
+    ],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   },
    "10": {
     "standings": [],
     "races": {},
@@ -71099,7 +71123,8 @@
     "from": "워리어스",
     "to": "세이버스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71107,7 +71132,8 @@
     "from": "세이버스",
     "to": "워리어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -71147,7 +71173,8 @@
     "from": "버커니어스",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71155,7 +71182,8 @@
     "from": "트레일 블레이저스",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71163,7 +71191,8 @@
     "from": "트레일 블레이저스",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71175,7 +71204,8 @@
     "from": "트레일 블레이저스",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -71215,7 +71245,8 @@
     "from": "데빌스",
     "to": "이글즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71223,7 +71254,8 @@
     "from": "이글즈",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71235,7 +71267,8 @@
     "from": "트레일 블레이저스",
     "to": "데빌스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71243,7 +71276,8 @@
     "from": "다이노스",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71251,7 +71285,8 @@
     "from": "버커니어스",
     "to": "다이노스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -71275,7 +71310,8 @@
     "from": "다이너마이트",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71283,7 +71319,8 @@
     "from": "트레일 블레이저스",
     "to": "다이너마이트",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71291,7 +71328,8 @@
     "from": "다이노스",
     "to": "에스트로너츠",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71299,7 +71337,8 @@
     "from": "에스트로너츠",
     "to": "다이노스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71307,7 +71346,8 @@
     "from": "에스트로너츠",
     "to": "다이노스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71315,7 +71355,8 @@
     "from": "마린즈",
     "to": "다이노스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71323,7 +71364,8 @@
     "from": "다이노스",
     "to": "마린즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71335,7 +71377,8 @@
     "from": "다이노스",
     "to": "마린즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71343,7 +71386,8 @@
     "from": "다이너마이트",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71355,7 +71399,8 @@
     "from": "버커니어스",
     "to": "다이너마이트",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -71367,7 +71412,8 @@
     "from": "버커니어스",
     "to": "다이너마이트",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    }
   ],
   "teamNotes": {
@@ -73127,7 +73173,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785208105305
+   "ts": 1785208332603
   },
   "teams": {
    "프린스": {
@@ -76389,12 +76435,6 @@
      "note": ""
     },
     "needs": [
-     {
-      "pos": "3~5선발",
-      "lv": "부족",
-      "slots": 3,
-      "have": 2
-     },
      {
       "pos": "RP",
       "lv": "공백",
