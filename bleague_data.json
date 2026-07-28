@@ -71288,14 +71288,20 @@
       "p139"
      ],
      "ROOKIE": [
-      "p317",
       "p279",
-      "p283"
+      "p283",
+      "p332"
      ]
     },
     "potmBat": "p133",
     "potmPit": "p139",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "10": {
     "standings": [],
@@ -73543,7 +73549,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209606941
+   "ts": 1785209686682
   },
   "teams": {
    "프린스": {
