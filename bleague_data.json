@@ -71787,8 +71787,36 @@
       "pos": "1루"
      },
      {
-      "playerId": "",
+      "playerId": "p194",
       "pos": "2루"
+     },
+     {
+      "playerId": "p114",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p221",
+      "pos": "유격"
+     },
+     {
+      "playerId": "p202",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p126",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p165",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p77",
+      "pos": "지명"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
      }
     ],
     "divFilter": [
@@ -73406,7 +73434,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209093056
+   "ts": 1785209164915
   },
   "teams": {
    "프린스": {
