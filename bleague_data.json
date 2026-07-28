@@ -71772,7 +71772,7 @@
   "allstar": {
    "teamA": {
     "name": "",
-    "captain": "p75",
+    "captain": "p202",
     "members": [
      {
       "playerId": "p75",
@@ -71815,7 +71815,19 @@
       "pos": "지명"
      },
      {
-      "playerId": "",
+      "playerId": "p105",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p244",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p127",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p141",
       "pos": "투수"
      }
     ],
@@ -71826,8 +71838,21 @@
    },
    "teamB": {
     "name": "",
-    "captain": "",
-    "members": [],
+    "captain": "p131",
+    "members": [
+     {
+      "playerId": "p131",
+      "pos": "선발"
+     },
+     {
+      "playerId": "p149",
+      "pos": "포수"
+     },
+     {
+      "playerId": "",
+      "pos": "1루"
+     }
+    ],
     "divFilter": [
      "동부",
      "서부"
@@ -73434,7 +73459,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209164915
+   "ts": 1785209241094
   },
   "teams": {
    "프린스": {
