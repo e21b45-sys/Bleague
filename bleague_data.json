@@ -71360,21 +71360,69 @@
      ],
      "BP": [
       "p131",
-      "p75",
-      "p139"
+      "p139",
+      "p105"
      ],
      "ROOKIE": [
       "p279",
       "p283",
-      "p332"
+      "p229"
      ]
     },
     "potmBat": "p103",
     "potmPit": "p260",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p287",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p250",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p85",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p75",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p332",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p115",
+      "note": "",
+      "months": 2
+     }
+    ]
    },
    "10": {
-    "standings": [],
+    "standings": [
+     "프린스",
+     "스틸러스",
+     "타이거즈",
+     "마린즈",
+     "데빌스",
+     "워리어스",
+     "라이언즈",
+     "에스트로너츠",
+     "트레일 블레이저스",
+     "다이노스",
+     "다이너마이트",
+     "재즈",
+     "이글즈",
+     "챌린저스",
+     "세이버스",
+     "버커니어스"
+    ],
     "races": {},
     "potmBat": "",
     "potmPit": "",
@@ -73619,7 +73667,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209919120
+   "ts": 1785209984744
   },
   "teams": {
    "프린스": {
