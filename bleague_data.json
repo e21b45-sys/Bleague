@@ -76601,6 +76601,51 @@
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
+   },
+   "에스트로너츠": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "이글즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "데빌스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "워리어스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "다이너마이트": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "챌린저스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "스틸러스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "세이버스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "버커니어스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
    }
   }
  },
@@ -77131,8 +77176,8 @@
     }
    ],
    "contract": {
-    "startSeason": 17,
-    "endSeason": 19,
+    "startSeason": 20,
+    "endSeason": 22,
     "reason": ""
    },
    "contractHistory": [],
@@ -77219,8 +77264,8 @@
     }
    ],
    "contract": {
-    "startSeason": 17,
-    "endSeason": 19,
+    "startSeason": 20,
+    "endSeason": 22,
     "reason": ""
    },
    "contractHistory": [],
@@ -78201,7 +78246,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785214079698
+   "ts": 1785225613341
   },
   "teams": {
    "프린스": {
