@@ -34014,18 +34014,18 @@
   "라이언즈": 205,
   "타이거즈": 245,
   "다이노스": 135,
-  "마린즈": 265,
-  "에스트로너츠": 200,
+  "마린즈": 250,
+  "에스트로너츠": 205,
   "이글즈": 150,
   "트레일 블레이저스": 105,
-  "데빌스": 235,
-  "워리어스": 215,
-  "다이너마이트": 120,
+  "데빌스": 240,
+  "워리어스": 210,
+  "다이너마이트": 145,
   "챌린저스": 115,
-  "스틸러스": 220,
+  "스틸러스": 245,
   "재즈": 110,
-  "세이버스": 125,
-  "버커니어스": 90
+  "세이버스": 115,
+  "버커니어스": 70
  },
  "history": {
   "1": {
@@ -77662,9 +77662,9 @@
    "game": 30,
    "merch": 20,
    "po": 30,
-   "fin": 20,
+   "fin": 0,
    "champ": 0,
-   "tv": 15
+   "tv": 20
   },
   "에스트로너츠": {
    "base": 130,
@@ -77674,7 +77674,7 @@
    "po": 0,
    "fin": 0,
    "champ": 0,
-   "tv": 10
+   "tv": 15
   },
   "이글즈": {
    "base": 110,
@@ -77704,13 +77704,13 @@
    "po": 30,
    "fin": 0,
    "champ": 0,
-   "tv": 15
+   "tv": 20
   },
   "워리어스": {
    "base": 120,
    "invest": 0,
    "game": 20,
-   "merch": 25,
+   "merch": 20,
    "po": 30,
    "fin": 0,
    "champ": 0,
@@ -77720,11 +77720,11 @@
    "base": 90,
    "invest": 0,
    "game": 15,
-   "merch": 10,
+   "merch": 30,
    "po": 0,
    "fin": 0,
    "champ": 0,
-   "tv": 5
+   "tv": 10
   },
   "챌린저스": {
    "base": 90,
@@ -77742,9 +77742,9 @@
    "game": 25,
    "merch": 20,
    "po": 30,
-   "fin": 0,
+   "fin": 20,
    "champ": 0,
-   "tv": 15
+   "tv": 20
   },
   "재즈": {
    "base": 80,
@@ -77760,21 +77760,21 @@
    "base": 80,
    "invest": 0,
    "game": 15,
-   "merch": 25,
+   "merch": 20,
    "po": 0,
    "fin": 0,
    "champ": 0,
-   "tv": 5
+   "tv": 0
   },
   "버커니어스": {
    "base": 50,
    "invest": 0,
    "game": 10,
-   "merch": 20,
+   "merch": 10,
    "po": 0,
    "fin": 0,
    "champ": 0,
-   "tv": 10
+   "tv": 0
   }
  },
  "legends": {
@@ -79212,7 +79212,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785243564969
+   "ts": 1785243680090
   },
   "teams": {
    "프린스": {
@@ -80109,7 +80109,7 @@
      "cont": 1,
      "core": 8,
      "avgAge": 28.7,
-     "payRatio": 0.6528301886792452,
+     "payRatio": 0.692,
      "farm": 7,
      "farmTop": 2,
      "recent": 6,
@@ -80117,7 +80117,7 @@
     },
     "appeal": 1.35,
     "market": "빅마켓",
-    "free": 92,
+    "free": 77,
     "power": 53.1,
     "window": {
      "open": 20,
@@ -80335,7 +80335,7 @@
      "cont": 1,
      "core": 6,
      "avgAge": 27.8,
-     "payRatio": 0.26,
+     "payRatio": 0.25365853658536586,
      "farm": 6,
      "farmTop": 3,
      "recent": 9,
@@ -80343,7 +80343,7 @@
     },
     "appeal": 1.18,
     "market": "빅마켓",
-    "free": 140,
+    "free": 145,
     "power": 53.1,
     "window": {
      "open": 20,
@@ -80999,7 +80999,7 @@
      "cont": 0,
      "core": 5,
      "avgAge": 29.8,
-     "payRatio": 0.6170212765957447,
+     "payRatio": 0.6041666666666666,
      "farm": 3,
      "farmTop": 1,
      "recent": 4,
@@ -81007,7 +81007,7 @@
     },
     "appeal": 1.35,
     "market": "빅마켓",
-    "free": 90,
+    "free": 95,
     "power": 49.8,
     "window": {
      "open": 20,
@@ -81210,7 +81210,7 @@
      "cont": 2,
      "core": 7,
      "avgAge": 30.8,
-     "payRatio": 0.6651162790697674,
+     "payRatio": 0.680952380952381,
      "farm": 5,
      "farmTop": 0,
      "recent": 5,
@@ -81218,7 +81218,7 @@
     },
     "appeal": 1.22,
     "market": "중형",
-    "free": 72,
+    "free": 67,
     "power": 49.7,
     "window": {
      "open": 20,
@@ -81429,7 +81429,7 @@
     "stanceWhy": null,
     "appeal": 0.82,
     "market": "중형",
-    "free": 60,
+    "free": 85,
     "power": 41.4,
     "window": {
      "open": 20,
@@ -81908,7 +81908,7 @@
      "cont": 0,
      "core": 10,
      "avgAge": 29.5,
-     "payRatio": 0.8,
+     "payRatio": 0.7183673469387755,
      "farm": 6,
      "farmTop": 1,
      "recent": 2,
@@ -81916,7 +81916,7 @@
     },
     "appeal": 1.34,
     "market": "빅마켓",
-    "free": 44,
+    "free": 69,
     "power": 44.5,
     "window": {
      "open": 20,
@@ -82358,7 +82358,7 @@
      "cont": 0,
      "core": 3,
      "avgAge": 26.4,
-     "payRatio": 0.416,
+     "payRatio": 0.45217391304347826,
      "farm": 5,
      "farmTop": 3,
      "recent": 13,
@@ -82366,7 +82366,7 @@
     },
     "appeal": 0.73,
     "market": "스몰마켓",
-    "free": 65,
+    "free": 55,
     "power": 34.1,
     "window": {
      "open": 20,
@@ -82582,7 +82582,7 @@
      "cont": 0,
      "core": 6,
      "avgAge": 26.8,
-     "payRatio": 0.5,
+     "payRatio": 0.6428571428571429,
      "farm": 3,
      "farmTop": 1,
      "recent": 16,
@@ -82590,7 +82590,7 @@
     },
     "appeal": 0.58,
     "market": "스몰마켓",
-    "free": 30,
+    "free": 10,
     "power": 31.6,
     "window": {
      "open": 20,
@@ -87564,7 +87564,7 @@
       "lv": "공백",
       "win": 0.24,
       "focus": 12,
-      "real": 3.6
+      "real": 3.5
      },
      {
       "team": "라이언즈",
@@ -87610,7 +87610,7 @@
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "부족",
-      "win": 0.03,
+      "win": 0.04,
       "focus": 5,
       "real": 0.2
      },
@@ -87626,7 +87626,7 @@
       "team": "워리어스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.16,
+      "win": 0.15,
       "focus": 0,
       "real": 0.1
      }
@@ -87702,20 +87702,12 @@
       "real": 0.3
      },
      {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.05,
-      "focus": 3,
-      "real": 0.2
-     },
-     {
       "team": "재즈",
       "stance": "reset",
       "lv": "공백",
-      "win": 0.03,
+      "win": 0.04,
       "focus": 2,
-      "real": 0.1
+      "real": 0.2
      },
      {
       "team": "세이버스",
@@ -87726,10 +87718,18 @@
       "real": 0.1
      },
      {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 3,
+      "real": 0.1
+     },
+     {
       "team": "프린스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.21,
+      "win": 0.22,
       "focus": 0,
       "real": 0
      },
@@ -87745,7 +87745,7 @@
       "team": "데빌스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.18,
+      "win": 0.19,
       "focus": 0,
       "real": 0
      },
@@ -87769,7 +87769,7 @@
       "team": "스틸러스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.18,
+      "win": 0.19,
       "focus": 0,
       "real": 0
      }
@@ -87819,6 +87819,14 @@
       "lv": "공백",
       "win": 0.11,
       "focus": 1,
+      "real": 0.2
+     },
+     {
+      "team": "세이버스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 3,
       "real": 0.2
      },
      {
@@ -87888,14 +87896,6 @@
      {
       "team": "재즈",
       "stance": "reset",
-      "lv": "공백",
-      "win": 0.02,
-      "focus": 2,
-      "real": 0.1
-     },
-     {
-      "team": "세이버스",
-      "stance": "rebuild",
       "lv": "공백",
       "win": 0.02,
       "focus": 2,
@@ -87993,16 +87993,8 @@
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "공백",
-      "win": 0.09,
+      "win": 0.1,
       "focus": 2,
-      "real": 0.3
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.06,
-      "focus": 3,
       "real": 0.3
      },
      {
@@ -88010,6 +88002,14 @@
       "stance": "reset",
       "lv": "공백",
       "win": 0.04,
+      "focus": 3,
+      "real": 0.2
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
       "focus": 3,
       "real": 0.2
      },
@@ -88025,7 +88025,7 @@
       "team": "에스트로너츠",
       "stance": "allin",
       "lv": "공백",
-      "win": 0.33,
+      "win": 0.34,
       "focus": 0,
       "real": 0
      }
@@ -88075,7 +88075,7 @@
       "lv": "공백",
       "win": 0.07,
       "focus": 9,
-      "real": 0.9
+      "real": 0.8
      },
      {
       "team": "다이너마이트",
@@ -88083,7 +88083,7 @@
       "lv": "공백",
       "win": 0.07,
       "focus": 6,
-      "real": 0.6
+      "real": 0.5
      },
      {
       "team": "재즈",
@@ -88252,31 +88252,23 @@
       "lv": "공백",
       "win": 0.41,
       "focus": 8,
-      "real": 4.5
+      "real": 4.8
      },
      {
       "team": "워리어스",
       "stance": "allin",
       "lv": "공백",
-      "win": 0.39,
-      "focus": 6,
-      "real": 3.5
+      "win": 0.4,
+      "focus": 7,
+      "real": 3.6
      },
      {
       "team": "이글즈",
       "stance": "rebuild",
       "lv": "공백",
-      "win": 0.11,
+      "win": 0.12,
       "focus": 18,
-      "real": 2.8
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.05,
-      "focus": 18,
-      "real": 1.3
+      "real": 2.9
      },
      {
       "team": "재즈",
@@ -88284,7 +88276,15 @@
       "lv": "공백",
       "win": 0.04,
       "focus": 14,
-      "real": 0.7
+      "real": 0.8
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 18,
+      "real": 0.8
      }
     ],
     "altFA": [],
@@ -88308,7 +88308,7 @@
       "lv": "공백",
       "win": 0.25,
       "focus": 26,
-      "real": 9.9
+      "real": 9.8
      },
      {
       "team": "라이언즈",
@@ -88351,6 +88351,14 @@
       "real": 0.4
      },
      {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
+      "focus": 10,
+      "real": 0.4
+     },
+     {
       "team": "챌린저스",
       "stance": "rebuild",
       "lv": "부족",
@@ -88364,14 +88372,6 @@
       "lv": "부족",
       "win": 0.01,
       "focus": 16,
-      "real": 0.3
-     },
-     {
-      "team": "다이너마이트",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.02,
-      "focus": 10,
       "real": 0.3
      }
     ],
@@ -88407,7 +88407,7 @@
       "team": "다이노스",
       "stance": "reset",
       "lv": "공백",
-      "win": 0.04,
+      "win": 0.05,
       "focus": 9,
       "real": 0.5
      },
@@ -88420,14 +88420,6 @@
       "real": 0.5
      },
      {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.04,
-      "focus": 7,
-      "real": 0.4
-     },
-     {
       "team": "재즈",
       "stance": "reset",
       "lv": "공백",
@@ -88436,10 +88428,26 @@
       "real": 0.2
      },
      {
+      "team": "세이버스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.04,
+      "focus": 3,
+      "real": 0.2
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.03,
+      "focus": 7,
+      "real": 0.2
+     },
+     {
       "team": "프린스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.21,
+      "win": 0.22,
       "focus": 0,
       "real": 0.1
      },
@@ -88468,18 +88476,10 @@
       "real": 0.1
      },
      {
-      "team": "세이버스",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.04,
-      "focus": 3,
-      "real": 0.1
-     },
-     {
       "team": "에스트로너츠",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.16,
+      "win": 0.17,
       "focus": 0,
       "real": 0
      }
@@ -88520,7 +88520,7 @@
       "lv": "부족",
       "win": 0.34,
       "focus": 64,
-      "real": 26.7
+      "real": 26.8
      },
      {
       "team": "마린즈",
@@ -88528,7 +88528,7 @@
       "lv": "부족",
       "win": 0.3,
       "focus": 37,
-      "real": 13.3
+      "real": 13.4
      },
      {
       "team": "워리어스",
@@ -88536,15 +88536,15 @@
       "lv": "부족",
       "win": 0.27,
       "focus": 20,
-      "real": 6.4
+      "real": 6.5
      },
      {
       "team": "세이버스",
       "stance": "rebuild",
       "lv": "부족",
-      "win": 0.05,
-      "focus": 57,
-      "real": 3.1
+      "win": 0.04,
+      "focus": 56,
+      "real": 2.8
      },
      {
       "team": "챌린저스",
@@ -88552,7 +88552,7 @@
       "lv": "부족",
       "win": 0.04,
       "focus": 29,
-      "real": 1.4
+      "real": 1.5
      }
     ],
     "altFA": [],
@@ -88596,6 +88596,14 @@
       "real": 0.1
      },
      {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.04,
+      "focus": 2,
+      "real": 0.1
+     },
+     {
       "team": "챌린저스",
       "stance": "rebuild",
       "lv": "부족",
@@ -88641,14 +88649,6 @@
       "lv": "부족",
       "win": 0.15,
       "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "다이너마이트",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.04,
-      "focus": 2,
       "real": 0
      }
     ],
@@ -88690,7 +88690,7 @@
       "lv": "공백",
       "win": 0.26,
       "focus": 48,
-      "real": 22.4
+      "real": 22.3
      },
      {
       "team": "마린즈",
@@ -88698,7 +88698,7 @@
       "lv": "부족",
       "win": 0.18,
       "focus": 48,
-      "real": 15.6
+      "real": 15.5
      },
      {
       "team": "라이언즈",
@@ -88721,8 +88721,8 @@
       "stance": "allin",
       "lv": "부족",
       "win": 0.17,
-      "focus": 26,
-      "real": 7.6
+      "focus": 25,
+      "real": 7.5
      },
      {
       "team": "트레일 블레이저스",
@@ -88733,19 +88733,19 @@
       "real": 0.7
      },
      {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.02,
+      "focus": 17,
+      "real": 0.5
+     },
+     {
       "team": "다이노스",
       "stance": "reset",
       "lv": "부족",
       "win": 0.01,
-      "focus": 28,
-      "real": 0.4
-     },
-     {
-      "team": "다이너마이트",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.01,
-      "focus": 17,
+      "focus": 27,
       "real": 0.4
      },
      {
@@ -88753,7 +88753,7 @@
       "stance": "rebuild",
       "lv": "부족",
       "win": 0.01,
-      "focus": 19,
+      "focus": 18,
       "real": 0.4
      }
     ],
@@ -88781,9 +88781,9 @@
       "team": "데빌스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.19,
+      "win": 0.2,
       "focus": 9,
-      "real": 2
+      "real": 2.1
      },
      {
       "team": "프린스",
@@ -88815,15 +88815,7 @@
       "lv": "부족",
       "win": 0.04,
       "focus": 5,
-      "real": 0.2
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.04,
-      "focus": 5,
-      "real": 0.2
+      "real": 0.3
      },
      {
       "team": "에스트로너츠",
@@ -88855,6 +88847,14 @@
       "lv": "공백",
       "win": 0.03,
       "focus": 4,
+      "real": 0.1
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 5,
       "real": 0.1
      }
     ],
@@ -88938,7 +88938,7 @@
       "team": "워리어스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.16,
+      "win": 0.15,
       "focus": 0,
       "real": 0
      },
@@ -88946,7 +88946,7 @@
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "부족",
-      "win": 0.03,
+      "win": 0.04,
       "focus": 1,
       "real": 0
      },
@@ -89021,7 +89021,7 @@
       "lv": "부족",
       "win": 0.04,
       "focus": 14,
-      "real": 0.7
+      "real": 0.6
      },
      {
       "team": "챌린저스",
@@ -89104,7 +89104,7 @@
       "team": "워리어스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.16,
+      "win": 0.15,
       "focus": 0,
       "real": 0
      },
@@ -89112,7 +89112,7 @@
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "부족",
-      "win": 0.03,
+      "win": 0.04,
       "focus": 1,
       "real": 0
      },
@@ -89178,24 +89178,16 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.1,
-      "focus": 9,
+      "focus": 8,
       "real": 1.2
      },
      {
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "공백",
-      "win": 0.08,
+      "win": 0.09,
       "focus": 5,
-      "real": 0.5
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.04,
-      "focus": 7,
-      "real": 0.4
+      "real": 0.7
      },
      {
       "team": "재즈",
@@ -89203,6 +89195,14 @@
       "lv": "공백",
       "win": 0.03,
       "focus": 6,
+      "real": 0.2
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 7,
       "real": 0.2
      }
     ],
@@ -89229,7 +89229,7 @@
       "lv": "공백",
       "win": 0.45,
       "focus": 81,
-      "real": 48.8
+      "real": 48.7
      },
      {
       "team": "에스트로너츠",
@@ -89237,31 +89237,23 @@
       "lv": "공백",
       "win": 0.4,
       "focus": 46,
-      "real": 24.4
+      "real": 24.5
      },
      {
       "team": "이글즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.06,
-      "focus": 46,
+      "focus": 45,
       "real": 3.7
      },
      {
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "공백",
-      "win": 0.05,
-      "focus": 27,
-      "real": 1.7
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.02,
-      "focus": 37,
-      "real": 1.2
+      "win": 0.06,
+      "focus": 28,
+      "real": 2.1
      },
      {
       "team": "재즈",
@@ -89269,6 +89261,14 @@
       "lv": "공백",
       "win": 0.02,
       "focus": 30,
+      "real": 0.7
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.01,
+      "focus": 38,
       "real": 0.7
      }
     ],
@@ -89356,7 +89356,7 @@
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "부족",
-      "win": 0.02,
+      "win": 0.03,
       "focus": 1,
       "real": 0
      },
@@ -89401,17 +89401,17 @@
       "team": "데빌스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.2,
+      "win": 0.21,
       "focus": 51,
-      "real": 14.2
+      "real": 14.3
      },
      {
       "team": "프린스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.23,
+      "win": 0.24,
       "focus": 9,
-      "real": 2.7
+      "real": 2.8
      },
      {
       "team": "스틸러스",
@@ -89442,16 +89442,8 @@
       "stance": "rebuild",
       "lv": "부족",
       "win": 0.03,
-      "focus": 9,
-      "real": 0.4
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.03,
       "focus": 8,
-      "real": 0.3
+      "real": 0.4
      },
      {
       "team": "다이너마이트",
@@ -89475,6 +89467,14 @@
       "lv": "공백",
       "win": 0.02,
       "focus": 6,
+      "real": 0.2
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 8,
       "real": 0.2
      }
     ],
@@ -89567,9 +89567,9 @@
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "공백",
-      "win": 0.08,
-      "focus": 7,
-      "real": 0.8
+      "win": 0.1,
+      "focus": 8,
+      "real": 1
      },
      {
       "team": "스틸러스",
@@ -89578,14 +89578,6 @@
       "win": 0.4,
       "focus": 1,
       "real": 0.7
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.04,
-      "focus": 10,
-      "real": 0.6
      },
      {
       "team": "에스트로너츠",
@@ -89601,6 +89593,14 @@
       "lv": "공백",
       "win": 0.03,
       "focus": 8,
+      "real": 0.3
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 10,
       "real": 0.3
      }
     ],
@@ -89673,7 +89673,7 @@
       "team": "워리어스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.16,
+      "win": 0.15,
       "focus": 0,
       "real": 0
      },
@@ -89681,7 +89681,7 @@
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "부족",
-      "win": 0.03,
+      "win": 0.04,
       "focus": 0,
       "real": 0
      },
@@ -89738,7 +89738,15 @@
       "team": "데빌스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.19,
+      "win": 0.2,
+      "focus": 1,
+      "real": 0.1
+     },
+     {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.05,
       "focus": 1,
       "real": 0.1
      },
@@ -89751,18 +89759,10 @@
       "real": 0.1
      },
      {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.03,
-      "focus": 2,
-      "real": 0.1
-     },
-     {
       "team": "프린스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.22,
+      "win": 0.23,
       "focus": 0,
       "real": 0
      },
@@ -89772,14 +89772,6 @@
       "lv": "부족",
       "win": 0.17,
       "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "다이너마이트",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.05,
-      "focus": 1,
       "real": 0
      },
      {
@@ -89794,13 +89786,21 @@
       "team": "스틸러스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.19,
+      "win": 0.2,
       "focus": 0,
       "real": 0
      },
      {
       "team": "재즈",
       "stance": "reset",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 2,
+      "real": 0
+     },
+     {
+      "team": "버커니어스",
+      "stance": "rebuild",
       "lv": "공백",
       "win": 0.02,
       "focus": 2,
