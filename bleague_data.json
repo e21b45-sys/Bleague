@@ -32273,7 +32273,7 @@
   "p400": {
    "id": "p400",
    "name": "음벰바",
-   "team": "드래프티",
+   "team": "챌린저스",
    "pos": "SP",
    "tier": "D리그",
    "age": 21,
@@ -32297,6 +32297,10 @@
     {
      "season": 19,
      "team": "드래프티"
+    },
+    {
+     "season": 20,
+     "team": "챌린저스"
     }
    ],
    "titles": [],
@@ -32305,8 +32309,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "ceiling": "엘리트",
    "risk": "보통"
   },
@@ -33349,7 +33353,7 @@
   "p441": {
    "id": "p441",
    "name": "세바스티안",
-   "team": "드래프티",
+   "team": "에스트로너츠",
    "pos": "C",
    "tier": "D리그",
    "age": 18,
@@ -33377,8 +33381,8 @@
    "role": "",
    "subPositions": [],
    "form": "",
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "contract": null,
    "contractHistory": [],
    "awards": [],
@@ -33386,7 +33390,7 @@
    "teamHistory": [
     {
      "season": 20,
-     "team": "드래프티"
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -76976,7 +76980,9 @@
     "재즈_1": "p453",
     "버커니어스_1": "p438",
     "다이노스_1": "p402",
-    "다이너마이트_1": "p393"
+    "다이너마이트_1": "p393",
+    "에스트로너츠_1": "p441",
+    "챌린저스_1": "p400"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -77288,7 +77294,9 @@
   "p391",
   "p453",
   "p438",
-  "p402"
+  "p402",
+  "p393",
+  "p441"
  ],
  "salaryRules": {
   "floor": 60,
@@ -78919,7 +78927,6 @@
   }
  },
  "bigboard": [
-  "p400",
   "p404",
   "p405",
   "p407",
@@ -78931,7 +78938,6 @@
   "p415",
   "p414",
   "p410",
-  "p441",
   "p439",
   "p440",
   "p449",
@@ -79073,7 +79079,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785242470591
+   "ts": 1785242539584
   },
   "teams": {
    "프린스": {
@@ -80197,7 +80203,7 @@
      "core": 6,
      "avgAge": 27.8,
      "payRatio": 0.26,
-     "farm": 4,
+     "farm": 5,
      "farmTop": 3,
      "recent": 9,
      "avgRk": 10.7
@@ -87000,8 +87006,10 @@
     "pos": "SP",
     "tier": "D리그",
     "age": 21,
-    "team": "드래프티",
-    "power": 0
+    "team": "챌린저스",
+    "power": 0,
+    "prospect": true,
+    "value": 6.4
    },
    "p401": {
     "name": "슈타이거",
@@ -87232,8 +87240,10 @@
     "pos": "C",
     "tier": "D리그",
     "age": 18,
-    "team": "드래프티",
-    "power": 0
+    "team": "에스트로너츠",
+    "power": 0,
+    "prospect": true,
+    "value": 6.1
    },
    "p444": {
     "name": "미야모토",
@@ -89879,91 +89889,91 @@
     {
      "rank": 1,
      "team": "마린즈",
-     "score": 180,
+     "score": 190,
      "prospects": 5
     },
     {
      "rank": 2,
      "team": "다이너마이트",
-     "score": 175,
-     "prospects": 5
+     "score": 187,
+     "prospects": 6
     },
     {
      "rank": 3,
      "team": "이글즈",
-     "score": 152,
+     "score": 162,
      "prospects": 5
     },
     {
      "rank": 4,
      "team": "세이버스",
-     "score": 148,
+     "score": 156,
      "prospects": 4
     },
     {
      "rank": 5,
      "team": "에스트로너츠",
-     "score": 134,
-     "prospects": 4
+     "score": 143,
+     "prospects": 5
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 96,
+     "score": 104,
      "prospects": 4
     },
     {
      "rank": 7,
      "team": "타이거즈",
-     "score": 90,
+     "score": 98,
      "prospects": 4
     },
     {
      "rank": 8,
      "team": "재즈",
-     "score": 84,
+     "score": 92,
      "prospects": 4
     },
     {
      "rank": 9,
      "team": "트레일 블레이저스",
-     "score": 83,
+     "score": 89,
      "prospects": 3
     },
     {
      "rank": 10,
-     "team": "워리어스",
-     "score": 80,
-     "prospects": 3
+     "team": "스틸러스",
+     "score": 87,
+     "prospects": 4
     },
     {
      "rank": 11,
-     "team": "스틸러스",
-     "score": 79,
-     "prospects": 4
+     "team": "워리어스",
+     "score": 86,
+     "prospects": 3
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 72,
+     "score": 76,
      "prospects": 2
     },
     {
      "rank": 13,
      "team": "버커니어스",
-     "score": 56,
+     "score": 62,
      "prospects": 3
     },
     {
      "rank": 14,
      "team": "라이언즈",
-     "score": 36,
+     "score": 40,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "다이노스",
-     "score": 20,
+     "score": 24,
      "prospects": 2
     },
     {
@@ -90621,17 +90631,33 @@
      "score": 59.1,
      "ceiling": "엘리트",
      "risk": "보통"
-    }
-   ],
-   "draftees": [
+    },
     {
-     "name": "음벰바",
-     "pos": "SP",
-     "tier": "D리그",
-     "age": 21,
+     "rank": 55,
+     "name": "랜돌프",
+     "team": "다이너마이트",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 57.5,
      "ceiling": "엘리트",
      "risk": "보통"
     },
+    {
+     "rank": 56,
+     "name": "세바스티안",
+     "team": "에스트로너츠",
+     "pos": "C",
+     "tier": "D리그",
+     "age": 18,
+     "eta": 3,
+     "score": 59.5,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    }
+   ],
+   "draftees": [
     {
      "name": "카마르",
      "pos": "SP",
@@ -90734,14 +90760,6 @@
      "tier": "C리그",
      "age": 21,
      "ceiling": "코어",
-     "risk": "보통"
-    },
-    {
-     "name": "세바스티안",
-     "pos": "C",
-     "tier": "D리그",
-     "age": 18,
-     "ceiling": "엘리트",
      "risk": "보통"
     },
     {
