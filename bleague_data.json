@@ -18473,7 +18473,7 @@
    "pos": "SP",
    "tier": "코어",
    "age": 33,
-   "number": "12",
+   "number": "5",
    "debutSeason": 11,
    "debutHalf": "전반기",
    "trait": "",
@@ -22180,7 +22180,7 @@
    "pos": "SP",
    "tier": "레귤러",
    "age": 30,
-   "number": "18",
+   "number": "16",
    "debutSeason": 13,
    "debutHalf": "전반기",
    "trait": "",
@@ -79286,7 +79286,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785244413316
+   "ts": 1785244447205
   },
   "teams": {
    "프린스": {
