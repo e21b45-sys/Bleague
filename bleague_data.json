@@ -27878,7 +27878,7 @@
   "p295": {
    "id": "p295",
    "name": "조던",
-   "team": "다이너마이트",
+   "team": "버커니어스",
    "pos": "OF",
    "tier": "레귤러",
    "age": 23,
@@ -27918,6 +27918,10 @@
     {
      "season": 18,
      "team": "다이너마이트"
+    },
+    {
+     "season": 19,
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -70742,7 +70746,8 @@
     "데빌스_5": "다이노스",
     "버커니어스_3": "워리어스",
     "버커니어스_6": "워리어스",
-    "트레일 블레이저스_3": "버커니어스"
+    "트레일 블레이저스_3": "버커니어스",
+    "버커니어스_2": "다이너마이트"
    },
    "penalties": {}
   },
@@ -70772,7 +70777,8 @@
     "다이노스_1": "다이너마이트",
     "프린스_1": "타이거즈",
     "프린스_2": "타이거즈",
-    "데빌스_2": "마린즈"
+    "데빌스_2": "마린즈",
+    "버커니어스_3": "다이너마이트"
    },
    "penalties": {}
   },
@@ -71320,6 +71326,38 @@
     },
     "from": "다이노스",
     "to": "마린즈",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p295",
+    "from": "다이너마이트",
+    "to": "버커니어스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "pick": {
+     "season": 20,
+     "round": 2,
+     "origin": "버커니어스"
+    },
+    "from": "버커니어스",
+    "to": "다이너마이트",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "pick": {
+     "season": 21,
+     "round": 3,
+     "origin": "버커니어스"
+    },
+    "from": "버커니어스",
+    "to": "다이너마이트",
     "applied": true,
     "multi": true
    }
@@ -73081,7 +73119,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785207051749
+   "ts": 1785207245299
   },
   "teams": {
    "프린스": {
@@ -75170,7 +75208,7 @@
     "appeal": 0.75,
     "market": "중형",
     "free": 27,
-    "power": 40.3,
+    "power": 38.7,
     "window": {
      "open": 19,
      "left": 2,
@@ -75214,6 +75252,13 @@
       "round": 2,
       "origin": "다이너마이트",
       "own": true,
+      "value": 1.19
+     },
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "버커니어스",
+      "own": false,
       "value": 1.19
      },
      {
@@ -75277,6 +75322,13 @@
       "round": 3,
       "origin": "다이너마이트",
       "own": true,
+      "value": 0.13
+     },
+     {
+      "season": 21,
+      "round": 3,
+      "origin": "버커니어스",
+      "own": false,
       "value": 0.13
      },
      {
@@ -76338,7 +76390,7 @@
     "stanceWhy": {
      "cont": 0,
      "core": 5,
-     "avgAge": 28.3,
+     "avgAge": 27.8,
      "payRatio": 0.6666666666666666,
      "farm": 5,
      "farmTop": 3,
@@ -76348,7 +76400,7 @@
     "appeal": 0.63,
     "market": "스몰마켓",
     "free": 30,
-    "power": 25.7,
+    "power": 27.3,
     "window": {
      "open": 19,
      "left": 2,
@@ -76385,7 +76437,7 @@
       "pos": "OF",
       "lv": "부족",
       "slots": 3,
-      "have": 1
+      "have": 2
      }
     ],
     "picks": [
@@ -76395,13 +76447,6 @@
       "origin": "버커니어스",
       "own": true,
       "value": 4.11
-     },
-     {
-      "season": 20,
-      "round": 2,
-      "origin": "버커니어스",
-      "own": true,
-      "value": 1.19
      },
      {
       "season": 20,
@@ -76437,13 +76482,6 @@
       "origin": "버커니어스",
       "own": true,
       "value": 1.13
-     },
-     {
-      "season": 21,
-      "round": 3,
-      "origin": "버커니어스",
-      "own": true,
-      "value": 0.13
      },
      {
       "season": 21,
@@ -80220,7 +80258,7 @@
     "pos": "OF",
     "tier": "레귤러",
     "age": 23,
-    "team": "다이너마이트",
+    "team": "버커니어스",
     "power": 1.6,
     "asset": {
      "value": 3.6,
