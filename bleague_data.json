@@ -33970,42 +33970,58 @@
   },
   "p457": {
    "id": "p457",
-   "name": "이시카와",
-   "team": "챌린저스",
-   "pos": "OF",
-   "tier": "C리그",
-   "age": 21,
+   "name": "프리차드",
+   "team": "드래프티",
+   "pos": "투타겸업",
+   "tier": "D리그",
+   "age": 19,
    "number": "",
-   "ptype": "정교형",
-   "strengths": [
-    "선구안"
-   ],
-   "weaknesses": [
-    "작전수행"
-   ],
-   "traits": [
-    "팀플레이어"
-   ],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "",
+   "strengths": [],
+   "weaknesses": [],
    "role": "",
    "subPositions": [],
    "form": "",
+   "draftSeason": null,
+   "draftRound": null,
    "contract": null,
    "contractHistory": [],
+   "awards": [],
+   "titles": 0,
    "teamHistory": [
     {
      "season": 20,
-     "team": "챌린저스"
+     "team": "드래프티"
     }
    ],
-   "titles": [],
-   "hof": false,
+   "hof": null,
    "injuries": [],
-   "debutSeason": null,
-   "debutHalf": "전반기",
-   "awards": [],
-   "draftSeason": 20,
-   "draftRound": 2,
-   "ceiling": "코어",
+   "tw": {
+    "pit": {
+     "tier": "D리그",
+     "role": "",
+     "form": "",
+     "ptype": "",
+     "strengths": [],
+     "weaknesses": []
+    },
+    "bat": {
+     "tier": "D리그",
+     "role": "",
+     "form": "",
+     "ptype": "",
+     "strengths": [],
+     "weaknesses": []
+    }
+   },
+   "ceiling": "컨텐더",
    "risk": "모험"
   }
  },
@@ -77374,7 +77390,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 457,
+ "_seq": 458,
  "prospects": [
   "p335",
   "p308",
@@ -79212,7 +79228,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785243997595
+   "ts": 1785244084506
   },
   "teams": {
    "프린스": {
@@ -81674,7 +81690,7 @@
      "core": 6,
      "avgAge": 24.3,
      "payRatio": 0.4782608695652174,
-     "farm": 7,
+     "farm": 6,
      "farmTop": 1,
      "recent": 15,
      "avgRk": 15.3
@@ -87544,14 +87560,12 @@
     "value": 2.8
    },
    "p457": {
-    "name": "이시카와",
-    "pos": "OF",
-    "tier": "C리그",
-    "age": 21,
-    "team": "챌린저스",
-    "power": 0,
-    "prospect": true,
-    "value": 1.8
+    "name": "프리차드",
+    "pos": "투타겸업",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
    }
   },
   "faMarket": {
@@ -90113,8 +90127,8 @@
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 271,
-     "prospects": 7
+     "score": 260,
+     "prospects": 6
     },
     {
      "rank": 7,
@@ -91044,14 +91058,14 @@
     },
     {
      "rank": 73,
-     "name": "이시카와",
-     "team": "챌린저스",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 21,
-     "eta": 1,
-     "score": 48.3,
-     "ceiling": "코어",
+     "name": "프리차드",
+     "team": "드래프티",
+     "pos": "투타겸업",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 67.9,
+     "ceiling": "컨텐더",
      "risk": "모험"
     },
     {
@@ -91175,7 +91189,16 @@
      "risk": "안전"
     }
    ],
-   "draftees": [],
+   "draftees": [
+    {
+     "name": "프리차드",
+     "pos": "투타겸업",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "컨텐더",
+     "risk": "모험"
+    }
+   ],
    "draftOrder": {
     "21": [
      "세이버스",
