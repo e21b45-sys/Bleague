@@ -19898,7 +19898,7 @@
   "p170": {
    "id": "p170",
    "name": "나쿠아",
-   "team": "데빌스",
+   "team": "이글즈",
    "pos": "RP",
    "tier": "레귤러",
    "age": 30,
@@ -19971,6 +19971,10 @@
     {
      "season": 18,
      "team": "데빌스"
+    },
+    {
+     "season": 19,
+     "team": "이글즈"
     }
    ],
    "hof": null,
@@ -20737,7 +20741,7 @@
   "p181": {
    "id": "p181",
    "name": "비우크",
-   "team": "이글즈",
+   "team": "트레일 블레이저스",
    "pos": "OF",
    "tier": "레귤러",
    "age": 26,
@@ -20798,6 +20802,10 @@
     {
      "season": 18,
      "team": "이글즈"
+    },
+    {
+     "season": 19,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -70671,7 +70679,6 @@
     "프린스_2": "타이거즈",
     "프린스_3": "타이거즈",
     "프린스_5": "타이거즈",
-    "데빌스_2": "트레일 블레이저스",
     "데빌스_1": "챌린저스",
     "데빌스_5": "다이노스",
     "버커니어스_3": "워리어스",
@@ -71128,6 +71135,34 @@
     "total": 30,
     "years": 3,
     "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p170",
+    "from": "데빌스",
+    "to": "이글즈",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p181",
+    "from": "이글즈",
+    "to": "트레일 블레이저스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "pick": {
+     "season": 20,
+     "round": 2,
+     "origin": "데빌스"
+    },
+    "from": "트레일 블레이저스",
+    "to": "데빌스",
+    "applied": true,
+    "multi": true
    }
   ],
   "teamNotes": {
@@ -72886,7 +72921,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785203686130
+   "ts": 1785204093495
   },
   "teams": {
    "프린스": {
@@ -74185,8 +74220,8 @@
     "stanceWhy": {
      "cont": 0,
      "core": 4,
-     "avgAge": 25.4,
-     "payRatio": 0.26666666666666666,
+     "avgAge": 25.6,
+     "payRatio": 0.3333333333333333,
      "farm": 6,
      "farmTop": 0,
      "recent": 13,
@@ -74195,7 +74230,7 @@
     "appeal": 0.84,
     "market": "중형",
     "free": 90,
-    "power": 25.9,
+    "power": 25.1,
     "window": {
      "open": 19,
      "left": 2,
@@ -74407,7 +74442,7 @@
     "appeal": 1.09,
     "market": "스몰마켓",
     "free": 35,
-    "power": 40.1,
+    "power": 41.7,
     "window": {
      "open": 19,
      "left": 2,
@@ -74418,12 +74453,6 @@
       "pos": "3B",
       "lv": "공백",
       "slots": 1
-     },
-     {
-      "pos": "OF",
-      "lv": "부족",
-      "slots": 3,
-      "have": 2
      },
      {
       "pos": "DH",
@@ -74444,13 +74473,6 @@
       "round": 2,
       "origin": "트레일 블레이저스",
       "own": true,
-      "value": 1.19
-     },
-     {
-      "season": 20,
-      "round": 2,
-      "origin": "데빌스",
-      "own": false,
       "value": 1.19
      },
      {
@@ -74623,7 +74645,7 @@
      "cont": 0,
      "core": 6,
      "avgAge": 29.2,
-     "payRatio": 0.6808510638297872,
+     "payRatio": 0.6382978723404256,
      "farm": 2,
      "farmTop": 0,
      "recent": 4,
@@ -74631,8 +74653,8 @@
     },
     "appeal": 1.62,
     "market": "빅마켓",
-    "free": 75,
-    "power": 50.3,
+    "free": 85,
+    "power": 49.5,
     "window": {
      "open": 19,
      "left": 1,
@@ -74656,6 +74678,13 @@
      }
     ],
     "picks": [
+     {
+      "season": 20,
+      "round": 2,
+      "origin": "데빌스",
+      "own": true,
+      "value": 1.19
+     },
      {
       "season": 20,
       "round": 3,
@@ -78329,7 +78358,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 30,
-    "team": "데빌스",
+    "team": "이글즈",
     "power": 0.8,
     "asset": {
      "value": 1,
@@ -78483,7 +78512,7 @@
     "pos": "OF",
     "tier": "레귤러",
     "age": 26,
-    "team": "이글즈",
+    "team": "트레일 블레이저스",
     "power": 1.6,
     "asset": {
      "value": 3,
