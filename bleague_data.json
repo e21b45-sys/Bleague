@@ -71423,10 +71423,62 @@
      "챌린저스",
      "버커니어스"
     ],
-    "races": {},
-    "potmBat": "",
-    "potmPit": "",
-    "injuries": []
+    "races": {
+     "MVP": [
+      "p202",
+      "p126",
+      "p165"
+     ],
+     "BP": [
+      "p139",
+      "p131",
+      "p105"
+     ],
+     "ROOKIE": [
+      "p279",
+      "p283",
+      "p229"
+     ]
+    },
+    "potmBat": "p201",
+    "potmPit": "p279",
+    "injuries": [
+     {
+      "playerId": "p237",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p98",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p190",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p273",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p215",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p267",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p168",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
@@ -73667,7 +73719,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785210065693
+   "ts": 1785210195596
   },
   "teams": {
    "프린스": {
