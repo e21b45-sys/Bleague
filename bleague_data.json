@@ -27067,7 +27067,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "엘리트",
+   "risk": "안전"
   },
   "p282": {
    "id": "p282",
@@ -27559,7 +27561,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "안전"
   },
   "p292": {
    "id": "p292",
@@ -28744,7 +28748,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "엘리트",
+   "risk": "모험"
   },
   "p317": {
    "id": "p317",
@@ -30027,7 +30033,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "모험"
   },
   "p345": {
    "id": "p345",
@@ -30251,7 +30259,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "안전"
   },
   "p350": {
    "id": "p350",
@@ -30295,7 +30305,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "보통"
   },
   "p351": {
    "id": "p351",
@@ -72554,7 +72566,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785199436981
+   "ts": 1785199510595
   },
   "teams": {
    "프린스": {
@@ -79554,7 +79566,7 @@
     "team": "다이노스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 9.9
    },
    "p282": {
     "name": "코난",
@@ -79686,7 +79698,7 @@
     "team": "타이거즈",
     "power": 0,
     "prospect": true,
-    "value": 1.6
+    "value": 3.3
    },
    "p292": {
     "name": "캘커테라",
@@ -79964,7 +79976,7 @@
     "team": "라이언즈",
     "power": 0,
     "prospect": true,
-    "value": 1.6
+    "value": 6
    },
    "p317": {
     "name": "제레미",
@@ -80252,7 +80264,7 @@
     "team": "타이거즈",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 2
    },
    "p345": {
     "name": "카스틸",
@@ -80302,7 +80314,7 @@
     "team": "라이언즈",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 2
    },
    "p350": {
     "name": "스태닉",
@@ -80312,7 +80324,7 @@
     "team": "타이거즈",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 1.7
    },
    "p351": {
     "name": "해더웨이",
@@ -81836,7 +81848,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 59.7,
+     "ceiling": "엘리트",
+     "risk": "안전"
     },
     {
      "rank": 4,
@@ -81906,7 +81920,9 @@
      "tier": "C리그",
      "age": 20,
      "eta": 2,
-     "score": 39.9
+     "score": 50.5,
+     "ceiling": "코어",
+     "risk": "안전"
     },
     {
      "rank": 11,
@@ -81976,7 +81992,9 @@
      "tier": "C리그",
      "age": 20,
      "eta": 2,
-     "score": 39.9
+     "score": 59.1,
+     "ceiling": "엘리트",
+     "risk": "모험"
     },
     {
      "rank": 18,
@@ -82098,7 +82116,9 @@
      "tier": "D리그",
      "age": 20,
      "eta": 3,
-     "score": 37.9
+     "score": 47.1,
+     "ceiling": "코어",
+     "risk": "모험"
     },
     {
      "rank": 30,
@@ -82334,7 +82354,9 @@
      "tier": "D리그",
      "age": 18,
      "eta": 3,
-     "score": 39.5
+     "score": 40.1,
+     "ceiling": "레귤러",
+     "risk": "안전"
     },
     {
      "rank": 53,
@@ -82344,7 +82366,9 @@
      "tier": "D리그",
      "age": 20,
      "eta": 3,
-     "score": 37.9
+     "score": 37.9,
+     "ceiling": "레귤러",
+     "risk": "보통"
     },
     {
      "rank": 54,
