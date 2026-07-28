@@ -33052,7 +33052,7 @@
   "p419": {
    "id": "p419",
    "name": "스즈키",
-   "team": "드래프티",
+   "team": "라이언즈",
    "pos": "SS",
    "tier": "D리그",
    "age": 23,
@@ -33077,6 +33077,10 @@
     {
      "season": 19,
      "team": "드래프티"
+    },
+    {
+     "season": 20,
+     "team": "라이언즈"
     }
    ],
    "titles": [],
@@ -33085,8 +33089,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "ceiling": "코어",
    "risk": "안전"
   },
@@ -33265,7 +33269,7 @@
   "p439": {
    "id": "p439",
    "name": "그린",
-   "team": "드래프티",
+   "team": "마린즈",
    "pos": "SP",
    "tier": "D리그",
    "age": 20,
@@ -33292,8 +33296,8 @@
    "role": "",
    "subPositions": [],
    "form": "",
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "contract": null,
    "contractHistory": [],
    "awards": [],
@@ -33301,7 +33305,7 @@
    "teamHistory": [
     {
      "season": 20,
-     "team": "드래프티"
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -76993,7 +76997,9 @@
     "에스트로너츠_1": "p441",
     "챌린저스_1": "p400",
     "이글즈_1": "p407",
-    "트레일 블레이저스_1": "p455"
+    "트레일 블레이저스_1": "p455",
+    "라이언즈_1": "p419",
+    "마린즈_1": "p439"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -77309,7 +77315,9 @@
   "p393",
   "p441",
   "p400",
-  "p407"
+  "p407",
+  "p455",
+  "p419"
  ],
  "salaryRules": {
   "floor": 60,
@@ -78942,7 +78950,6 @@
  "bigboard": [
   "p404",
   "p405",
-  "p419",
   "p408",
   "p417",
   "p409",
@@ -78950,7 +78957,6 @@
   "p415",
   "p414",
   "p410",
-  "p439",
   "p440",
   "p449",
   "p456",
@@ -79090,7 +79096,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785242630313
+   "ts": 1785242726682
   },
   "teams": {
    "프린스": {
@@ -79274,7 +79280,7 @@
      "core": 7,
      "avgAge": 28.7,
      "payRatio": 0.625531914893617,
-     "farm": 2,
+     "farm": 3,
      "farmTop": 0,
      "recent": 7,
      "avgRk": 4
@@ -80660,7 +80666,7 @@
      "core": 7,
      "avgAge": 26.6,
      "payRatio": 0.38095238095238093,
-     "farm": 3,
+     "farm": 4,
      "farmTop": 1,
      "recent": 8,
      "avgRk": 7.3
@@ -87191,8 +87197,10 @@
     "pos": "SS",
     "tier": "D리그",
     "age": 23,
-    "team": "드래프티",
-    "power": 0
+    "team": "라이언즈",
+    "power": 0,
+    "prospect": true,
+    "value": 2.7
    },
    "p420": {
     "name": "마르티네스",
@@ -87237,8 +87245,10 @@
     "pos": "SP",
     "tier": "D리그",
     "age": 20,
-    "team": "드래프티",
-    "power": 0
+    "team": "마린즈",
+    "power": 0,
+    "prospect": true,
+    "value": 2.6
    },
    "p440": {
     "name": "올리닉",
@@ -89903,92 +89913,92 @@
    "farmRank": [
     {
      "rank": 1,
-     "team": "마린즈",
-     "score": 200,
-     "prospects": 5
+     "team": "다이너마이트",
+     "score": 211,
+     "prospects": 6
     },
     {
      "rank": 2,
-     "team": "다이너마이트",
-     "score": 199,
-     "prospects": 6
+     "team": "마린즈",
+     "score": 210,
+     "prospects": 5
     },
     {
      "rank": 3,
      "team": "이글즈",
-     "score": 173,
+     "score": 185,
      "prospects": 6
     },
     {
      "rank": 4,
      "team": "세이버스",
-     "score": 164,
+     "score": 172,
      "prospects": 4
     },
     {
      "rank": 5,
      "team": "에스트로너츠",
-     "score": 153,
+     "score": 163,
      "prospects": 5
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 114,
+     "score": 124,
      "prospects": 5
     },
     {
      "rank": 7,
      "team": "타이거즈",
-     "score": 106,
+     "score": 114,
      "prospects": 4
     },
     {
      "rank": 8,
      "team": "재즈",
-     "score": 100,
+     "score": 108,
      "prospects": 4
     },
     {
      "rank": 9,
      "team": "트레일 블레이저스",
-     "score": 95,
-     "prospects": 3
+     "score": 103,
+     "prospects": 4
     },
     {
      "rank": 10,
      "team": "스틸러스",
-     "score": 95,
+     "score": 103,
      "prospects": 4
     },
     {
      "rank": 11,
      "team": "워리어스",
-     "score": 92,
+     "score": 98,
      "prospects": 3
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 80,
+     "score": 84,
      "prospects": 2
     },
     {
      "rank": 13,
      "team": "버커니어스",
-     "score": 68,
+     "score": 74,
      "prospects": 3
     },
     {
      "rank": 14,
      "team": "라이언즈",
-     "score": 44,
-     "prospects": 2
+     "score": 49,
+     "prospects": 3
     },
     {
      "rank": 15,
      "team": "다이노스",
-     "score": 28,
+     "score": 32,
      "prospects": 2
     },
     {
@@ -90694,6 +90704,30 @@
      "score": 46.9,
      "ceiling": "코어",
      "risk": "안전"
+    },
+    {
+     "rank": 59,
+     "name": "나가이",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 57.5,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
+     "rank": 60,
+     "name": "스즈키",
+     "team": "라이언즈",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 23,
+     "eta": 2,
+     "score": 46.1,
+     "ceiling": "코어",
+     "risk": "안전"
     }
    ],
    "draftees": [
@@ -90762,28 +90796,12 @@
      "risk": "모험"
     },
     {
-     "name": "스즈키",
-     "pos": "SS",
-     "tier": "D리그",
-     "age": 23,
-     "ceiling": "코어",
-     "risk": "안전"
-    },
-    {
      "name": "마르티네스",
      "pos": "OF",
      "tier": "D리그",
      "age": 21,
      "ceiling": "레귤러",
      "risk": "보통"
-    },
-    {
-     "name": "그린",
-     "pos": "SP",
-     "tier": "D리그",
-     "age": 20,
-     "ceiling": "코어",
-     "risk": "안전"
     },
     {
      "name": "올리닉",
