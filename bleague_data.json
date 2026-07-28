@@ -75106,6 +75106,22 @@
     {
      "name": "BP",
      "playerId": "p139"
+    },
+    {
+     "name": "BRP",
+     "playerId": "p161"
+    },
+    {
+     "name": "ROOKIE",
+     "playerId": "p279"
+    },
+    {
+     "name": "POTY",
+     "playerId": "p202"
+    },
+    {
+     "name": "MIP",
+     "playerId": "p244"
     }
    ],
    "awardsNote": ""
@@ -77997,7 +78013,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785210322251
+   "ts": 1785210382500
   },
   "teams": {
    "프린스": {
