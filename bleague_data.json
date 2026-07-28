@@ -28422,7 +28422,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "보통"
   },
   "p310": {
    "id": "p310",
@@ -28560,7 +28562,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "보통"
   },
   "p313": {
    "id": "p313",
@@ -29300,7 +29304,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "모험"
   },
   "p329": {
    "id": "p329",
@@ -29437,7 +29443,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "보통"
   },
   "p332": {
    "id": "p332",
@@ -30127,7 +30135,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "모험"
   },
   "p347": {
    "id": "p347",
@@ -72566,7 +72576,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785199510595
+   "ts": 1785199583856
   },
   "teams": {
    "프린스": {
@@ -79906,7 +79916,7 @@
     "team": "다이노스",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 2.7
    },
    "p310": {
     "name": "실러",
@@ -79936,7 +79946,7 @@
     "team": "마린즈",
     "power": 0,
     "prospect": true,
-    "value": 1.6
+    "value": 2.8
    },
    "p313": {
     "name": "브래디",
@@ -80100,7 +80110,7 @@
     "team": "마린즈",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 2.2
    },
    "p329": {
     "name": "시지카스",
@@ -80130,7 +80140,7 @@
     "team": "마린즈",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 1.9
    },
    "p332": {
     "name": "케일리",
@@ -80284,7 +80294,7 @@
     "team": "마린즈",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 2.2
    },
    "p347": {
     "name": "에르손",
@@ -81972,7 +81982,9 @@
      "tier": "D리그",
      "age": 20,
      "eta": 3,
-     "score": 37.9
+     "score": 47.9,
+     "ceiling": "코어",
+     "risk": "보통"
     },
     {
      "rank": 16,
@@ -81982,7 +81994,9 @@
      "tier": "C리그",
      "age": 19,
      "eta": 2,
-     "score": 40.7
+     "score": 50.7,
+     "ceiling": "코어",
+     "risk": "보통"
     },
     {
      "rank": 17,
@@ -82238,7 +82252,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 48.3,
+     "ceiling": "코어",
+     "risk": "모험"
     },
     {
      "rank": 42,
@@ -82248,7 +82264,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 48.3,
+     "ceiling": "코어",
+     "risk": "모험"
     },
     {
      "rank": 43,
@@ -82420,7 +82438,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 39.1,
+     "ceiling": "레귤러",
+     "risk": "보통"
     },
     {
      "rank": 59,
