@@ -26687,7 +26687,7 @@
   "p272": {
    "id": "p272",
    "name": "젠킨스",
-   "team": "마린즈",
+   "team": "다이노스",
    "pos": "SP",
    "tier": "레귤러",
    "age": 24,
@@ -26731,6 +26731,10 @@
     {
      "season": 18,
      "team": "마린즈"
+    },
+    {
+     "season": 19,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -28561,7 +28565,7 @@
   "p309": {
    "id": "p309",
    "name": "이캄",
-   "team": "다이노스",
+   "team": "마린즈",
    "pos": "SP",
    "tier": "D리그",
    "age": 20,
@@ -28597,6 +28601,10 @@
     {
      "season": 18,
      "team": "다이노스"
+    },
+    {
+     "season": 19,
+     "team": "마린즈"
     }
    ],
    "hof": null,
@@ -70764,7 +70772,7 @@
     "다이노스_1": "다이너마이트",
     "프린스_1": "타이거즈",
     "프린스_2": "타이거즈",
-    "데빌스_2": "다이노스"
+    "데빌스_2": "마린즈"
    },
    "penalties": {}
   },
@@ -71284,6 +71292,34 @@
     "playerId": "p300",
     "from": "에스트로너츠",
     "to": "다이노스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p272",
+    "from": "마린즈",
+    "to": "다이노스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p309",
+    "from": "다이노스",
+    "to": "마린즈",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "pick": {
+     "season": 21,
+     "round": 2,
+     "origin": "데빌스"
+    },
+    "from": "다이노스",
+    "to": "마린즈",
     "applied": true,
     "multi": true
    }
@@ -73044,7 +73080,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785206311063
+   "ts": 1785206535092
   },
   "teams": {
    "프린스": {
@@ -73700,17 +73736,17 @@
     "stanceWhy": {
      "cont": 2,
      "core": 5,
-     "avgAge": 28.1,
+     "avgAge": 27.7,
      "payRatio": 0.8148148148148148,
-     "farm": 3,
-     "farmTop": 2,
+     "farm": 2,
+     "farmTop": 1,
      "recent": 11,
      "avgRk": 11
     },
     "appeal": 1.19,
     "market": "중형",
     "free": 25,
-    "power": 41.9,
+    "power": 43.8,
     "window": {
      "open": 19,
      "left": 2,
@@ -73722,12 +73758,6 @@
       "lv": "부족",
       "slots": 2,
       "have": 1
-     },
-     {
-      "pos": "3~5선발",
-      "lv": "부족",
-      "slots": 3,
-      "have": 2
      },
      {
       "pos": "RP",
@@ -73767,13 +73797,6 @@
       "round": 2,
       "origin": "다이노스",
       "own": true,
-      "value": 1.13
-     },
-     {
-      "season": 21,
-      "round": 2,
-      "origin": "데빌스",
-      "own": false,
       "value": 1.13
      },
      {
@@ -73910,23 +73933,29 @@
     "stanceWhy": {
      "cont": 1,
      "core": 9,
-     "avgAge": 28.3,
+     "avgAge": 28.6,
      "payRatio": 0.660377358490566,
-     "farm": 6,
-     "farmTop": 1,
+     "farm": 7,
+     "farmTop": 2,
      "recent": 5,
      "avgRk": 7
     },
     "appeal": 1.38,
     "market": "빅마켓",
     "free": 90,
-    "power": 55.6,
+    "power": 53.7,
     "window": {
      "open": 19,
      "left": 2,
      "note": ""
     },
     "needs": [
+     {
+      "pos": "3~5선발",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
+     },
      {
       "pos": "OF",
       "lv": "부족",
@@ -73987,6 +74016,13 @@
       "round": 2,
       "origin": "마린즈",
       "own": true,
+      "value": 1.13
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "데빌스",
+      "own": false,
       "value": 1.13
      },
      {
@@ -79885,7 +79921,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 24,
-    "team": "마린즈",
+    "team": "다이노스",
     "power": 1.8,
     "asset": {
      "value": 4,
@@ -80347,7 +80383,7 @@
     "pos": "SP",
     "tier": "D리그",
     "age": 20,
-    "team": "다이노스",
+    "team": "마린즈",
     "power": 0,
     "prospect": true,
     "value": 2.7
@@ -81300,26 +81336,26 @@
     },
     {
      "rank": 2,
+     "team": "마린즈",
+     "score": 279,
+     "prospects": 7
+    },
+    {
+     "rank": 3,
      "team": "다이너마이트",
      "score": 275,
      "prospects": 6
     },
     {
-     "rank": 3,
+     "rank": 4,
      "team": "버커니어스",
      "score": 225,
      "prospects": 5
     },
     {
-     "rank": 4,
+     "rank": 5,
      "team": "세이버스",
      "score": 221,
-     "prospects": 6
-    },
-    {
-     "rank": 5,
-     "team": "마린즈",
-     "score": 218,
      "prospects": 6
     },
     {
@@ -81348,27 +81384,27 @@
     },
     {
      "rank": 10,
-     "team": "다이노스",
-     "score": 151,
-     "prospects": 3
-    },
-    {
-     "rank": 11,
      "team": "스틸러스",
      "score": 137,
      "prospects": 5
     },
     {
-     "rank": 12,
+     "rank": 11,
      "team": "트레일 블레이저스",
      "score": 132,
      "prospects": 4
     },
     {
-     "rank": 13,
+     "rank": 12,
      "team": "라이언즈",
      "score": 91,
      "prospects": 3
+    },
+    {
+     "rank": 13,
+     "team": "다이노스",
+     "score": 90,
+     "prospects": 2
     },
     {
      "rank": 14,
@@ -81561,7 +81597,7 @@
     {
      "rank": 15,
      "name": "이캄",
-     "team": "다이노스",
+     "team": "마린즈",
      "pos": "SP",
      "tier": "D리그",
      "age": 20,
