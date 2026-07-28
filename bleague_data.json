@@ -33979,12 +33979,22 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "trait": "",
-   "traits": [],
+   "traits": [
+    "스타",
+    "분위기 메이커",
+    "이기적",
+    "낙천적",
+    "천재",
+    "운동능력"
+   ],
    "style": "",
    "strength": "",
    "weakness": "",
-   "ptype": "",
-   "strengths": [],
+   "ptype": "거포형",
+   "strengths": [
+    "파워",
+    "선구안"
+   ],
    "weaknesses": [],
    "role": "",
    "subPositions": [],
@@ -34008,15 +34018,21 @@
      "tier": "D리그",
      "role": "",
      "form": "",
-     "ptype": "",
-     "strengths": [],
-     "weaknesses": []
+     "ptype": "탈삼진형",
+     "strengths": [
+      "구속",
+      "구위"
+     ],
+     "weaknesses": [
+      "제구",
+      "내구성"
+     ]
     },
     "bat": {
      "tier": "D리그",
      "role": "",
      "form": "",
-     "ptype": "",
+     "ptype": "거포형",
      "strengths": [],
      "weaknesses": []
     }
@@ -79228,7 +79244,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785244084506
+   "ts": 1785244146087
   },
   "teams": {
    "프린스": {
