@@ -71257,6 +71257,30 @@
      }
     ]
    },
+   "8": {
+    "standings": [
+     "프린스",
+     "마린즈",
+     "스틸러스",
+     "타이거즈",
+     "워리어스",
+     "라이언즈",
+     "데빌스",
+     "트레일 블레이저스",
+     "이글즈",
+     "에스트로너츠",
+     "다이너마이트",
+     "다이노스",
+     "재즈",
+     "세이버스",
+     "버커니어스",
+     "챌린저스"
+    ],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   },
    "10": {
     "standings": [],
     "races": {},
@@ -71771,7 +71795,7 @@
   },
   "allstar": {
    "teamA": {
-    "name": "",
+    "name": "남북부",
     "captain": "p202",
     "members": [
      {
@@ -71837,7 +71861,7 @@
     ]
    },
    "teamB": {
-    "name": "",
+    "name": "동서부",
     "captain": "p131",
     "members": [
      {
@@ -71893,7 +71917,7 @@
       "pos": "투수"
      },
      {
-      "playerId": "",
+      "playerId": "p86",
       "pos": "투수"
      }
     ],
@@ -71903,9 +71927,9 @@
     ]
    },
    "result": {
-    "teamAScore": null,
-    "teamBScore": null,
-    "mvpId": ""
+    "teamAScore": 5,
+    "teamBScore": 2,
+    "mvpId": "p202"
    },
    "subs": [],
    "note": ""
@@ -73503,7 +73527,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209374431
+   "ts": 1785209454059
   },
   "teams": {
    "프린스": {
