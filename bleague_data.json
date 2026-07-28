@@ -27956,7 +27956,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "보통"
   },
   "p300": {
    "id": "p300",
@@ -28613,7 +28615,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "엘리트",
+   "risk": "모험"
   },
   "p314": {
    "id": "p314",
@@ -28710,7 +28714,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "엘리트",
+   "risk": "모험"
   },
   "p316": {
    "id": "p316",
@@ -28993,7 +28999,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "안전"
   },
   "p322": {
    "id": "p322",
@@ -29360,7 +29368,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "모험"
   },
   "p330": {
    "id": "p330",
@@ -29407,7 +29417,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "보통"
   },
   "p331": {
    "id": "p331",
@@ -29544,7 +29556,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "안전"
   },
   "p334": {
    "id": "p334",
@@ -29867,7 +29881,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "엘리트",
+   "risk": "보통"
   },
   "p341": {
    "id": "p341",
@@ -30005,7 +30021,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "보통"
   },
   "p344": {
    "id": "p344",
@@ -30098,7 +30116,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "모험"
   },
   "p346": {
    "id": "p346",
@@ -30191,7 +30211,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "모험"
   },
   "p348": {
    "id": "p348",
@@ -72586,7 +72608,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785199656443
+   "ts": 1785199766686
   },
   "teams": {
    "프린스": {
@@ -79814,7 +79836,7 @@
     "team": "이글즈",
     "power": 0,
     "prospect": true,
-    "value": 1.6
+    "value": 1.8
    },
    "p300": {
     "name": "해거티",
@@ -79966,7 +79988,7 @@
     "team": "트레일 블레이저스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 6.3
    },
    "p314": {
     "name": "호프만 Jr",
@@ -79986,7 +80008,7 @@
     "team": "데빌스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 6.3
    },
    "p316": {
     "name": "클락",
@@ -80050,7 +80072,7 @@
     "team": "이글즈",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 2.3
    },
    "p322": {
     "name": "나바레즈",
@@ -80130,7 +80152,7 @@
     "team": "트레일 블레이저스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 1.4
    },
    "p330": {
     "name": "귄터",
@@ -80140,7 +80162,7 @@
     "team": "이글즈",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 1.9
    },
    "p331": {
     "name": "킬로매",
@@ -80174,7 +80196,7 @@
     "team": "이글즈",
     "power": 0,
     "prospect": true,
-    "value": 1.6
+    "value": 2.2
    },
    "p334": {
     "name": "버나드",
@@ -80244,7 +80266,7 @@
     "team": "이글즈",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 8.4
    },
    "p341": {
     "name": "크로스비",
@@ -80274,7 +80296,7 @@
     "team": "트레일 블레이저스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 3
    },
    "p344": {
     "name": "장하오",
@@ -80294,7 +80316,7 @@
     "team": "트레일 블레이저스",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 2
    },
    "p346": {
     "name": "니코",
@@ -80314,7 +80336,7 @@
     "team": "데빌스",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 2
    },
    "p348": {
     "name": "박현우",
@@ -82062,7 +82084,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 59.1,
+     "ceiling": "엘리트",
+     "risk": "보통"
     },
     {
      "rank": 22,
@@ -82092,7 +82116,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 58.3,
+     "ceiling": "엘리트",
+     "risk": "모험"
     },
     {
      "rank": 25,
@@ -82112,7 +82138,9 @@
      "tier": "C리그",
      "age": 22,
      "eta": 1,
-     "score": 38.3
+     "score": 57.5,
+     "ceiling": "엘리트",
+     "risk": "모험"
     },
     {
      "rank": 27,
@@ -82154,7 +82182,9 @@
      "tier": "C리그",
      "age": 20,
      "eta": 2,
-     "score": 39.9
+     "score": 39.9,
+     "ceiling": "레귤러",
+     "risk": "보통"
     },
     {
      "rank": 31,
@@ -82220,7 +82250,9 @@
      "tier": "C리그",
      "age": 22,
      "eta": 1,
-     "score": 38.3
+     "score": 38.9,
+     "ceiling": "레귤러",
+     "risk": "안전"
     },
     {
      "rank": 37,
@@ -82252,7 +82284,9 @@
      "tier": "D리그",
      "age": 19,
      "eta": 3,
-     "score": 38.7
+     "score": 47.9,
+     "ceiling": "코어",
+     "risk": "모험"
     },
     {
      "rank": 40,
@@ -82308,7 +82342,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 49.1,
+     "ceiling": "코어",
+     "risk": "보통"
     },
     {
      "rank": 45,
@@ -82318,7 +82354,9 @@
      "tier": "C리그",
      "age": 23,
      "eta": 1,
-     "score": 37.5
+     "score": 36.7,
+     "ceiling": "레귤러",
+     "risk": "모험"
     },
     {
      "rank": 46,
@@ -82338,7 +82376,9 @@
      "tier": "C리그",
      "age": 22,
      "eta": 1,
-     "score": 38.3
+     "score": 38.3,
+     "ceiling": "레귤러",
+     "risk": "보통"
     },
     {
      "rank": 48,
@@ -82370,7 +82410,9 @@
      "tier": "D리그",
      "age": 19,
      "eta": 3,
-     "score": 38.7
+     "score": 47.9,
+     "ceiling": "코어",
+     "risk": "모험"
     },
     {
      "rank": 51,
@@ -82448,7 +82490,9 @@
      "tier": "C리그",
      "age": 20,
      "eta": 2,
-     "score": 39.9
+     "score": 40.5,
+     "ceiling": "레귤러",
+     "risk": "안전"
     },
     {
      "rank": 58,
