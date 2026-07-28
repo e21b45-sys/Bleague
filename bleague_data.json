@@ -71064,8 +71064,8 @@
      "버커니어스"
     ],
     "races": {},
-    "potmBat": "",
-    "potmPit": "",
+    "potmBat": "p112",
+    "potmPit": "p153",
     "injuries": []
    },
    "10": {
@@ -73173,7 +73173,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785208332603
+   "ts": 1785208392939
   },
   "teams": {
    "프린스": {
