@@ -29711,10 +29711,10 @@
    "name": "실러",
    "team": "재즈",
    "pos": "OF",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 20,
-   "number": "",
-   "debutSeason": null,
+   "number": "18",
+   "debutSeason": 20,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -30543,10 +30543,10 @@
    "name": "케이타",
    "team": "재즈",
    "pos": "SS",
-   "tier": "C리그",
+   "tier": "레귤러",
    "age": 20,
-   "number": "",
-   "debutSeason": null,
+   "number": "37",
+   "debutSeason": 20,
    "debutHalf": "전반기",
    "trait": "",
    "traits": [
@@ -31053,7 +31053,7 @@
    "name": "반펠",
    "team": "재즈",
    "pos": "C",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 20,
    "number": "",
    "debutSeason": null,
@@ -31811,7 +31811,7 @@
    "name": "매클라우드",
    "team": "재즈",
    "pos": "OF",
-   "tier": "D리그",
+   "tier": "C리그",
    "age": 21,
    "number": "",
    "debutSeason": null,
@@ -77222,7 +77222,6 @@
   "p336",
   "p285",
   "p337",
-  "p310",
   "p338",
   "p311",
   "p309",
@@ -77239,7 +77238,6 @@
   "p319",
   "p321",
   "p322",
-  "p326",
   "p345",
   "p327",
   "p346",
@@ -79063,7 +79061,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785242044413
+   "ts": 1785242105214
   },
   "teams": {
    "프린스": {
@@ -80412,7 +80410,7 @@
      "avgAge": 25.6,
      "payRatio": 0.4,
      "farm": 5,
-     "farmTop": 1,
+     "farmTop": 2,
      "recent": 12,
      "avgRk": 13.3
     },
@@ -81976,17 +81974,17 @@
     "stanceWhy": {
      "cont": 0,
      "core": 3,
-     "avgAge": 27,
+     "avgAge": 25.7,
      "payRatio": 0.8363636363636363,
-     "farm": 5,
-     "farmTop": 2,
+     "farm": 3,
+     "farmTop": 1,
      "recent": 14,
      "avgRk": 13
     },
     "appeal": 0.63,
     "market": "스몰마켓",
     "free": 18,
-    "power": 32.6,
+    "power": 35.8,
     "window": {
      "open": 20,
      "left": 4,
@@ -86404,12 +86402,16 @@
    "p310": {
     "name": "실러",
     "pos": "OF",
-    "tier": "C리그",
+    "tier": "레귤러",
     "age": 20,
     "team": "재즈",
-    "power": 0,
-    "prospect": true,
-    "value": 4.8
+    "power": 1.6,
+    "asset": {
+     "value": 3.4,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
    },
    "p311": {
     "name": "메이너즈",
@@ -86584,12 +86586,16 @@
    "p326": {
     "name": "케이타",
     "pos": "SS",
-    "tier": "C리그",
+    "tier": "레귤러",
     "age": 20,
     "team": "재즈",
-    "power": 0,
-    "prospect": true,
-    "value": 1.7
+    "power": 1.6,
+    "asset": {
+     "value": 3.4,
+     "grade": "C",
+     "left": 6,
+     "effM": 1.6
+    }
    },
    "p327": {
     "name": "머서",
@@ -86696,12 +86702,12 @@
    "p336": {
     "name": "반펠",
     "pos": "C",
-    "tier": "D리그",
+    "tier": "C리그",
     "age": 20,
     "team": "재즈",
     "power": 0,
     "prospect": true,
-    "value": 2.6
+    "value": 2.7
    },
    "p337": {
     "name": "에레브",
@@ -86856,7 +86862,7 @@
    "p352": {
     "name": "매클라우드",
     "pos": "OF",
-    "tier": "D리그",
+    "tier": "C리그",
     "age": 21,
     "team": "재즈",
     "power": 0,
@@ -89855,60 +89861,60 @@
     {
      "rank": 1,
      "team": "세이버스",
-     "score": 194,
+     "score": 190,
      "prospects": 6
     },
     {
      "rank": 2,
      "team": "버커니어스",
-     "score": 190,
+     "score": 186,
      "prospects": 5
     },
     {
      "rank": 3,
      "team": "마린즈",
-     "score": 177,
+     "score": 175,
      "prospects": 5
     },
     {
      "rank": 4,
      "team": "다이너마이트",
-     "score": 176,
+     "score": 172,
      "prospects": 5
     },
     {
      "rank": 5,
-     "team": "재즈",
-     "score": 170,
+     "team": "이글즈",
+     "score": 145,
      "prospects": 5
     },
     {
      "rank": 6,
-     "team": "이글즈",
-     "score": 147,
-     "prospects": 5
+     "team": "에스트로너츠",
+     "score": 129,
+     "prospects": 4
     },
     {
      "rank": 7,
-     "team": "에스트로너츠",
-     "score": 132,
+     "team": "챌린저스",
+     "score": 92,
      "prospects": 4
     },
     {
      "rank": 8,
-     "team": "챌린저스",
-     "score": 94,
+     "team": "타이거즈",
+     "score": 83,
      "prospects": 4
     },
     {
      "rank": 9,
-     "team": "타이거즈",
-     "score": 84,
-     "prospects": 4
+     "team": "트레일 블레이저스",
+     "score": 79,
+     "prospects": 3
     },
     {
      "rank": 10,
-     "team": "트레일 블레이저스",
+     "team": "재즈",
      "score": 79,
      "prospects": 3
     },
@@ -89921,13 +89927,13 @@
     {
      "rank": 12,
      "team": "스틸러스",
-     "score": 74,
+     "score": 73,
      "prospects": 4
     },
     {
      "rank": 13,
      "team": "데빌스",
-     "score": 71,
+     "score": 70,
      "prospects": 2
     },
     {
@@ -89979,10 +89985,10 @@
      "name": "반펠",
      "team": "재즈",
      "pos": "C",
-     "tier": "D리그",
+     "tier": "C리그",
      "age": 20,
-     "eta": 3,
-     "score": 48.5,
+     "eta": 2,
+     "score": 50.5,
      "ceiling": "코어",
      "risk": "안전"
     },
@@ -90012,18 +90018,6 @@
     },
     {
      "rank": 6,
-     "name": "실러",
-     "team": "재즈",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 20,
-     "eta": 2,
-     "score": 59.1,
-     "ceiling": "엘리트",
-     "risk": "모험"
-    },
-    {
-     "rank": 7,
      "name": "스피드",
      "team": "버커니어스",
      "pos": "SP",
@@ -90035,7 +90029,7 @@
      "risk": "모험"
     },
     {
-     "rank": 8,
+     "rank": 7,
      "name": "메이너즈",
      "team": "버커니어스",
      "pos": "SP",
@@ -90047,7 +90041,7 @@
      "risk": "보통"
     },
     {
-     "rank": 9,
+     "rank": 8,
      "name": "이캄",
      "team": "마린즈",
      "pos": "SP",
@@ -90059,7 +90053,7 @@
      "risk": "보통"
     },
     {
-     "rank": 10,
+     "rank": 9,
      "name": "아론",
      "team": "마린즈",
      "pos": "1B",
@@ -90071,7 +90065,7 @@
      "risk": "보통"
     },
     {
-     "rank": 11,
+     "rank": 10,
      "name": "브레데슨",
      "team": "다이너마이트",
      "pos": "SP",
@@ -90083,7 +90077,7 @@
      "risk": "안전"
     },
     {
-     "rank": 12,
+     "rank": 11,
      "name": "라파엘라",
      "team": "스틸러스",
      "pos": "C",
@@ -90095,7 +90089,7 @@
      "risk": "보통"
     },
     {
-     "rank": 13,
+     "rank": 12,
      "name": "베르스탕",
      "team": "이글즈",
      "pos": "OF",
@@ -90107,7 +90101,7 @@
      "risk": "보통"
     },
     {
-     "rank": 14,
+     "rank": 13,
      "name": "샤크",
      "team": "데빌스",
      "pos": "SP",
@@ -90119,7 +90113,7 @@
      "risk": "모험"
     },
     {
-     "rank": 15,
+     "rank": 14,
      "name": "크로스비",
      "team": "세이버스",
      "pos": "SP",
@@ -90131,7 +90125,7 @@
      "risk": "안전"
     },
     {
-     "rank": 16,
+     "rank": 15,
      "name": "굿윈",
      "team": "세이버스",
      "pos": "OF",
@@ -90143,7 +90137,7 @@
      "risk": "안전"
     },
     {
-     "rank": 17,
+     "rank": 16,
      "name": "장하오",
      "team": "타이거즈",
      "pos": "SS",
@@ -90155,7 +90149,7 @@
      "risk": "모험"
     },
     {
-     "rank": 18,
+     "rank": 17,
      "name": "트리스탄",
      "team": "에스트로너츠",
      "pos": "2B",
@@ -90167,7 +90161,7 @@
      "risk": "안전"
     },
     {
-     "rank": 19,
+     "rank": 18,
      "name": "라이아베리",
      "team": "에스트로너츠",
      "pos": "OF",
@@ -90179,7 +90173,7 @@
      "risk": "모험"
     },
     {
-     "rank": 20,
+     "rank": 19,
      "name": "버트리",
      "team": "다이너마이트",
      "pos": "OF",
@@ -90191,7 +90185,7 @@
      "risk": "보통"
     },
     {
-     "rank": 21,
+     "rank": 20,
      "name": "곽선웅",
      "team": "이글즈",
      "pos": "SP",
@@ -90203,7 +90197,7 @@
      "risk": "안전"
     },
     {
-     "rank": 22,
+     "rank": 21,
      "name": "나바레즈",
      "team": "에스트로너츠",
      "pos": "SP",
@@ -90215,19 +90209,7 @@
      "risk": "안전"
     },
     {
-     "rank": 23,
-     "name": "케이타",
-     "team": "재즈",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 20,
-     "eta": 2,
-     "score": 40.5,
-     "ceiling": "레귤러",
-     "risk": "안전"
-    },
-    {
-     "rank": 24,
+     "rank": 22,
      "name": "카스틸",
      "team": "트레일 블레이저스",
      "pos": "OF",
@@ -90239,7 +90221,7 @@
      "risk": "모험"
     },
     {
-     "rank": 25,
+     "rank": 23,
      "name": "머서",
      "team": "세이버스",
      "pos": "SP",
@@ -90251,7 +90233,7 @@
      "risk": "안전"
     },
     {
-     "rank": 26,
+     "rank": 24,
      "name": "니코",
      "team": "마린즈",
      "pos": "OF",
@@ -90263,7 +90245,7 @@
      "risk": "모험"
     },
     {
-     "rank": 27,
+     "rank": 25,
      "name": "모로조프",
      "team": "다이너마이트",
      "pos": "SP",
@@ -90275,7 +90257,7 @@
      "risk": "모험"
     },
     {
-     "rank": 28,
+     "rank": 26,
      "name": "제이콥",
      "team": "트레일 블레이저스",
      "pos": "SP",
@@ -90287,7 +90269,7 @@
      "risk": "보통"
     },
     {
-     "rank": 29,
+     "rank": 27,
      "name": "시지카스",
      "team": "버커니어스",
      "pos": "OF",
@@ -90299,7 +90281,7 @@
      "risk": "모험"
     },
     {
-     "rank": 30,
+     "rank": 28,
      "name": "박현우",
      "team": "워리어스",
      "pos": "SS",
@@ -90311,7 +90293,7 @@
      "risk": "보통"
     },
     {
-     "rank": 31,
+     "rank": 29,
      "name": "귄터",
      "team": "이글즈",
      "pos": "SS",
@@ -90323,7 +90305,7 @@
      "risk": "보통"
     },
     {
-     "rank": 32,
+     "rank": 30,
      "name": "시마다",
      "team": "마린즈",
      "pos": "OF",
@@ -90335,7 +90317,7 @@
      "risk": "안전"
     },
     {
-     "rank": 33,
+     "rank": 31,
      "name": "에르손",
      "team": "데빌스",
      "pos": "2B",
@@ -90347,7 +90329,7 @@
      "risk": "모험"
     },
     {
-     "rank": 34,
+     "rank": 32,
      "name": "헤레라",
      "team": "워리어스",
      "pos": "SP",
@@ -90359,7 +90341,7 @@
      "risk": "보통"
     },
     {
-     "rank": 35,
+     "rank": 33,
      "name": "와델",
      "team": "라이언즈",
      "pos": "OF",
@@ -90371,7 +90353,7 @@
      "risk": "안전"
     },
     {
-     "rank": 36,
+     "rank": 34,
      "name": "스태닉",
      "team": "타이거즈",
      "pos": "SP",
@@ -90383,7 +90365,7 @@
      "risk": "보통"
     },
     {
-     "rank": 37,
+     "rank": 35,
      "name": "해더웨이",
      "team": "챌린저스",
      "pos": "OF",
@@ -90395,19 +90377,19 @@
      "risk": "모험"
     },
     {
-     "rank": 38,
+     "rank": 36,
      "name": "매클라우드",
      "team": "재즈",
      "pos": "OF",
-     "tier": "D리그",
+     "tier": "C리그",
      "age": 21,
-     "eta": 2,
-     "score": 37.1,
+     "eta": 1,
+     "score": 39.1,
      "ceiling": "레귤러",
      "risk": "보통"
     },
     {
-     "rank": 39,
+     "rank": 37,
      "name": "하킴",
      "team": "워리어스",
      "pos": "SP",
@@ -90419,7 +90401,7 @@
      "risk": "보통"
     },
     {
-     "rank": 40,
+     "rank": 38,
      "name": "아마리",
      "team": "이글즈",
      "pos": "OF",
@@ -90431,7 +90413,7 @@
      "risk": "안전"
     },
     {
-     "rank": 41,
+     "rank": 39,
      "name": "킬로매",
      "team": "마린즈",
      "pos": "SS",
@@ -90443,7 +90425,7 @@
      "risk": "보통"
     },
     {
-     "rank": 42,
+     "rank": 40,
      "name": "페이턴",
      "team": "다이노스",
      "pos": "OF",
@@ -90455,7 +90437,7 @@
      "risk": "보통"
     },
     {
-     "rank": 43,
+     "rank": 41,
      "name": "슈타인",
      "team": "이글즈",
      "pos": "SP",
@@ -90467,7 +90449,7 @@
      "risk": "안전"
     },
     {
-     "rank": 44,
+     "rank": 42,
      "name": "은도예",
      "team": "세이버스",
      "pos": "SS",
@@ -90479,7 +90461,7 @@
      "risk": "안전"
     },
     {
-     "rank": 45,
+     "rank": 43,
      "name": "헤이스팅스",
      "team": "에스트로너츠",
      "pos": "SP",
@@ -90491,7 +90473,7 @@
      "risk": "안전"
     },
     {
-     "rank": 46,
+     "rank": 44,
      "name": "음보테",
      "team": "트레일 블레이저스",
      "pos": "3B",
@@ -90503,7 +90485,7 @@
      "risk": "안전"
     },
     {
-     "rank": 47,
+     "rank": 45,
      "name": "스미르노프",
      "team": "타이거즈",
      "pos": "SP",
@@ -90515,7 +90497,7 @@
      "risk": "안전"
     },
     {
-     "rank": 48,
+     "rank": 46,
      "name": "더글라스",
      "team": "스틸러스",
      "pos": "OF",
@@ -90527,7 +90509,7 @@
      "risk": "안전"
     },
     {
-     "rank": 49,
+     "rank": 47,
      "name": "사이토",
      "team": "스틸러스",
      "pos": "OF",
@@ -90539,7 +90521,7 @@
      "risk": "안전"
     },
     {
-     "rank": 50,
+     "rank": 48,
      "name": "자키",
      "team": "챌린저스",
      "pos": "1B",
@@ -90551,7 +90533,7 @@
      "risk": "안전"
     },
     {
-     "rank": 51,
+     "rank": 49,
      "name": "파올리",
      "team": "라이언즈",
      "pos": "SP",
@@ -90563,7 +90545,7 @@
      "risk": "안전"
     },
     {
-     "rank": 52,
+     "rank": 50,
      "name": "리들리",
      "team": "타이거즈",
      "pos": "OF",
@@ -90575,7 +90557,7 @@
      "risk": "안전"
     },
     {
-     "rank": 53,
+     "rank": 51,
      "name": "마타케비치",
      "team": "스틸러스",
      "pos": "OF",
@@ -90587,7 +90569,7 @@
      "risk": "모험"
     },
     {
-     "rank": 54,
+     "rank": 52,
      "name": "아세베도",
      "team": "챌린저스",
      "pos": "OF",
@@ -90599,7 +90581,7 @@
      "risk": "보통"
     },
     {
-     "rank": 55,
+     "rank": 53,
      "name": "슈타이거",
      "team": "재즈",
      "pos": "SS",
@@ -90611,7 +90593,7 @@
      "risk": "보통"
     },
     {
-     "rank": 56,
+     "rank": 54,
      "name": "예르마코프",
      "team": "다이너마이트",
      "pos": "OF",
@@ -90623,7 +90605,7 @@
      "risk": "보통"
     },
     {
-     "rank": 57,
+     "rank": 55,
      "name": "시도로프",
      "team": "버커니어스",
      "pos": "SP",
@@ -90635,7 +90617,7 @@
      "risk": "안전"
     },
     {
-     "rank": 58,
+     "rank": 56,
      "name": "파웰",
      "team": "세이버스",
      "pos": "SP",
