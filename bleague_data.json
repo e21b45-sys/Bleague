@@ -33336,13 +33336,20 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "trait": "",
-   "traits": [],
+   "traits": [
+    "꾸준함",
+    "4차원"
+   ],
    "style": "",
    "strength": "",
    "weakness": "",
-   "ptype": "",
-   "strengths": [],
-   "weaknesses": [],
+   "ptype": "제구형",
+   "strengths": [
+    "제구"
+   ],
+   "weaknesses": [
+    "이닝"
+   ],
    "role": "",
    "subPositions": [],
    "form": "",
@@ -33360,7 +33367,56 @@
    ],
    "hof": null,
    "injuries": [],
-   "ceiling": "코어"
+   "ceiling": "코어",
+   "risk": "보통"
+  },
+  "p441": {
+   "id": "p441",
+   "name": "세바스티안",
+   "team": "드래프티",
+   "pos": "C",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "스타",
+    "분위기 메이커",
+    "승부욕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "거포형",
+   "strengths": [
+    "파워",
+    "갭"
+   ],
+   "weaknesses": [
+    "수비 안정성",
+    "주루"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "드래프티"
+    }
+   ],
+   "hof": null,
+   "injuries": [],
+   "ceiling": "엘리트",
+   "risk": "보통"
   }
  },
  "budgets": {
@@ -76695,7 +76751,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 441,
+ "_seq": 442,
  "prospects": [
   "p280",
   "p303",
@@ -78522,7 +78578,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785239854812
+   "ts": 1785239938317
   },
   "teams": {
    "프린스": {
@@ -86633,6 +86689,14 @@
     "age": 21,
     "team": "드래프티",
     "power": 0
+   },
+   "p441": {
+    "name": "세바스티안",
+    "pos": "C",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
    }
   },
   "faMarket": {
@@ -91066,7 +91130,16 @@
      "pos": "SP",
      "tier": "C리그",
      "age": 21,
-     "ceiling": "코어"
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "name": "세바스티안",
+     "pos": "C",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "엘리트",
+     "risk": "보통"
     }
    ],
    "draftOrder": {
