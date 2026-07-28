@@ -33708,7 +33708,7 @@
   "p453": {
    "id": "p453",
    "name": "몬토야",
-   "team": "드래프티",
+   "team": "재즈",
    "pos": "2B",
    "tier": "C리그",
    "age": 22,
@@ -33729,15 +33729,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "재즈"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "ceiling": "컨텐더",
    "risk": "보통"
   },
@@ -76959,7 +76964,9 @@
     "스틸러스",
     "프린스"
    ],
-   "picks": {},
+   "picks": {
+    "재즈_1": "p453"
+   },
    "pickOwners": {
     "워리어스_3": "챌린저스",
     "워리어스_5": "챌린저스",
@@ -77267,7 +77274,8 @@
   "p395",
   "p401",
   "p422",
-  "p391"
+  "p391",
+  "p453"
  ],
  "salaryRules": {
   "floor": 60,
@@ -78916,7 +78924,6 @@
   "p441",
   "p439",
   "p440",
-  "p453",
   "p449",
   "p456",
   "p454",
@@ -79056,7 +79063,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785242207118
+   "ts": 1785242275925
   },
   "teams": {
    "프린스": {
@@ -87289,8 +87296,10 @@
     "pos": "2B",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
-    "power": 0
+    "team": "재즈",
+    "power": 0,
+    "prospect": true,
+    "value": 11.6
    },
    "p454": {
     "name": "파딜",
@@ -90778,14 +90787,6 @@
      "age": 18,
      "ceiling": "코어",
      "risk": "모험"
-    },
-    {
-     "name": "몬토야",
-     "pos": "2B",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "컨텐더",
-     "risk": "보통"
     },
     {
      "name": "파딜",
