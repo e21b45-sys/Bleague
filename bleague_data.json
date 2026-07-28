@@ -11402,7 +11402,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "2번",
+   "role": "4번",
    "subPositions": [],
    "form": ""
   },
@@ -11653,7 +11653,7 @@
      "note": "등"
     }
    ],
-   "role": "3선발",
+   "role": "4선발",
    "subPositions": [],
    "form": ""
   },
@@ -12408,7 +12408,7 @@
      "note": "근육"
     }
    ],
-   "role": "4번",
+   "role": "5번",
    "subPositions": [
     "OF"
    ],
@@ -18905,7 +18905,7 @@
     "주루",
     "수비 범위"
    ],
-   "role": "6번",
+   "role": "5번",
    "subPositions": [],
    "draftSeason": 5,
    "draftRound": 2,
@@ -19468,7 +19468,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "1번",
+   "role": "2번",
    "subPositions": [],
    "draftSeason": 11,
    "draftRound": 1,
@@ -20799,7 +20799,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "5번",
+   "role": "9번",
    "subPositions": [],
    "draftSeason": 12,
    "draftRound": 2,
@@ -24664,7 +24664,7 @@
    "weaknesses": [
     "수비 안정성"
    ],
-   "role": "2번",
+   "role": "5번",
    "subPositions": [],
    "form": "",
    "draftSeason": 15,
@@ -26823,7 +26823,7 @@
     "주루",
     "선구안"
    ],
-   "role": "",
+   "role": "6번",
    "subPositions": [],
    "form": "",
    "draftSeason": 16,
@@ -28409,7 +28409,7 @@
     "컨택",
     "파워"
    ],
-   "role": "",
+   "role": "6번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -73121,7 +73121,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785207784645
+   "ts": 1785207862864
   },
   "teams": {
    "프린스": {
