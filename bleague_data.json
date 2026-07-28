@@ -15507,7 +15507,7 @@
    "name": "포이스",
    "team": "마린즈",
    "pos": "3B",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 32,
    "number": "12",
    "debutSeason": 9,
@@ -79293,7 +79293,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785247038082
+   "ts": 1785251164444
   },
   "teams": {
    "프린스": {
@@ -80163,7 +80163,7 @@
     "stance": "allin",
     "stanceLabel": "올인",
     "stanceWhy": {
-     "cont": 1,
+     "cont": 0,
      "core": 8,
      "avgAge": 28.7,
      "payRatio": 0.692,
@@ -80175,7 +80175,7 @@
     "appeal": 1.35,
     "market": "빅마켓",
     "free": 77,
-    "power": 53.1,
+    "power": 48.1,
     "window": {
      "open": 20,
      "left": 2,
@@ -83933,15 +83933,15 @@
    "p118": {
     "name": "포이스",
     "pos": "3B",
-    "tier": "컨텐더",
+    "tier": "엘리트",
     "age": 32,
     "team": "마린즈",
-    "power": 12,
+    "power": 7,
     "asset": {
-     "value": 20.5,
-     "grade": "S",
+     "value": 9.9,
+     "grade": "A",
      "left": 2,
-     "effM": 1.32
+     "effM": 1.09
     }
    },
    "p119": {
@@ -89069,7 +89069,7 @@
     "pos": "3B",
     "tier": "엘리트",
     "age": 28,
-    "rarity": 1.33,
+    "rarity": 1.25,
     "expContract": {
      "years": 7,
      "aav": 25,
@@ -89082,7 +89082,7 @@
       "lv": "공백",
       "win": 0.53,
       "focus": 83,
-      "real": 58.6
+      "real": 54.9
      },
      {
       "team": "에스트로너츠",
@@ -89090,7 +89090,7 @@
       "lv": "공백",
       "win": 0.3,
       "focus": 74,
-      "real": 29.3
+      "real": 27.5
      },
      {
       "team": "이글즈",
@@ -89098,7 +89098,7 @@
       "lv": "공백",
       "win": 0.07,
       "focus": 47,
-      "real": 4.5
+      "real": 4.2
      },
      {
       "team": "다이너마이트",
@@ -89106,15 +89106,7 @@
       "lv": "공백",
       "win": 0.07,
       "focus": 46,
-      "real": 4.1
-     },
-     {
-      "team": "재즈",
-      "stance": "reset",
-      "lv": "공백",
-      "win": 0.02,
-      "focus": 32,
-      "real": 0.9
+      "real": 3.8
      },
      {
       "team": "버커니어스",
@@ -89123,6 +89115,14 @@
       "win": 0.02,
       "focus": 42,
       "real": 0.9
+     },
+     {
+      "team": "재즈",
+      "stance": "reset",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 32,
+      "real": 0.8
      }
     ],
     "altFA": [],
@@ -89130,6 +89130,10 @@
      {
       "name": "데버스",
       "team": "워리어스"
+     },
+     {
+      "name": "포이스",
+      "team": "마린즈"
      },
      {
       "name": "파쿤도",
