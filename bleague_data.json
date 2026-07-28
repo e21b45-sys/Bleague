@@ -27664,7 +27664,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "보통"
   },
   "p294": {
    "id": "p294",
@@ -27713,7 +27715,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "안전"
   },
   "p295": {
    "id": "p295",
@@ -28346,7 +28350,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "모험"
   },
   "p308": {
    "id": "p308",
@@ -29105,7 +29111,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "안전"
   },
   "p324": {
    "id": "p324",
@@ -29617,7 +29625,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "보통"
   },
   "p335": {
    "id": "p335",
@@ -29664,7 +29674,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "컨텐더",
+   "risk": "모험"
   },
   "p336": {
    "id": "p336",
@@ -30414,7 +30426,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "레귤러",
+   "risk": "모험"
   },
   "p352": {
    "id": "p352",
@@ -30506,7 +30520,9 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "모험"
   },
   "p391": {
    "id": "p391",
@@ -72628,7 +72644,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785199903976
+   "ts": 1785199987744
   },
   "teams": {
    "프린스": {
@@ -79784,7 +79800,7 @@
     "team": "스틸러스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 3
    },
    "p294": {
     "name": "무디",
@@ -79794,7 +79810,7 @@
     "team": "챌린저스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 3.5
    },
    "p295": {
     "name": "조던",
@@ -79948,7 +79964,7 @@
     "team": "스틸러스",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 2
    },
    "p308": {
     "name": "타이리스",
@@ -80112,7 +80128,7 @@
     "team": "스틸러스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 2.3
    },
    "p324": {
     "name": "파웰",
@@ -80226,7 +80242,7 @@
     "team": "챌린저스",
     "power": 0,
     "prospect": true,
-    "value": 1.6
+    "value": 1.8
    },
    "p335": {
     "name": "벤자민",
@@ -80236,7 +80252,7 @@
     "team": "챌린저스",
     "power": 0,
     "prospect": true,
-    "value": 0.2
+    "value": 9.7
    },
    "p336": {
     "name": "반펠",
@@ -80396,7 +80412,7 @@
     "team": "챌린저스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 1.4
    },
    "p352": {
     "name": "매클라우드",
@@ -80416,7 +80432,7 @@
     "team": "스틸러스",
     "power": 0,
     "prospect": true,
-    "value": 1.7
+    "value": 2.2
    },
    "p391": {
     "name": "시도로프",
@@ -81926,7 +81942,9 @@
      "tier": "D리그",
      "age": 19,
      "eta": 3,
-     "score": 38.7
+     "score": 67.9,
+     "ceiling": "컨텐더",
+     "risk": "모험"
     },
     {
      "rank": 5,
@@ -82092,7 +82110,9 @@
      "tier": "C리그",
      "age": 22,
      "eta": 1,
-     "score": 38.3
+     "score": 48.3,
+     "ceiling": "코어",
+     "risk": "보통"
     },
     {
      "rank": 20,
@@ -82126,7 +82146,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 49.7,
+     "ceiling": "코어",
+     "risk": "안전"
     },
     {
      "rank": 23,
@@ -82136,7 +82158,9 @@
      "tier": "D리그",
      "age": 20,
      "eta": 3,
-     "score": 37.9
+     "score": 47.1,
+     "ceiling": "코어",
+     "risk": "모험"
     },
     {
      "rank": 24,
@@ -82440,7 +82464,9 @@
      "tier": "C리그",
      "age": 20,
      "eta": 2,
-     "score": 39.9
+     "score": 39.9,
+     "ceiling": "레귤러",
+     "risk": "보통"
     },
     {
      "rank": 50,
@@ -82498,7 +82524,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 38.3,
+     "ceiling": "레귤러",
+     "risk": "모험"
     },
     {
      "rank": 55,
@@ -82626,7 +82654,9 @@
      "tier": "C리그",
      "age": 22,
      "eta": 1,
-     "score": 38.3
+     "score": 38.9,
+     "ceiling": "레귤러",
+     "risk": "안전"
     },
     {
      "rank": 66,
@@ -82684,7 +82714,9 @@
      "tier": "C리그",
      "age": 21,
      "eta": 1,
-     "score": 39.1
+     "score": 48.3,
+     "ceiling": "코어",
+     "risk": "모험"
     },
     {
      "rank": 71,
