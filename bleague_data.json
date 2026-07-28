@@ -71246,7 +71246,12 @@
       "months": 1
      },
      {
-      "playerId": "",
+      "playerId": "p106",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p152",
       "note": "",
       "months": 1
      }
@@ -71763,6 +71768,50 @@
     "evaluation": "",
     "changes": ""
    }
+  },
+  "allstar": {
+   "teamA": {
+    "name": "",
+    "captain": "p75",
+    "members": [
+     {
+      "playerId": "p75",
+      "pos": "선발"
+     },
+     {
+      "playerId": "p233",
+      "pos": "포수"
+     },
+     {
+      "playerId": "p146",
+      "pos": "1루"
+     },
+     {
+      "playerId": "",
+      "pos": "2루"
+     }
+    ],
+    "divFilter": [
+     "남부",
+     "북부"
+    ]
+   },
+   "teamB": {
+    "name": "",
+    "captain": "",
+    "members": [],
+    "divFilter": [
+     "동부",
+     "서부"
+    ]
+   },
+   "result": {
+    "teamAScore": null,
+    "teamBScore": null,
+    "mvpId": ""
+   },
+   "subs": [],
+   "note": ""
   }
  },
  "budgetParts": {
@@ -73357,7 +73406,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209013336
+   "ts": 1785209093056
   },
   "teams": {
    "프린스": {
