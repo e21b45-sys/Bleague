@@ -12949,7 +12949,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p96": {
    "id": "p96",
@@ -14386,7 +14386,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p108": {
    "id": "p108",
@@ -16218,7 +16218,7 @@
    "name": "파쿤도",
    "team": "라이언즈",
    "pos": "3B",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 31,
    "number": "10",
    "debutSeason": 9,
@@ -16304,7 +16304,7 @@
    "injuries": [],
    "role": "3번",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p126": {
    "id": "p126",
@@ -17065,7 +17065,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p134": {
    "id": "p134",
@@ -20226,7 +20226,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "injury"
   },
   "p167": {
    "id": "p167",
@@ -20972,7 +20972,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p176": {
    "id": "p176",
@@ -21859,7 +21859,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p187": {
    "id": "p187",
@@ -23123,7 +23123,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": "good"
   },
   "p203": {
    "id": "p203",
@@ -24341,7 +24341,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p220": {
    "id": "p220",
@@ -24967,7 +24967,7 @@
    ],
    "role": "5선발",
    "subPositions": [],
-   "form": "bad",
+   "form": "",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -25156,7 +25156,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "good",
+   "form": "",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -26704,7 +26704,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 14,
    "draftRound": 4,
    "contract": null,
@@ -27596,7 +27596,7 @@
    ],
    "role": "추격조",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27882,7 +27882,7 @@
    ],
    "role": "8번",
    "subPositions": [],
-   "form": "bad",
+   "form": "",
    "draftSeason": 16,
    "draftRound": 2,
    "contract": null,
@@ -30080,7 +30080,7 @@
    ],
    "role": "7번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 18,
    "draftRound": 1,
    "contract": null,
@@ -30853,7 +30853,7 @@
    ],
    "role": "추격조",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 18,
    "draftRound": 2,
    "contract": null,
@@ -79042,7 +79042,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785240728037
+   "ts": 1785240845922
   },
   "teams": {
    "프린스": {
@@ -79222,7 +79222,7 @@
     "stance": "allin",
     "stanceLabel": "올인",
     "stanceWhy": {
-     "cont": 2,
+     "cont": 1,
      "core": 7,
      "avgAge": 29.3,
      "payRatio": 0.625531914893617,
@@ -79234,7 +79234,7 @@
     "appeal": 1.28,
     "market": "빅마켓",
     "free": 88,
-    "power": 42.4,
+    "power": 37.4,
     "window": {
      "open": 20,
      "left": 2,
@@ -83881,15 +83881,15 @@
    "p125": {
     "name": "파쿤도",
     "pos": "3B",
-    "tier": "컨텐더",
+    "tier": "엘리트",
     "age": 31,
     "team": "라이언즈",
-    "power": 12,
+    "power": 7,
     "asset": {
-     "value": 17.1,
-     "grade": "S",
+     "value": 8.2,
+     "grade": "A",
      "left": 2,
-     "effM": 1.1
+     "effM": 0.91
     }
    },
    "p126": {
@@ -89667,7 +89667,7 @@
     "pos": "3B",
     "tier": "엘리트",
     "age": 28,
-    "rarity": 1.42,
+    "rarity": 1.33,
     "expContract": {
      "years": 7,
      "aav": 25,
@@ -89680,7 +89680,7 @@
       "lv": "공백",
       "win": 0.61,
       "focus": 63,
-      "real": 54.6
+      "real": 51.4
      },
      {
       "team": "에스트로너츠",
@@ -89688,7 +89688,7 @@
       "lv": "공백",
       "win": 0.18,
       "focus": 42,
-      "real": 11
+      "real": 10.3
      },
      {
       "team": "이글즈",
@@ -89696,7 +89696,7 @@
       "lv": "공백",
       "win": 0.08,
       "focus": 56,
-      "real": 6.6
+      "real": 6.2
      },
      {
       "team": "다이너마이트",
@@ -89704,7 +89704,7 @@
       "lv": "공백",
       "win": 0.06,
       "focus": 32,
-      "real": 2.9
+      "real": 2.7
      },
      {
       "team": "버커니어스",
@@ -89712,7 +89712,7 @@
       "lv": "공백",
       "win": 0.03,
       "focus": 31,
-      "real": 1.4
+      "real": 1.3
      },
      {
       "team": "재즈",
@@ -89720,7 +89720,7 @@
       "lv": "공백",
       "win": 0.02,
       "focus": 35,
-      "real": 1.2
+      "real": 1.1
      }
     ],
     "altFA": [],
@@ -89728,6 +89728,10 @@
      {
       "name": "데버스",
       "team": "워리어스"
+     },
+     {
+      "name": "파쿤도",
+      "team": "라이언즈"
      }
     ]
    },
