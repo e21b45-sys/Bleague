@@ -71849,8 +71849,32 @@
       "pos": "포수"
      },
      {
-      "playerId": "",
+      "playerId": "p235",
       "pos": "1루"
+     },
+     {
+      "playerId": "p112",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p118",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p85",
+      "pos": "유격"
+     },
+     {
+      "playerId": "p116",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p124",
+      "pos": "외야"
+     },
+     {
+      "playerId": "",
+      "pos": "외야"
      }
     ],
     "divFilter": [
@@ -73459,7 +73483,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209241094
+   "ts": 1785209310950
   },
   "teams": {
    "프린스": {
