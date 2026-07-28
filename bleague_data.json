@@ -33114,7 +33114,7 @@
    "id": "p420",
    "name": "마르티네스",
    "team": "드래프티",
-   "pos": "OF",
+   "pos": "1B",
    "tier": "D리그",
    "age": 21,
    "number": "",
@@ -33466,7 +33466,7 @@
   "p445": {
    "id": "p445",
    "name": "뷔흐너",
-   "team": "드래프티",
+   "team": "이글즈",
    "pos": "SP",
    "tier": "C리그",
    "age": 21,
@@ -33486,15 +33486,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "이글즈"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "안전"
   },
@@ -77062,7 +77067,8 @@
     "다이노스_2": "p440",
     "다이너마이트_2": "p408",
     "에스트로너츠_2": "p444",
-    "챌린저스_2": "p457"
+    "챌린저스_2": "p457",
+    "이글즈_2": "p445"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -77392,7 +77398,9 @@
   "p451",
   "p440",
   "p408",
-  "p444"
+  "p444",
+  "p457",
+  "p445"
  ],
  "salaryRules": {
   "floor": 60,
@@ -79028,7 +79036,6 @@
   "p415",
   "p414",
   "p410",
-  "p445",
   "p446",
   "p448",
   "p450",
@@ -79159,7 +79166,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785243166009
+   "ts": 1785243262365
   },
   "teams": {
    "프린스": {
@@ -80507,7 +80514,7 @@
      "core": 4,
      "avgAge": 25.6,
      "payRatio": 0.4,
-     "farm": 6,
+     "farm": 7,
      "farmTop": 2,
      "recent": 12,
      "avgRk": 13.3
@@ -81612,7 +81619,7 @@
      "core": 6,
      "avgAge": 24.3,
      "payRatio": 0.4782608695652174,
-     "farm": 6,
+     "farm": 7,
      "farmTop": 1,
      "recent": 15,
      "avgRk": 15.3
@@ -87275,7 +87282,7 @@
    },
    "p420": {
     "name": "마르티네스",
-    "pos": "OF",
+    "pos": "1B",
     "tier": "D리그",
     "age": 21,
     "team": "드래프티",
@@ -87356,8 +87363,10 @@
     "pos": "SP",
     "tier": "C리그",
     "age": 21,
-    "team": "드래프티",
-    "power": 0
+    "team": "이글즈",
+    "power": 0,
+    "prospect": true,
+    "value": 1.8
    },
    "p446": {
     "name": "되르너",
@@ -90001,97 +90010,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 292,
+     "score": 310,
      "prospects": 9
     },
     {
      "rank": 2,
      "team": "마린즈",
-     "score": 282,
+     "score": 294,
      "prospects": 6
     },
     {
      "rank": 3,
      "team": "이글즈",
-     "score": 257,
-     "prospects": 6
+     "score": 270,
+     "prospects": 7
     },
     {
      "rank": 4,
-     "team": "세이버스",
-     "score": 226,
-     "prospects": 5
+     "team": "에스트로너츠",
+     "score": 236,
+     "prospects": 6
     },
     {
      "rank": 5,
-     "team": "에스트로너츠",
-     "score": 224,
-     "prospects": 6
+     "team": "세이버스",
+     "score": 236,
+     "prospects": 5
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 194,
-     "prospects": 6
+     "score": 208,
+     "prospects": 7
     },
     {
      "rank": 7,
      "team": "타이거즈",
-     "score": 171,
+     "score": 181,
      "prospects": 5
     },
     {
      "rank": 8,
      "team": "재즈",
-     "score": 161,
+     "score": 171,
      "prospects": 5
     },
     {
      "rank": 9,
      "team": "스틸러스",
-     "score": 159,
+     "score": 169,
      "prospects": 5
     },
     {
      "rank": 10,
      "team": "트레일 블레이저스",
-     "score": 151,
+     "score": 159,
      "prospects": 4
     },
     {
      "rank": 11,
      "team": "워리어스",
-     "score": 145,
+     "score": 153,
      "prospects": 4
     },
     {
      "rank": 12,
      "team": "버커니어스",
-     "score": 110,
+     "score": 116,
      "prospects": 3
     },
     {
      "rank": 13,
      "team": "데빌스",
-     "score": 108,
+     "score": 112,
      "prospects": 2
     },
     {
      "rank": 14,
      "team": "라이언즈",
-     "score": 85,
+     "score": 91,
      "prospects": 3
     },
     {
      "rank": 15,
      "team": "다이노스",
-     "score": 56,
+     "score": 60,
      "prospects": 2
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 7,
+     "score": 9,
      "prospects": 1
     }
    ],
@@ -90959,6 +90968,30 @@
      "score": 48.3,
      "ceiling": "코어",
      "risk": "보통"
+    },
+    {
+     "rank": 73,
+     "name": "이시카와",
+     "team": "챌린저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 48.3,
+     "ceiling": "코어",
+     "risk": "모험"
+    },
+    {
+     "rank": 74,
+     "name": "뷔흐너",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.7,
+     "ceiling": "레귤러",
+     "risk": "안전"
     }
    ],
    "draftees": [
@@ -90996,19 +91029,11 @@
     },
     {
      "name": "마르티네스",
-     "pos": "OF",
+     "pos": "1B",
      "tier": "D리그",
      "age": 21,
      "ceiling": "레귤러",
      "risk": "보통"
-    },
-    {
-     "name": "뷔흐너",
-     "pos": "SP",
-     "tier": "C리그",
-     "age": 21,
-     "ceiling": "레귤러",
-     "risk": "안전"
     },
     {
      "name": "되르너",
