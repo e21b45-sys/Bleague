@@ -12834,7 +12834,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "injury"
+   "form": "good"
   },
   "p95": {
    "id": "p95",
@@ -14161,7 +14161,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p106": {
    "id": "p106",
@@ -14270,7 +14270,7 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "injury"
   },
   "p107": {
    "id": "p107",
@@ -14726,7 +14726,7 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p111": {
    "id": "p111",
@@ -14834,7 +14834,7 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "injury"
+   "form": "good"
   },
   "p112": {
    "id": "p112",
@@ -15049,7 +15049,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": ""
+   "form": "good"
   },
   "p114": {
    "id": "p114",
@@ -15685,7 +15685,7 @@
    ],
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p120": {
    "id": "p120",
@@ -16682,7 +16682,7 @@
    "injuries": [],
    "role": "7번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p130": {
    "id": "p130",
@@ -16774,7 +16774,7 @@
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
-   "form": "good"
+   "form": ""
   },
   "p131": {
    "id": "p131",
@@ -17257,7 +17257,7 @@
      "note": "손"
     }
    ],
-   "form": "bad"
+   "form": ""
   },
   "p136": {
    "id": "p136",
@@ -17348,7 +17348,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p137": {
    "id": "p137",
@@ -17539,7 +17539,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p139": {
    "id": "p139",
@@ -18359,7 +18359,7 @@
      "note": "팔"
     }
    ],
-   "form": "bad"
+   "form": ""
   },
   "p147": {
    "id": "p147",
@@ -18529,7 +18529,7 @@
      "note": "발목"
     }
    ],
-   "form": "bad"
+   "form": ""
   },
   "p149": {
    "id": "p149",
@@ -20394,7 +20394,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": ""
   },
   "p169": {
    "id": "p169",
@@ -20894,7 +20894,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "bad"
   },
   "p175": {
    "id": "p175",
@@ -22147,7 +22147,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p190": {
    "id": "p190",
@@ -22700,7 +22700,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p197": {
    "id": "p197",
@@ -22770,7 +22770,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p198": {
    "id": "p198",
@@ -23194,7 +23194,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p204": {
    "id": "p204",
@@ -23267,7 +23267,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": ""
   },
   "p205": {
    "id": "p205",
@@ -23354,7 +23354,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": ""
   },
   "p206": {
    "id": "p206",
@@ -23725,7 +23725,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p211": {
    "id": "p211",
@@ -23881,7 +23881,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "bad"
   },
   "p213": {
    "id": "p213",
@@ -24012,7 +24012,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": ""
   },
   "p215": {
    "id": "p215",
@@ -24146,7 +24146,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "injury"
   },
   "p217": {
    "id": "p217",
@@ -24879,7 +24879,7 @@
    "name": "베르만",
    "team": "챌린저스",
    "pos": "C",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "8",
    "debutSeason": 18,
@@ -25030,7 +25030,7 @@
    ],
    "role": "7번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -25093,7 +25093,7 @@
    ],
    "role": "5선발",
    "subPositions": [],
-   "form": "injury",
+   "form": "",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -25526,7 +25526,7 @@
    ],
    "role": "4선발",
    "subPositions": [],
-   "form": "bad",
+   "form": "",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -25718,7 +25718,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "bad",
+   "form": "",
    "draftSeason": 14,
    "draftRound": 1,
    "contract": null,
@@ -25847,7 +25847,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 13,
    "draftRound": 1,
    "contract": null,
@@ -25892,7 +25892,7 @@
    "name": "베넷",
    "team": "세이버스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 23,
    "number": "11",
    "debutSeason": 18,
@@ -26100,7 +26100,7 @@
    ],
    "role": "2선발",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 15,
    "draftRound": 1,
    "contract": null,
@@ -26224,7 +26224,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "bad",
+   "form": "",
    "draftSeason": 15,
    "draftRound": 2,
    "contract": null,
@@ -26503,7 +26503,7 @@
    "subPositions": [
     "DH"
    ],
-   "form": "good",
+   "form": "",
    "draftSeason": 13,
    "draftRound": 2,
    "contract": null,
@@ -26768,7 +26768,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 14,
    "draftRound": 1,
    "contract": null,
@@ -26833,7 +26833,7 @@
    ],
    "role": "",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 13,
    "draftRound": 3,
    "contract": null,
@@ -26903,7 +26903,7 @@
    "subPositions": [
     "SP"
    ],
-   "form": "good",
+   "form": "",
    "draftSeason": 13,
    "draftRound": 3,
    "contract": null,
@@ -27143,7 +27143,7 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "injury",
+   "form": "good",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27201,7 +27201,7 @@
    "subPositions": [
     "SS"
    ],
-   "form": "",
+   "form": "bad",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27258,7 +27258,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "good",
+   "form": "",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27315,7 +27315,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": "good",
+   "form": "",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27403,7 +27403,7 @@
    "name": "카터",
    "team": "챌린저스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "33",
    "debutSeason": 18,
@@ -27426,7 +27426,7 @@
    ],
    "role": "4선발",
    "subPositions": [],
-   "form": "good",
+   "form": "",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27709,7 +27709,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "good",
+   "form": "",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -27939,7 +27939,7 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 16,
    "draftRound": 2,
    "contract": null,
@@ -28028,7 +28028,7 @@
    "name": "켈리",
    "team": "다이너마이트",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "컨텐더",
    "age": 22,
    "number": "0",
    "debutSeason": 19,
@@ -28055,7 +28055,7 @@
    "weaknesses": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 17,
    "draftRound": 1,
    "contract": null,
@@ -28255,7 +28255,7 @@
    "name": "에이브라함",
    "team": "다이너마이트",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 21,
    "number": "2",
    "debutSeason": 19,
@@ -28278,7 +28278,7 @@
    "weaknesses": [],
    "role": "6번",
    "subPositions": [],
-   "form": "",
+   "form": "good",
    "draftSeason": 17,
    "draftRound": 1,
    "contract": null,
@@ -28923,7 +28923,7 @@
    ],
    "role": "2번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 17,
    "draftRound": 2,
    "contract": null,
@@ -29032,7 +29032,7 @@
    ],
    "role": "추격조",
    "subPositions": [],
-   "form": "bad",
+   "form": "",
    "draftSeason": 17,
    "draftRound": 2,
    "contract": null,
@@ -29085,7 +29085,7 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 17,
    "draftRound": 2,
    "contract": null,
@@ -77363,7 +77363,9 @@
     "changes": ""
    },
    "챌린저스": {
-    "coreMembers": [],
+    "coreMembers": [
+     "p135"
+    ],
     "evaluation": "",
     "changes": ""
    },
@@ -77393,6 +77395,11 @@
     "coreMembers": [
      "p98"
     ],
+    "evaluation": "",
+    "changes": ""
+   },
+   "재즈": {
+    "coreMembers": [],
     "evaluation": "",
     "changes": ""
    }
@@ -79051,7 +79058,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785241078734
+   "ts": 1785241254461
   },
   "teams": {
    "프린스": {
@@ -81275,7 +81282,7 @@
     "appeal": 0.82,
     "market": "중형",
     "free": 60,
-    "power": 26.7,
+    "power": 38.5,
     "window": {
      "open": 20,
      "left": 2,
@@ -81507,7 +81514,7 @@
     "stanceLabel": "리빌딩",
     "stanceWhy": {
      "cont": 0,
-     "core": 2,
+     "core": 4,
      "avgAge": 26.7,
      "payRatio": 0.4782608695652174,
      "farm": 10,
@@ -81518,10 +81525,10 @@
     "appeal": 0.73,
     "market": "중형",
     "free": 55,
-    "power": 13.9,
+    "power": 15.8,
     "window": {
      "open": 20,
-     "left": 0,
+     "left": 2,
      "note": ""
     },
     "needs": [
@@ -82221,7 +82228,7 @@
     "appeal": 0.73,
     "market": "스몰마켓",
     "free": 65,
-    "power": 25.5,
+    "power": 30.7,
     "window": {
      "open": 20,
      "left": 2,
@@ -85305,13 +85312,13 @@
    "p227": {
     "name": "베르만",
     "pos": "C",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 24,
     "team": "챌린저스",
-    "power": 1.6,
+    "power": 2.5,
     "asset": {
-     "value": 2.6,
-     "grade": "D",
+     "value": 4.1,
+     "grade": "C",
      "left": 4,
      "effM": 1.6
     }
@@ -85529,13 +85536,13 @@
    "p244": {
     "name": "베넷",
     "pos": "SP",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 23,
     "team": "세이버스",
-    "power": 2.9,
+    "power": 8.1,
     "asset": {
-     "value": 4.7,
-     "grade": "C",
+     "value": 13.2,
+     "grade": "S",
      "left": 4,
      "effM": 1.6
     }
@@ -85865,12 +85872,12 @@
    "p268": {
     "name": "카터",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 24,
     "team": "챌린저스",
-    "power": 1.8,
+    "power": 2.9,
     "asset": {
-     "value": 3,
+     "value": 4.7,
      "grade": "C",
      "left": 4,
      "effM": 1.6
@@ -86019,13 +86026,13 @@
    "p279": {
     "name": "켈리",
     "pos": "SP",
-    "tier": "코어",
+    "tier": "컨텐더",
     "age": 22,
     "team": "다이너마이트",
-    "power": 2.9,
+    "power": 13.8,
     "asset": {
-     "value": 5,
-     "grade": "C",
+     "value": 23.9,
+     "grade": "S",
      "left": 5,
      "effM": 1.6
     }
@@ -86067,13 +86074,13 @@
    "p283": {
     "name": "에이브라함",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 21,
     "team": "다이너마이트",
-    "power": 1.6,
+    "power": 2.5,
     "asset": {
-     "value": 3.2,
-     "grade": "C",
+     "value": 5.1,
+     "grade": "B",
      "left": 5,
      "effM": 1.6
     }
