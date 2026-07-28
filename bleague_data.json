@@ -33277,6 +33277,90 @@
    "injuries": [],
    "ceiling": "컨텐더",
    "risk": "보통"
+  },
+  "p439": {
+   "id": "p439",
+   "name": "그린",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "빅게임 헌터",
+    "클러치",
+    "루틴 집착"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속",
+    "구위"
+   ],
+   "weaknesses": [
+    "제구"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "드래프티"
+    }
+   ],
+   "hof": null,
+   "injuries": [],
+   "ceiling": "코어",
+   "risk": "안전"
+  },
+  "p440": {
+   "id": "p440",
+   "name": "올리닉",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "드래프티"
+    }
+   ],
+   "hof": null,
+   "injuries": [],
+   "ceiling": "코어"
   }
  },
  "budgets": {
@@ -76611,7 +76695,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 439,
+ "_seq": 441,
  "prospects": [
   "p280",
   "p303",
@@ -78438,7 +78522,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785239758315
+   "ts": 1785239854812
   },
   "teams": {
    "프린스": {
@@ -86533,6 +86617,22 @@
     "age": 18,
     "team": "드래프티",
     "power": 0
+   },
+   "p439": {
+    "name": "그린",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p440": {
+    "name": "올리닉",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
    }
   },
   "faMarket": {
@@ -90952,6 +91052,21 @@
      "age": 18,
      "ceiling": "컨텐더",
      "risk": "보통"
+    },
+    {
+     "name": "그린",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "올리닉",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "코어"
     }
    ],
    "draftOrder": {
