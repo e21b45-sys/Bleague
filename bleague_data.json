@@ -16250,7 +16250,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "6번",
+   "role": "7번",
    "subPositions": [],
    "form": ""
   },
@@ -19302,7 +19302,7 @@
     "선구안",
     "수비 범위"
    ],
-   "role": "3번",
+   "role": "5번",
    "subPositions": [],
    "draftSeason": 11,
    "draftRound": 1,
@@ -19867,7 +19867,7 @@
     "주루",
     "수비 범위"
    ],
-   "role": "5번",
+   "role": "6번",
    "subPositions": [],
    "draftSeason": 9,
    "draftRound": 4,
@@ -23744,7 +23744,7 @@
    "id": "p222",
    "name": "알렌",
    "team": "세이버스",
-   "pos": "3B",
+   "pos": "DH",
    "tier": "레귤러",
    "age": 29,
    "number": "13",
@@ -23768,7 +23768,9 @@
     "파워"
    ],
    "role": "2번",
-   "subPositions": [],
+   "subPositions": [
+    "3B"
+   ],
    "draftSeason": 11,
    "draftRound": 4,
    "contract": null,
@@ -27258,7 +27260,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "1번",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -28061,7 +28063,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "3번",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -73125,7 +73127,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785208041388
+   "ts": 1785208105305
   },
   "teams": {
    "프린스": {
@@ -76184,11 +76186,6 @@
       "lv": "부족",
       "slots": 3,
       "have": 2
-     },
-     {
-      "pos": "DH",
-      "lv": "공백",
-      "slots": 1
      }
     ],
     "picks": [
@@ -79256,7 +79253,7 @@
    },
    "p222": {
     "name": "알렌",
-    "pos": "3B",
+    "pos": "DH",
     "tier": "레귤러",
     "age": 29,
     "team": "세이버스",
