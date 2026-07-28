@@ -15309,7 +15309,7 @@
       "type": "계약 연장",
       "actor": "선수 옵션",
       "after": 19,
-      "extSalary": 140,
+      "extSalary": 28,
       "extYears": 5,
       "exercised": true
      }
@@ -75284,9 +75284,14 @@
     {
      "name": "올해의 감독",
      "playerId": "c428"
+    },
+    {
+     "name": "파이널 MVP",
+     "playerId": "p202"
     }
    ],
-   "awardsNote": ""
+   "awardsNote": "",
+   "posters": {}
   }
  },
  "hofRounds": 3,
@@ -76576,7 +76581,28 @@
   "season": 20,
   "months": {},
   "offseason": [],
-  "teamNotes": {}
+  "teamNotes": {
+   "프린스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "타이거즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "라이언즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "마린즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   }
+  }
  },
  "budgetParts": {
   "프린스": {
@@ -78175,7 +78201,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785211056900
+   "ts": 1785214079698
   },
   "teams": {
    "프린스": {
@@ -79072,7 +79098,7 @@
      "cont": 1,
      "core": 8,
      "avgAge": 29.8,
-     "payRatio": 1.0754716981132075,
+     "payRatio": 0.6528301886792452,
      "farm": 7,
      "farmTop": 2,
      "recent": 6,
@@ -79080,7 +79106,7 @@
     },
     "appeal": 1.35,
     "market": "빅마켓",
-    "free": -180,
+    "free": 92,
     "power": 50.7,
     "window": {
      "open": 20,
@@ -82890,10 +82916,10 @@
     "team": "마린즈",
     "power": 7,
     "asset": {
-     "value": 5.6,
-     "grade": "B",
+     "value": 11.3,
+     "grade": "A",
      "left": 5,
-     "effM": 0.5
+     "effM": 1
     }
    },
    "p117": {
@@ -89409,42 +89435,42 @@
      "name": "워싱턴",
      "team": "프린스",
      "pos": "SP",
-     "total": 273.4,
+     "total": 276.4,
      "hof": false
     },
     {
      "name": "그리핀",
      "team": "다이노스",
      "pos": "OF",
-     "total": 188.4,
+     "total": 191.4,
      "hof": false
     },
     {
      "name": "히로",
      "team": "버커니어스",
      "pos": "SP",
-     "total": 146,
+     "total": 146.5,
      "hof": false
     },
     {
      "name": "아일린",
-     "team": "타이거즈",
+     "team": "FA",
      "pos": "SP",
-     "total": 129.5,
+     "total": 137,
      "hof": false
     },
     {
      "name": "히튼",
      "team": "워리어스",
      "pos": "SP",
-     "total": 124.5,
+     "total": 127.5,
      "hof": false
     },
     {
      "name": "에반",
-     "team": "워리어스",
+     "team": "FA",
      "pos": "SS",
-     "total": 120.5,
+     "total": 122.3,
      "hof": false
     },
     {
@@ -89455,6 +89481,13 @@
      "hof": true
     },
     {
+     "name": "베나세르",
+     "team": "재즈",
+     "pos": "SP",
+     "total": 109.8,
+     "hof": false
+    },
+    {
      "name": "페레이라",
      "team": "명예의 전당",
      "pos": "1B",
@@ -89462,17 +89495,10 @@
      "hof": true
     },
     {
-     "name": "베나세르",
-     "team": "재즈",
-     "pos": "SP",
-     "total": 108.3,
-     "hof": false
-    },
-    {
      "name": "마셜",
      "team": "마린즈",
      "pos": "OF",
-     "total": 104.6,
+     "total": 106.1,
      "hof": false
     },
     {
@@ -89483,25 +89509,32 @@
      "hof": true
     },
     {
-     "name": "벨",
-     "team": "명예의 전당",
+     "name": "세르히오",
+     "team": "FA",
      "pos": "SP",
-     "total": 77,
-     "hof": true
+     "total": 89,
+     "hof": false
     },
     {
-     "name": "세르히오",
-     "team": "트레일 블레이저스",
-     "pos": "SP",
-     "total": 77,
+     "name": "마자르",
+     "team": "타이거즈",
+     "pos": "OF",
+     "total": 87.2,
      "hof": false
     },
     {
      "name": "포셔",
      "team": "타이거즈",
      "pos": "1B",
-     "total": 75.3,
+     "total": 79.8,
      "hof": false
+    },
+    {
+     "name": "벨",
+     "team": "명예의 전당",
+     "pos": "SP",
+     "total": 77,
+     "hof": true
     },
     {
      "name": "폴츠",
@@ -89537,13 +89570,6 @@
      "pos": "C",
      "total": 64,
      "hof": true
-    },
-    {
-     "name": "맥커니",
-     "team": "데빌스",
-     "pos": "3B",
-     "total": 61.2,
-     "hof": false
     }
    ],
    "topTeamSeasons": [
