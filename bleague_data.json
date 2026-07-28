@@ -11544,7 +11544,7 @@
    "id": "p85",
    "name": "에반",
    "team": "FA",
-   "pos": "SS",
+   "pos": "1B",
    "tier": "코어",
    "age": 37,
    "number": "7",
@@ -11675,7 +11675,9 @@
    "hof": null,
    "injuries": [],
    "role": "4번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "form": "good"
   },
   "p86": {
@@ -77453,21 +77455,21 @@
   "p438",
   "p335",
   "p453",
-  "p421",
-  "p342",
-  "p417",
-  "p441",
-  "p402",
   "p340",
+  "p421",
+  "p441",
+  "p417",
+  "p342",
+  "p402",
   "p315",
+  "p337",
   "p455",
+  "p308",
   "p393",
   "p447",
   "p400",
-  "p337",
   "p336",
   "p396",
-  "p308",
   "p312",
   "p339",
   "p405",
@@ -79291,7 +79293,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785245560075
+   "ts": 1785247038082
   },
   "teams": {
    "프린스": {
@@ -83481,7 +83483,7 @@
    },
    "p85": {
     "name": "에반",
-    "pos": "SS",
+    "pos": "1B",
     "tier": "코어",
     "age": 37,
     "team": "FA",
@@ -87646,10 +87648,10 @@
    },
    "p85": {
     "name": "에반",
-    "pos": "SS",
+    "pos": "1B",
     "tier": "코어",
     "age": 37,
-    "rarity": 0.94,
+    "rarity": 1.21,
     "expContract": {
      "years": 2,
      "aav": 18.2,
@@ -87657,20 +87659,52 @@
     },
     "teams": [
      {
-      "team": "트레일 블레이저스",
-      "stance": "hold",
+      "team": "프린스",
+      "stance": "allin",
       "lv": "공백",
-      "win": 0.25,
+      "win": 0.32,
+      "focus": 10,
+      "real": 3.8
+     },
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.27,
+      "focus": 4,
+      "real": 1.3
+     },
+     {
+      "team": "이글즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.07,
       "focus": 8,
-      "real": 1.8
+      "real": 0.7
+     },
+     {
+      "team": "다이너마이트",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.07,
+      "focus": 8,
+      "real": 0.7
      },
      {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "공백",
-      "win": 0.75,
+      "win": 0.24,
       "focus": 1,
-      "real": 1
+      "real": 0.4
+     },
+     {
+      "team": "재즈",
+      "stance": "reset",
+      "lv": "공백",
+      "win": 0.02,
+      "focus": 4,
+      "real": 0.1
      }
     ],
     "altFA": [],
@@ -87845,7 +87879,7 @@
       "stance": "hold",
       "lv": "공백",
       "win": 0.04,
-      "focus": 1,
+      "focus": 2,
       "real": 0.1
      },
      {
@@ -87905,52 +87939,52 @@
     },
     "teams": [
      {
-      "team": "프린스",
-      "stance": "allin",
-      "lv": "공백",
-      "win": 0.32,
-      "focus": 2,
-      "real": 0.8
-     },
-     {
       "team": "이글즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.07,
-      "focus": 4,
-      "real": 0.4
+      "focus": 2,
+      "real": 0.3
      },
      {
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.07,
-      "focus": 4,
-      "real": 0.4
+      "focus": 3,
+      "real": 0.3
+     },
+     {
+      "team": "프린스",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.32,
+      "focus": 0,
+      "real": 0.2
      },
      {
       "team": "라이언즈",
       "stance": "allin",
       "lv": "공백",
       "win": 0.26,
-      "focus": 1,
-      "real": 0.3
+      "focus": 0,
+      "real": 0.1
      },
      {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "공백",
       "win": 0.25,
-      "focus": 1,
-      "real": 0.3
+      "focus": 0,
+      "real": 0.1
      },
      {
       "team": "재즈",
       "stance": "reset",
       "lv": "공백",
       "win": 0.03,
-      "focus": 4,
-      "real": 0.2
+      "focus": 3,
+      "real": 0.1
      }
     ],
     "altFA": [],
@@ -87973,7 +88007,7 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.1,
-      "focus": 3,
+      "focus": 2,
       "real": 0.4
      },
      {
@@ -87981,7 +88015,7 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.1,
-      "focus": 3,
+      "focus": 2,
       "real": 0.4
      },
      {
@@ -88025,7 +88059,7 @@
     "pos": "1B",
     "tier": "레귤러",
     "age": 36,
-    "rarity": 1.33,
+    "rarity": 1.21,
     "expContract": {
      "years": 2,
      "aav": 10.5,
@@ -88033,44 +88067,44 @@
     },
     "teams": [
      {
-      "team": "프린스",
-      "stance": "allin",
-      "lv": "공백",
-      "win": 0.32,
-      "focus": 10,
-      "real": 4.1
-     },
-     {
-      "team": "라이언즈",
-      "stance": "allin",
-      "lv": "공백",
-      "win": 0.26,
-      "focus": 4,
-      "real": 1.4
-     },
-     {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "공백",
       "win": 0.25,
       "focus": 4,
-      "real": 1.3
+      "real": 1.2
+     },
+     {
+      "team": "프린스",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.32,
+      "focus": 3,
+      "real": 1
      },
      {
       "team": "이글즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.07,
-      "focus": 8,
-      "real": 0.8
+      "focus": 5,
+      "real": 0.5
      },
      {
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.07,
-      "focus": 8,
-      "real": 0.8
+      "focus": 6,
+      "real": 0.5
+     },
+     {
+      "team": "라이언즈",
+      "stance": "allin",
+      "lv": "공백",
+      "win": 0.26,
+      "focus": 1,
+      "real": 0.3
      },
      {
       "team": "재즈",
@@ -88246,16 +88280,16 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.12,
-      "focus": 17,
-      "real": 2.8
+      "focus": 16,
+      "real": 2.6
      },
      {
       "team": "재즈",
       "stance": "reset",
       "lv": "공백",
       "win": 0.04,
-      "focus": 14,
-      "real": 0.8
+      "focus": 13,
+      "real": 0.7
      },
      {
       "team": "버커니어스",
@@ -88295,7 +88329,7 @@
       "lv": "부족",
       "win": 0.26,
       "focus": 25,
-      "real": 6.7
+      "real": 6.6
      },
      {
       "team": "마린즈",
@@ -88466,8 +88500,8 @@
       "stance": "allin",
       "lv": "부족",
       "win": 0.38,
-      "focus": 66,
-      "real": 30.2
+      "focus": 65,
+      "real": 29.7
      },
      {
       "team": "마린즈",
@@ -88612,8 +88646,8 @@
       "stance": "allin",
       "lv": "부족",
       "win": 0.31,
-      "focus": 55,
-      "real": 21.8
+      "focus": 54,
+      "real": 21.6
      },
      {
       "team": "타이거즈",
@@ -88848,7 +88882,7 @@
       "lv": "부족",
       "win": 0.38,
       "focus": 7,
-      "real": 3.1
+      "real": 3
      },
      {
       "team": "워리어스",
@@ -89005,7 +89039,7 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.09,
-      "focus": 8,
+      "focus": 7,
       "real": 1
      },
      {
@@ -89013,7 +89047,7 @@
       "stance": "reset",
       "lv": "공백",
       "win": 0.03,
-      "focus": 6,
+      "focus": 5,
       "real": 0.2
      },
      {
@@ -89063,23 +89097,23 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.07,
-      "focus": 49,
-      "real": 4.7
+      "focus": 47,
+      "real": 4.5
      },
      {
       "team": "다이너마이트",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.07,
-      "focus": 48,
-      "real": 4.3
+      "focus": 46,
+      "real": 4.1
      },
      {
       "team": "재즈",
       "stance": "reset",
       "lv": "공백",
       "win": 0.02,
-      "focus": 33,
+      "focus": 32,
       "real": 0.9
      },
      {
@@ -89308,8 +89342,8 @@
       "stance": "hold",
       "lv": "공백",
       "win": 0.25,
-      "focus": 56,
-      "real": 8.9
+      "focus": 60,
+      "real": 9.7
      }
     ],
     "altFA": [
@@ -89356,7 +89390,7 @@
       "lv": "공백",
       "win": 0.1,
       "focus": 11,
-      "real": 1.5
+      "real": 1.4
      },
      {
       "team": "에스트로너츠",
@@ -89597,8 +89631,8 @@
       "stance": "hold",
       "lv": "공백",
       "win": 0.25,
-      "focus": 31,
-      "real": 4.9
+      "focus": 33,
+      "real": 5.3
      },
      {
       "team": "워리어스",
@@ -89829,31 +89863,31 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 508,
+     "score": 509,
      "prospects": 9
     },
     {
      "rank": 2,
-     "team": "에스트로너츠",
-     "score": 326,
-     "prospects": 6
+     "team": "세이버스",
+     "score": 331,
+     "prospects": 7
     },
     {
      "rank": 3,
-     "team": "세이버스",
-     "score": 326,
-     "prospects": 7
+     "team": "에스트로너츠",
+     "score": 324,
+     "prospects": 6
     },
     {
      "rank": 4,
      "team": "재즈",
-     "score": 287,
+     "score": 286,
      "prospects": 5
     },
     {
      "rank": 5,
      "team": "챌린저스",
-     "score": 284,
+     "score": 281,
      "prospects": 7
     },
     {
@@ -89865,13 +89899,13 @@
     {
      "rank": 7,
      "team": "트레일 블레이저스",
-     "score": 235,
+     "score": 233,
      "prospects": 5
     },
     {
      "rank": 8,
      "team": "이글즈",
-     "score": 224,
+     "score": 229,
      "prospects": 7
     },
     {
@@ -89883,7 +89917,7 @@
     {
      "rank": 10,
      "team": "워리어스",
-     "score": 189,
+     "score": 187,
      "prospects": 5
     },
     {
@@ -89913,7 +89947,7 @@
     {
      "rank": 15,
      "team": "다이노스",
-     "score": 118,
+     "score": 117,
      "prospects": 2
     },
     {
@@ -89974,6 +90008,18 @@
     },
     {
      "rank": 5,
+     "name": "베르스탕",
+     "team": "이글즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 58.3,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    },
+    {
+     "rank": 6,
      "name": "모로조프",
      "team": "다이너마이트",
      "pos": "SP",
@@ -89985,31 +90031,7 @@
      "risk": "모험"
     },
     {
-     "rank": 6,
-     "name": "라이아베리",
-     "team": "에스트로너츠",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 19,
-     "eta": 2,
-     "score": 59.9,
-     "ceiling": "엘리트",
-     "risk": "모험"
-    },
-    {
      "rank": 7,
-     "name": "도허티",
-     "team": "챌린저스",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 19,
-     "eta": 2,
-     "score": 59.9,
-     "ceiling": "엘리트",
-     "risk": "모험"
-    },
-    {
-     "rank": 8,
      "name": "세바스티안",
      "team": "에스트로너츠",
      "pos": "C",
@@ -90021,7 +90043,31 @@
      "risk": "보통"
     },
     {
+     "rank": 8,
+     "name": "도허티",
+     "team": "챌린저스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 59.9,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
      "rank": 9,
+     "name": "라이아베리",
+     "team": "에스트로너츠",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 59.9,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
+     "rank": 10,
      "name": "은쿠",
      "team": "다이노스",
      "pos": "OF",
@@ -90029,18 +90075,6 @@
      "age": 21,
      "eta": 1,
      "score": 59.1,
-     "ceiling": "엘리트",
-     "risk": "보통"
-    },
-    {
-     "rank": 10,
-     "name": "베르스탕",
-     "team": "이글즈",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 22,
-     "eta": 1,
-     "score": 58.3,
      "ceiling": "엘리트",
      "risk": "보통"
     },
@@ -90058,54 +90092,6 @@
     },
     {
      "rank": 12,
-     "name": "나가이",
-     "team": "트레일 블레이저스",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 22,
-     "eta": 1,
-     "score": 57.5,
-     "ceiling": "엘리트",
-     "risk": "모험"
-    },
-    {
-     "rank": 13,
-     "name": "랜돌프",
-     "team": "다이너마이트",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 23,
-     "eta": 1,
-     "score": 57.5,
-     "ceiling": "엘리트",
-     "risk": "보통"
-    },
-    {
-     "rank": 14,
-     "name": "콜빈",
-     "team": "워리어스",
-     "pos": "RP",
-     "tier": "D리그",
-     "age": 20,
-     "eta": 3,
-     "score": 57.1,
-     "ceiling": "엘리트",
-     "risk": "모험"
-    },
-    {
-     "rank": 15,
-     "name": "음벰바",
-     "team": "챌린저스",
-     "pos": "SP",
-     "tier": "D리그",
-     "age": 21,
-     "eta": 2,
-     "score": 57.1,
-     "ceiling": "엘리트",
-     "risk": "보통"
-    },
-    {
-     "rank": 16,
      "name": "에레브",
      "team": "다이너마이트",
      "pos": "OF",
@@ -90117,7 +90103,67 @@
      "risk": "보통"
     },
     {
+     "rank": 13,
+     "name": "나가이",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 57.5,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
+     "rank": 14,
+     "name": "타이리스",
+     "team": "세이버스",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 49.9,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "rank": 15,
+     "name": "랜돌프",
+     "team": "다이너마이트",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 57.5,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    },
+    {
+     "rank": 16,
+     "name": "콜빈",
+     "team": "워리어스",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 57.1,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
      "rank": 17,
+     "name": "음벰바",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 21,
+     "eta": 2,
+     "score": 57.1,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    },
+    {
+     "rank": 18,
      "name": "반펠",
      "team": "재즈",
      "pos": "C",
@@ -90129,7 +90175,7 @@
      "risk": "안전"
     },
     {
-     "rank": 18,
+     "rank": 19,
      "name": "음보테",
      "team": "트레일 블레이저스",
      "pos": "3B",
@@ -90139,18 +90185,6 @@
      "score": 50.5,
      "ceiling": "코어",
      "risk": "안전"
-    },
-    {
-     "rank": 19,
-     "name": "타이리스",
-     "team": "세이버스",
-     "pos": "2B",
-     "tier": "C리그",
-     "age": 20,
-     "eta": 2,
-     "score": 49.9,
-     "ceiling": "코어",
-     "risk": "보통"
     },
     {
      "rank": 20,
