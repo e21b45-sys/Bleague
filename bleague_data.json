@@ -33971,7 +33971,7 @@
   "p457": {
    "id": "p457",
    "name": "프리차드",
-   "team": "드래프티",
+   "team": "세이버스",
    "pos": "투타겸업",
    "tier": "D리그",
    "age": 19,
@@ -33991,16 +33991,13 @@
    "strength": "",
    "weakness": "",
    "ptype": "거포형",
-   "strengths": [
-    "파워",
-    "선구안"
-   ],
+   "strengths": [],
    "weaknesses": [],
    "role": "",
    "subPositions": [],
    "form": "",
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "contract": null,
    "contractHistory": [],
    "awards": [],
@@ -34008,7 +34005,7 @@
    "teamHistory": [
     {
      "season": 20,
-     "team": "드래프티"
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -34038,6 +34035,42 @@
     }
    },
    "ceiling": "컨텐더",
+   "risk": "모험"
+  },
+  "p459": {
+   "id": "p459",
+   "name": "은잘라",
+   "team": "드래프티",
+   "pos": "2B",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "만능형",
+   "strengths": [
+    "선구안",
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "컨택"
+   ],
+   "traits": [
+    "유리몸"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
    "risk": "모험"
   }
  },
@@ -77139,7 +77172,6 @@
     "다이노스_2": "p440",
     "다이너마이트_2": "p408",
     "에스트로너츠_2": "p444",
-    "챌린저스_2": "p457",
     "이글즈_2": "p445",
     "트레일 블레이저스_2": "p420",
     "라이언즈_2": "p452",
@@ -77149,7 +77181,8 @@
     "타이거즈_2": "p415",
     "스틸러스_2": "p450",
     "프린스_2": "p410",
-    "세이버스_3": "p414"
+    "세이버스_3": "p414",
+    "세이버스_1": "p457"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -77406,7 +77439,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 458,
+ "_seq": 459,
  "prospects": [
   "p335",
   "p308",
@@ -77480,7 +77513,6 @@
   "p440",
   "p408",
   "p444",
-  "p457",
   "p445",
   "p420",
   "p452",
@@ -77490,7 +77522,8 @@
   "p415",
   "p450",
   "p410",
-  "p414"
+  "p414",
+  "p457"
  ],
  "salaryRules": {
   "floor": 60,
@@ -79120,7 +79153,9 @@
    "note": ""
   }
  },
- "bigboard": [],
+ "bigboard": [
+  "p459"
+ ],
  "market": {
   "base": {
    "컨텐더": 29,
@@ -79244,7 +79279,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785244146087
+   "ts": 1785244208926
   },
   "teams": {
    "프린스": {
@@ -82400,7 +82435,7 @@
      "core": 3,
      "avgAge": 26.4,
      "payRatio": 0.45217391304347826,
-     "farm": 6,
+     "farm": 7,
      "farmTop": 3,
      "recent": 13,
      "avgRk": 11.7
@@ -87580,6 +87615,16 @@
     "pos": "투타겸업",
     "tier": "D리그",
     "age": 19,
+    "team": "세이버스",
+    "power": 0,
+    "prospect": true,
+    "value": 7.8
+   },
+   "p459": {
+    "name": "은잘라",
+    "pos": "2B",
+    "tier": "D리그",
+    "age": 19,
     "team": "드래프티",
     "power": 0
    }
@@ -90119,13 +90164,13 @@
     {
      "rank": 2,
      "team": "마린즈",
-     "score": 355,
+     "score": 356,
      "prospects": 7
     },
     {
      "rank": 3,
      "team": "이글즈",
-     "score": 333,
+     "score": 334,
      "prospects": 7
     },
     {
@@ -90137,8 +90182,8 @@
     {
      "rank": 5,
      "team": "세이버스",
-     "score": 282,
-     "prospects": 6
+     "score": 284,
+     "prospects": 7
     },
     {
      "rank": 6,
@@ -90149,13 +90194,13 @@
     {
      "rank": 7,
      "team": "타이거즈",
-     "score": 232,
+     "score": 234,
      "prospects": 7
     },
     {
      "rank": 8,
      "team": "스틸러스",
-     "score": 217,
+     "score": 218,
      "prospects": 6
     },
     {
@@ -90167,13 +90212,13 @@
     {
      "rank": 10,
      "team": "트레일 블레이저스",
-     "score": 204,
+     "score": 205,
      "prospects": 5
     },
     {
      "rank": 11,
      "team": "워리어스",
-     "score": 195,
+     "score": 196,
      "prospects": 5
     },
     {
@@ -90185,13 +90230,13 @@
     {
      "rank": 13,
      "team": "데빌스",
-     "score": 135,
+     "score": 136,
      "prospects": 3
     },
     {
      "rank": 14,
      "team": "라이언즈",
-     "score": 126,
+     "score": 127,
      "prospects": 4
     },
     {
@@ -91074,18 +91119,6 @@
     },
     {
      "rank": 73,
-     "name": "프리차드",
-     "team": "드래프티",
-     "pos": "투타겸업",
-     "tier": "D리그",
-     "age": 19,
-     "eta": 3,
-     "score": 67.9,
-     "ceiling": "컨텐더",
-     "risk": "모험"
-    },
-    {
-     "rank": 74,
      "name": "뷔흐너",
      "team": "이글즈",
      "pos": "SP",
@@ -91097,7 +91130,7 @@
      "risk": "안전"
     },
     {
-     "rank": 75,
+     "rank": 74,
      "name": "마르티네스",
      "team": "트레일 블레이저스",
      "pos": "1B",
@@ -91109,7 +91142,7 @@
      "risk": "보통"
     },
     {
-     "rank": 76,
+     "rank": 75,
      "name": "오노",
      "team": "라이언즈",
      "pos": "OF",
@@ -91121,7 +91154,7 @@
      "risk": "모험"
     },
     {
-     "rank": 77,
+     "rank": 76,
      "name": "되르너",
      "team": "마린즈",
      "pos": "OF",
@@ -91133,7 +91166,7 @@
      "risk": "안전"
     },
     {
-     "rank": 78,
+     "rank": 77,
      "name": "자밀",
      "team": "워리어스",
      "pos": "OF",
@@ -91145,7 +91178,7 @@
      "risk": "보통"
     },
     {
-     "rank": 79,
+     "rank": 78,
      "name": "하산",
      "team": "데빌스",
      "pos": "SP",
@@ -91157,7 +91190,7 @@
      "risk": "안전"
     },
     {
-     "rank": 80,
+     "rank": 79,
      "name": "아졸라",
      "team": "타이거즈",
      "pos": "SP",
@@ -91169,7 +91202,7 @@
      "risk": "안전"
     },
     {
-     "rank": 81,
+     "rank": 80,
      "name": "홀랜드",
      "team": "스틸러스",
      "pos": "OF",
@@ -91181,7 +91214,7 @@
      "risk": "보통"
     },
     {
-     "rank": 82,
+     "rank": 81,
      "name": "코바야시",
      "team": "타이거즈",
      "pos": "SP",
@@ -91193,7 +91226,7 @@
      "risk": "보통"
     },
     {
-     "rank": 83,
+     "rank": 82,
      "name": "아니시모프",
      "team": "세이버스",
      "pos": "OF",
@@ -91203,15 +91236,27 @@
      "score": 26.9,
      "ceiling": "서브",
      "risk": "안전"
+    },
+    {
+     "rank": 83,
+     "name": "프리차드",
+     "team": "세이버스",
+     "pos": "투타겸업",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 67.9,
+     "ceiling": "컨텐더",
+     "risk": "모험"
     }
    ],
    "draftees": [
     {
-     "name": "프리차드",
-     "pos": "투타겸업",
+     "name": "은잘라",
+     "pos": "2B",
      "tier": "D리그",
      "age": 19,
-     "ceiling": "컨텐더",
+     "ceiling": "레귤러",
      "risk": "모험"
     }
    ],
