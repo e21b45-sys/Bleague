@@ -12656,7 +12656,7 @@
    "id": "p96",
    "name": "르메이아",
    "team": "다이너마이트",
-   "pos": "OF",
+   "pos": "1B",
    "tier": "레귤러",
    "age": 36,
    "number": "8",
@@ -12773,7 +12773,9 @@
     }
    ],
    "role": "2번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "bad"
   },
   "p97": {
@@ -25947,7 +25949,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "7번",
+   "role": "",
    "subPositions": [],
    "form": "",
    "draftSeason": 13,
@@ -26267,10 +26269,10 @@
    "id": "p264",
    "name": "조쉬",
    "team": "다이너마이트",
-   "pos": "SS",
+   "pos": "2B",
    "tier": "레귤러",
    "age": 23,
-   "number": "12",
+   "number": "5",
    "debutSeason": 19,
    "debutHalf": "전반기",
    "trait": "",
@@ -26289,8 +26291,10 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
-   "subPositions": [],
+   "role": "9번",
+   "subPositions": [
+    "SS"
+   ],
    "form": "",
    "draftSeason": 16,
    "draftRound": 1,
@@ -73121,7 +73125,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785207862864
+   "ts": 1785207925595
   },
   "teams": {
    "프린스": {
@@ -75211,16 +75215,6 @@
       "lv": "부족",
       "slots": 2,
       "have": 1
-     },
-     {
-      "pos": "1B",
-      "lv": "공백",
-      "slots": 1
-     },
-     {
-      "pos": "2B",
-      "lv": "공백",
-      "slots": 1
      }
     ],
     "picks": [
@@ -77448,21 +77442,21 @@
    },
    "p96": {
     "name": "르메이아",
-    "pos": "OF",
+    "pos": "1B",
     "tier": "레귤러",
     "age": 36,
     "team": "다이너마이트",
     "power": 1.6,
     "asset": {
-     "value": 1.4,
+     "value": 1.3,
      "grade": "D",
      "left": 1,
-     "effM": 1.04
+     "effM": 1
     },
     "expContract": {
      "years": 2,
-     "aav": 10.9,
-     "total": 21.8
+     "aav": 10.5,
+     "total": 21
     }
    },
    "p97": {
@@ -79836,7 +79830,7 @@
    },
    "p264": {
     "name": "조쉬",
-    "pos": "SS",
+    "pos": "2B",
     "tier": "레귤러",
     "age": 23,
     "team": "다이너마이트",
