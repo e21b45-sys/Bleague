@@ -34039,8 +34039,8 @@
   },
   "p459": {
    "id": "p459",
-   "name": "은잘라",
-   "team": "드래프티",
+   "name": "쳇필트",
+   "team": "챌린저스",
    "pos": "2B",
    "tier": "D리그",
    "age": 19,
@@ -34061,15 +34061,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "챌린저스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "모험"
   }
@@ -77182,7 +77187,8 @@
     "스틸러스_2": "p450",
     "프린스_2": "p410",
     "세이버스_3": "p414",
-    "세이버스_1": "p457"
+    "세이버스_1": "p457",
+    "챌린저스_2": "p459"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -77523,7 +77529,8 @@
   "p450",
   "p410",
   "p414",
-  "p457"
+  "p457",
+  "p459"
  ],
  "salaryRules": {
   "floor": 60,
@@ -79153,9 +79160,7 @@
    "note": ""
   }
  },
- "bigboard": [
-  "p459"
- ],
+ "bigboard": [],
  "market": {
   "base": {
    "컨텐더": 29,
@@ -79279,7 +79284,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785244208926
+   "ts": 1785244280240
   },
   "teams": {
    "프린스": {
@@ -87621,12 +87626,14 @@
     "value": 7.8
    },
    "p459": {
-    "name": "은잘라",
+    "name": "쳇필트",
     "pos": "2B",
     "tier": "D리그",
     "age": 19,
-    "team": "드래프티",
-    "power": 0
+    "team": "챌린저스",
+    "power": 0,
+    "prospect": true,
+    "value": 1
    }
   },
   "faMarket": {
@@ -91250,16 +91257,7 @@
      "risk": "모험"
     }
    ],
-   "draftees": [
-    {
-     "name": "은잘라",
-     "pos": "2B",
-     "tier": "D리그",
-     "age": 19,
-     "ceiling": "레귤러",
-     "risk": "모험"
-    }
-   ],
+   "draftees": [],
    "draftOrder": {
     "21": [
      "세이버스",
