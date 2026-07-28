@@ -75227,6 +75227,27 @@
      "name": "실버슬러거",
      "playerId": "p126",
      "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p93",
+     "detail": "DH"
+    },
+    {
+     "name": "홈런",
+     "playerId": "p165"
+    },
+    {
+     "name": "타율",
+     "playerId": "p202"
+    },
+    {
+     "name": "출루율",
+     "playerId": "p183"
+    },
+    {
+     "name": "장타율",
+     "playerId": "p202"
     }
    ],
    "awardsNote": ""
@@ -78118,7 +78139,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785210889897
+   "ts": 1785210984819
   },
   "teams": {
    "프린스": {
