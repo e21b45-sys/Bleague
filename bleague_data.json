@@ -9981,7 +9981,7 @@
    "name": "워싱턴",
    "team": "프린스",
    "pos": "SP",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 38,
    "number": "5",
    "debutSeason": 2,
@@ -10113,7 +10113,7 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": "bad"
   },
   "p75": {
    "id": "p75",
@@ -13818,7 +13818,7 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": ""
+   "form": "bad"
   },
   "p103": {
    "id": "p103",
@@ -16490,7 +16490,7 @@
    "injuries": [],
    "role": "3선발",
    "subPositions": [],
-   "form": "bad"
+   "form": ""
   },
   "p128": {
    "id": "p128",
@@ -17632,7 +17632,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p141": {
    "id": "p141",
@@ -19811,7 +19811,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": ""
   },
   "p162": {
    "id": "p162",
@@ -21602,7 +21602,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "good"
   },
   "p184": {
    "id": "p184",
@@ -27824,7 +27824,7 @@
    ],
    "role": "5선발",
    "subPositions": [],
-   "form": "",
+   "form": "bad",
    "draftSeason": 16,
    "draftRound": 1,
    "contract": null,
@@ -79042,14 +79042,14 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785240652929
+   "ts": 1785240728037
   },
   "teams": {
    "프린스": {
     "stance": "allin",
     "stanceLabel": "올인",
     "stanceWhy": {
-     "cont": 3,
+     "cont": 2,
      "core": 8,
      "avgAge": 29.5,
      "payRatio": 0.625,
@@ -79061,7 +79061,7 @@
     "appeal": 1.55,
     "market": "빅마켓",
     "free": 110,
-    "power": 70,
+    "power": 64.3,
     "window": {
      "open": 20,
      "left": 2,
@@ -83206,15 +83206,15 @@
    "p74": {
     "name": "워싱턴",
     "pos": "SP",
-    "tier": "컨텐더",
+    "tier": "엘리트",
     "age": 38,
     "team": "프린스",
-    "power": 13.8,
+    "power": 8.1,
     "asset": {
-     "value": 7.7,
-     "grade": "B",
+     "value": 3.7,
+     "grade": "C",
      "left": 3,
-     "effM": 0.91
+     "effM": 0.75
     }
    },
    "p75": {
