@@ -33207,7 +33207,76 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "tw": {
+    "pit": {
+     "tier": "레귤러",
+     "role": "",
+     "form": "",
+     "ptype": "",
+     "strengths": [],
+     "weaknesses": []
+    },
+    "bat": {
+     "tier": "레귤러",
+     "role": "",
+     "form": "",
+     "ptype": "",
+     "strengths": [],
+     "weaknesses": []
+    }
+   }
+  },
+  "p438": {
+   "id": "p438",
+   "name": "베키아",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [
+    "프로",
+    "올드스쿨",
+    "클러치",
+    "승부욕",
+    "운동능력",
+    "철강왕"
+   ],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "만능형",
+   "strengths": [
+    "갭",
+    "주루",
+    "수비 안정성",
+    "수비 범위",
+    "송구"
+   ],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "드래프티"
+    }
+   ],
+   "hof": null,
+   "injuries": [],
+   "ceiling": "컨텐더",
+   "risk": "보통"
   }
  },
  "budgets": {
@@ -76542,7 +76611,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 438,
+ "_seq": 439,
  "prospects": [
   "p280",
   "p303",
@@ -76655,6 +76724,13 @@
     "potmBat": "",
     "potmPit": "",
     "injuries": []
+   },
+   "5": {
+    "standings": [],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
    }
   },
   "offseason": [],
@@ -76724,6 +76800,29 @@
     "evaluation": "",
     "changes": ""
    }
+  },
+  "allstar": {
+   "teamA": {
+    "name": "",
+    "captain": "",
+    "members": [],
+    "divFilter": [
+     "남부"
+    ]
+   },
+   "teamB": {
+    "name": "",
+    "captain": "",
+    "members": [],
+    "divFilter": []
+   },
+   "result": {
+    "teamAScore": null,
+    "teamBScore": null,
+    "mvpId": ""
+   },
+   "subs": [],
+   "note": ""
   }
  },
  "budgetParts": {
@@ -78339,7 +78438,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785233914830
+   "ts": 1785239758315
   },
   "teams": {
    "프린스": {
@@ -86426,6 +86525,14 @@
      "left": 6,
      "effM": 1.6
     }
+   },
+   "p438": {
+    "name": "베키아",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
    }
   },
   "faMarket": {
@@ -90836,6 +90943,14 @@
      "tier": "D리그",
      "age": 21,
      "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "베키아",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "컨텐더",
      "risk": "보통"
     }
    ],
