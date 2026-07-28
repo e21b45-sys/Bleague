@@ -20182,7 +20182,12 @@
    "subPositions": [],
    "draftSeason": 12,
    "draftRound": 1,
-   "contract": null,
+   "contract": {
+    "startSeason": 19,
+    "endSeason": 24,
+    "total": 120,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -72921,7 +72926,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785204093495
+   "ts": 1785205107276
   },
   "teams": {
    "프린스": {
@@ -74221,7 +74226,7 @@
      "cont": 0,
      "core": 4,
      "avgAge": 25.6,
-     "payRatio": 0.3333333333333333,
+     "payRatio": 0.4666666666666667,
      "farm": 6,
      "farmTop": 0,
      "recent": 13,
@@ -74229,7 +74234,7 @@
     },
     "appeal": 0.84,
     "market": "중형",
-    "free": 90,
+    "free": 80,
     "power": 25.1,
     "window": {
      "open": 19,
@@ -78403,10 +78408,10 @@
     "team": "이글즈",
     "power": 2.9,
     "asset": {
-     "value": 4.1,
+     "value": 4.3,
      "grade": "C",
-     "left": 1,
-     "effM": 1.6
+     "left": 6,
+     "effM": 0.97
     }
    },
    "p174": {
