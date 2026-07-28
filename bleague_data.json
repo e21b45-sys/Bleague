@@ -22820,7 +22820,7 @@
   "p208": {
    "id": "p208",
    "name": "암스테드",
-   "team": "다이노스",
+   "team": "에스트로너츠",
    "pos": "RP",
    "tier": "엘리트",
    "age": 25,
@@ -22876,6 +22876,10 @@
     {
      "season": 18,
      "team": "다이노스"
+    },
+    {
+     "season": 19,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -27317,7 +27321,7 @@
   "p284": {
    "id": "p284",
    "name": "험프리",
-   "team": "에스트로너츠",
+   "team": "다이노스",
    "pos": "OF",
    "tier": "레귤러",
    "age": 21,
@@ -27357,6 +27361,10 @@
     {
      "season": 18,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 19,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -28115,7 +28123,7 @@
   "p300": {
    "id": "p300",
    "name": "해거티",
-   "team": "에스트로너츠",
+   "team": "다이노스",
    "pos": "SS",
    "tier": "레귤러",
    "age": 23,
@@ -28155,6 +28163,10 @@
     {
      "season": 18,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 19,
+     "team": "다이노스"
     }
    ],
    "hof": null,
@@ -71250,6 +71262,30 @@
     "to": "다이너마이트",
     "applied": true,
     "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p208",
+    "from": "다이노스",
+    "to": "에스트로너츠",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p284",
+    "from": "에스트로너츠",
+    "to": "다이노스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p300",
+    "from": "에스트로너츠",
+    "to": "다이노스",
+    "applied": true,
+    "multi": true
    }
   ],
   "teamNotes": {
@@ -73008,7 +73044,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785205940047
+   "ts": 1785206311063
   },
   "teams": {
    "프린스": {
@@ -73663,8 +73699,8 @@
     "stanceLabel": "윈나우",
     "stanceWhy": {
      "cont": 2,
-     "core": 6,
-     "avgAge": 29.1,
+     "core": 5,
+     "avgAge": 28.1,
      "payRatio": 0.8148148148148148,
      "farm": 3,
      "farmTop": 2,
@@ -73674,7 +73710,7 @@
     "appeal": 1.19,
     "market": "중형",
     "free": 25,
-    "power": 42.2,
+    "power": 41.9,
     "window": {
      "open": 19,
      "left": 2,
@@ -73695,15 +73731,8 @@
      },
      {
       "pos": "RP",
-      "lv": "부족",
-      "slots": 2,
-      "have": 1
-     },
-     {
-      "pos": "OF",
-      "lv": "부족",
-      "slots": 3,
-      "have": 2
+      "lv": "공백",
+      "slots": 2
      },
      {
       "pos": "DH",
@@ -74093,8 +74122,8 @@
     "stanceLabel": "관망",
     "stanceWhy": {
      "cont": 0,
-     "core": 6,
-     "avgAge": 27.1,
+     "core": 7,
+     "avgAge": 27.7,
      "payRatio": 0.31,
      "farm": 5,
      "farmTop": 1,
@@ -74104,7 +74133,7 @@
     "appeal": 1.12,
     "market": "빅마켓",
     "free": 138,
-    "power": 44,
+    "power": 44.3,
     "window": {
      "open": 19,
      "left": 2,
@@ -74113,12 +74142,6 @@
     "needs": [
      {
       "pos": "1·2선발",
-      "lv": "부족",
-      "slots": 2,
-      "have": 1
-     },
-     {
-      "pos": "RP",
       "lv": "부족",
       "slots": 2,
       "have": 1
@@ -78980,7 +79003,7 @@
     "pos": "RP",
     "tier": "엘리트",
     "age": 25,
-    "team": "다이노스",
+    "team": "에스트로너츠",
     "power": 3.5,
     "asset": {
      "value": 6.6,
@@ -80022,7 +80045,7 @@
     "pos": "OF",
     "tier": "레귤러",
     "age": 21,
-    "team": "에스트로너츠",
+    "team": "다이노스",
     "power": 1.6,
     "asset": {
      "value": 3.8,
@@ -80222,7 +80245,7 @@
     "pos": "SS",
     "tier": "레귤러",
     "age": 23,
-    "team": "에스트로너츠",
+    "team": "다이노스",
     "power": 1.6,
     "asset": {
      "value": 3.6,
