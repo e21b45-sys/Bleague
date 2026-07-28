@@ -33198,7 +33198,7 @@
   "p438": {
    "id": "p438",
    "name": "베키아",
-   "team": "드래프티",
+   "team": "버커니어스",
    "pos": "SS",
    "tier": "D리그",
    "age": 18,
@@ -33229,8 +33229,8 @@
    "role": "",
    "subPositions": [],
    "form": "",
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "contract": null,
    "contractHistory": [],
    "awards": [],
@@ -33238,7 +33238,7 @@
    "teamHistory": [
     {
      "season": 20,
-     "team": "드래프티"
+     "team": "버커니어스"
     }
    ],
    "hof": null,
@@ -76965,7 +76965,8 @@
     "프린스"
    ],
    "picks": {
-    "재즈_1": "p453"
+    "재즈_1": "p453",
+    "버커니어스_1": "p438"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -77275,7 +77276,8 @@
   "p401",
   "p422",
   "p391",
-  "p453"
+  "p453",
+  "p438"
  ],
  "salaryRules": {
   "floor": 60,
@@ -78920,7 +78922,6 @@
   "p415",
   "p414",
   "p410",
-  "p438",
   "p441",
   "p439",
   "p440",
@@ -79063,7 +79064,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785242275925
+   "ts": 1785242377109
   },
   "teams": {
    "프린스": {
@@ -81978,7 +81979,7 @@
      "core": 3,
      "avgAge": 25.7,
      "payRatio": 0.8363636363636363,
-     "farm": 3,
+     "farm": 4,
      "farmTop": 1,
      "recent": 14,
      "avgRk": 13
@@ -87192,8 +87193,10 @@
     "pos": "SS",
     "tier": "D리그",
     "age": 18,
-    "team": "드래프티",
-    "power": 0
+    "team": "버커니어스",
+    "power": 0,
+    "prospect": true,
+    "value": 10.4
    },
    "p439": {
     "name": "그린",
@@ -89863,91 +89866,91 @@
     {
      "rank": 1,
      "team": "마린즈",
-     "score": 165,
+     "score": 170,
      "prospects": 5
     },
     {
      "rank": 2,
      "team": "다이너마이트",
-     "score": 160,
+     "score": 165,
      "prospects": 5
     },
     {
      "rank": 3,
      "team": "이글즈",
-     "score": 137,
+     "score": 142,
      "prospects": 5
     },
     {
      "rank": 4,
      "team": "세이버스",
-     "score": 136,
+     "score": 140,
      "prospects": 4
     },
     {
      "rank": 5,
      "team": "에스트로너츠",
-     "score": 122,
+     "score": 126,
      "prospects": 4
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 84,
+     "score": 88,
      "prospects": 4
     },
     {
      "rank": 7,
      "team": "타이거즈",
-     "score": 78,
+     "score": 82,
      "prospects": 4
     },
     {
      "rank": 8,
      "team": "트레일 블레이저스",
-     "score": 74,
+     "score": 77,
      "prospects": 3
     },
     {
      "rank": 9,
      "team": "재즈",
-     "score": 72,
-     "prospects": 3
+     "score": 76,
+     "prospects": 4
     },
     {
      "rank": 10,
      "team": "워리어스",
-     "score": 71,
+     "score": 74,
      "prospects": 3
     },
     {
      "rank": 11,
      "team": "스틸러스",
-     "score": 67,
+     "score": 71,
      "prospects": 4
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 66,
+     "score": 68,
      "prospects": 2
     },
     {
      "rank": 13,
      "team": "버커니어스",
-     "score": 48,
+     "score": 50,
      "prospects": 2
     },
     {
      "rank": 14,
      "team": "라이언즈",
-     "score": 30,
+     "score": 32,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "다이노스",
-     "score": 16,
+     "score": 17,
      "prospects": 1
     },
     {
@@ -90569,6 +90572,18 @@
      "score": 28.1,
      "ceiling": "서브",
      "risk": "안전"
+    },
+    {
+     "rank": 52,
+     "name": "몬토야",
+     "team": "재즈",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 68.3,
+     "ceiling": "컨텐더",
+     "risk": "보통"
     }
    ],
    "draftees": [
@@ -90682,14 +90697,6 @@
      "tier": "D리그",
      "age": 21,
      "ceiling": "레귤러",
-     "risk": "보통"
-    },
-    {
-     "name": "베키아",
-     "pos": "SS",
-     "tier": "D리그",
-     "age": 18,
-     "ceiling": "컨텐더",
      "risk": "보통"
     },
     {
