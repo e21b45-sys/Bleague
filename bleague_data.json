@@ -71873,8 +71873,28 @@
       "pos": "외야"
      },
      {
-      "playerId": "",
+      "playerId": "p117",
       "pos": "외야"
+     },
+     {
+      "playerId": "p83",
+      "pos": "지명"
+     },
+     {
+      "playerId": "p153",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p260",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p147",
+      "pos": "투수"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
      }
     ],
     "divFilter": [
@@ -73483,7 +73503,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785209310950
+   "ts": 1785209374431
   },
   "teams": {
    "프린스": {
