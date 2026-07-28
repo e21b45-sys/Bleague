@@ -33172,6 +33172,41 @@
    "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "보통"
+  },
+  "p436": {
+   "id": "p436",
+   "name": "미즈노",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "정교형",
+   "strengths": [
+    "선구안"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "로열티"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
   }
  },
  "budgets": {
@@ -76506,7 +76541,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 435,
+ "_seq": 436,
  "prospects": [
   "p280",
   "p303",
@@ -78150,7 +78185,8 @@
   "p420",
   "p415",
   "p414",
-  "p410"
+  "p410",
+  "p436"
  ],
  "market": {
   "base": {
@@ -78277,7 +78313,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785225989497
+   "ts": 1785226101922
   },
   "teams": {
    "프린스": {
@@ -86355,6 +86391,14 @@
     "power": 0,
     "prospect": true,
     "value": 1.5
+   },
+   "p436": {
+    "name": "미즈노",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
    }
   },
   "faMarket": {
@@ -90811,6 +90855,14 @@
      "name": "마르티네스",
      "pos": "OF",
      "tier": "D리그",
+     "age": 21,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "미즈노",
+     "pos": "OF",
+     "tier": "C리그",
      "age": 21,
      "ceiling": "레귤러",
      "risk": "보통"
