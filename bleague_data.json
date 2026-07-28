@@ -32487,7 +32487,7 @@
   "p405": {
    "id": "p405",
    "name": "마르케티",
-   "team": "드래프티",
+   "team": "세이버스",
    "pos": "OF",
    "tier": "D리그",
    "age": 19,
@@ -32512,6 +32512,10 @@
     {
      "season": 19,
      "team": "드래프티"
+    },
+    {
+     "season": 20,
+     "team": "세이버스"
     }
    ],
    "titles": [],
@@ -32520,8 +32524,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 2,
    "ceiling": "코어",
    "risk": "안전"
   },
@@ -33600,7 +33604,7 @@
   "p449": {
    "id": "p449",
    "name": "머독",
-   "team": "드래프티",
+   "team": "프린스",
    "pos": "OF",
    "tier": "C리그",
    "age": 22,
@@ -33620,15 +33624,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "프린스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "ceiling": "코어",
    "risk": "안전"
   },
@@ -33782,7 +33791,7 @@
   "p454": {
    "id": "p454",
    "name": "파딜",
-   "team": "드래프티",
+   "team": "스틸러스",
    "pos": "SP",
    "tier": "D리그",
    "age": 20,
@@ -33802,15 +33811,20 @@
    "form": "",
    "contract": null,
    "contractHistory": [],
-   "teamHistory": [],
+   "teamHistory": [
+    {
+     "season": 20,
+     "team": "스틸러스"
+    }
+   ],
    "titles": [],
    "hof": false,
    "injuries": [],
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 20,
+   "draftRound": 1,
    "ceiling": "코어",
    "risk": "안전"
   },
@@ -77015,7 +77029,10 @@
     "마린즈_1": "p439",
     "워리어스_1": "p447",
     "데빌스_1": "p417",
-    "타이거즈_1": "p404"
+    "타이거즈_1": "p404",
+    "스틸러스_1": "p454",
+    "프린스_1": "p449",
+    "세이버스_2": "p405"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -77336,7 +77353,10 @@
   "p419",
   "p439",
   "p447",
-  "p417"
+  "p417",
+  "p404",
+  "p454",
+  "p449"
  ],
  "salaryRules": {
   "floor": 60,
@@ -78967,7 +78987,6 @@
   }
  },
  "bigboard": [
-  "p405",
   "p408",
   "p409",
   "p420",
@@ -78975,9 +78994,7 @@
   "p414",
   "p410",
   "p440",
-  "p449",
   "p456",
-  "p454",
   "p444",
   "p451",
   "p445",
@@ -79112,7 +79129,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785242813159
+   "ts": 1785242919502
   },
   "teams": {
    "프린스": {
@@ -79123,7 +79140,7 @@
      "core": 8,
      "avgAge": 29.5,
      "payRatio": 0.625,
-     "farm": 0,
+     "farm": 1,
      "farmTop": 0,
      "recent": 1,
      "avgRk": 2.3
@@ -79520,7 +79537,7 @@
      "core": 4,
      "avgAge": 26.9,
      "payRatio": 0.4702702702702703,
-     "farm": 4,
+     "farm": 5,
      "farmTop": 1,
      "recent": 3,
      "avgRk": 4
@@ -81809,7 +81826,7 @@
      "core": 10,
      "avgAge": 29.5,
      "payRatio": 0.8,
-     "farm": 4,
+     "farm": 5,
      "farmTop": 1,
      "recent": 2,
      "avgRk": 6.3
@@ -87089,8 +87106,10 @@
     "pos": "OF",
     "tier": "D리그",
     "age": 19,
-    "team": "드래프티",
-    "power": 0
+    "team": "세이버스",
+    "power": 0,
+    "prospect": true,
+    "value": 2.6
    },
    "p406": {
     "name": "사이토",
@@ -87335,8 +87354,10 @@
     "pos": "OF",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
-    "power": 0
+    "team": "프린스",
+    "power": 0,
+    "prospect": true,
+    "value": 2.8
    },
    "p450": {
     "name": "홀랜드",
@@ -87377,8 +87398,10 @@
     "pos": "SP",
     "tier": "D리그",
     "age": 20,
-    "team": "드래프티",
-    "power": 0
+    "team": "스틸러스",
+    "power": 0,
+    "prospect": true,
+    "value": 2.6
    },
    "p455": {
     "name": "나가이",
@@ -89936,98 +89959,98 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 229,
+     "score": 247,
      "prospects": 6
     },
     {
      "rank": 2,
      "team": "마린즈",
-     "score": 228,
+     "score": 246,
      "prospects": 6
     },
     {
      "rank": 3,
      "team": "이글즈",
-     "score": 203,
+     "score": 221,
      "prospects": 6
     },
     {
      "rank": 4,
      "team": "세이버스",
-     "score": 184,
+     "score": 196,
      "prospects": 4
     },
     {
      "rank": 5,
      "team": "에스트로너츠",
-     "score": 178,
+     "score": 193,
      "prospects": 5
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 140,
+     "score": 158,
      "prospects": 6
     },
     {
      "rank": 7,
      "team": "타이거즈",
-     "score": 126,
-     "prospects": 4
+     "score": 141,
+     "prospects": 5
     },
     {
      "rank": 8,
      "team": "재즈",
-     "score": 120,
+     "score": 132,
      "prospects": 4
     },
     {
      "rank": 9,
-     "team": "트레일 블레이저스",
-     "score": 115,
-     "prospects": 4
+     "team": "스틸러스",
+     "score": 129,
+     "prospects": 5
     },
     {
      "rank": 10,
-     "team": "스틸러스",
-     "score": 115,
+     "team": "트레일 블레이저스",
+     "score": 127,
      "prospects": 4
     },
     {
      "rank": 11,
      "team": "워리어스",
-     "score": 109,
+     "score": 121,
      "prospects": 4
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 90,
+     "score": 96,
      "prospects": 2
     },
     {
      "rank": 13,
      "team": "버커니어스",
-     "score": 83,
+     "score": 92,
      "prospects": 3
     },
     {
      "rank": 14,
      "team": "라이언즈",
-     "score": 58,
+     "score": 67,
      "prospects": 3
     },
     {
      "rank": 15,
      "team": "다이노스",
-     "score": 38,
+     "score": 44,
      "prospects": 2
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 0,
-     "prospects": 0
+     "score": 1,
+     "prospects": 1
     }
    ],
    "pipeline": [
@@ -90786,17 +90809,45 @@
      "score": 59.9,
      "ceiling": "엘리트",
      "risk": "모험"
-    }
-   ],
-   "draftees": [
+    },
     {
-     "name": "마르케티",
-     "pos": "OF",
-     "tier": "D리그",
-     "age": 19,
+     "rank": 64,
+     "name": "카마르",
+     "team": "타이거즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 48.9,
      "ceiling": "코어",
      "risk": "안전"
     },
+    {
+     "rank": 65,
+     "name": "파딜",
+     "team": "스틸러스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 48.5,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "rank": 66,
+     "name": "머독",
+     "team": "프린스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 48.9,
+     "ceiling": "코어",
+     "risk": "안전"
+    }
+   ],
+   "draftees": [
     {
      "name": "타히르",
      "pos": "2B",
@@ -90886,14 +90937,6 @@
      "risk": "안전"
     },
     {
-     "name": "머독",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "코어",
-     "risk": "안전"
-    },
-    {
      "name": "홀랜드",
      "pos": "OF",
      "tier": "C리그",
@@ -90916,14 +90959,6 @@
      "age": 18,
      "ceiling": "코어",
      "risk": "모험"
-    },
-    {
-     "name": "파딜",
-     "pos": "SP",
-     "tier": "D리그",
-     "age": 20,
-     "ceiling": "코어",
-     "risk": "안전"
     },
     {
      "name": "카마르고",
