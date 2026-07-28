@@ -71213,18 +71213,44 @@
      ],
      "BP": [
       "p131",
-      "p74",
-      "p75"
+      "p75",
+      "p151"
      ],
      "ROOKIE": [
       "p317",
-      "p286",
-      "p279"
+      "p279",
+      "p283"
      ]
     },
     "potmBat": "p202",
     "potmPit": "p94",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p74",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p290",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p123",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p218",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "10": {
     "standings": [],
@@ -73331,7 +73357,7 @@
  "derived": {
   "generatedAt": {
    "season": 19,
-   "ts": 1785208938734
+   "ts": 1785209013336
   },
   "teams": {
    "프린스": {
