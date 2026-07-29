@@ -24938,7 +24938,7 @@
    "pos": "RP",
    "tier": "레귤러",
    "age": 27,
-   "number": "5",
+   "number": "19",
    "debutSeason": 14,
    "debutHalf": "전반기",
    "trait": "",
@@ -29105,7 +29105,7 @@
   "p293": {
    "id": "p293",
    "name": "라파엘라",
-   "team": "스틸러스",
+   "team": "타이거즈",
    "pos": "C",
    "tier": "C리그",
    "age": 23,
@@ -29151,6 +29151,10 @@
     {
      "season": 19,
      "team": "스틸러스"
+    },
+    {
+     "season": 20,
+     "team": "타이거즈"
     }
    ],
    "hof": null,
@@ -32527,7 +32531,7 @@
   "p399": {
    "id": "p399",
    "name": "스미르노프",
-   "team": "타이거즈",
+   "team": "스틸러스",
    "pos": "SP",
    "tier": "C리그",
    "age": 22,
@@ -32551,6 +32555,10 @@
     {
      "season": 19,
      "team": "타이거즈"
+    },
+    {
+     "season": 20,
+     "team": "스틸러스"
     }
    ],
    "titles": [],
@@ -33208,7 +33216,7 @@
   "p415": {
    "id": "p415",
    "name": "아졸라",
-   "team": "타이거즈",
+   "team": "스틸러스",
    "pos": "SP",
    "tier": "C리그",
    "age": 22,
@@ -33236,7 +33244,7 @@
     },
     {
      "season": 20,
-     "team": "타이거즈"
+     "team": "스틸러스"
     }
    ],
    "titles": [],
@@ -78238,6 +78246,30 @@
     "total": 21,
     "years": 3,
     "applied": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p293",
+    "from": "스틸러스",
+    "to": "타이거즈",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p399",
+    "from": "타이거즈",
+    "to": "스틸러스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p415",
+    "from": "타이거즈",
+    "to": "스틸러스",
+    "applied": true,
+    "multi": true
    }
   ],
   "teamNotes": {
@@ -79950,7 +79982,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785301029944
+   "ts": 1785304364291
   },
   "teams": {
    "프린스": {
@@ -82439,7 +82471,7 @@
      "core": 11,
      "avgAge": 29.6,
      "payRatio": 0.8204081632653061,
-     "farm": 5,
+     "farm": 6,
      "farmTop": 0,
      "recent": 2,
      "avgRk": 6.3
@@ -86891,7 +86923,7 @@
     "pos": "C",
     "tier": "C리그",
     "age": 23,
-    "team": "스틸러스",
+    "team": "타이거즈",
     "power": 0,
     "prospect": true,
     "value": 2.4
@@ -87693,7 +87725,7 @@
     "pos": "SP",
     "tier": "C리그",
     "age": 22,
-    "team": "타이거즈",
+    "team": "스틸러스",
     "power": 0,
     "prospect": true,
     "value": 1.8
@@ -87853,7 +87885,7 @@
     "pos": "SP",
     "tier": "C리그",
     "age": 22,
-    "team": "타이거즈",
+    "team": "스틸러스",
     "power": 0,
     "prospect": true,
     "value": 0.3
@@ -88374,33 +88406,33 @@
     },
     {
      "rank": 10,
+     "team": "타이거즈",
+     "score": 163,
+     "prospects": 6
+    },
+    {
+     "rank": 11,
      "team": "버커니어스",
      "score": 148,
      "prospects": 3
     },
     {
-     "rank": 11,
-     "team": "타이거즈",
-     "score": 145,
-     "prospects": 7
-    },
-    {
      "rank": 12,
-     "team": "스틸러스",
-     "score": 145,
-     "prospects": 5
-    },
-    {
-     "rank": 13,
      "team": "데빌스",
      "score": 140,
      "prospects": 3
     },
     {
-     "rank": 14,
+     "rank": 13,
      "team": "라이언즈",
      "score": 128,
      "prospects": 4
+    },
+    {
+     "rank": 14,
+     "team": "스틸러스",
+     "score": 127,
+     "prospects": 6
     },
     {
      "rank": 15,
@@ -88911,7 +88943,7 @@
     {
      "rank": 42,
      "name": "라파엘라",
-     "team": "스틸러스",
+     "team": "타이거즈",
      "pos": "C",
      "tier": "C리그",
      "age": 23,
@@ -89175,7 +89207,7 @@
     {
      "rank": 64,
      "name": "스미르노프",
-     "team": "타이거즈",
+     "team": "스틸러스",
      "pos": "SP",
      "tier": "C리그",
      "age": 22,
@@ -89379,7 +89411,7 @@
     {
      "rank": 81,
      "name": "아졸라",
-     "team": "타이거즈",
+     "team": "스틸러스",
      "pos": "SP",
      "tier": "C리그",
      "age": 22,
