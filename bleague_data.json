@@ -14567,7 +14567,7 @@
   "p109": {
    "id": "p109",
    "name": "파란",
-   "team": "FA",
+   "team": "워리어스",
    "pos": "C",
    "tier": "레귤러",
    "age": 33,
@@ -14592,7 +14592,12 @@
    ],
    "draftSeason": 6,
    "draftRound": 3,
-   "contract": null,
+   "contract": {
+    "startSeason": 20,
+    "endSeason": 22,
+    "total": 30,
+    "options": []
+   },
    "contractHistory": [
     {
      "startSeason": 15,
@@ -14658,6 +14663,10 @@
     },
     {
      "season": 19,
+     "team": "워리어스"
+    },
+    {
+     "season": 20,
      "team": "워리어스"
     }
    ],
@@ -18736,7 +18745,7 @@
   "p150": {
    "id": "p150",
    "name": "핀리",
-   "team": "FA",
+   "team": "라이언즈",
    "pos": "SP",
    "tier": "레귤러",
    "age": 29,
@@ -18763,7 +18772,12 @@
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 1,
-   "contract": null,
+   "contract": {
+    "startSeason": 20,
+    "endSeason": 24,
+    "total": 40,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -18807,6 +18821,10 @@
     {
      "season": 19,
      "team": "타이거즈"
+    },
+    {
+     "season": 20,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -24864,7 +24882,7 @@
   "p225": {
    "id": "p225",
    "name": "라이즈",
-   "team": "FA",
+   "team": "데빌스",
    "pos": "SS",
    "tier": "코어",
    "age": 28,
@@ -24893,7 +24911,12 @@
    ],
    "draftSeason": 12,
    "draftRound": 2,
-   "contract": null,
+   "contract": {
+    "startSeason": 20,
+    "endSeason": 24,
+    "total": 60,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -24929,6 +24952,10 @@
     {
      "season": 19,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 20,
+     "team": "데빌스"
     }
    ],
    "hof": null,
@@ -77950,6 +77977,30 @@
     "total": 14,
     "years": 2,
     "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p150",
+    "to": "라이언즈",
+    "total": 40,
+    "years": 5,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p109",
+    "to": "워리어스",
+    "total": 30,
+    "years": 3,
+    "applied": true
+   },
+   {
+    "kind": "fa",
+    "playerId": "p225",
+    "to": "데빌스",
+    "total": 60,
+    "years": 5,
+    "applied": true
    }
   ],
   "teamNotes": {
@@ -79662,7 +79713,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785298963876
+   "ts": 1785299156755
   },
   "teams": {
    "프린스": {
@@ -79834,8 +79885,8 @@
     "stanceWhy": {
      "cont": 1,
      "core": 8,
-     "avgAge": 29.4,
-     "payRatio": 0.8634146341463415,
+     "avgAge": 29.3,
+     "payRatio": 0.9024390243902439,
      "farm": 4,
      "farmTop": 0,
      "recent": 7,
@@ -79843,8 +79894,8 @@
     },
     "appeal": 1.28,
     "market": "빅마켓",
-    "free": 28,
-    "power": 47,
+    "free": 17,
+    "power": 48.9,
     "window": {
      "open": 20,
      "left": 2,
@@ -79855,7 +79906,7 @@
       "pos": "3~5선발",
       "lv": "부족",
       "slots": 3,
-      "have": 1
+      "have": 2
      },
      {
       "pos": "1B",
@@ -81364,9 +81415,9 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 0,
-     "core": 5,
-     "avgAge": 29.8,
-     "payRatio": 0.7291666666666666,
+     "core": 6,
+     "avgAge": 29.7,
+     "payRatio": 0.7791666666666667,
      "farm": 3,
      "farmTop": 1,
      "recent": 4,
@@ -81374,8 +81425,8 @@
     },
     "appeal": 1.35,
     "market": "빅마켓",
-    "free": 65,
-    "power": 49.8,
+    "free": 49,
+    "power": 52.3,
     "window": {
      "open": 20,
      "left": 2,
@@ -81387,11 +81438,6 @@
       "lv": "부족",
       "slots": 2,
       "have": 1
-     },
-     {
-      "pos": "2B",
-      "lv": "공백",
-      "slots": 1
      },
      {
       "pos": "DH",
@@ -81576,8 +81622,8 @@
     "stanceWhy": null,
     "appeal": 1.46,
     "market": "중형",
-    "free": 67,
-    "power": 49.7,
+    "free": 57,
+    "power": 51.3,
     "window": {
      "open": 20,
      "left": 2,
@@ -81589,11 +81635,6 @@
       "lv": "부족",
       "slots": 3,
       "have": 2
-     },
-     {
-      "pos": "C",
-      "lv": "공백",
-      "slots": 1
      },
      {
       "pos": "1B",
@@ -84161,12 +84202,13 @@
     "pos": "C",
     "tier": "레귤러",
     "age": 33,
-    "team": "FA",
+    "team": "워리어스",
     "power": 1.6,
-    "expContract": {
-     "years": 3,
-     "aav": 10.5,
-     "total": 31.5
+    "asset": {
+     "value": 2.1,
+     "grade": "D",
+     "left": 3,
+     "effM": 1.05
     }
    },
    "p110": {
@@ -84719,12 +84761,13 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 29,
-    "team": "FA",
+    "team": "라이언즈",
     "power": 1.8,
-    "expContract": {
-     "years": 5,
-     "aav": 10.7,
-     "total": 53.5
+    "asset": {
+     "value": 3.8,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.34
     }
    },
    "p151": {
@@ -85765,12 +85808,13 @@
     "pos": "SS",
     "tier": "코어",
     "age": 28,
-    "team": "FA",
+    "team": "데빌스",
     "power": 2.5,
-    "expContract": {
-     "years": 6,
-     "aav": 17.4,
-     "total": 104.39999999999999
+    "asset": {
+     "value": 4.9,
+     "grade": "C",
+     "left": 5,
+     "effM": 1.29
     }
    },
    "p226": {
@@ -87984,6 +88028,14 @@
       "real": 1.1
      },
      {
+      "team": "타이거즈",
+      "stance": "winnow",
+      "lv": "공백",
+      "win": 0.11,
+      "focus": 3,
+      "real": 0.7
+     },
+     {
       "team": "다이노스",
       "stance": "retool",
       "lv": "공백",
@@ -87996,15 +88048,7 @@
       "stance": "allin",
       "lv": "공백",
       "win": 0.12,
-      "focus": 2,
-      "real": 0.6
-     },
-     {
-      "team": "타이거즈",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.11,
-      "focus": 2,
+      "focus": 3,
       "real": 0.6
      },
      {
@@ -88020,24 +88064,24 @@
       "stance": "hold",
       "lv": "공백",
       "win": 0.04,
-      "focus": 3,
-      "real": 0.3
+      "focus": 5,
+      "real": 0.5
      },
      {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "공백",
       "win": 0.11,
-      "focus": 1,
-      "real": 0.3
+      "focus": 2,
+      "real": 0.5
      },
      {
       "team": "재즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.03,
-      "focus": 4,
-      "real": 0.2
+      "focus": 5,
+      "real": 0.3
      }
     ],
     "altFA": [],
@@ -88076,16 +88120,16 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.11,
-      "focus": 10,
-      "real": 1.5
+      "focus": 15,
+      "real": 2.1
      },
      {
       "team": "재즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.09,
-      "focus": 9,
-      "real": 1
+      "focus": 11,
+      "real": 1.4
      }
     ],
     "altFA": [],
@@ -88108,32 +88152,32 @@
       "stance": "allin",
       "lv": "공백",
       "win": 0.41,
-      "focus": 12,
-      "real": 4.5
+      "focus": 14,
+      "real": 5.1
      },
      {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "공백",
       "win": 0.38,
-      "focus": 8,
-      "real": 2.7
+      "focus": 10,
+      "real": 3.6
      },
      {
       "team": "이글즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.11,
-      "focus": 23,
-      "real": 2.4
+      "focus": 33,
+      "real": 3.4
      },
      {
       "team": "재즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.09,
-      "focus": 20,
-      "real": 1.7
+      "focus": 25,
+      "real": 2.2
      }
     ],
     "altFA": [],
@@ -88152,62 +88196,6 @@
      }
     ]
    },
-   "p109": {
-    "name": "파란",
-    "pos": "C",
-    "tier": "레귤러",
-    "age": 33,
-    "rarity": 1.38,
-    "expContract": {
-     "years": 3,
-     "aav": 10.5,
-     "total": 31.5
-    },
-    "teams": [
-     {
-      "team": "타이거즈",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.4,
-      "focus": 17,
-      "real": 9.5
-     },
-     {
-      "team": "워리어스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.38,
-      "focus": 10,
-      "real": 5.3
-     },
-     {
-      "team": "이글즈",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.11,
-      "focus": 30,
-      "real": 4.6
-     },
-     {
-      "team": "재즈",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.08,
-      "focus": 22,
-      "real": 2.6
-     },
-     {
-      "team": "버커니어스",
-      "stance": "reset",
-      "lv": "공백",
-      "win": 0.02,
-      "focus": 18,
-      "real": 0.6
-     }
-    ],
-    "altFA": [],
-    "altTrade": []
-   },
    "p115": {
     "name": "터너",
     "pos": "SP",
@@ -88224,17 +88212,17 @@
       "team": "라이언즈",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.35,
-      "focus": 68,
-      "real": 30.1
+      "win": 0.36,
+      "focus": 78,
+      "real": 35
      },
      {
       "team": "타이거즈",
       "stance": "winnow",
       "lv": "부족",
       "win": 0.24,
-      "focus": 52,
-      "real": 15.4
+      "focus": 63,
+      "real": 18.9
      },
      {
       "team": "마린즈",
@@ -88242,31 +88230,31 @@
       "lv": "부족",
       "win": 0.17,
       "focus": 56,
-      "real": 11.8
+      "real": 12.1
      },
      {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "부족",
-      "win": 0.17,
-      "focus": 23,
-      "real": 5.1
+      "win": 0.16,
+      "focus": 29,
+      "real": 5.9
      },
      {
       "team": "다이노스",
       "stance": "retool",
       "lv": "부족",
       "win": 0.06,
-      "focus": 55,
-      "real": 3.9
+      "focus": 56,
+      "real": 4
      },
      {
       "team": "버커니어스",
       "stance": "reset",
       "lv": "부족",
       "win": 0.01,
-      "focus": 41,
-      "real": 0.5
+      "focus": 52,
+      "real": 0.7
      }
     ],
     "altFA": [],
@@ -88346,19 +88334,19 @@
       "real": 0.8
      },
      {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.06,
+      "focus": 10,
+      "real": 0.8
+     },
+     {
       "team": "챌린저스",
       "stance": "rebuild",
       "lv": "부족",
       "win": 0.04,
       "focus": 11,
-      "real": 0.6
-     },
-     {
-      "team": "재즈",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.06,
-      "focus": 8,
       "real": 0.6
      },
      {
@@ -88374,7 +88362,7 @@
       "stance": "reset",
       "lv": "공백",
       "win": 0.02,
-      "focus": 7,
+      "focus": 9,
       "real": 0.2
      }
     ],
@@ -88409,20 +88397,12 @@
     },
     "teams": [
      {
-      "team": "라이언즈",
-      "stance": "allin",
-      "lv": "부족",
-      "win": 0.25,
-      "focus": 13,
-      "real": 1.6
-     },
-     {
       "team": "타이거즈",
       "stance": "winnow",
       "lv": "부족",
       "win": 0.25,
-      "focus": 5,
-      "real": 0.6
+      "focus": 6,
+      "real": 0.8
      },
      {
       "team": "마린즈",
@@ -88430,118 +88410,44 @@
       "lv": "부족",
       "win": 0.21,
       "focus": 6,
-      "real": 0.6
+      "real": 0.7
      },
-     {
-      "team": "다이노스",
-      "stance": "retool",
-      "lv": "부족",
-      "win": 0.07,
-      "focus": 9,
-      "real": 0.3
-     },
-     {
-      "team": "워리어스",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.21,
-      "focus": 3,
-      "real": 0.3
-     },
-     {
-      "team": "버커니어스",
-      "stance": "reset",
-      "lv": "부족",
-      "win": 0.01,
-      "focus": 9,
-      "real": 0.1
-     }
-    ],
-    "altFA": [
-     "핀리",
-     "더든",
-     "디미트리"
-    ],
-    "altTrade": [
-     {
-      "name": "오웬스",
-      "team": "데빌스"
-     },
-     {
-      "name": "뤼프키",
-      "team": "프린스"
-     },
-     {
-      "name": "라힘",
-      "team": "세이버스"
-     }
-    ]
-   },
-   "p150": {
-    "name": "핀리",
-    "pos": "SP",
-    "tier": "레귤러",
-    "age": 29,
-    "rarity": 0.5,
-    "expContract": {
-     "years": 5,
-     "aav": 10.7,
-     "total": 53.5
-    },
-    "teams": [
      {
       "team": "라이언즈",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.27,
-      "focus": 3,
-      "real": 0.5
-     },
-     {
-      "team": "타이거즈",
-      "stance": "winnow",
-      "lv": "부족",
       "win": 0.26,
-      "focus": 2,
-      "real": 0.2
-     },
-     {
-      "team": "마린즈",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.19,
-      "focus": 2,
-      "real": 0.2
+      "focus": 4,
+      "real": 0.5
      },
      {
       "team": "다이노스",
       "stance": "retool",
       "lv": "부족",
       "win": 0.07,
-      "focus": 4,
-      "real": 0.1
+      "focus": 9,
+      "real": 0.3
      },
      {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "부족",
       "win": 0.2,
-      "focus": 1,
-      "real": 0.1
+      "focus": 3,
+      "real": 0.3
      },
      {
       "team": "버커니어스",
       "stance": "reset",
       "lv": "부족",
       "win": 0.01,
-      "focus": 6,
-      "real": 0
+      "focus": 12,
+      "real": 0.1
      }
     ],
     "altFA": [
      "더든",
-     "디미트리",
-     "맬러리"
+     "디미트리"
     ],
     "altTrade": [
      {
@@ -88574,17 +88480,17 @@
       "team": "프린스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.41,
+      "win": 0.42,
       "focus": 75,
-      "real": 34.8
+      "real": 35.5
      },
      {
       "team": "타이거즈",
       "stance": "winnow",
       "lv": "부족",
-      "win": 0.28,
-      "focus": 21,
-      "real": 6.6
+      "win": 0.29,
+      "focus": 25,
+      "real": 8.1
      },
      {
       "team": "챌린저스",
@@ -88592,23 +88498,23 @@
       "lv": "부족",
       "win": 0.05,
       "focus": 62,
-      "real": 3.3
+      "real": 3.4
      },
      {
       "team": "세이버스",
       "stance": "rebuild",
       "lv": "부족",
       "win": 0.05,
-      "focus": 56,
-      "real": 3
+      "focus": 57,
+      "real": 3.1
      },
      {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "부족",
-      "win": 0.21,
-      "focus": 9,
-      "real": 2.2
+      "win": 0.2,
+      "focus": 11,
+      "real": 2.5
      }
     ],
     "altFA": [],
@@ -88632,31 +88538,39 @@
     },
     "teams": [
      {
+      "team": "타이거즈",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.27,
+      "focus": 2,
+      "real": 0.3
+     },
+     {
       "team": "라이언즈",
       "stance": "allin",
       "lv": "부족",
       "win": 0.27,
       "focus": 1,
-      "real": 0.1
+      "real": 0.2
      },
      {
-      "team": "타이거즈",
+      "team": "마린즈",
       "stance": "winnow",
       "lv": "부족",
-      "win": 0.26,
-      "focus": 1,
-      "real": 0.1
+      "win": 0.2,
+      "focus": 2,
+      "real": 0.2
      },
      {
       "team": "다이노스",
       "stance": "retool",
       "lv": "부족",
       "win": 0.07,
-      "focus": 2,
+      "focus": 4,
       "real": 0.1
      },
      {
-      "team": "마린즈",
+      "team": "워리어스",
       "stance": "winnow",
       "lv": "부족",
       "win": 0.19,
@@ -88664,24 +88578,15 @@
       "real": 0.1
      },
      {
-      "team": "워리어스",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.2,
-      "focus": 0,
-      "real": 0
-     },
-     {
       "team": "버커니어스",
       "stance": "reset",
       "lv": "부족",
       "win": 0.01,
-      "focus": 4,
+      "focus": 7,
       "real": 0
      }
     ],
     "altFA": [
-     "핀리",
      "디미트리",
      "맬러리"
     ],
@@ -88733,16 +88638,16 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.13,
-      "focus": 37,
-      "real": 6.1
+      "focus": 53,
+      "real": 8.6
      },
      {
       "team": "재즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.08,
-      "focus": 23,
-      "real": 2.3
+      "focus": 30,
+      "real": 3
      }
     ],
     "altFA": [],
@@ -88782,7 +88687,7 @@
       "lv": "부족",
       "win": 0.23,
       "focus": 21,
-      "real": 7.2
+      "real": 7.1
      },
      {
       "team": "에스트로너츠",
@@ -88829,16 +88734,16 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.04,
-      "focus": 10,
-      "real": 0.6
+      "focus": 13,
+      "real": 0.8
      },
      {
       "team": "버커니어스",
       "stance": "reset",
       "lv": "공백",
       "win": 0.01,
-      "focus": 8,
-      "real": 0.1
+      "focus": 10,
+      "real": 0.2
      }
     ],
     "altFA": [],
@@ -88862,7 +88767,7 @@
     "pos": "SS",
     "tier": "코어",
     "age": 29,
-    "rarity": 0.65,
+    "rarity": 0.77,
     "expContract": {
      "years": 6,
      "aav": 17.4,
@@ -88873,22 +88778,20 @@
       "team": "워리어스",
       "stance": "winnow",
       "lv": "공백",
-      "win": 0.75,
-      "focus": 33,
-      "real": 16.1
+      "win": 0.74,
+      "focus": 43,
+      "real": 24.4
      },
      {
       "team": "트레일 블레이저스",
       "stance": "hold",
       "lv": "공백",
-      "win": 0.25,
-      "focus": 62,
-      "real": 10
+      "win": 0.26,
+      "focus": 95,
+      "real": 19.2
      }
     ],
-    "altFA": [
-     "라이즈"
-    ],
+    "altFA": [],
     "altTrade": [
      {
       "name": "올리바레스",
@@ -88917,6 +88820,30 @@
     },
     "teams": [
      {
+      "team": "타이거즈",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.27,
+      "focus": 1,
+      "real": 0.1
+     },
+     {
+      "team": "다이노스",
+      "stance": "retool",
+      "lv": "부족",
+      "win": 0.07,
+      "focus": 2,
+      "real": 0.1
+     },
+     {
+      "team": "마린즈",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.2,
+      "focus": 1,
+      "real": 0.1
+     },
+     {
       "team": "라이언즈",
       "stance": "allin",
       "lv": "부족",
@@ -88925,34 +88852,10 @@
       "real": 0
      },
      {
-      "team": "타이거즈",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.26,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "다이노스",
-      "stance": "retool",
-      "lv": "부족",
-      "win": 0.07,
-      "focus": 1,
-      "real": 0
-     },
-     {
-      "team": "마린즈",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.19,
-      "focus": 0,
-      "real": 0
-     },
-     {
       "team": "워리어스",
       "stance": "winnow",
       "lv": "부족",
-      "win": 0.2,
+      "win": 0.19,
       "focus": 0,
       "real": 0
      },
@@ -88961,12 +88864,11 @@
       "stance": "reset",
       "lv": "부족",
       "win": 0.01,
-      "focus": 3,
+      "focus": 5,
       "real": 0
      }
     ],
     "altFA": [
-     "핀리",
      "더든",
      "맬러리"
     ],
@@ -89038,6 +88940,14 @@
       "real": 0.4
      },
      {
+      "team": "재즈",
+      "stance": "rebuild",
+      "lv": "공백",
+      "win": 0.05,
+      "focus": 6,
+      "real": 0.4
+     },
+     {
       "team": "프린스",
       "stance": "allin",
       "lv": "부족",
@@ -89054,14 +88964,6 @@
       "real": 0.3
      },
      {
-      "team": "재즈",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.05,
-      "focus": 4,
-      "real": 0.3
-     },
-     {
       "team": "세이버스",
       "stance": "rebuild",
       "lv": "부족",
@@ -89074,7 +88976,7 @@
       "stance": "reset",
       "lv": "공백",
       "win": 0.01,
-      "focus": 4,
+      "focus": 5,
       "real": 0.1
      }
     ],
@@ -89093,53 +88995,6 @@
      {
       "name": "아일리자",
       "team": "타이거즈"
-     }
-    ]
-   },
-   "p225": {
-    "name": "라이즈",
-    "pos": "SS",
-    "tier": "코어",
-    "age": 28,
-    "rarity": 0.65,
-    "expContract": {
-     "years": 6,
-     "aav": 17.4,
-     "total": 104.39999999999999
-    },
-    "teams": [
-     {
-      "team": "워리어스",
-      "stance": "winnow",
-      "lv": "공백",
-      "win": 0.75,
-      "focus": 12,
-      "real": 5.7
-     },
-     {
-      "team": "트레일 블레이저스",
-      "stance": "hold",
-      "lv": "공백",
-      "win": 0.25,
-      "focus": 34,
-      "real": 5.5
-     }
-    ],
-    "altFA": [
-     "그라인더"
-    ],
-    "altTrade": [
-     {
-      "name": "올리바레스",
-      "team": "버커니어스"
-     },
-     {
-      "name": "해밀턴",
-      "team": "마린즈"
-     },
-     {
-      "name": "렉스",
-      "team": "프린스"
      }
     ]
    }
