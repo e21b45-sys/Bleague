@@ -22942,7 +22942,7 @@
    "id": "p197",
    "name": "올리바레스",
    "team": "버커니어스",
-   "pos": "SS",
+   "pos": "3B",
    "tier": "코어",
    "age": 25,
    "number": "8",
@@ -22967,7 +22967,9 @@
     "주루"
    ],
    "role": "3번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "draftSeason": 13,
    "draftRound": 1,
    "contract": null,
@@ -24750,7 +24752,7 @@
    "id": "p222",
    "name": "알렌",
    "team": "버커니어스",
-   "pos": "3B",
+   "pos": "1B",
    "tier": "레귤러",
    "age": 30,
    "number": "13",
@@ -24773,8 +24775,10 @@
     "수비 범위",
     "파워"
    ],
-   "role": "2번",
-   "subPositions": [],
+   "role": "4번",
+   "subPositions": [
+    "3B"
+   ],
    "draftSeason": 11,
    "draftRound": 4,
    "contract": {
@@ -26779,7 +26783,7 @@
    "id": "p253",
    "name": "브랭크",
    "team": "버커니어스",
-   "pos": "1B",
+   "pos": "DH",
    "tier": "레귤러",
    "age": 28,
    "number": "18",
@@ -26805,7 +26809,7 @@
    ],
    "role": "5번",
    "subPositions": [
-    "DH"
+    "1B"
    ],
    "form": "",
    "draftSeason": 13,
@@ -27821,7 +27825,7 @@
    "id": "p270",
    "name": "워드",
    "team": "버커니어스",
-   "pos": "SP",
+   "pos": "RP",
    "tier": "레귤러",
    "age": 26,
    "number": "2",
@@ -27842,8 +27846,10 @@
    "weaknesses": [
     "경기운영"
    ],
-   "role": "5선발",
-   "subPositions": [],
+   "role": "추격조",
+   "subPositions": [
+    "SP"
+   ],
    "form": "",
    "draftSeason": 16,
    "draftRound": 1,
@@ -28689,7 +28695,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "2번",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -30074,7 +30080,7 @@
    "weaknesses": [
     "구위"
    ],
-   "role": "",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -79944,7 +79950,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785300699582
+   "ts": 1785300791032
   },
   "teams": {
    "프린스": {
@@ -83118,7 +83124,7 @@
     "appeal": 0.51,
     "market": "스몰마켓",
     "free": 10,
-    "power": 28.6,
+    "power": 27.6,
     "window": {
      "open": 20,
      "left": 2,
@@ -83127,8 +83133,9 @@
     "needs": [
      {
       "pos": "RP",
-      "lv": "공백",
-      "slots": 2
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
      },
      {
       "pos": "C",
@@ -85574,7 +85581,7 @@
    },
    "p197": {
     "name": "올리바레스",
-    "pos": "SS",
+    "pos": "3B",
     "tier": "코어",
     "age": 25,
     "team": "버커니어스",
@@ -85924,7 +85931,7 @@
    },
    "p222": {
     "name": "알렌",
-    "pos": "3B",
+    "pos": "1B",
     "tier": "레귤러",
     "age": 30,
     "team": "버커니어스",
@@ -86344,7 +86351,7 @@
    },
    "p253": {
     "name": "브랭크",
-    "pos": "1B",
+    "pos": "DH",
     "tier": "레귤러",
     "age": 28,
     "team": "버커니어스",
@@ -86582,14 +86589,14 @@
    },
    "p270": {
     "name": "워드",
-    "pos": "SP",
+    "pos": "RP",
     "tier": "레귤러",
     "age": 26,
     "team": "버커니어스",
-    "power": 1.8,
+    "power": 0.8,
     "asset": {
-     "value": 3.4,
-     "grade": "C",
+     "value": 1.5,
+     "grade": "D",
      "left": 3,
      "effM": 1.6
     }
