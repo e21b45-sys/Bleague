@@ -16148,7 +16148,7 @@
    "id": "p123",
    "name": "존슨",
    "team": "에스트로너츠",
-   "pos": "OF",
+   "pos": "DH",
    "tier": "엘리트",
    "age": 34,
    "number": "10",
@@ -16247,7 +16247,9 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "bad"
   },
   "p124": {
@@ -20630,7 +20632,7 @@
     "주루",
     "수비 범위"
    ],
-   "role": "6번",
+   "role": "4번",
    "subPositions": [],
    "draftSeason": 9,
    "draftRound": 4,
@@ -25109,7 +25111,7 @@
     "파워",
     "주루"
    ],
-   "role": "6번",
+   "role": "",
    "subPositions": [],
    "form": "good",
    "draftSeason": 9,
@@ -29415,7 +29417,7 @@
    "id": "p299",
    "name": "게일",
    "team": "이글즈",
-   "pos": "SS",
+   "pos": "2B",
    "tier": "레귤러",
    "age": 21,
    "number": "27",
@@ -29438,8 +29440,10 @@
     "파워",
     "수비 범위"
    ],
-   "role": "",
-   "subPositions": [],
+   "role": "7번",
+   "subPositions": [
+    "SS"
+   ],
    "form": "",
    "draftSeason": 17,
    "draftRound": 2,
@@ -79936,7 +79940,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785300506069
+   "ts": 1785300568761
   },
   "teams": {
    "프린스": {
@@ -80985,11 +80989,6 @@
       "pos": "3B",
       "lv": "공백",
       "slots": 1
-     },
-     {
-      "pos": "DH",
-      "lv": "공백",
-      "slots": 1
      }
     ],
     "picks": [
@@ -81200,11 +81199,6 @@
      },
      {
       "pos": "1B",
-      "lv": "공백",
-      "slots": 1
-     },
-     {
-      "pos": "2B",
       "lv": "공백",
       "slots": 1
      }
@@ -84564,7 +84558,7 @@
    },
    "p123": {
     "name": "존슨",
-    "pos": "OF",
+    "pos": "DH",
     "tier": "엘리트",
     "age": 34,
     "team": "에스트로너츠",
@@ -86997,7 +86991,7 @@
    },
    "p299": {
     "name": "게일",
-    "pos": "SS",
+    "pos": "2B",
     "tier": "레귤러",
     "age": 21,
     "team": "이글즈",
