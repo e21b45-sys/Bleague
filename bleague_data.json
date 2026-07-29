@@ -13137,7 +13137,7 @@
      "note": "늑골"
     }
    ],
-   "role": "8번",
+   "role": "7번",
    "subPositions": [
     "OF"
    ],
@@ -25362,7 +25362,7 @@
     "수비 안정성",
     "송구"
    ],
-   "role": "7번",
+   "role": "6번",
    "subPositions": [],
    "form": "good",
    "draftSeason": 15,
@@ -26558,7 +26558,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "2번",
+   "role": "5번",
    "subPositions": [],
    "form": "",
    "draftSeason": 15,
@@ -27537,7 +27537,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "9번",
+   "role": "8번",
    "subPositions": [
     "SS"
    ],
@@ -28622,7 +28622,7 @@
     "수비 안정성"
    ],
    "weaknesses": [],
-   "role": "6번",
+   "role": "2번",
    "subPositions": [],
    "form": "good",
    "draftSeason": 17,
@@ -80207,7 +80207,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785305548667
+   "ts": 1785305786130
   },
   "teams": {
    "프린스": {
