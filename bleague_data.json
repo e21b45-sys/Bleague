@@ -24804,7 +24804,9 @@
     "파워"
    ],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "2B"
+   ],
    "draftSeason": 12,
    "draftRound": 2,
    "contract": null,
@@ -79415,7 +79417,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785292410347
+   "ts": 1785293766287
   },
   "teams": {
    "프린스": {
