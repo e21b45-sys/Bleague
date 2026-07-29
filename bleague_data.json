@@ -20439,7 +20439,7 @@
    "pos": "SP",
    "tier": "레귤러",
    "age": 28,
-   "number": "5",
+   "number": "14",
    "debutSeason": 14,
    "debutHalf": "전반기",
    "trait": "",
@@ -23341,7 +23341,12 @@
    "subPositions": [],
    "draftSeason": 13,
    "draftRound": 1,
-   "contract": null,
+   "contract": {
+    "startSeason": 21,
+    "endSeason": 26,
+    "total": 210,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -80207,7 +80212,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785305856673
+   "ts": 1785306162294
   },
   "teams": {
    "프린스": {
@@ -81010,7 +81015,7 @@
      "cont": 2,
      "core": 11,
      "avgAge": 28.9,
-     "payRatio": 0.772,
+     "payRatio": 0.912,
      "farm": 6,
      "farmTop": 1,
      "recent": 6,
@@ -81018,7 +81023,7 @@
     },
     "appeal": 1.63,
     "market": "빅마켓",
-    "free": 50,
+    "free": -24,
     "power": 69,
     "window": {
      "open": 20,
@@ -85886,10 +85891,10 @@
     "team": "마린즈",
     "power": 12,
     "asset": {
-     "value": 15.2,
+     "value": 15.7,
      "grade": "S",
-     "left": 1,
-     "effM": 1.6
+     "left": 7,
+     "effM": 0.93
     }
    },
    "p203": {
