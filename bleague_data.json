@@ -23341,12 +23341,7 @@
    "subPositions": [],
    "draftSeason": 13,
    "draftRound": 1,
-   "contract": {
-    "startSeason": 21,
-    "endSeason": 26,
-    "total": 210,
-    "options": []
-   },
+   "contract": null,
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -24459,7 +24454,12 @@
    "subPositions": [],
    "draftSeason": 14,
    "draftRound": 1,
-   "contract": null,
+   "contract": {
+    "startSeason": 20,
+    "endSeason": 24,
+    "total": 40,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -80212,7 +80212,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785306162294
+   "ts": 1785306223803
   },
   "teams": {
    "프린스": {
@@ -81015,7 +81015,7 @@
      "cont": 2,
      "core": 11,
      "avgAge": 28.9,
-     "payRatio": 0.912,
+     "payRatio": 0.772,
      "farm": 6,
      "farmTop": 1,
      "recent": 6,
@@ -81023,7 +81023,7 @@
     },
     "appeal": 1.63,
     "market": "빅마켓",
-    "free": -24,
+    "free": 50,
     "power": 69,
     "window": {
      "open": 20,
@@ -81604,7 +81604,7 @@
      "cont": 0,
      "core": 4,
      "avgAge": 27.3,
-     "payRatio": 0.5238095238095238,
+     "payRatio": 0.6,
      "farm": 6,
      "farmTop": 2,
      "recent": 8,
@@ -81612,7 +81612,7 @@
     },
     "appeal": 0.86,
     "market": "스몰마켓",
-    "free": 45,
+    "free": 42,
     "power": 26.7,
     "window": {
      "open": 20,
@@ -85891,10 +85891,10 @@
     "team": "마린즈",
     "power": 12,
     "asset": {
-     "value": 15.7,
+     "value": 15.2,
      "grade": "S",
-     "left": 7,
-     "effM": 0.93
+     "left": 1,
+     "effM": 1.6
     }
    },
    "p203": {
@@ -86103,8 +86103,8 @@
     "asset": {
      "value": 3.1,
      "grade": "C",
-     "left": 2,
-     "effM": 1.6
+     "left": 5,
+     "effM": 1.25
     }
    },
    "p218": {
