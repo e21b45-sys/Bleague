@@ -22299,7 +22299,7 @@
   "p189": {
    "id": "p189",
    "name": "버크스",
-   "team": "워리어스",
+   "team": "다이너마이트",
    "pos": "RP",
    "tier": "코어",
    "age": 34,
@@ -22387,6 +22387,10 @@
     {
      "season": 19,
      "team": "워리어스"
+    },
+    {
+     "season": 20,
+     "team": "다이너마이트"
     }
    ],
    "hof": null,
@@ -26520,7 +26524,7 @@
   "p249": {
    "id": "p249",
    "name": "듀버네이",
-   "team": "다이너마이트",
+   "team": "워리어스",
    "pos": "OF",
    "tier": "레귤러",
    "age": 24,
@@ -26575,6 +26579,10 @@
     {
      "season": 19,
      "team": "다이너마이트"
+    },
+    {
+     "season": 20,
+     "team": "워리어스"
     }
    ],
    "hof": null,
@@ -78352,6 +78360,22 @@
     "to": "트레일 블레이저스",
     "applied": true,
     "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p189",
+    "from": "워리어스",
+    "to": "다이너마이트",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p249",
+    "from": "다이너마이트",
+    "to": "워리어스",
+    "applied": true,
+    "multi": true
    }
   ],
   "teamNotes": {
@@ -78901,7 +78925,7 @@
    "c": "p104",
    "vc": [
     "p85",
-    "p189",
+    "",
     ""
    ]
   },
@@ -80064,7 +80088,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785305006773
+   "ts": 1785305350689
   },
   "teams": {
    "프린스": {
@@ -81896,8 +81920,8 @@
     "stanceWhy": null,
     "appeal": 1.46,
     "market": "중형",
-    "free": 37,
-    "power": 55.4,
+    "free": 52,
+    "power": 55.7,
     "window": {
      "open": 20,
      "left": 2,
@@ -81911,10 +81935,16 @@
       "have": 2
      },
      {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
+     {
       "pos": "OF",
       "lv": "부족",
       "slots": 3,
-      "have": 1
+      "have": 2
      },
      {
       "pos": "DH",
@@ -82091,9 +82121,9 @@
     "stanceLabel": "리빌딩",
     "stanceWhy": {
      "cont": 1,
-     "core": 6,
-     "avgAge": 26.5,
-     "payRatio": 0.6758620689655173,
+     "core": 7,
+     "avgAge": 27.1,
+     "payRatio": 0.7793103448275862,
      "farm": 9,
      "farmTop": 3,
      "recent": 10,
@@ -82101,8 +82131,8 @@
     },
     "appeal": 0.82,
     "market": "중형",
-    "free": 47,
-    "power": 50.8,
+    "free": 32,
+    "power": 50.5,
     "window": {
      "open": 20,
      "left": 2,
@@ -85547,7 +85577,7 @@
     "pos": "RP",
     "tier": "코어",
     "age": 34,
-    "team": "워리어스",
+    "team": "다이너마이트",
     "power": 1.3,
     "asset": {
      "value": 1.5,
@@ -86378,7 +86408,7 @@
     "pos": "OF",
     "tier": "레귤러",
     "age": 24,
-    "team": "다이너마이트",
+    "team": "워리어스",
     "power": 1.6,
     "asset": {
      "value": 2.6,
