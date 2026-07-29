@@ -18647,7 +18647,7 @@
     "변화구"
    ],
    "weaknesses": [],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 1,
@@ -20454,7 +20454,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "4선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": 11,
    "draftRound": 1,
@@ -26125,7 +26125,7 @@
    "id": "p243",
    "name": "린더바움",
    "team": "재즈",
-   "pos": "OF",
+   "pos": "DH",
    "tier": "레귤러",
    "age": 27,
    "number": "22",
@@ -26148,7 +26148,9 @@
     "수비 범위"
    ],
    "role": "3번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "bad",
    "draftSeason": 13,
    "draftRound": 1,
@@ -29227,7 +29229,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "2번",
+   "role": "9번",
    "subPositions": [],
    "form": "bad",
    "draftSeason": 17,
@@ -30020,7 +30022,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "2번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -30437,7 +30439,7 @@
     "수비 안정성",
     "파워"
    ],
-   "role": "",
+   "role": "2번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -30851,7 +30853,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "7번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -31006,7 +31008,7 @@
     "주루",
     "수비 안정성"
    ],
-   "role": "",
+   "role": "7번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -79942,7 +79944,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785300639201
+   "ts": 1785300699582
   },
   "teams": {
    "프린스": {
@@ -82693,11 +82695,6 @@
       "pos": "3B",
       "lv": "공백",
       "slots": 1
-     },
-     {
-      "pos": "DH",
-      "lv": "공백",
-      "slots": 1
      }
     ],
     "picks": [
@@ -83128,12 +83125,6 @@
      "note": ""
     },
     "needs": [
-     {
-      "pos": "1·2선발",
-      "lv": "부족",
-      "slots": 2,
-      "have": 1
-     },
      {
       "pos": "RP",
       "lv": "공백",
@@ -86213,7 +86204,7 @@
    },
    "p243": {
     "name": "린더바움",
-    "pos": "OF",
+    "pos": "DH",
     "tier": "레귤러",
     "age": 27,
     "team": "재즈",
