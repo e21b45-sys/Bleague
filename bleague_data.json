@@ -20817,7 +20817,7 @@
    "weaknesses": [
     "선구안"
    ],
-   "role": "2번",
+   "role": "1번",
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 4,
@@ -21710,7 +21710,7 @@
    "weaknesses": [
     "수비 안정성"
    ],
-   "role": "5번",
+   "role": "3번",
    "subPositions": [],
    "draftSeason": 12,
    "draftRound": 2,
@@ -25129,7 +25129,7 @@
     "파워",
     "주루"
    ],
-   "role": "",
+   "role": "4번",
    "subPositions": [],
    "form": "good",
    "draftSeason": 9,
@@ -25476,7 +25476,7 @@
     "파워",
     "선구안"
    ],
-   "role": "1번",
+   "role": "2번",
    "subPositions": [],
    "form": "",
    "draftSeason": 15,
@@ -30362,7 +30362,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "3번",
+   "role": "9번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -80064,7 +80064,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785304909454
+   "ts": 1785305006773
   },
   "teams": {
    "프린스": {
