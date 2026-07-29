@@ -21686,7 +21686,7 @@
   "p182": {
    "id": "p182",
    "name": "무노스",
-   "team": "트레일 블레이저스",
+   "team": "라이언즈",
    "pos": "1B",
    "tier": "코어",
    "age": 30,
@@ -21750,6 +21750,10 @@
     {
      "season": 19,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 20,
+     "team": "라이언즈"
     }
    ],
    "hof": null,
@@ -34079,7 +34083,7 @@
   "p452": {
    "id": "p452",
    "name": "오노",
-   "team": "라이언즈",
+   "team": "트레일 블레이저스",
    "pos": "OF",
    "tier": "D리그",
    "age": 18,
@@ -34102,7 +34106,7 @@
    "teamHistory": [
     {
      "season": 20,
-     "team": "라이언즈"
+     "team": "트레일 블레이저스"
     }
    ],
    "titles": [],
@@ -77567,7 +77571,8 @@
     "스틸러스_1": "재즈",
     "마린즈_1": "버커니어스",
     "타이거즈_1": "버커니어스",
-    "에스트로너츠_2": "트레일 블레이저스"
+    "에스트로너츠_2": "트레일 블레이저스",
+    "라이언즈_2": "트레일 블레이저스"
    },
    "penalties": {}
   },
@@ -77597,7 +77602,8 @@
     "프린스_2": "타이거즈",
     "프린스_3": "타이거즈",
     "프린스_5": "타이거즈",
-    "마린즈_1": "타이거즈"
+    "마린즈_1": "타이거즈",
+    "라이언즈_2": "트레일 블레이저스"
    },
    "penalties": {}
   },
@@ -78304,6 +78310,46 @@
      "origin": "에스트로너츠"
     },
     "from": "에스트로너츠",
+    "to": "트레일 블레이저스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p452",
+    "from": "라이언즈",
+    "to": "트레일 블레이저스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p182",
+    "from": "트레일 블레이저스",
+    "to": "라이언즈",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "pick": {
+     "season": 21,
+     "round": 2,
+     "origin": "라이언즈"
+    },
+    "from": "라이언즈",
+    "to": "트레일 블레이저스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "pick": {
+     "season": 22,
+     "round": 2,
+     "origin": "라이언즈"
+    },
+    "from": "라이언즈",
     "to": "트레일 블레이저스",
     "applied": true,
     "multi": true
@@ -80019,7 +80065,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785304642018
+   "ts": 1785304791451
   },
   "teams": {
    "프린스": {
@@ -80184,10 +80230,10 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 1,
-     "core": 8,
-     "avgAge": 29.3,
+     "core": 9,
+     "avgAge": 29.4,
      "payRatio": 0.9024390243902439,
-     "farm": 4,
+     "farm": 3,
      "farmTop": 0,
      "recent": 7,
      "avgRk": 4
@@ -80195,7 +80241,7 @@
     "appeal": 1.28,
     "market": "빅마켓",
     "free": 17,
-    "power": 48.9,
+    "power": 51.4,
     "window": {
      "open": 20,
      "left": 2,
@@ -80207,11 +80253,6 @@
       "lv": "부족",
       "slots": 3,
       "have": 2
-     },
-     {
-      "pos": "1B",
-      "lv": "공백",
-      "slots": 1
      },
      {
       "pos": "DH",
@@ -80226,13 +80267,6 @@
       "origin": "라이언즈",
       "own": true,
       "value": 3.31
-     },
-     {
-      "season": 21,
-      "round": 2,
-      "origin": "라이언즈",
-      "own": true,
-      "value": 0.96
      },
      {
       "season": 21,
@@ -80261,13 +80295,6 @@
       "origin": "라이언즈",
       "own": true,
       "value": 3.14
-     },
-     {
-      "season": 22,
-      "round": 2,
-      "origin": "라이언즈",
-      "own": true,
-      "value": 0.91
      },
      {
       "season": 22,
@@ -81441,10 +81468,10 @@
     "stanceLabel": "관망",
     "stanceWhy": {
      "cont": 0,
-     "core": 6,
-     "avgAge": 27.5,
+     "core": 5,
+     "avgAge": 27.4,
      "payRatio": 0.5238095238095238,
-     "farm": 5,
+     "farm": 6,
      "farmTop": 2,
      "recent": 8,
      "avgRk": 7.3
@@ -81452,7 +81479,7 @@
     "appeal": 0.86,
     "market": "스몰마켓",
     "free": 45,
-    "power": 30.1,
+    "power": 27.6,
     "window": {
      "open": 20,
      "left": 2,
@@ -81478,6 +81505,13 @@
       "origin": "트레일 블레이저스",
       "own": true,
       "value": 3.31
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "라이언즈",
+      "own": false,
+      "value": 0.96
      },
      {
       "season": 21,
@@ -81520,6 +81554,13 @@
       "origin": "트레일 블레이저스",
       "own": true,
       "value": 3.14
+     },
+     {
+      "season": 22,
+      "round": 2,
+      "origin": "라이언즈",
+      "own": false,
+      "value": 0.91
      },
      {
       "season": 22,
@@ -85410,7 +85451,7 @@
     "pos": "1B",
     "tier": "코어",
     "age": 30,
-    "team": "트레일 블레이저스",
+    "team": "라이언즈",
     "power": 2.5,
     "asset": {
      "value": 3.7,
@@ -88122,7 +88163,7 @@
     "pos": "OF",
     "tier": "D리그",
     "age": 18,
-    "team": "라이언즈",
+    "team": "트레일 블레이저스",
     "power": 0,
     "prospect": true,
     "value": 1.6
@@ -88413,15 +88454,15 @@
     },
     {
      "rank": 5,
-     "team": "챌린저스",
-     "score": 281,
-     "prospects": 7
+     "team": "트레일 블레이저스",
+     "score": 285,
+     "prospects": 6
     },
     {
      "rank": 6,
-     "team": "트레일 블레이저스",
-     "score": 233,
-     "prospects": 5
+     "team": "챌린저스",
+     "score": 281,
+     "prospects": 7
     },
     {
      "rank": 7,
@@ -88461,21 +88502,21 @@
     },
     {
      "rank": 13,
-     "team": "라이언즈",
-     "score": 128,
-     "prospects": 4
-    },
-    {
-     "rank": 14,
      "team": "스틸러스",
      "score": 127,
      "prospects": 6
     },
     {
-     "rank": 15,
+     "rank": 14,
      "team": "다이노스",
      "score": 117,
      "prospects": 2
+    },
+    {
+     "rank": 15,
+     "team": "라이언즈",
+     "score": 76,
+     "prospects": 3
     },
     {
      "rank": 16,
@@ -88872,7 +88913,7 @@
     {
      "rank": 33,
      "name": "오노",
-     "team": "라이언즈",
+     "team": "트레일 블레이저스",
      "pos": "OF",
      "tier": "D리그",
      "age": 18,
