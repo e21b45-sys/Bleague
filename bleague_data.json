@@ -24609,7 +24609,7 @@
   "p220": {
    "id": "p220",
    "name": "토마스",
-   "team": "트레일 블레이저스",
+   "team": "에스트로너츠",
    "pos": "RP",
    "tier": "코어",
    "age": 28,
@@ -24663,6 +24663,10 @@
     {
      "season": 19,
      "team": "트레일 블레이저스"
+    },
+    {
+     "season": 20,
+     "team": "에스트로너츠"
     }
    ],
    "hof": null,
@@ -25096,7 +25100,7 @@
   "p226": {
    "id": "p226",
    "name": "허핀",
-   "team": "에스트로너츠",
+   "team": "트레일 블레이저스",
    "pos": "1B",
    "tier": "레귤러",
    "age": 31,
@@ -25179,6 +25183,10 @@
     {
      "season": 19,
      "team": "에스트로너츠"
+    },
+    {
+     "season": 20,
+     "team": "트레일 블레이저스"
     }
    ],
    "hof": null,
@@ -77558,7 +77566,8 @@
     "버커니어스_3": "다이너마이트",
     "스틸러스_1": "재즈",
     "마린즈_1": "버커니어스",
-    "타이거즈_1": "버커니어스"
+    "타이거즈_1": "버커니어스",
+    "에스트로너츠_2": "트레일 블레이저스"
    },
    "penalties": {}
   },
@@ -78270,6 +78279,34 @@
     "to": "스틸러스",
     "applied": true,
     "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p226",
+    "from": "에스트로너츠",
+    "to": "트레일 블레이저스",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "playerId": "p220",
+    "from": "트레일 블레이저스",
+    "to": "에스트로너츠",
+    "applied": true,
+    "multi": true
+   },
+   {
+    "kind": "trade",
+    "pick": {
+     "season": 21,
+     "round": 2,
+     "origin": "에스트로너츠"
+    },
+    "from": "에스트로너츠",
+    "to": "트레일 블레이저스",
+    "applied": true,
+    "multi": true
    }
   ],
   "teamNotes": {
@@ -78787,7 +78824,7 @@
    "c": "p100",
    "vc": [
     "p97",
-    "p226",
+    "",
     ""
    ]
   },
@@ -79982,7 +80019,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785304364291
+   "ts": 1785304642018
   },
   "teams": {
    "프린스": {
@@ -81002,20 +81039,14 @@
     "stanceWhy": null,
     "appeal": 1.41,
     "market": "빅마켓",
-    "free": 90,
-    "power": 65.5,
+    "free": 100,
+    "power": 65.1,
     "window": {
      "open": 20,
      "left": 2,
      "note": ""
     },
     "needs": [
-     {
-      "pos": "RP",
-      "lv": "부족",
-      "slots": 2,
-      "have": 1
-     },
      {
       "pos": "3B",
       "lv": "공백",
@@ -81029,13 +81060,6 @@
       "origin": "에스트로너츠",
       "own": true,
       "value": 3.31
-     },
-     {
-      "season": 21,
-      "round": 2,
-      "origin": "에스트로너츠",
-      "own": true,
-      "value": 0.96
      },
      {
       "season": 21,
@@ -81417,9 +81441,9 @@
     "stanceLabel": "관망",
     "stanceWhy": {
      "cont": 0,
-     "core": 7,
-     "avgAge": 27.3,
-     "payRatio": 0.42857142857142855,
+     "core": 6,
+     "avgAge": 27.5,
+     "payRatio": 0.5238095238095238,
      "farm": 5,
      "farmTop": 2,
      "recent": 8,
@@ -81428,13 +81452,19 @@
     "appeal": 0.86,
     "market": "스몰마켓",
     "free": 45,
-    "power": 29.7,
+    "power": 30.1,
     "window": {
      "open": 20,
      "left": 2,
      "note": ""
     },
     "needs": [
+     {
+      "pos": "RP",
+      "lv": "부족",
+      "slots": 2,
+      "have": 1
+     },
      {
       "pos": "DH",
       "lv": "공백",
@@ -81448,6 +81478,13 @@
       "origin": "트레일 블레이저스",
       "own": true,
       "value": 3.31
+     },
+     {
+      "season": 21,
+      "round": 2,
+      "origin": "에스트로너츠",
+      "own": false,
+      "value": 0.96
      },
      {
       "season": 21,
@@ -85915,7 +85952,7 @@
     "pos": "RP",
     "tier": "코어",
     "age": 28,
-    "team": "트레일 블레이저스",
+    "team": "에스트로너츠",
     "power": 1.3,
     "asset": {
      "value": 2.5,
@@ -85999,7 +86036,7 @@
     "pos": "1B",
     "tier": "레귤러",
     "age": 31,
-    "team": "에스트로너츠",
+    "team": "트레일 블레이저스",
     "power": 1.6,
     "asset": {
      "value": 2,
