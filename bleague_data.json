@@ -16030,7 +16030,7 @@
    "pos": "RP",
    "tier": "레귤러",
    "age": 34,
-   "number": "30",
+   "number": "33",
    "debutSeason": 7,
    "debutHalf": "전반기",
    "trait": "",
@@ -16151,7 +16151,7 @@
    "pos": "DH",
    "tier": "엘리트",
    "age": 34,
-   "number": "10",
+   "number": "5",
    "debutSeason": 8,
    "debutHalf": "전반기",
    "trait": "",
@@ -16632,7 +16632,7 @@
    "pos": "SP",
    "tier": "레귤러",
    "age": 32,
-   "number": "2",
+   "number": "16",
    "debutSeason": 9,
    "debutHalf": "전반기",
    "trait": "",
@@ -17047,7 +17047,7 @@
     "구속",
     "경기운영"
    ],
-   "role": "1선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": 9,
    "draftRound": 1,
@@ -23631,7 +23631,7 @@
     "구위",
     "이닝"
    ],
-   "role": "2선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": 12,
    "draftRound": 5,
@@ -29181,7 +29181,7 @@
    "weaknesses": [
     "구위"
    ],
-   "role": "",
+   "role": "셋업",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -29265,7 +29265,7 @@
    "id": "p296",
    "name": "코체트코프",
    "team": "챌린저스",
-   "pos": "SP",
+   "pos": "RP",
    "tier": "레귤러",
    "age": 23,
    "number": "21",
@@ -29287,7 +29287,7 @@
    "weaknesses": [
     "변화구"
    ],
-   "role": "5선발",
+   "role": "추격조",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -29611,7 +29611,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "",
+   "role": "추격조",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -30552,7 +30552,7 @@
     "제구",
     "경기운영"
    ],
-   "role": "4선발",
+   "role": "5선발",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -79946,7 +79946,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785300851982
+   "ts": 1785300962215
   },
   "teams": {
    "프린스": {
@@ -80795,12 +80795,6 @@
      "note": ""
     },
     "needs": [
-     {
-      "pos": "3~5선발",
-      "lv": "부족",
-      "slots": 3,
-      "have": 2
-     },
      {
       "pos": "DH",
       "lv": "공백",
@@ -82227,19 +82221,13 @@
     "appeal": 0.73,
     "market": "중형",
     "free": 52,
-    "power": 28.7,
+    "power": 27.7,
     "window": {
      "open": 20,
      "left": 2,
      "note": ""
     },
     "needs": [
-     {
-      "pos": "RP",
-      "lv": "부족",
-      "slots": 2,
-      "have": 1
-     },
      {
       "pos": "2B",
       "lv": "공백",
@@ -86939,14 +86927,14 @@
    },
    "p296": {
     "name": "코체트코프",
-    "pos": "SP",
+    "pos": "RP",
     "tier": "레귤러",
     "age": 23,
     "team": "챌린저스",
-    "power": 1.8,
+    "power": 0.8,
     "asset": {
-     "value": 3.3,
-     "grade": "C",
+     "value": 1.4,
+     "grade": "D",
      "left": 6,
      "effM": 1.6
     }
