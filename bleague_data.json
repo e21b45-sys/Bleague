@@ -18427,7 +18427,12 @@
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 1,
-   "contract": null,
+   "contract": {
+    "startSeason": 20,
+    "endSeason": 26,
+    "total": 210,
+    "options": []
+   },
    "contractHistory": [],
    "awards": [],
    "titles": 0,
@@ -79311,7 +79316,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785252427521
+   "ts": 1785291718411
   },
   "teams": {
    "프린스": {
@@ -81053,7 +81058,7 @@
      "cont": 0,
      "core": 5,
      "avgAge": 29.8,
-     "payRatio": 0.6041666666666666,
+     "payRatio": 0.7291666666666666,
      "farm": 3,
      "farmTop": 1,
      "recent": 4,
@@ -81061,7 +81066,7 @@
     },
     "appeal": 1.35,
     "market": "빅마켓",
-    "free": 95,
+    "free": 65,
     "power": 49.8,
     "window": {
      "open": 20,
@@ -84346,10 +84351,10 @@
     "team": "데빌스",
     "power": 8.1,
     "asset": {
-     "value": 12,
-     "grade": "A",
-     "left": 1,
-     "effM": 1.6
+     "value": 12.3,
+     "grade": "S",
+     "left": 7,
+     "effM": 0.92
     }
    },
    "p148": {
@@ -88263,7 +88268,7 @@
     "pos": "SP",
     "tier": "엘리트",
     "age": 33,
-    "rarity": 1.04,
+    "rarity": 1.13,
     "expContract": {
      "years": 5,
      "aav": 24.5,
@@ -88276,7 +88281,7 @@
       "lv": "공백",
       "win": 0.3,
       "focus": 33,
-      "real": 10.6
+      "real": 11.4
      },
      {
       "team": "라이언즈",
@@ -88284,7 +88289,7 @@
       "lv": "부족",
       "win": 0.26,
       "focus": 25,
-      "real": 6.7
+      "real": 7.2
      },
      {
       "team": "마린즈",
@@ -88292,7 +88297,7 @@
       "lv": "부족",
       "win": 0.27,
       "focus": 7,
-      "real": 2.1
+      "real": 2.3
      },
      {
       "team": "다이노스",
@@ -88300,7 +88305,7 @@
       "lv": "부족",
       "win": 0.04,
       "focus": 16,
-      "real": 0.7
+      "real": 0.8
      },
      {
       "team": "워리어스",
@@ -88308,7 +88313,7 @@
       "lv": "부족",
       "win": 0.13,
       "focus": 5,
-      "real": 0.6
+      "real": 0.7
      }
     ],
     "altFA": [],
@@ -88322,8 +88327,8 @@
       "team": "마린즈"
      },
      {
-      "name": "커비",
-      "team": "데빌스"
+      "name": "폰",
+      "team": "버커니어스"
      }
     ]
    },
