@@ -17220,7 +17220,7 @@
    "id": "p134",
    "name": "필립",
    "team": "다이노스",
-   "pos": "SS",
+   "pos": "3B",
    "tier": "레귤러",
    "age": 30,
    "number": "15",
@@ -17242,9 +17242,9 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "5번",
+   "role": "8번",
    "subPositions": [
-    "3B"
+    "SS"
    ],
    "draftSeason": 9,
    "draftRound": 1,
@@ -19352,7 +19352,7 @@
    "id": "p156",
    "name": "해밀턴",
    "team": "마린즈",
-   "pos": "SS",
+   "pos": "3B",
    "tier": "코어",
    "age": 31,
    "number": "50",
@@ -19379,7 +19379,8 @@
    ],
    "role": "9번",
    "subPositions": [
-    "2B"
+    "2B",
+    "SS"
    ],
    "draftSeason": 9,
    "draftRound": 6,
@@ -22651,7 +22652,7 @@
     "갭",
     "수비 안정성"
    ],
-   "role": "1번",
+   "role": "5번",
    "subPositions": [],
    "draftSeason": 12,
    "draftRound": 3,
@@ -28468,7 +28469,7 @@
    "weaknesses": [
     "수비 범위"
    ],
-   "role": "",
+   "role": "1번",
    "subPositions": [],
    "form": "",
    "draftSeason": 17,
@@ -30947,7 +30948,7 @@
     "송구",
     "파워"
    ],
-   "role": "",
+   "role": "6번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -79935,7 +79936,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785300369680
+   "ts": 1785300433393
   },
   "teams": {
    "프린스": {
@@ -80789,11 +80790,6 @@
       "lv": "부족",
       "slots": 3,
       "have": 2
-     },
-     {
-      "pos": "3B",
-      "lv": "공백",
-      "slots": 1
      },
      {
       "pos": "DH",
@@ -84732,7 +84728,7 @@
    },
    "p134": {
     "name": "필립",
-    "pos": "SS",
+    "pos": "3B",
     "tier": "레귤러",
     "age": 30,
     "team": "다이노스",
@@ -85013,7 +85009,7 @@
    },
    "p156": {
     "name": "해밀턴",
-    "pos": "SS",
+    "pos": "3B",
     "tier": "코어",
     "age": 31,
     "team": "마린즈",
