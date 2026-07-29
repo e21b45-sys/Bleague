@@ -15604,7 +15604,7 @@
    "pos": "3B",
    "tier": "엘리트",
    "age": 32,
-   "number": "12",
+   "number": "10",
    "debutSeason": 9,
    "debutHalf": "전반기",
    "trait": "",
@@ -20542,7 +20542,7 @@
     "구속",
     "경기운영"
    ],
-   "role": "2선발",
+   "role": "3선발",
    "subPositions": [],
    "draftSeason": 9,
    "draftRound": 2,
@@ -23176,7 +23176,7 @@
     "제구",
     "내구성"
    ],
-   "role": "1선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": 13,
    "draftRound": 1,
@@ -24100,7 +24100,7 @@
    "weaknesses": [
     "제구"
    ],
-   "role": "3선발",
+   "role": "2선발",
    "subPositions": [],
    "draftSeason": 14,
    "draftRound": 1,
@@ -24843,7 +24843,7 @@
    "pos": "SP",
    "tier": "레귤러",
    "age": 30,
-   "number": "12",
+   "number": "3",
    "debutSeason": 14,
    "debutHalf": "전반기",
    "trait": "",
@@ -26223,7 +26223,7 @@
     "제구",
     "좌우 상대"
    ],
-   "role": "4선발",
+   "role": "1선발",
    "subPositions": [],
    "form": "good",
    "draftSeason": 15,
@@ -30733,7 +30733,7 @@
    "id": "p324",
    "name": "파웰",
    "team": "세이버스",
-   "pos": "SP",
+   "pos": "RP",
    "tier": "레귤러",
    "age": 24,
    "number": "29",
@@ -30747,17 +30747,13 @@
    "style": "",
    "strength": "",
    "weakness": "",
-   "ptype": "땅볼형",
-   "strengths": [
-    "구속",
-    "경기운영",
-    "이닝"
+   "ptype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "role": "추격조",
+   "subPositions": [
+    "SP"
    ],
-   "weaknesses": [
-    "제구"
-   ],
-   "role": "",
-   "subPositions": [],
    "form": "",
    "draftSeason": 18,
    "draftRound": 2,
@@ -79950,7 +79946,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785300791032
+   "ts": 1785300851982
   },
   "teams": {
    "프린스": {
@@ -82911,19 +82907,13 @@
     "appeal": 0.73,
     "market": "스몰마켓",
     "free": 53,
-    "power": 35.7,
+    "power": 34.7,
     "window": {
      "open": 20,
      "left": 2,
      "note": ""
     },
     "needs": [
-     {
-      "pos": "RP",
-      "lv": "부족",
-      "slots": 2,
-      "have": 1
-     },
      {
       "pos": "2B",
       "lv": "공백",
@@ -87309,14 +87299,14 @@
    },
    "p324": {
     "name": "파웰",
-    "pos": "SP",
+    "pos": "RP",
     "tier": "레귤러",
     "age": 24,
     "team": "세이버스",
-    "power": 1.8,
+    "power": 0.8,
     "asset": {
-     "value": 3.3,
-     "grade": "C",
+     "value": 1.4,
+     "grade": "D",
      "left": 6,
      "effM": 1.6
     }
