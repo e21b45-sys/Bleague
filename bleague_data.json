@@ -10122,7 +10122,7 @@
    "pos": "SP",
    "tier": "엘리트",
    "age": 38,
-   "number": "11",
+   "number": "1",
    "debutSeason": 2,
    "debutHalf": "후반기",
    "trait": "",
@@ -12997,7 +12997,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "1선발",
+   "role": "2선발",
    "subPositions": [],
    "form": ""
   },
@@ -15376,7 +15376,7 @@
      "note": "손목"
     }
    ],
-   "role": "2선발",
+   "role": "1선발",
    "subPositions": [],
    "form": "bad"
   },
@@ -16433,7 +16433,7 @@
    ],
    "hof": null,
    "injuries": [],
-   "role": "3번",
+   "role": "4번",
    "subPositions": [],
    "form": ""
   },
@@ -18823,7 +18823,7 @@
    "weaknesses": [
     "구속"
    ],
-   "role": "3선발",
+   "role": "4선발",
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 1,
@@ -20810,7 +20810,7 @@
    "weaknesses": [
     "선구안"
    ],
-   "role": "1번",
+   "role": "2번",
    "subPositions": [],
    "draftSeason": 10,
    "draftRound": 4,
@@ -25451,7 +25451,7 @@
     "파워",
     "선구안"
    ],
-   "role": "2번",
+   "role": "1번",
    "subPositions": [],
    "form": "",
    "draftSeason": 15,
@@ -30327,7 +30327,7 @@
    "weaknesses": [
     "파워"
    ],
-   "role": "",
+   "role": "3번",
    "subPositions": [],
    "form": "",
    "draftSeason": 18,
@@ -79935,7 +79935,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785300235255
+   "ts": 1785300303417
   },
   "teams": {
    "프린스": {
