@@ -34325,7 +34325,7 @@
    "style": "",
    "strength": "",
    "weakness": "",
-   "ptype": "거포형",
+   "ptype": "",
    "strengths": [],
    "weaknesses": [],
    "role": "",
@@ -77989,7 +77989,8 @@
     ],
     "races": {
      "MVP": [
-      "p202"
+      "p202",
+      "p165"
      ],
      "BP": [
       "p131"
@@ -78022,7 +78023,8 @@
     "from": "재즈",
     "to": "마린즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78030,7 +78032,8 @@
     "from": "마린즈",
     "to": "스틸러스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78038,7 +78041,8 @@
     "from": "스틸러스",
     "to": "재즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78046,7 +78050,8 @@
     "from": "마린즈",
     "to": "재즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78058,7 +78063,8 @@
     "from": "스틸러스",
     "to": "재즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78070,7 +78076,8 @@
     "from": "마린즈",
     "to": "재즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -78118,7 +78125,8 @@
     "from": "마린즈",
     "to": "타이거즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78126,7 +78134,8 @@
     "from": "타이거즈",
     "to": "마린즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78138,7 +78147,8 @@
     "from": "마린즈",
     "to": "타이거즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78150,7 +78160,8 @@
     "from": "마린즈",
     "to": "타이거즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -78174,7 +78185,8 @@
     "from": "버커니어스",
     "to": "타이거즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78182,7 +78194,8 @@
     "from": "타이거즈",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78194,7 +78207,8 @@
     "from": "타이거즈",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78206,7 +78220,8 @@
     "from": "타이거즈",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78218,7 +78233,8 @@
     "from": "타이거즈",
     "to": "버커니어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "fa",
@@ -78378,7 +78394,8 @@
     "from": "스틸러스",
     "to": "타이거즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78386,7 +78403,8 @@
     "from": "타이거즈",
     "to": "스틸러스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78394,7 +78412,8 @@
     "from": "타이거즈",
     "to": "스틸러스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78402,7 +78421,8 @@
     "from": "에스트로너츠",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78410,7 +78430,8 @@
     "from": "트레일 블레이저스",
     "to": "에스트로너츠",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78422,7 +78443,8 @@
     "from": "에스트로너츠",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78430,7 +78452,8 @@
     "from": "라이언즈",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78438,7 +78461,8 @@
     "from": "트레일 블레이저스",
     "to": "라이언즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78450,7 +78474,8 @@
     "from": "라이언즈",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78462,7 +78487,8 @@
     "from": "라이언즈",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78470,7 +78496,8 @@
     "from": "워리어스",
     "to": "다이너마이트",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78478,7 +78505,8 @@
     "from": "다이너마이트",
     "to": "워리어스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78486,7 +78514,8 @@
     "from": "마린즈",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78494,7 +78523,8 @@
     "from": "트레일 블레이저스",
     "to": "마린즈",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    },
    {
     "kind": "trade",
@@ -78506,7 +78536,8 @@
     "from": "마린즈",
     "to": "트레일 블레이저스",
     "applied": true,
-    "multi": true
+    "multi": true,
+    "ret": []
    }
   ],
   "teamNotes": {
@@ -80219,7 +80250,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785329034955
+   "ts": 1785392237783
   },
   "teams": {
    "프린스": {
@@ -88413,7 +88444,7 @@
     },
     {
      "name": "아일린",
-     "team": "FA",
+     "team": "라이언즈",
      "pos": "SP",
      "total": 137,
      "hof": false
@@ -88427,8 +88458,8 @@
     },
     {
      "name": "에반",
-     "team": "FA",
-     "pos": "SS",
+     "team": "에스트로너츠",
+     "pos": "1B",
      "total": 122.3,
      "hof": false
     },
@@ -88469,14 +88500,14 @@
     },
     {
      "name": "세르히오",
-     "team": "FA",
+     "team": "마린즈",
      "pos": "SP",
      "total": 89,
      "hof": false
     },
     {
      "name": "마자르",
-     "team": "타이거즈",
+     "team": "마린즈",
      "pos": "OF",
      "total": 87.2,
      "hof": false
@@ -88484,7 +88515,7 @@
     {
      "name": "포셔",
      "team": "타이거즈",
-     "pos": "1B",
+     "pos": "DH",
      "total": 79.8,
      "hof": false
     },
