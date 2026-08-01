@@ -77995,7 +77995,8 @@
      ],
      "BP": [
       "p131",
-      "p147"
+      "p260",
+      "p151"
      ],
      "ROOKIE": [
       "p280",
@@ -78005,7 +78006,18 @@
     },
     "potmBat": "p202",
     "potmPit": "p131",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p98",
+      "note": "",
+      "months": 11
+     },
+     {
+      "playerId": "",
+      "note": "",
+      "months": 1
+     }
+    ]
    },
    "5": {
     "standings": [],
@@ -80257,7 +80269,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785590319107
+   "ts": 1785590391467
   },
   "teams": {
    "프린스": {
