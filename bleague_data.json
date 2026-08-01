@@ -78013,14 +78013,61 @@
       "months": 11
      },
      {
-      "playerId": "",
+      "playerId": "p219",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p294",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p97",
+      "note": "",
+      "months": 2
+     },
+     {
+      "playerId": "p111",
+      "note": "",
+      "months": 3
+     },
+     {
+      "playerId": "p236",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p155",
+      "note": "",
+      "months": 1
+     },
+     {
+      "playerId": "p177",
       "note": "",
       "months": 1
      }
     ]
    },
    "5": {
-    "standings": [],
+    "standings": [
+     "마린즈",
+     "에스트로너츠",
+     "라이언즈",
+     "프린스",
+     "스틸러스",
+     "타이거즈",
+     "데빌스",
+     "다이너마이트",
+     "다이노스",
+     "워리어스",
+     "이글즈",
+     "재즈",
+     "트레일 블레이저스",
+     "챌린저스",
+     "버커니어스",
+     "세이버스"
+    ],
     "races": {},
     "potmBat": "",
     "potmPit": "",
@@ -80269,7 +80316,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785590391467
+   "ts": 1785590467863
   },
   "teams": {
    "프린스": {
