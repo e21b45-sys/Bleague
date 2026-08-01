@@ -34412,6 +34412,1705 @@
    "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "모험"
+  },
+  "p460": {
+   "id": "p460",
+   "name": "모랄레스",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "수비형",
+   "strengths": [
+    "선구안",
+    "갭"
+   ],
+   "weaknesses": [
+    "수비 범위"
+   ],
+   "traits": [
+    "새가슴"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "모험"
+  },
+  "p461": {
+   "id": "p461",
+   "name": "넬슨",
+   "team": "드래프티",
+   "pos": "2B",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "정교형",
+   "strengths": [
+    "갭"
+   ],
+   "weaknesses": [
+    "송구"
+   ],
+   "traits": [
+    "유리몸"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "엘리트",
+   "risk": "보통"
+  },
+  "p462": {
+   "id": "p462",
+   "name": "하르트만",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "거포형",
+   "strengths": [
+    "갭"
+   ],
+   "weaknesses": [
+    "컨택"
+   ],
+   "traits": [
+    "루틴 집착"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "안전"
+  },
+  "p463": {
+   "id": "p463",
+   "name": "마리니",
+   "team": "드래프티",
+   "pos": "3B",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "ptype": "만능형",
+   "strengths": [
+    "파워",
+    "작전수행"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "리더"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "보통"
+  },
+  "p464": {
+   "id": "p464",
+   "name": "슈뢰더",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "거포형",
+   "strengths": [
+    "선구안",
+    "컨택"
+   ],
+   "weaknesses": [
+    "수비 범위"
+   ],
+   "traits": [
+    "스타"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p465": {
+   "id": "p465",
+   "name": "토레스",
+   "team": "드래프티",
+   "pos": "2B",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "수비형",
+   "strengths": [
+    "수비 안정성",
+    "송구"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "더티 플레이어"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p466": {
+   "id": "p466",
+   "name": "페트로프",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "강속형",
+   "strengths": [
+    "제구",
+    "이닝"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "traits": [
+    "베테랑"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "보통"
+  },
+  "p467": {
+   "id": "p467",
+   "name": "그레코",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "변칙형",
+   "strengths": [
+    "위기관리"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "traits": [
+    "더티 플레이어"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p468": {
+   "id": "p468",
+   "name": "브룩스",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "호타준족",
+   "strengths": [
+    "송구"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "꾸준함"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "엘리트",
+   "risk": "안전"
+  },
+  "p469": {
+   "id": "p469",
+   "name": "휘트필드",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "출루형",
+   "strengths": [
+    "갭"
+   ],
+   "weaknesses": [
+    "컨택"
+   ],
+   "traits": [
+    "소극적"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "모험"
+  },
+  "p470": {
+   "id": "p470",
+   "name": "야마모토",
+   "team": "드래프티",
+   "pos": "1B",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "정교형",
+   "strengths": [
+    "컨택"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "이기적"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "안전"
+  },
+  "p471": {
+   "id": "p471",
+   "name": "슈나이더",
+   "team": "드래프티",
+   "pos": "1B",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "ptype": "호타준족",
+   "strengths": [
+    "갭"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "클러치"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "안전"
+  },
+  "p472": {
+   "id": "p472",
+   "name": "홀리스터",
+   "team": "드래프티",
+   "pos": "C",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "작전수행",
+    "파워"
+   ],
+   "weaknesses": [
+    "수비 범위"
+   ],
+   "traits": [
+    "이기적"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p473": {
+   "id": "p473",
+   "name": "밴크로프트",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "파워",
+    "갭"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "루틴 집착"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p474": {
+   "id": "p474",
+   "name": "케슬러",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "출루형",
+   "strengths": [
+    "파워"
+   ],
+   "weaknesses": [
+    "송구"
+   ],
+   "traits": [
+    "BQ"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p475": {
+   "id": "p475",
+   "name": "비앙키",
+   "team": "드래프티",
+   "pos": "RP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "강속형",
+   "strengths": [
+    "위기관리",
+    "좌우 상대"
+   ],
+   "weaknesses": [
+    "이닝"
+   ],
+   "traits": [
+    "리더"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p476": {
+   "id": "p476",
+   "name": "오코로",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "ptype": "수비형",
+   "strengths": [
+    "수비 안정성",
+    "선구안"
+   ],
+   "weaknesses": [
+    "컨택"
+   ],
+   "traits": [
+    "BQ"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "보통"
+  },
+  "p477": {
+   "id": "p477",
+   "name": "브래드쇼",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "주루형",
+   "strengths": [
+    "수비 안정성",
+    "송구"
+   ],
+   "weaknesses": [
+    "수비 범위"
+   ],
+   "traits": [
+    "빌런"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p478": {
+   "id": "p478",
+   "name": "리히터",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "출루형",
+   "strengths": [
+    "선구안"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "더티 플레이어"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "안전"
+  },
+  "p479": {
+   "id": "p479",
+   "name": "안드레예프",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "땅볼형",
+   "strengths": [
+    "제구"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "traits": [
+    "빅게임 헌터"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p480": {
+   "id": "p480",
+   "name": "린드버그",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "거포형",
+   "strengths": [
+    "수비 안정성",
+    "송구"
+   ],
+   "weaknesses": [
+    "갭"
+   ],
+   "traits": [
+    "성실함"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "안전"
+  },
+  "p481": {
+   "id": "p481",
+   "name": "마르샬",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 23,
+   "number": "",
+   "ptype": "수비형",
+   "strengths": [
+    "컨택",
+    "갭"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "스타"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "보통"
+  },
+  "p482": {
+   "id": "p482",
+   "name": "미하일로프",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "만능형",
+   "strengths": [
+    "주루"
+   ],
+   "weaknesses": [
+    "컨택"
+   ],
+   "traits": [
+    "유리멘탈"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p483": {
+   "id": "p483",
+   "name": "레드먼드",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "변칙형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "위기관리"
+   ],
+   "traits": [
+    "유리멘탈"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p484": {
+   "id": "p484",
+   "name": "비아지",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "변화구형",
+   "strengths": [
+    "제구",
+    "변화구"
+   ],
+   "weaknesses": [
+    "경기운영"
+   ],
+   "traits": [
+    "올드스쿨"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "엘리트",
+   "risk": "모험"
+  },
+  "p485": {
+   "id": "p485",
+   "name": "페도로프",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "주루형",
+   "strengths": [
+    "컨택"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "traits": [
+    "더티 플레이어"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p486": {
+   "id": "p486",
+   "name": "델가도",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "거포형",
+   "strengths": [
+    "선구안",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "송구"
+   ],
+   "traits": [
+    "평범함"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "모험"
+  },
+  "p487": {
+   "id": "p487",
+   "name": "파레데스",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "ptype": "정통파형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "위기관리"
+   ],
+   "traits": [
+    "클러치"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p488": {
+   "id": "p488",
+   "name": "잭슨",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "거포형",
+   "strengths": [
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "로열티"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "보통"
+  },
+  "p489": {
+   "id": "p489",
+   "name": "라자레프",
+   "team": "드래프티",
+   "pos": "3B",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "중장거리형",
+   "strengths": [
+    "컨택"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "유리멘탈"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p490": {
+   "id": "p490",
+   "name": "앤더슨",
+   "team": "드래프티",
+   "pos": "RP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "정통파형",
+   "strengths": [
+    "좌우 상대"
+   ],
+   "weaknesses": [
+    "이닝"
+   ],
+   "traits": [
+    "본헤드"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "안전"
+  },
+  "p491": {
+   "id": "p491",
+   "name": "로마노",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "ptype": "만능형",
+   "strengths": [
+    "컨택"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "traits": [
+    "클러치"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p492": {
+   "id": "p492",
+   "name": "모리스",
+   "team": "드래프티",
+   "pos": "2B",
+   "tier": "C리그",
+   "age": 22,
+   "number": "",
+   "ptype": "주루형",
+   "strengths": [
+    "선구안"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "꾸준함"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "안전"
+  },
+  "p493": {
+   "id": "p493",
+   "name": "스트룀",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "ptype": "탈삼진형",
+   "strengths": [
+    "내구성"
+   ],
+   "weaknesses": [
+    "경기운영"
+   ],
+   "traits": [
+    "4차원"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p494": {
+   "id": "p494",
+   "name": "화이트",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "정교형",
+   "strengths": [
+    "파워"
+   ],
+   "weaknesses": [
+    "갭"
+   ],
+   "traits": [
+    "트러블메이커"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p495": {
+   "id": "p495",
+   "name": "슈바르츠",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "수비형",
+   "strengths": [
+    "파워",
+    "컨택"
+   ],
+   "weaknesses": [
+    "수비 안정성"
+   ],
+   "traits": [
+    "머니캐쳐"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "엘리트",
+   "risk": "안전"
+  },
+  "p496": {
+   "id": "p496",
+   "name": "바티스타",
+   "team": "드래프티",
+   "pos": "C",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "ptype": "출루형",
+   "strengths": [
+    "수비 안정성",
+    "수비 범위"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "유리몸"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "모험"
+  },
+  "p497": {
+   "id": "p497",
+   "name": "영",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "탈삼진형",
+   "strengths": [
+    "구위"
+   ],
+   "weaknesses": [
+    "이닝"
+   ],
+   "traits": [
+    "꾸준함"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "모험"
+  },
+  "p498": {
+   "id": "p498",
+   "name": "호킨스",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "강속형",
+   "strengths": [
+    "경기운영",
+    "위기관리"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "traits": [
+    "팀플레이어"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "컨텐더",
+   "risk": "모험"
+  },
+  "p499": {
+   "id": "p499",
+   "name": "리드",
+   "team": "드래프티",
+   "pos": "RP",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "기교형",
+   "strengths": [
+    "위기관리"
+   ],
+   "weaknesses": [
+    "구위"
+   ],
+   "traits": [
+    "더티 플레이어"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "코어",
+   "risk": "안전"
+  },
+  "p500": {
+   "id": "p500",
+   "name": "폰세카",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "무브먼트형",
+   "strengths": [
+    "구속"
+   ],
+   "weaknesses": [
+    "위기관리"
+   ],
+   "traits": [
+    "루틴 집착"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "보통"
+  },
+  "p501": {
+   "id": "p501",
+   "name": "발렌시아",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "변화구형",
+   "strengths": [
+    "변화구"
+   ],
+   "weaknesses": [
+    "위기관리"
+   ],
+   "traits": [
+    "빅게임 헌터"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "레귤러",
+   "risk": "안전"
+  },
+  "p502": {
+   "id": "p502",
+   "name": "로시",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "강속형",
+   "strengths": [
+    "위기관리",
+    "구위"
+   ],
+   "weaknesses": [
+    "변화구"
+   ],
+   "traits": [
+    "트러블메이커"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "보통"
+  },
+  "p503": {
+   "id": "p503",
+   "name": "로빈슨",
+   "team": "드래프티",
+   "pos": "3B",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "출루형",
+   "strengths": [
+    "수비 범위",
+    "송구"
+   ],
+   "weaknesses": [
+    "선구안"
+   ],
+   "traits": [
+    "천재"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "안전"
+  },
+  "p504": {
+   "id": "p504",
+   "name": "베커",
+   "team": "드래프티",
+   "pos": "OF",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "ptype": "만능형",
+   "strengths": [
+    "파워"
+   ],
+   "weaknesses": [
+    "수비 안정성"
+   ],
+   "traits": [
+    "소극적"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "안전"
+  },
+  "p505": {
+   "id": "p505",
+   "name": "트로피모프",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "C리그",
+   "age": 21,
+   "number": "",
+   "ptype": "호타준족",
+   "strengths": [
+    "갭"
+   ],
+   "weaknesses": [
+    "주루"
+   ],
+   "traits": [
+    "팀플레이어"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "보통"
+  },
+  "p506": {
+   "id": "p506",
+   "name": "셰필드",
+   "team": "드래프티",
+   "pos": "SP",
+   "tier": "D리그",
+   "age": 18,
+   "number": "",
+   "ptype": "강속형",
+   "strengths": [
+    "구속"
+   ],
+   "weaknesses": [
+    "변화구"
+   ],
+   "traits": [
+    "4차원"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "모험"
+  },
+  "p507": {
+   "id": "p507",
+   "name": "레베데프",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 20,
+   "number": "",
+   "ptype": "거포형",
+   "strengths": [
+    "수비 안정성"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
+   "traits": [
+    "천재"
+   ],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "contract": null,
+   "contractHistory": [],
+   "teamHistory": [],
+   "titles": [],
+   "hof": false,
+   "injuries": [],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "awards": [],
+   "draftSeason": null,
+   "draftRound": null,
+   "ceiling": "서브",
+   "risk": "안전"
   }
  },
  "budgets": {
@@ -77870,7 +79569,7 @@
    "abbr": "BUC"
   }
  },
- "_seq": 459,
+ "_seq": 507,
  "prospects": [
   "p457",
   "p438",
@@ -78053,9 +79752,9 @@
     "standings": [
      "마린즈",
      "에스트로너츠",
-     "라이언즈",
      "프린스",
      "스틸러스",
+     "라이언즈",
      "타이거즈",
      "데빌스",
      "다이너마이트",
@@ -80189,7 +81888,56 @@
    "note": ""
   }
  },
- "bigboard": [],
+ "bigboard": [
+  "p468",
+  "p495",
+  "p461",
+  "p490",
+  "p470",
+  "p471",
+  "p499",
+  "p498",
+  "p463",
+  "p476",
+  "p481",
+  "p466",
+  "p484",
+  "p501",
+  "p464",
+  "p465",
+  "p472",
+  "p477",
+  "p479",
+  "p489",
+  "p493",
+  "p474",
+  "p482",
+  "p483",
+  "p491",
+  "p500",
+  "p467",
+  "p473",
+  "p475",
+  "p485",
+  "p487",
+  "p494",
+  "p460",
+  "p469",
+  "p486",
+  "p496",
+  "p497",
+  "p462",
+  "p492",
+  "p478",
+  "p480",
+  "p503",
+  "p504",
+  "p507",
+  "p505",
+  "p488",
+  "p502",
+  "p506"
+ ],
  "market": {
   "base": {
    "컨텐더": 29,
@@ -80316,7 +82064,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785590467863
+   "ts": 1785591088862
   },
   "teams": {
    "프린스": {
@@ -88482,6 +90230,390 @@
     "power": 0,
     "prospect": true,
     "value": 1
+   },
+   "p460": {
+    "name": "모랄레스",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p461": {
+    "name": "넬슨",
+    "pos": "2B",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p462": {
+    "name": "하르트만",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p463": {
+    "name": "마리니",
+    "pos": "3B",
+    "tier": "C리그",
+    "age": 22,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p464": {
+    "name": "슈뢰더",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p465": {
+    "name": "토레스",
+    "pos": "2B",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p466": {
+    "name": "페트로프",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p467": {
+    "name": "그레코",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p468": {
+    "name": "브룩스",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p469": {
+    "name": "휘트필드",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p470": {
+    "name": "야마모토",
+    "pos": "1B",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p471": {
+    "name": "슈나이더",
+    "pos": "1B",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p472": {
+    "name": "홀리스터",
+    "pos": "C",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p473": {
+    "name": "밴크로프트",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p474": {
+    "name": "케슬러",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p475": {
+    "name": "비앙키",
+    "pos": "RP",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p476": {
+    "name": "오코로",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 22,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p477": {
+    "name": "브래드쇼",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p478": {
+    "name": "리히터",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p479": {
+    "name": "안드레예프",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p480": {
+    "name": "린드버그",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p481": {
+    "name": "마르샬",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 23,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p482": {
+    "name": "미하일로프",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p483": {
+    "name": "레드먼드",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p484": {
+    "name": "비아지",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p485": {
+    "name": "페도로프",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p486": {
+    "name": "델가도",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p487": {
+    "name": "파레데스",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p488": {
+    "name": "잭슨",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p489": {
+    "name": "라자레프",
+    "pos": "3B",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p490": {
+    "name": "앤더슨",
+    "pos": "RP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p491": {
+    "name": "로마노",
+    "pos": "OF",
+    "tier": "C리그",
+    "age": 22,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p492": {
+    "name": "모리스",
+    "pos": "2B",
+    "tier": "C리그",
+    "age": 22,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p493": {
+    "name": "스트룀",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p494": {
+    "name": "화이트",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p495": {
+    "name": "슈바르츠",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p496": {
+    "name": "바티스타",
+    "pos": "C",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p497": {
+    "name": "영",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p498": {
+    "name": "호킨스",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p499": {
+    "name": "리드",
+    "pos": "RP",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p500": {
+    "name": "폰세카",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p501": {
+    "name": "발렌시아",
+    "pos": "SP",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p502": {
+    "name": "로시",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p503": {
+    "name": "로빈슨",
+    "pos": "3B",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p504": {
+    "name": "베커",
+    "pos": "OF",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p505": {
+    "name": "트로피모프",
+    "pos": "SS",
+    "tier": "C리그",
+    "age": 21,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p506": {
+    "name": "셰필드",
+    "pos": "SP",
+    "tier": "D리그",
+    "age": 18,
+    "team": "드래프티",
+    "power": 0
+   },
+   "p507": {
+    "name": "레베데프",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 20,
+    "team": "드래프티",
+    "power": 0
    }
   },
   "faMarket": {},
@@ -89778,7 +91910,392 @@
      "risk": "보통"
     }
    ],
-   "draftees": [],
+   "draftees": [
+    {
+     "name": "모랄레스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "코어",
+     "risk": "모험"
+    },
+    {
+     "name": "넬슨",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "엘리트",
+     "risk": "보통"
+    },
+    {
+     "name": "하르트만",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "마리니",
+     "pos": "3B",
+     "tier": "C리그",
+     "age": 22,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "name": "슈뢰더",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "토레스",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "페트로프",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "name": "그레코",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "브룩스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "엘리트",
+     "risk": "안전"
+    },
+    {
+     "name": "휘트필드",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "코어",
+     "risk": "모험"
+    },
+    {
+     "name": "야마모토",
+     "pos": "1B",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "슈나이더",
+     "pos": "1B",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "홀리스터",
+     "pos": "C",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "밴크로프트",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "케슬러",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "비앙키",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "오코로",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "name": "브래드쇼",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "리히터",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "안드레예프",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "린드버그",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "마르샬",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 23,
+     "ceiling": "코어",
+     "risk": "보통"
+    },
+    {
+     "name": "미하일로프",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "레드먼드",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "비아지",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
+     "name": "페도로프",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "델가도",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "코어",
+     "risk": "모험"
+    },
+    {
+     "name": "파레데스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "잭슨",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "서브",
+     "risk": "보통"
+    },
+    {
+     "name": "라자레프",
+     "pos": "3B",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "앤더슨",
+     "pos": "RP",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "로마노",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 22,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "모리스",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 22,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "스트룀",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "화이트",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "슈바르츠",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "엘리트",
+     "risk": "안전"
+    },
+    {
+     "name": "바티스타",
+     "pos": "C",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "코어",
+     "risk": "모험"
+    },
+    {
+     "name": "영",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "코어",
+     "risk": "모험"
+    },
+    {
+     "name": "호킨스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "컨텐더",
+     "risk": "모험"
+    },
+    {
+     "name": "리드",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "코어",
+     "risk": "안전"
+    },
+    {
+     "name": "폰세카",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "name": "발렌시아",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "name": "로시",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "서브",
+     "risk": "보통"
+    },
+    {
+     "name": "로빈슨",
+     "pos": "3B",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "베커",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "name": "트로피모프",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21,
+     "ceiling": "서브",
+     "risk": "보통"
+    },
+    {
+     "name": "셰필드",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 18,
+     "ceiling": "서브",
+     "risk": "모험"
+    },
+    {
+     "name": "레베데프",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20,
+     "ceiling": "서브",
+     "risk": "안전"
+    }
+   ],
    "draftOrder": {
     "21": [
      "세이버스",
