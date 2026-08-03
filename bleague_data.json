@@ -13792,7 +13792,7 @@
    "id": "p102",
    "name": "켄트",
    "team": "프린스",
-   "pos": "CF",
+   "pos": "OF",
    "tier": "레귤러",
    "age": 34,
    "number": "3",
@@ -13902,7 +13902,21 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": null,
+    "pow": null,
+    "positions": [
+     {
+      "pos": "CF",
+      "def": 5
+     },
+     {
+      "pos": "OF",
+      "def": 5
+     }
+    ]
+   }
   },
   "p103": {
    "id": "p103",
@@ -82035,7 +82049,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785751143860
+   "ts": 1785753951953
   },
   "teams": {
    "프린스": {
@@ -85961,6 +85975,11 @@
     "age": 38,
     "team": "프린스",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 5,
+     "prs": 4
+    },
     "asset": {
      "value": 3.7,
      "grade": "C",
@@ -86306,16 +86325,16 @@
    },
    "p102": {
     "name": "켄트",
-    "pos": "CF",
+    "pos": "OF",
     "tier": "레귤러",
     "age": 34,
     "team": "프린스",
     "power": 1.6,
     "asset": {
-     "value": 1.9,
+     "value": 2.2,
      "grade": "D",
      "left": 2,
-     "effM": 1.05
+     "effM": 1.08
     }
    },
    "p103": {
@@ -87129,6 +87148,11 @@
     "age": 27,
     "team": "프린스",
     "power": 6,
+    "abil": {
+     "pit": 6,
+     "inn": 2,
+     "prs": 4
+    },
     "asset": {
      "value": 9,
      "grade": "A",
@@ -87437,6 +87461,17 @@
     "age": 31,
     "team": "프린스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 5.5,
      "grade": "B",
