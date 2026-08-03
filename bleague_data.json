@@ -19935,7 +19935,7 @@
    "name": "헤인즈",
    "team": "프린스",
    "pos": "RP",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 27,
    "number": "2",
    "debutSeason": 13,
@@ -20011,7 +20011,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 6,
+    "inn": 2,
+    "prs": 4
+   }
   },
   "p162": {
    "id": "p162",
@@ -82020,14 +82025,14 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785749253707
+   "ts": 1785749373964
   },
   "teams": {
    "프린스": {
     "stance": "allin",
     "stanceLabel": "올인",
     "stanceWhy": {
-     "cont": 2,
+     "cont": 3,
      "core": 8,
      "avgAge": 29.6,
      "payRatio": 0.7586206896551724,
@@ -82039,7 +82044,7 @@
     "appeal": 1.55,
     "market": "빅마켓",
     "free": 40,
-    "power": 66.7,
+    "power": 69.2,
     "window": {
      "open": 20,
      "left": 2,
@@ -87110,15 +87115,15 @@
    "p161": {
     "name": "헤인즈",
     "pos": "RP",
-    "tier": "엘리트",
+    "tier": "컨텐더",
     "age": 27,
     "team": "프린스",
-    "power": 3.5,
+    "power": 6,
     "asset": {
-     "value": 4.2,
-     "grade": "C",
+     "value": 9,
+     "grade": "A",
      "left": 5,
-     "effM": 0.92
+     "effM": 1.16
     }
    },
    "p162": {
