@@ -13792,8 +13792,8 @@
    "id": "p102",
    "name": "켄트",
    "team": "프린스",
-   "pos": "OF",
-   "tier": "레귤러",
+   "pos": "CF",
+   "tier": "코어",
    "age": 34,
    "number": "3",
    "debutSeason": 6,
@@ -13901,11 +13901,13 @@
     }
    ],
    "role": "6번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "bad",
    "abil": {
-    "con": null,
-    "pow": null,
+    "con": 3,
+    "pow": 2,
     "positions": [
      {
       "pos": "CF",
@@ -82049,7 +82051,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785753951953
+   "ts": 1785754207519
   },
   "teams": {
    "프린스": {
@@ -82057,7 +82059,7 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 3,
-     "core": 8,
+     "core": 9,
      "avgAge": 29.6,
      "payRatio": 0.7586206896551724,
      "farm": 1,
@@ -82068,7 +82070,7 @@
     "appeal": 1.55,
     "market": "빅마켓",
     "free": 40,
-    "power": 69.2,
+    "power": 70.1,
     "window": {
      "open": 20,
      "left": 2,
@@ -86325,16 +86327,32 @@
    },
    "p102": {
     "name": "켄트",
-    "pos": "OF",
-    "tier": "레귤러",
+    "pos": "CF",
+    "tier": "코어",
     "age": 34,
     "team": "프린스",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 3,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "CF",
+       "def": 5,
+       "tier": "코어"
+      },
+      {
+       "pos": "OF",
+       "def": 5,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.2,
-     "grade": "D",
+     "value": 5,
+     "grade": "B",
      "left": 2,
-     "effM": 1.08
+     "effM": 1.61
     }
    },
    "p103": {
