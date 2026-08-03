@@ -21856,7 +21856,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 5,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p184": {
    "id": "p184",
@@ -82025,7 +82035,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785749373964
+   "ts": 1785750817191
   },
   "teams": {
    "프린스": {
