@@ -82731,7 +82731,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785826262783
+   "ts": 1785827441356
   },
   "teams": {
    "프린스": {
@@ -93612,5 +93612,1703 @@
   "season": 19,
   "sample": 2468,
   "peakAge": 31
+ },
+ "newsFeed": {
+  "items": [
+   {
+    "type": "over",
+    "importance": 3,
+    "teams": [
+     "이글즈"
+    ],
+    "players": [],
+    "headline": "이글즈, 기대 16위 뒤엎고 11위 — 5월 최대 이변",
+    "id": "20_5_over_이글즈_이글즈, 기대 16",
+    "season": 20,
+    "month": 5,
+    "moIdx": 2005,
+    "createdAt": 1785827442138
+   },
+   {
+    "type": "under",
+    "importance": 3,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [],
+    "headline": "워리어스, 기대 5위에 못 미친 10위 — 부진 심화",
+    "id": "20_5_under_워리어스_워리어스, 기대 5",
+    "season": 20,
+    "month": 5,
+    "moIdx": 2005,
+    "createdAt": 1785827442137
+   },
+   {
+    "type": "rank_drop",
+    "importance": 5,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [],
+    "headline": "워리어스, 4월 5계단 급락하며 10위로 추락",
+    "id": "20_4_rank_drop_워리어스_워리어스, 4월 5",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442080
+   },
+   {
+    "type": "rank_drop",
+    "importance": 5,
+    "teams": [
+     "트레일 블레이저스"
+    ],
+    "players": [],
+    "headline": "트레일 블레이저스, 4월 5계단 급락하며 13위로 추락",
+    "id": "20_4_rank_drop_트레일 블레이저스_트레일 블레이저스,",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442078
+   },
+   {
+    "type": "rank_surge",
+    "importance": 5,
+    "teams": [
+     "에스트로너츠"
+    ],
+    "players": [],
+    "headline": "에스트로너츠, 4월 7계단 급상승하며 2위 도약",
+    "id": "20_4_rank_surge_에스트로너츠_에스트로너츠, 4월",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442077
+   },
+   {
+    "type": "rank_surge",
+    "importance": 5,
+    "teams": [
+     "마린즈"
+    ],
+    "players": [],
+    "headline": "마린즈, 4월 5계단 급상승하며 1위 도약",
+    "id": "20_4_rank_surge_마린즈_마린즈, 4월 5계",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442076
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [
+     "p164"
+    ],
+    "headline": "타이거즈, 리븐 FA 영입 (108m/6년)",
+    "uid": "fa31",
+    "id": "20_4_fa_타이거즈_fa31",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442114
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [
+     "p221"
+    ],
+    "headline": "워리어스, 그라인더 FA 영입 (50m/5년)",
+    "uid": "fa30",
+    "id": "20_4_fa_워리어스_fa30",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442113
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [
+     "p115"
+    ],
+    "headline": "타이거즈, 터너 FA 영입 (140m/5년)",
+    "uid": "fa29",
+    "id": "20_4_fa_타이거즈_fa29",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442112
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "데빌스"
+    ],
+    "players": [
+     "p225"
+    ],
+    "headline": "데빌스, 라이즈 FA 영입 (60m/5년)",
+    "uid": "fa28",
+    "id": "20_4_fa_데빌스_fa28",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442111
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "에스트로너츠"
+    ],
+    "players": [
+     "p123"
+    ],
+    "headline": "에스트로너츠, 존슨 FA 영입 (75m/3년)",
+    "uid": "fa23",
+    "id": "20_4_fa_에스트로너츠_fa23",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442106
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "에스트로너츠"
+    ],
+    "players": [
+     "p179"
+    ],
+    "headline": "에스트로너츠, 카서스 FA 영입 (138m/6년)",
+    "uid": "fa17",
+    "id": "20_4_fa_에스트로너츠_fa17",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442103
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "마린즈"
+    ],
+    "players": [
+     "p131"
+    ],
+    "headline": "마린즈, 세르히오 FA 영입 (240m/8년)",
+    "uid": "fa16",
+    "id": "20_4_fa_마린즈_fa16",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442102
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "라이언즈"
+    ],
+    "players": [
+     "p75"
+    ],
+    "headline": "라이언즈, 아일린 FA 영입 (60m/2년)",
+    "uid": "fa8",
+    "id": "20_4_fa_라이언즈_fa8",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442096
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "다이너마이트"
+    ],
+    "players": [
+     "p177"
+    ],
+    "headline": "다이너마이트, 워커 FA 영입 (168m/6년)",
+    "uid": "fa7",
+    "id": "20_4_fa_다이너마이트_fa7",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442095
+   },
+   {
+    "type": "injury",
+    "importance": 4,
+    "teams": [
+     "세이버스"
+    ],
+    "players": [
+     "p111"
+    ],
+    "headline": "세이버스 아이다라, 부상으로 3개월 이탈",
+    "id": "20_4_injury_세이버스_p111",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442085
+   },
+   {
+    "type": "injury",
+    "importance": 4,
+    "teams": [
+     "다이노스"
+    ],
+    "players": [
+     "p98"
+    ],
+    "headline": "다이노스 그리핀, 부상으로 11개월 이탈",
+    "id": "20_4_injury_다이노스_p98",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442084
+   },
+   {
+    "type": "lead_change",
+    "importance": 4,
+    "teams": [
+     "마린즈",
+     "프린스"
+    ],
+    "players": [],
+    "headline": "마린즈, 프린스 제치고 4월 선두 등극",
+    "id": "20_4_lead_change_마린즈-프린스_마린즈, 프린스 제",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442083
+   },
+   {
+    "type": "rank_surge",
+    "importance": 4,
+    "teams": [
+     "라이언즈"
+    ],
+    "players": [],
+    "headline": "라이언즈, 4월 4계단 급상승하며 3위 도약",
+    "id": "20_4_rank_surge_라이언즈_라이언즈, 4월 4",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442074
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "트레일 블레이저스",
+     "마린즈"
+    ],
+    "players": [
+     "p201"
+    ],
+    "headline": "트레일 블레이저스–마린즈, 러커트 트레이드 성사",
+    "uid": "trade55",
+    "id": "20_4_trade_트레일 블레이저스-마린즈_trade55",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442135
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "트레일 블레이저스"
+    ],
+    "players": [
+     "p217"
+    ],
+    "headline": "마린즈–트레일 블레이저스, 베텔 트레이드 성사",
+    "uid": "trade54",
+    "id": "20_4_trade_마린즈-트레일 블레이저스_trade54",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442134
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "다이너마이트",
+     "워리어스"
+    ],
+    "players": [
+     "p249"
+    ],
+    "headline": "다이너마이트–워리어스, 듀버네이 트레이드 성사",
+    "uid": "trade53",
+    "id": "20_4_trade_다이너마이트-워리어스_trade53",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442133
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "워리어스",
+     "다이너마이트"
+    ],
+    "players": [
+     "p189"
+    ],
+    "headline": "워리어스–다이너마이트, 버크스 트레이드 성사",
+    "uid": "trade52",
+    "id": "20_4_trade_워리어스-다이너마이트_trade52",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442132
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "트레일 블레이저스",
+     "라이언즈"
+    ],
+    "players": [
+     "p182"
+    ],
+    "headline": "트레일 블레이저스–라이언즈, 무노스 트레이드 성사",
+    "uid": "trade49",
+    "id": "20_4_trade_트레일 블레이저스-라이언즈_trade49",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442131
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "라이언즈",
+     "트레일 블레이저스"
+    ],
+    "players": [
+     "p452"
+    ],
+    "headline": "라이언즈–트레일 블레이저스, 오노 트레이드 성사",
+    "uid": "trade48",
+    "id": "20_4_trade_라이언즈-트레일 블레이저스_trade48",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442130
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "트레일 블레이저스",
+     "에스트로너츠"
+    ],
+    "players": [
+     "p220"
+    ],
+    "headline": "트레일 블레이저스–에스트로너츠, 토마스 트레이드 성사",
+    "uid": "trade46",
+    "id": "20_4_trade_트레일 블레이저스-에스트로너츠_trade46",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442129
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "에스트로너츠",
+     "트레일 블레이저스"
+    ],
+    "players": [
+     "p226"
+    ],
+    "headline": "에스트로너츠–트레일 블레이저스, 허핀 트레이드 성사",
+    "uid": "trade45",
+    "id": "20_4_trade_에스트로너츠-트레일 블레이저스_trade45",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442128
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "스틸러스"
+    ],
+    "players": [
+     "p415"
+    ],
+    "headline": "타이거즈–스틸러스, 아졸라 트레이드 성사",
+    "uid": "trade44",
+    "id": "20_4_trade_타이거즈-스틸러스_trade44",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442127
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "스틸러스"
+    ],
+    "players": [
+     "p399"
+    ],
+    "headline": "타이거즈–스틸러스, 스미르노프 트레이드 성사",
+    "uid": "trade43",
+    "id": "20_4_trade_타이거즈-스틸러스_trade43",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442126
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "스틸러스",
+     "타이거즈"
+    ],
+    "players": [
+     "p293"
+    ],
+    "headline": "스틸러스–타이거즈, 라파엘라 트레이드 성사",
+    "uid": "trade42",
+    "id": "20_4_trade_스틸러스-타이거즈_trade42",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442125
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "버커니어스"
+    ],
+    "players": [
+     "p276"
+    ],
+    "headline": "타이거즈–버커니어스, 세틀 트레이드 성사",
+    "uid": "trade19",
+    "id": "20_4_trade_타이거즈-버커니어스_trade19",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442105
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "버커니어스",
+     "타이거즈"
+    ],
+    "players": [
+     "p203"
+    ],
+    "headline": "버커니어스–타이거즈, 폰 트레이드 성사",
+    "uid": "trade18",
+    "id": "20_4_trade_버커니어스-타이거즈_trade18",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442104
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "마린즈"
+    ],
+    "players": [
+     "p202"
+    ],
+    "headline": "타이거즈–마린즈, 마자르 트레이드 성사",
+    "uid": "trade13",
+    "id": "20_4_trade_타이거즈-마린즈_trade13",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442101
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "타이거즈"
+    ],
+    "players": [
+     "p112"
+    ],
+    "headline": "마린즈–타이거즈, 우즈 트레이드 성사",
+    "uid": "trade12",
+    "id": "20_4_trade_마린즈-타이거즈_trade12",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442100
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "재즈"
+    ],
+    "players": [
+     "p439"
+    ],
+    "headline": "마린즈–재즈, 그린 트레이드 성사",
+    "uid": "trade4",
+    "id": "20_4_trade_마린즈-재즈_trade4",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442094
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "스틸러스",
+     "재즈"
+    ],
+    "players": [
+     "p454"
+    ],
+    "headline": "스틸러스–재즈, 파딜 트레이드 성사",
+    "uid": "trade3",
+    "id": "20_4_trade_스틸러스-재즈_trade3",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442093
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "스틸러스"
+    ],
+    "players": [
+     "p118"
+    ],
+    "headline": "마린즈–스틸러스, 포이스 트레이드 성사",
+    "uid": "trade2",
+    "id": "20_4_trade_마린즈-스틸러스_trade2",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442092
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "재즈",
+     "마린즈"
+    ],
+    "players": [
+     "p136"
+    ],
+    "headline": "재즈–마린즈, 요한 트레이드 성사",
+    "uid": "trade1",
+    "id": "20_4_trade_재즈-마린즈_trade1",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442091
+   },
+   {
+    "type": "over",
+    "importance": 3,
+    "teams": [
+     "이글즈"
+    ],
+    "players": [],
+    "headline": "이글즈, 기대 16위 뒤엎고 11위 — 4월 최대 이변",
+    "id": "20_4_over_이글즈_이글즈, 기대 16",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442089
+   },
+   {
+    "type": "under",
+    "importance": 3,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [],
+    "headline": "워리어스, 기대 5위에 못 미친 10위 — 부진 심화",
+    "id": "20_4_under_워리어스_워리어스, 기대 5",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442088
+   },
+   {
+    "type": "injury",
+    "importance": 3,
+    "teams": [
+     "다이너마이트"
+    ],
+    "players": [
+     "p177"
+    ],
+    "headline": "다이너마이트 워커, 부상으로 1개월 이탈",
+    "id": "20_4_injury_다이너마이트_p177",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442086
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "세이버스"
+    ],
+    "players": [],
+    "headline": "세이버스, 4월 3계단 급락하며 16위로 추락",
+    "id": "20_4_rank_drop_세이버스_세이버스, 4월 3",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442082
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "스틸러스"
+    ],
+    "players": [],
+    "headline": "스틸러스, 4월 3계단 급락하며 5위로 추락",
+    "id": "20_4_rank_drop_스틸러스_스틸러스, 4월 3",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442081
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "데빌스"
+    ],
+    "players": [],
+    "headline": "데빌스, 4월 3계단 급락하며 7위로 추락",
+    "id": "20_4_rank_drop_데빌스_데빌스, 4월 3계",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442079
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [],
+    "headline": "타이거즈, 4월 3계단 급락하며 6위로 추락",
+    "id": "20_4_rank_drop_타이거즈_타이거즈, 4월 3",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442075
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "프린스"
+    ],
+    "players": [],
+    "headline": "프린스, 4월 3계단 급락하며 4위로 추락",
+    "id": "20_4_rank_drop_프린스_프린스, 4월 3계",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442073
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "버커니어스"
+    ],
+    "players": [
+     "p167"
+    ],
+    "headline": "버커니어스, 더든 FA 영입 (21m/3년)",
+    "uid": "fa41",
+    "id": "20_4_fa_버커니어스_fa41",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442124
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "챌린저스"
+    ],
+    "players": [
+     "p223"
+    ],
+    "headline": "챌린저스, 디미트리 FA 영입 (24m/3년)",
+    "uid": "fa40",
+    "id": "20_4_fa_챌린저스_fa40",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442123
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "다이노스"
+    ],
+    "players": [
+     "p128"
+    ],
+    "headline": "다이노스, 맬러리 FA 영입 (21m/3년)",
+    "uid": "fa39",
+    "id": "20_4_fa_다이노스_fa39",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442122
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "다이너마이트"
+    ],
+    "players": [
+     "p122"
+    ],
+    "headline": "다이너마이트, 워맥 FA 영입 (10m/1년)",
+    "uid": "fa38",
+    "id": "20_4_fa_다이너마이트_fa38",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442121
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "프린스"
+    ],
+    "players": [
+     "p224"
+    ],
+    "headline": "프린스, 허스트 FA 영입 (30m/3년)",
+    "uid": "fa37",
+    "id": "20_4_fa_프린스_fa37",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442120
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "세이버스"
+    ],
+    "players": [
+     "p93"
+    ],
+    "headline": "세이버스, 테렐 FA 영입 (10m/1년)",
+    "uid": "fa36",
+    "id": "20_4_fa_세이버스_fa36",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442119
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "이글즈"
+    ],
+    "players": [
+     "p169"
+    ],
+    "headline": "이글즈, 커즌스 FA 영입 (30m/3년)",
+    "uid": "fa35",
+    "id": "20_4_fa_이글즈_fa35",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442118
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [
+     "p101"
+    ],
+    "headline": "워리어스, 볼브 FA 영입 (20m/2년)",
+    "uid": "fa34",
+    "id": "20_4_fa_워리어스_fa34",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442117
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "이글즈"
+    ],
+    "players": [
+     "p97"
+    ],
+    "headline": "이글즈, 벤달 FA 영입 (10m/2년)",
+    "uid": "fa33",
+    "id": "20_4_fa_이글즈_fa33",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442116
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "데빌스"
+    ],
+    "players": [
+     "p209"
+    ],
+    "headline": "데빌스, 에스크리지 FA 영입 (36m/3년)",
+    "uid": "fa32",
+    "id": "20_4_fa_데빌스_fa32",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442115
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [
+     "p109"
+    ],
+    "headline": "워리어스, 파란 FA 영입 (30m/3년)",
+    "uid": "fa27",
+    "id": "20_4_fa_워리어스_fa27",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442110
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "라이언즈"
+    ],
+    "players": [
+     "p150"
+    ],
+    "headline": "라이언즈, 핀리 FA 영입 (40m/5년)",
+    "uid": "fa26",
+    "id": "20_4_fa_라이언즈_fa26",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442109
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "다이너마이트"
+    ],
+    "players": [
+     "p96"
+    ],
+    "headline": "다이너마이트, 르메이아 FA 영입 (14m/2년)",
+    "uid": "fa25",
+    "id": "20_4_fa_다이너마이트_fa25",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442108
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [
+     "p141"
+    ],
+    "headline": "타이거즈, 어니스트 FA 영입 (45m/3년)",
+    "uid": "fa24",
+    "id": "20_4_fa_타이거즈_fa24",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442107
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "마린즈"
+    ],
+    "players": [
+     "p86"
+    ],
+    "headline": "마린즈, 노아 FA 영입 (15m/1년)",
+    "uid": "fa11",
+    "id": "20_4_fa_마린즈_fa11",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442099
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "버커니어스"
+    ],
+    "players": [
+     "p222"
+    ],
+    "headline": "버커니어스, 알렌 FA 영입 (40m/5년)",
+    "uid": "fa10",
+    "id": "20_4_fa_버커니어스_fa10",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442098
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "프린스"
+    ],
+    "players": [
+     "p108"
+    ],
+    "headline": "프린스, 아데보 FA 영입 (20m/2년)",
+    "uid": "fa9",
+    "id": "20_4_fa_프린스_fa9",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442097
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "에스트로너츠"
+    ],
+    "players": [
+     "p85"
+    ],
+    "headline": "에스트로너츠, 에반 FA 영입 (30m/2년)",
+    "uid": "fa0",
+    "id": "20_4_fa_에스트로너츠_fa0",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1785827442090
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [
+     "p164"
+    ],
+    "headline": "타이거즈, 리븐 FA 영입 (108m/6년)",
+    "uid": "fa31",
+    "id": "20_off_fa_타이거즈_fa31",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442051
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [
+     "p221"
+    ],
+    "headline": "워리어스, 그라인더 FA 영입 (50m/5년)",
+    "uid": "fa30",
+    "id": "20_off_fa_워리어스_fa30",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442050
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [
+     "p115"
+    ],
+    "headline": "타이거즈, 터너 FA 영입 (140m/5년)",
+    "uid": "fa29",
+    "id": "20_off_fa_타이거즈_fa29",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442049
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "데빌스"
+    ],
+    "players": [
+     "p225"
+    ],
+    "headline": "데빌스, 라이즈 FA 영입 (60m/5년)",
+    "uid": "fa28",
+    "id": "20_off_fa_데빌스_fa28",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442047
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "에스트로너츠"
+    ],
+    "players": [
+     "p123"
+    ],
+    "headline": "에스트로너츠, 존슨 FA 영입 (75m/3년)",
+    "uid": "fa23",
+    "id": "20_off_fa_에스트로너츠_fa23",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442042
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "에스트로너츠"
+    ],
+    "players": [
+     "p179"
+    ],
+    "headline": "에스트로너츠, 카서스 FA 영입 (138m/6년)",
+    "uid": "fa17",
+    "id": "20_off_fa_에스트로너츠_fa17",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442039
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "마린즈"
+    ],
+    "players": [
+     "p131"
+    ],
+    "headline": "마린즈, 세르히오 FA 영입 (240m/8년)",
+    "uid": "fa16",
+    "id": "20_off_fa_마린즈_fa16",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442038
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "라이언즈"
+    ],
+    "players": [
+     "p75"
+    ],
+    "headline": "라이언즈, 아일린 FA 영입 (60m/2년)",
+    "uid": "fa8",
+    "id": "20_off_fa_라이언즈_fa8",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442032
+   },
+   {
+    "type": "fa",
+    "importance": 4,
+    "teams": [
+     "다이너마이트"
+    ],
+    "players": [
+     "p177"
+    ],
+    "headline": "다이너마이트, 워커 FA 영입 (168m/6년)",
+    "uid": "fa7",
+    "id": "20_off_fa_다이너마이트_fa7",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442031
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "트레일 블레이저스",
+     "마린즈"
+    ],
+    "players": [
+     "p201"
+    ],
+    "headline": "트레일 블레이저스–마린즈, 러커트 트레이드 성사",
+    "uid": "trade55",
+    "id": "20_off_trade_트레일 블레이저스-마린즈_trade55",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442072
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "트레일 블레이저스"
+    ],
+    "players": [
+     "p217"
+    ],
+    "headline": "마린즈–트레일 블레이저스, 베텔 트레이드 성사",
+    "uid": "trade54",
+    "id": "20_off_trade_마린즈-트레일 블레이저스_trade54",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442071
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "다이너마이트",
+     "워리어스"
+    ],
+    "players": [
+     "p249"
+    ],
+    "headline": "다이너마이트–워리어스, 듀버네이 트레이드 성사",
+    "uid": "trade53",
+    "id": "20_off_trade_다이너마이트-워리어스_trade53",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442070
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "워리어스",
+     "다이너마이트"
+    ],
+    "players": [
+     "p189"
+    ],
+    "headline": "워리어스–다이너마이트, 버크스 트레이드 성사",
+    "uid": "trade52",
+    "id": "20_off_trade_워리어스-다이너마이트_trade52",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442069
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "트레일 블레이저스",
+     "라이언즈"
+    ],
+    "players": [
+     "p182"
+    ],
+    "headline": "트레일 블레이저스–라이언즈, 무노스 트레이드 성사",
+    "uid": "trade49",
+    "id": "20_off_trade_트레일 블레이저스-라이언즈_trade49",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442068
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "라이언즈",
+     "트레일 블레이저스"
+    ],
+    "players": [
+     "p452"
+    ],
+    "headline": "라이언즈–트레일 블레이저스, 오노 트레이드 성사",
+    "uid": "trade48",
+    "id": "20_off_trade_라이언즈-트레일 블레이저스_trade48",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442067
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "트레일 블레이저스",
+     "에스트로너츠"
+    ],
+    "players": [
+     "p220"
+    ],
+    "headline": "트레일 블레이저스–에스트로너츠, 토마스 트레이드 성사",
+    "uid": "trade46",
+    "id": "20_off_trade_트레일 블레이저스-에스트로너츠_trade46",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442066
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "에스트로너츠",
+     "트레일 블레이저스"
+    ],
+    "players": [
+     "p226"
+    ],
+    "headline": "에스트로너츠–트레일 블레이저스, 허핀 트레이드 성사",
+    "uid": "trade45",
+    "id": "20_off_trade_에스트로너츠-트레일 블레이저스_trade45",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442065
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "스틸러스"
+    ],
+    "players": [
+     "p415"
+    ],
+    "headline": "타이거즈–스틸러스, 아졸라 트레이드 성사",
+    "uid": "trade44",
+    "id": "20_off_trade_타이거즈-스틸러스_trade44",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442064
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "스틸러스"
+    ],
+    "players": [
+     "p399"
+    ],
+    "headline": "타이거즈–스틸러스, 스미르노프 트레이드 성사",
+    "uid": "trade43",
+    "id": "20_off_trade_타이거즈-스틸러스_trade43",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442063
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "스틸러스",
+     "타이거즈"
+    ],
+    "players": [
+     "p293"
+    ],
+    "headline": "스틸러스–타이거즈, 라파엘라 트레이드 성사",
+    "uid": "trade42",
+    "id": "20_off_trade_스틸러스-타이거즈_trade42",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442062
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "버커니어스"
+    ],
+    "players": [
+     "p276"
+    ],
+    "headline": "타이거즈–버커니어스, 세틀 트레이드 성사",
+    "uid": "trade19",
+    "id": "20_off_trade_타이거즈-버커니어스_trade19",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442041
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "버커니어스",
+     "타이거즈"
+    ],
+    "players": [
+     "p203"
+    ],
+    "headline": "버커니어스–타이거즈, 폰 트레이드 성사",
+    "uid": "trade18",
+    "id": "20_off_trade_버커니어스-타이거즈_trade18",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442040
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "마린즈"
+    ],
+    "players": [
+     "p202"
+    ],
+    "headline": "타이거즈–마린즈, 마자르 트레이드 성사",
+    "uid": "trade13",
+    "id": "20_off_trade_타이거즈-마린즈_trade13",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442037
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "타이거즈"
+    ],
+    "players": [
+     "p112"
+    ],
+    "headline": "마린즈–타이거즈, 우즈 트레이드 성사",
+    "uid": "trade12",
+    "id": "20_off_trade_마린즈-타이거즈_trade12",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442036
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "재즈"
+    ],
+    "players": [
+     "p439"
+    ],
+    "headline": "마린즈–재즈, 그린 트레이드 성사",
+    "uid": "trade4",
+    "id": "20_off_trade_마린즈-재즈_trade4",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442030
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "스틸러스",
+     "재즈"
+    ],
+    "players": [
+     "p454"
+    ],
+    "headline": "스틸러스–재즈, 파딜 트레이드 성사",
+    "uid": "trade3",
+    "id": "20_off_trade_스틸러스-재즈_trade3",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442029
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "스틸러스"
+    ],
+    "players": [
+     "p118"
+    ],
+    "headline": "마린즈–스틸러스, 포이스 트레이드 성사",
+    "uid": "trade2",
+    "id": "20_off_trade_마린즈-스틸러스_trade2",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442028
+   },
+   {
+    "type": "trade",
+    "importance": 3,
+    "teams": [
+     "재즈",
+     "마린즈"
+    ],
+    "players": [
+     "p136"
+    ],
+    "headline": "재즈–마린즈, 요한 트레이드 성사",
+    "uid": "trade1",
+    "id": "20_off_trade_재즈-마린즈_trade1",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442027
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "버커니어스"
+    ],
+    "players": [
+     "p167"
+    ],
+    "headline": "버커니어스, 더든 FA 영입 (21m/3년)",
+    "uid": "fa41",
+    "id": "20_off_fa_버커니어스_fa41",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442061
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "챌린저스"
+    ],
+    "players": [
+     "p223"
+    ],
+    "headline": "챌린저스, 디미트리 FA 영입 (24m/3년)",
+    "uid": "fa40",
+    "id": "20_off_fa_챌린저스_fa40",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442060
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "다이노스"
+    ],
+    "players": [
+     "p128"
+    ],
+    "headline": "다이노스, 맬러리 FA 영입 (21m/3년)",
+    "uid": "fa39",
+    "id": "20_off_fa_다이노스_fa39",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442059
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "다이너마이트"
+    ],
+    "players": [
+     "p122"
+    ],
+    "headline": "다이너마이트, 워맥 FA 영입 (10m/1년)",
+    "uid": "fa38",
+    "id": "20_off_fa_다이너마이트_fa38",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442058
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "프린스"
+    ],
+    "players": [
+     "p224"
+    ],
+    "headline": "프린스, 허스트 FA 영입 (30m/3년)",
+    "uid": "fa37",
+    "id": "20_off_fa_프린스_fa37",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442057
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "세이버스"
+    ],
+    "players": [
+     "p93"
+    ],
+    "headline": "세이버스, 테렐 FA 영입 (10m/1년)",
+    "uid": "fa36",
+    "id": "20_off_fa_세이버스_fa36",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442056
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "이글즈"
+    ],
+    "players": [
+     "p169"
+    ],
+    "headline": "이글즈, 커즌스 FA 영입 (30m/3년)",
+    "uid": "fa35",
+    "id": "20_off_fa_이글즈_fa35",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442055
+   },
+   {
+    "type": "fa",
+    "importance": 2,
+    "teams": [
+     "워리어스"
+    ],
+    "players": [
+     "p101"
+    ],
+    "headline": "워리어스, 볼브 FA 영입 (20m/2년)",
+    "uid": "fa34",
+    "id": "20_off_fa_워리어스_fa34",
+    "season": 20,
+    "month": "off",
+    "moIdx": 2003,
+    "createdAt": 1785827442054
+   }
+  ],
+  "lastScan": {
+   "moIdx": 1910
+  }
  }
 }
