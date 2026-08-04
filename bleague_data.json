@@ -80437,7 +80437,13 @@
     "races": {},
     "potmBat": "",
     "potmPit": "",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p113",
+      "note": "",
+      "months": 1
+     }
+    ]
    }
   },
   "offseason": [
@@ -82731,7 +82737,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785806572651
+   "ts": 1785826168734
   },
   "teams": {
    "프린스": {
