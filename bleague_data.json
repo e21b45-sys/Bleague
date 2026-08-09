@@ -11708,7 +11708,9 @@
    "hof": null,
    "injuries": [],
    "role": "3번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "form": "good",
    "abil": {
     "con": 5,
@@ -11717,6 +11719,10 @@
      {
       "pos": "1B",
       "def": 4
+     },
+     {
+      "pos": "SS",
+      "def": 3
      }
     ]
    }
@@ -17646,7 +17652,9 @@
     "파워"
    ],
    "role": "8번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "draftSeason": 9,
    "draftRound": 1,
    "contract": {
@@ -17719,6 +17727,10 @@
     "positions": [
      {
       "pos": "3B",
+      "def": 3
+     },
+     {
+      "pos": "SS",
       "def": 3
      }
     ]
@@ -19902,7 +19914,9 @@
     "갭"
    ],
    "role": "9번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "draftSeason": 9,
    "draftRound": 6,
    "contract": {
@@ -19976,6 +19990,10 @@
      {
       "pos": "3B",
       "def": 5
+     },
+     {
+      "pos": "SS",
+      "def": 4
      }
     ]
    }
@@ -23448,7 +23466,7 @@
    "id": "p193",
    "name": "허드슨",
    "team": "다이노스",
-   "pos": "OF",
+   "pos": "CF",
    "tier": "서브",
    "age": 29,
    "number": "3",
@@ -23475,7 +23493,9 @@
     "수비 안정성"
    ],
    "role": "5번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "draftSeason": 12,
    "draftRound": 3,
    "contract": null,
@@ -23523,6 +23543,10 @@
     "con": 4,
     "pow": 1,
     "positions": [
+     {
+      "pos": "CF",
+      "def": 3
+     },
      {
       "pos": "OF",
       "def": 3
@@ -28288,7 +28312,7 @@
    "id": "p256",
    "name": "가버",
    "team": "타이거즈",
-   "pos": "OF",
+   "pos": "CF",
    "tier": "레귤러",
    "age": 26,
    "number": "16",
@@ -28313,7 +28337,9 @@
     "파워"
    ],
    "role": "6번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "bad",
    "draftSeason": 14,
    "draftRound": 4,
@@ -28354,8 +28380,12 @@
     "pow": 1,
     "positions": [
      {
-      "pos": "OF",
+      "pos": "CF",
       "def": 3
+     },
+     {
+      "pos": "OF",
+      "def": 4
      }
     ]
    }
@@ -84507,7 +84537,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786257735570
+   "ts": 1786257824889
   },
   "teams": {
    "프린스": {
@@ -88598,11 +88628,16 @@
        "pos": "1B",
        "def": 4,
        "tier": "코어"
+      },
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 1.7,
+     "value": 1.8,
      "grade": "D",
      "left": 2,
      "effM": 1.21
@@ -89739,11 +89774,16 @@
        "pos": "3B",
        "def": 3,
        "tier": "레귤러"
+      },
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 2.1,
+     "value": 2.2,
      "grade": "D",
      "left": 3,
      "effM": 0.97
@@ -90152,11 +90192,16 @@
        "pos": "3B",
        "def": 5,
        "tier": "레귤러"
+      },
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 1.6,
+     "value": 1.8,
      "grade": "D",
      "left": 2,
      "effM": 0.75
@@ -90965,7 +91010,7 @@
    },
    "p193": {
     "name": "허드슨",
-    "pos": "OF",
+    "pos": "CF",
     "tier": "서브",
     "age": 29,
     "team": "다이노스",
@@ -90974,6 +91019,11 @@
      "con": 4,
      "pow": 1,
      "positions": [
+      {
+       "pos": "CF",
+       "def": 3,
+       "tier": "서브"
+      },
       {
        "pos": "OF",
        "def": 3,
@@ -92339,7 +92389,7 @@
    },
    "p256": {
     "name": "가버",
-    "pos": "OF",
+    "pos": "CF",
     "tier": "레귤러",
     "age": 26,
     "team": "타이거즈",
@@ -92349,14 +92399,19 @@
      "pow": 1,
      "positions": [
       {
-       "pos": "OF",
+       "pos": "CF",
        "def": 3,
+       "tier": "레귤러"
+      },
+      {
+       "pos": "OF",
+       "def": 4,
        "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 3.5,
+     "value": 3.7,
      "grade": "C",
      "left": 6,
      "effM": 1.6
