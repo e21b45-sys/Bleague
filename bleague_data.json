@@ -10255,7 +10255,12 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 6,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p76": {
    "id": "p76",
@@ -11360,7 +11365,7 @@
    "name": "히로",
    "team": "버커니어스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 38,
    "number": "11",
    "debutSeason": 3,
@@ -11552,7 +11557,12 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "injury"
+   "form": "injury",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 4
+   }
   },
   "p85": {
    "id": "p85",
@@ -11698,17 +11708,25 @@
    "hof": null,
    "injuries": [],
    "role": "3번",
-   "subPositions": [
-    "SS"
-   ],
-   "form": "good"
+   "subPositions": [],
+   "form": "good",
+   "abil": {
+    "con": 5,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p86": {
    "id": "p86",
    "name": "노아",
    "team": "마린즈",
    "pos": "RP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 39,
    "number": "47",
    "debutSeason": 3,
@@ -11838,14 +11856,19 @@
    "injuries": [],
    "role": "마무리",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 5,
+    "inn": 1,
+    "prs": 4
+   }
   },
   "p87": {
    "id": "p87",
    "name": "헤네시",
    "team": "워리어스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 36,
    "number": "11",
    "debutSeason": 4,
@@ -11966,7 +11989,12 @@
    ],
    "role": "4선발",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p88": {
    "id": "p88",
@@ -12511,7 +12539,7 @@
    "name": "포셔",
    "team": "타이거즈",
    "pos": "DH",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 35,
    "number": "9",
    "debutSeason": 4,
@@ -12622,10 +12650,18 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [
-    "1B"
-   ],
-   "form": "good"
+   "subPositions": [],
+   "form": "good",
+   "abil": {
+    "con": 4,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "DH",
+      "def": 1
+     }
+    ]
+   }
   },
   "p93": {
    "id": "p93",
@@ -12761,17 +12797,25 @@
     }
    ],
    "role": "5번",
-   "subPositions": [
-    "OF"
-   ],
-   "form": "good"
+   "subPositions": [],
+   "form": "good",
+   "abil": {
+    "con": 4,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "DH",
+      "def": 1
+     }
+    ]
+   }
   },
   "p94": {
    "id": "p94",
    "name": "블랙셔",
    "team": "워리어스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 37,
    "number": "13",
    "debutSeason": 5,
@@ -12891,7 +12935,12 @@
    ],
    "role": "3선발",
    "subPositions": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 4,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p95": {
    "id": "p95",
@@ -13006,14 +13055,19 @@
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p96": {
    "id": "p96",
    "name": "르메이아",
    "team": "다이너마이트",
    "pos": "1B",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 37,
    "number": "8",
    "debutSeason": 7,
@@ -13143,17 +13197,25 @@
     }
    ],
    "role": "7번",
-   "subPositions": [
-    "OF"
-   ],
-   "form": "good"
+   "subPositions": [],
+   "form": "good",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p97": {
    "id": "p97",
    "name": "벤달",
    "team": "트레일 블레이저스",
    "pos": "3B",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 37,
    "number": "23",
    "debutSeason": 7,
@@ -13272,17 +13334,25 @@
     }
    ],
    "role": "3번",
-   "subPositions": [
-    "SS"
-   ],
-   "form": ""
+   "subPositions": [],
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p98": {
    "id": "p98",
    "name": "그리핀",
    "team": "다이노스",
    "pos": "OF",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 34,
    "number": "10",
    "debutSeason": 5,
@@ -13428,14 +13498,24 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 6,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p99": {
    "id": "p99",
    "name": "헨리",
    "team": "데빌스",
    "pos": "C",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 36,
    "number": "39",
    "debutSeason": 5,
@@ -13545,14 +13625,24 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 3,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 5
+     }
+    ]
+   }
   },
   "p100": {
    "id": "p100",
    "name": "토니",
    "team": "에스트로너츠",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 35,
    "number": "10",
    "debutSeason": 5,
@@ -13663,7 +13753,17 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p101": {
    "id": "p101",
@@ -13783,10 +13883,18 @@
    "hof": null,
    "injuries": [],
    "role": "4번",
-   "subPositions": [
-    "2B"
-   ],
-   "form": ""
+   "subPositions": [],
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p102": {
    "id": "p102",
@@ -14038,7 +14146,17 @@
    ],
    "role": "3번",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 6,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p104": {
    "id": "p104",
@@ -14148,7 +14266,12 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 7,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p105": {
    "id": "p105",
@@ -14261,7 +14384,12 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 6,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p106": {
    "id": "p106",
@@ -14370,14 +14498,19 @@
    "injuries": [],
    "role": "1선발",
    "subPositions": [],
-   "form": "injury"
+   "form": "injury",
+   "abil": {
+    "pit": 6,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p107": {
    "id": "p107",
    "name": "예이츠",
    "team": "라이언즈",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 35,
    "number": "7",
    "debutSeason": 8,
@@ -14486,7 +14619,17 @@
    ],
    "role": "6번",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 2,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 5
+     }
+    ]
+   }
   },
   "p108": {
    "id": "p108",
@@ -14609,11 +14752,18 @@
     }
    ],
    "role": "4번",
-   "subPositions": [
-    "C",
-    "DH"
-   ],
-   "form": ""
+   "subPositions": [],
+   "form": "",
+   "abil": {
+    "con": 3,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p109": {
    "id": "p109",
@@ -14725,7 +14875,17 @@
    "injuries": [],
    "role": "6번",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 4
+     }
+    ]
+   }
   },
   "p110": {
    "id": "p110",
@@ -14845,7 +15005,12 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 4
+   }
   },
   "p111": {
    "id": "p111",
@@ -14953,7 +15118,17 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 4,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p112": {
    "id": "p112",
@@ -15062,10 +15237,18 @@
    "hof": null,
    "injuries": [],
    "role": "3번",
-   "subPositions": [
-    "2B"
-   ],
-   "form": "bad"
+   "subPositions": [],
+   "form": "bad",
+   "abil": {
+    "con": 7,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p113": {
    "id": "p113",
@@ -15174,7 +15357,17 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 6,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 5
+     }
+    ]
+   }
   },
   "p114": {
    "id": "p114",
@@ -15284,10 +15477,18 @@
     }
    ],
    "role": "1번",
-   "subPositions": [
-    "SS"
-   ],
-   "form": "good"
+   "subPositions": [],
+   "form": "good",
+   "abil": {
+    "con": 7,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p115": {
    "id": "p115",
@@ -15403,14 +15604,19 @@
    ],
    "role": "1선발",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 6,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p116": {
    "id": "p116",
    "name": "마셜",
    "team": "마린즈",
    "pos": "OF",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 31,
    "number": "10",
    "debutSeason": 8,
@@ -15521,14 +15727,24 @@
    ],
    "role": "1번",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 7,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 5
+     }
+    ]
+   }
   },
   "p117": {
    "id": "p117",
    "name": "피터슨",
    "team": "데빌스",
    "pos": "OF",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 33,
    "number": "4",
    "debutSeason": 8,
@@ -15620,7 +15836,17 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p118": {
    "id": "p118",
@@ -15721,7 +15947,17 @@
    "injuries": [],
    "role": "5번",
    "subPositions": [],
-   "form": "injury"
+   "form": "injury",
+   "abil": {
+    "con": 6,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p119": {
    "id": "p119",
@@ -15823,14 +16059,19 @@
    ],
    "role": "2선발",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p120": {
    "id": "p120",
    "name": "페서뇽",
    "team": "다이노스",
    "pos": "2B",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 33,
    "number": "8",
    "debutSeason": 10,
@@ -15919,11 +16160,18 @@
    "hof": null,
    "injuries": [],
    "role": "2번",
-   "subPositions": [
-    "1B",
-    "SS"
-   ],
-   "form": ""
+   "subPositions": [],
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p121": {
    "id": "p121",
@@ -16046,7 +16294,17 @@
    ],
    "role": "9번",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p122": {
    "id": "p122",
@@ -16167,7 +16425,12 @@
    ],
    "role": "셋업",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 4
+   }
   },
   "p123": {
    "id": "p123",
@@ -16272,17 +16535,25 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [
-    "OF"
-   ],
-   "form": "bad"
+   "subPositions": [],
+   "form": "bad",
+   "abil": {
+    "con": 4,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "DH",
+      "def": 2
+     }
+    ]
+   }
   },
   "p124": {
    "id": "p124",
    "name": "밀러",
    "team": "데빌스",
    "pos": "OF",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 31,
    "number": "11",
    "debutSeason": 9,
@@ -16369,7 +16640,17 @@
    "injuries": [],
    "role": "2번",
    "subPositions": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 6,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p125": {
    "id": "p125",
@@ -16462,7 +16743,17 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 6,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p126": {
    "id": "p126",
@@ -16554,7 +16845,17 @@
    "injuries": [],
    "role": "4번",
    "subPositions": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 5,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p127": {
    "id": "p127",
@@ -16648,7 +16949,12 @@
    "injuries": [],
    "role": "3선발",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 6,
+    "inn": 4,
+    "prs": 4
+   }
   },
   "p128": {
    "id": "p128",
@@ -16757,7 +17063,12 @@
    ],
    "role": "5선발",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p129": {
    "id": "p129",
@@ -16849,7 +17160,17 @@
    "injuries": [],
    "role": "6번",
    "subPositions": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 5,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 4
+     }
+    ]
+   }
   },
   "p130": {
    "id": "p130",
@@ -16941,7 +17262,12 @@
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p131": {
    "id": "p131",
@@ -17041,14 +17367,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 7,
+    "inn": 5,
+    "prs": 4
+   }
   },
   "p132": {
    "id": "p132",
    "name": "메이슨",
    "team": "마린즈",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 33,
    "number": "1",
    "debutSeason": 9,
@@ -17154,7 +17485,12 @@
      "note": "질병"
     }
    ],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 6,
+    "inn": 5,
+    "prs": 4
+   }
   },
   "p133": {
    "id": "p133",
@@ -17241,7 +17577,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p134": {
    "id": "p134",
@@ -17270,9 +17616,7 @@
     "파워"
    ],
    "role": "8번",
-   "subPositions": [
-    "SS"
-   ],
+   "subPositions": [],
    "draftSeason": 9,
    "draftRound": 1,
    "contract": {
@@ -17338,7 +17682,17 @@
      "note": "허벅지"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p135": {
    "id": "p135",
@@ -17433,14 +17787,19 @@
      "note": "손"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p136": {
    "id": "p136",
    "name": "요한",
    "team": "마린즈",
    "pos": "SS",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 29,
    "number": "7",
    "debutSeason": 11,
@@ -17528,7 +17887,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 6,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 5
+     }
+    ]
+   }
   },
   "p137": {
    "id": "p137",
@@ -17629,14 +17998,19 @@
      "note": "질병"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 7,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p138": {
    "id": "p138",
    "name": "카브레라",
    "team": "다이너마이트",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 30,
    "number": "4",
    "debutSeason": 10,
@@ -17719,7 +18093,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 4,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 3
+     }
+    ]
+   }
   },
   "p139": {
    "id": "p139",
@@ -17812,14 +18196,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 7,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p141": {
    "id": "p141",
    "name": "어니스트",
    "team": "타이거즈",
    "pos": "RP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 36,
    "number": "17",
    "debutSeason": 6,
@@ -17941,7 +18330,12 @@
      "note": "팔"
     }
    ],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p142": {
    "id": "p142",
@@ -18054,7 +18448,12 @@
      "note": "목"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p143": {
    "id": "p143",
@@ -18560,7 +18959,17 @@
      "note": "팔"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p147": {
    "id": "p147",
@@ -18646,14 +19055,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 6,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p148": {
    "id": "p148",
    "name": "러츠",
    "team": "버커니어스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 33,
    "number": "5",
    "debutSeason": 11,
@@ -18735,14 +19149,19 @@
      "note": "발목"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p149": {
    "id": "p149",
    "name": "바셋",
    "team": "마린즈",
    "pos": "C",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 29,
    "number": "6",
    "debutSeason": 12,
@@ -18822,7 +19241,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 4
+     }
+    ]
+   }
   },
   "p150": {
    "id": "p150",
@@ -18911,7 +19340,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p151": {
    "id": "p151",
@@ -19007,14 +19441,19 @@
      "note": "사타구니"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p152": {
    "id": "p152",
    "name": "엔더슨",
    "team": "이글즈",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 29,
    "number": "9",
    "debutSeason": 13,
@@ -19093,7 +19532,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 5,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p153": {
    "id": "p153",
@@ -19176,7 +19625,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p154": {
    "id": "p154",
@@ -19270,14 +19724,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p155": {
    "id": "p155",
    "name": "알드레드",
    "team": "이글즈",
    "pos": "DH",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 32,
    "number": "17",
    "debutSeason": 10,
@@ -19300,9 +19759,7 @@
     "파워"
    ],
    "role": "1번",
-   "subPositions": [
-    "OF"
-   ],
+   "subPositions": [],
    "draftSeason": 9,
    "draftRound": 2,
    "contract": {
@@ -19373,14 +19830,24 @@
      "note": "무릎"
     }
    ],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "DH",
+      "def": 1
+     }
+    ]
+   }
   },
   "p156": {
    "id": "p156",
    "name": "해밀턴",
    "team": "마린즈",
    "pos": "3B",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 31,
    "number": "50",
    "debutSeason": 10,
@@ -19405,10 +19872,7 @@
     "갭"
    ],
    "role": "9번",
-   "subPositions": [
-    "2B",
-    "SS"
-   ],
+   "subPositions": [],
    "draftSeason": 9,
    "draftRound": 6,
    "contract": {
@@ -19474,7 +19938,17 @@
      "note": "손목"
     }
    ],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p157": {
    "id": "p157",
@@ -19631,7 +20105,7 @@
    "name": "앨퍼드",
    "team": "데빌스",
    "pos": "1B",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 35,
    "number": "51",
    "debutSeason": 7,
@@ -19745,14 +20219,24 @@
      "note": "질병"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 4,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p159": {
    "id": "p159",
    "name": "윌리엄스",
    "team": "데빌스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 34,
    "number": "2",
    "debutSeason": 6,
@@ -19860,7 +20344,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 5
+     }
+    ]
+   }
   },
   "p160": {
    "id": "p160",
@@ -19944,7 +20438,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p161": {
    "id": "p161",
@@ -20122,7 +20621,17 @@
      "note": "손가락"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p163": {
    "id": "p163",
@@ -20202,7 +20711,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p164": {
    "id": "p164",
@@ -20288,14 +20802,24 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 6,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p165": {
    "id": "p165",
    "name": "벤슨",
    "team": "프린스",
    "pos": "OF",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 29,
    "number": "4",
    "debutSeason": 12,
@@ -20372,7 +20896,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 5,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p166": {
    "id": "p166",
@@ -20456,7 +20990,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": "injury",
+   "abil": {
+    "pit": 7,
+    "inn": 2,
+    "prs": 4
+   }
   },
   "p167": {
    "id": "p167",
@@ -20541,7 +21080,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p168": {
    "id": "p168",
@@ -20633,7 +21177,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p169": {
    "id": "p169",
@@ -20727,7 +21276,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 3,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p170": {
    "id": "p170",
@@ -20813,7 +21372,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p171": {
    "id": "p171",
@@ -20900,7 +21464,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 5,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 5
+     }
+    ]
+   }
   },
   "p172": {
    "id": "p172",
@@ -20990,7 +21564,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p173": {
    "id": "p173",
@@ -21069,7 +21653,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p174": {
    "id": "p174",
@@ -21142,14 +21731,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p175": {
    "id": "p175",
    "name": "피소로",
    "team": "라이언즈",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 29,
    "number": "6",
    "debutSeason": 13,
@@ -21220,7 +21814,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 6,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 3
+     }
+    ]
+   }
   },
   "p176": {
    "id": "p176",
@@ -21314,7 +21918,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 7,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p177": {
    "id": "p177",
@@ -21397,7 +22011,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p178": {
    "id": "p178",
@@ -21470,7 +22094,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p179": {
    "id": "p179",
@@ -21553,7 +22182,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p180": {
    "id": "p180",
@@ -21633,7 +22267,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 6,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 5
+     }
+    ]
+   }
   },
   "p181": {
    "id": "p181",
@@ -21707,7 +22351,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p182": {
    "id": "p182",
@@ -21784,7 +22438,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p183": {
    "id": "p183",
@@ -21889,7 +22553,7 @@
    "name": "조니",
    "team": "트레일 블레이저스",
    "pos": "C",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 30,
    "number": "25",
    "debutSeason": 12,
@@ -21963,7 +22627,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 4
+     }
+    ]
+   }
   },
   "p185": {
    "id": "p185",
@@ -22052,7 +22726,12 @@
      "note": "어꺠"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p186": {
    "id": "p186",
@@ -22139,14 +22818,24 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p187": {
    "id": "p187",
    "name": "에버렛",
    "team": "트레일 블레이저스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 31,
    "number": "29",
    "debutSeason": 12,
@@ -22229,14 +22918,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 3,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p188": {
    "id": "p188",
    "name": "타바이",
    "team": "에스트로너츠",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 34,
    "number": "2",
    "debutSeason": 10,
@@ -22330,7 +23024,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 5
+     }
+    ]
+   }
   },
   "p189": {
    "id": "p189",
@@ -22431,7 +23135,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p190": {
    "id": "p190",
@@ -22515,7 +23224,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p191": {
    "id": "p191",
@@ -22594,7 +23308,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p192": {
    "id": "p192",
@@ -22670,14 +23389,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p193": {
    "id": "p193",
    "name": "허드슨",
    "team": "다이노스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 29,
    "number": "3",
    "debutSeason": 15,
@@ -22746,7 +23470,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p194": {
    "id": "p194",
@@ -22845,7 +23579,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p195": {
    "id": "p195",
@@ -22913,7 +23657,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 6,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p196": {
    "id": "p196",
@@ -22984,7 +23738,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 6,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p197": {
    "id": "p197",
@@ -23015,9 +23779,7 @@
     "주루"
    ],
    "role": "3번",
-   "subPositions": [
-    "SS"
-   ],
+   "subPositions": [],
    "draftSeason": 13,
    "draftRound": 1,
    "contract": null,
@@ -23056,14 +23818,24 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 6,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p198": {
    "id": "p198",
    "name": "도널드",
    "team": "라이언즈",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 27,
    "number": "19",
    "debutSeason": 16,
@@ -23124,7 +23896,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 4
+   }
   },
   "p199": {
    "id": "p199",
@@ -23195,14 +23972,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p200": {
    "id": "p200",
    "name": "라힘",
    "team": "세이버스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 28,
    "number": "16",
    "debutSeason": 15,
@@ -23264,7 +24046,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 2,
+    "prs": 2
+   }
   },
   "p201": {
    "id": "p201",
@@ -23338,7 +24125,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 6,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p202": {
    "id": "p202",
@@ -23417,7 +24214,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 7,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p203": {
    "id": "p203",
@@ -23492,7 +24299,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 6,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p204": {
    "id": "p204",
@@ -23565,7 +24377,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p205": {
    "id": "p205",
@@ -23652,7 +24469,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p206": {
    "id": "p206",
@@ -23732,7 +24554,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p207": {
    "id": "p207",
@@ -23809,14 +24636,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p208": {
    "id": "p208",
    "name": "암스테드",
    "team": "에스트로너츠",
    "pos": "RP",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 26,
    "number": "6",
    "debutSeason": 15,
@@ -23878,7 +24710,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 6,
+    "inn": 2,
+    "prs": 4
+   }
   },
   "p209": {
    "id": "p209",
@@ -23963,7 +24800,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p210": {
    "id": "p210",
@@ -24032,7 +24874,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p211": {
    "id": "p211",
@@ -24122,7 +24969,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 4
+   }
   },
   "p212": {
    "id": "p212",
@@ -24188,7 +25040,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p213": {
    "id": "p213",
@@ -24255,7 +25112,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 2
+   }
   },
   "p214": {
    "id": "p214",
@@ -24319,7 +25181,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p215": {
    "id": "p215",
@@ -24388,14 +25255,24 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": "injury",
+   "abil": {
+    "con": 5,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p216": {
    "id": "p216",
    "name": "비사치아",
    "team": "챌린저스",
    "pos": "DH",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 24,
    "number": "5",
    "debutSeason": 16,
@@ -24418,9 +25295,7 @@
     "수비 범위"
    ],
    "role": "3번",
-   "subPositions": [
-    "3B"
-   ],
+   "subPositions": [],
    "draftSeason": 14,
    "draftRound": 1,
    "contract": null,
@@ -24455,7 +25330,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "injury"
+   "form": "injury",
+   "abil": {
+    "con": 3,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "DH",
+      "def": 1
+     }
+    ]
+   }
   },
   "p217": {
    "id": "p217",
@@ -24531,7 +25416,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p218": {
    "id": "p218",
@@ -24560,9 +25455,7 @@
     "컨택"
    ],
    "role": "8번",
-   "subPositions": [
-    "SS"
-   ],
+   "subPositions": [],
    "draftSeason": 14,
    "draftRound": 1,
    "contract": null,
@@ -24597,7 +25490,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p219": {
    "id": "p219",
@@ -24661,7 +25564,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p220": {
    "id": "p220",
@@ -24728,14 +25636,19 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "bad"
+   "form": "bad",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p221": {
    "id": "p221",
    "name": "그라인더",
    "team": "워리어스",
    "pos": "SS",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 29,
    "number": "7",
    "debutSeason": 14,
@@ -24811,14 +25724,24 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "con": 6,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p222": {
    "id": "p222",
    "name": "알렌",
    "team": "버커니어스",
    "pos": "1B",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 30,
    "number": "13",
    "debutSeason": 14,
@@ -24841,9 +25764,7 @@
     "파워"
    ],
    "role": "4번",
-   "subPositions": [
-    "3B"
-   ],
+   "subPositions": [],
    "draftSeason": 11,
    "draftRound": 4,
    "contract": {
@@ -24899,7 +25820,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p223": {
    "id": "p223",
@@ -24990,7 +25921,12 @@
      "note": "등"
     }
    ],
-   "form": ""
+   "form": "",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p224": {
    "id": "p224",
@@ -25069,7 +26005,12 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": "good"
+   "form": "good",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 2
+   }
   },
   "p225": {
    "id": "p225",
@@ -25098,9 +26039,7 @@
     "파워"
    ],
    "role": "1번",
-   "subPositions": [
-    "2B"
-   ],
+   "subPositions": [],
    "draftSeason": 12,
    "draftRound": 2,
    "contract": {
@@ -25152,7 +26091,17 @@
    ],
    "hof": null,
    "injuries": [],
-   "form": ""
+   "form": "",
+   "abil": {
+    "con": 5,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p226": {
    "id": "p226",
@@ -25247,14 +26196,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p227": {
    "id": "p227",
    "name": "베르만",
    "team": "챌린저스",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 24,
    "number": "8",
    "debutSeason": 18,
@@ -25311,7 +26270,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 3
+     }
+    ]
+   }
   },
   "p228": {
    "id": "p228",
@@ -25372,7 +26341,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p229": {
    "id": "p229",
@@ -25435,7 +26409,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p230": {
    "id": "p230",
@@ -25498,7 +26482,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p231": {
    "id": "p231",
@@ -25561,14 +26550,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p233": {
    "id": "p233",
    "name": "토레이라",
    "team": "프린스",
    "pos": "C",
-   "tier": "엘리트",
+   "tier": "컨텐더",
    "age": 24,
    "number": "6",
    "debutSeason": 17,
@@ -25624,7 +26623,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 5
+     }
+    ]
+   }
   },
   "p234": {
    "id": "p234",
@@ -25686,7 +26695,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p235": {
    "id": "p235",
@@ -25746,7 +26760,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 2,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p236": {
    "id": "p236",
@@ -25808,7 +26832,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p237": {
    "id": "p237",
@@ -25871,7 +26900,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p238": {
    "id": "p238",
@@ -25931,7 +26970,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p239": {
    "id": "p239",
@@ -25997,7 +27041,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 5
+     }
+    ]
+   }
   },
   "p240": {
    "id": "p240",
@@ -26064,7 +27118,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 6,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p241": {
    "id": "p241",
@@ -26127,14 +27191,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p242": {
    "id": "p242",
    "name": "아켈로",
    "team": "트레일 블레이저스",
    "pos": "RP",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 28,
    "number": "34",
    "debutSeason": 16,
@@ -26192,7 +27266,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 3,
+    "inn": 1,
+    "prs": 2
+   }
   },
   "p243": {
    "id": "p243",
@@ -26221,9 +27300,7 @@
     "수비 범위"
    ],
    "role": "3번",
-   "subPositions": [
-    "OF"
-   ],
+   "subPositions": [],
    "form": "bad",
    "draftSeason": 13,
    "draftRound": 1,
@@ -26262,7 +27339,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 3,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "DH",
+      "def": 1
+     }
+    ]
+   }
   },
   "p244": {
    "id": "p244",
@@ -26324,7 +27411,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 6,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p245": {
    "id": "p245",
@@ -26385,7 +27477,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p246": {
    "id": "p246",
@@ -26447,7 +27544,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p247": {
    "id": "p247",
@@ -26507,7 +27614,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p248": {
    "id": "p248",
@@ -26568,7 +27680,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p249": {
    "id": "p249",
@@ -26635,14 +27752,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p250": {
    "id": "p250",
    "name": "바에르",
    "team": "다이노스",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 28,
    "number": "68",
    "debutSeason": 16,
@@ -26710,7 +27837,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 3
+     }
+    ]
+   }
   },
   "p251": {
    "id": "p251",
@@ -26787,7 +27924,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p252": {
    "id": "p252",
@@ -26850,7 +27997,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 2
+   }
   },
   "p253": {
    "id": "p253",
@@ -26881,9 +28033,7 @@
     "수비 안정성"
    ],
    "role": "5번",
-   "subPositions": [
-    "1B"
-   ],
+   "subPositions": [],
    "form": "",
    "draftSeason": 13,
    "draftRound": 2,
@@ -26922,7 +28072,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 2,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "DH",
+      "def": 1
+     }
+    ]
+   }
   },
   "p254": {
    "id": "p254",
@@ -26988,7 +28148,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 3,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 3
+     }
+    ]
+   }
   },
   "p255": {
    "id": "p255",
@@ -27053,7 +28223,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p256": {
    "id": "p256",
@@ -27119,7 +28294,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p257": {
    "id": "p257",
@@ -27183,14 +28368,19 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p258": {
    "id": "p258",
    "name": "샌더스",
    "team": "다이너마이트",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 29,
    "number": "12",
    "debutSeason": 15,
@@ -27252,7 +28442,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p259": {
    "id": "p259",
@@ -27322,7 +28522,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p260": {
    "id": "p260",
@@ -27383,7 +28588,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 7,
+    "inn": 5,
+    "prs": 3
+   }
   },
   "p261": {
    "id": "p261",
@@ -27438,14 +28648,19 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p262": {
    "id": "p262",
    "name": "바그너",
    "team": "이글즈",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 24,
    "number": "7",
    "debutSeason": 18,
@@ -27494,7 +28709,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p263": {
    "id": "p263",
@@ -27550,7 +28775,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p264": {
    "id": "p264",
@@ -27579,9 +28809,7 @@
     "파워"
    ],
    "role": "8번",
-   "subPositions": [
-    "SS"
-   ],
+   "subPositions": [],
    "form": "bad",
    "draftSeason": 16,
    "draftRound": 1,
@@ -27608,7 +28836,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p265": {
    "id": "p265",
@@ -27665,7 +28903,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 3,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 3
+     }
+    ]
+   }
   },
   "p266": {
    "id": "p266",
@@ -27722,7 +28970,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 6,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p267": {
    "id": "p267",
@@ -27777,7 +29035,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p268": {
    "id": "p268",
@@ -27833,7 +29096,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p269": {
    "id": "p269",
@@ -27892,7 +29160,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 6,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 5
+     }
+    ]
+   }
   },
   "p270": {
    "id": "p270",
@@ -27949,7 +29227,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p271": {
    "id": "p271",
@@ -28005,7 +29288,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p272": {
    "id": "p272",
@@ -28061,7 +29349,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 5,
+    "inn": 4,
+    "prs": 3
+   }
   },
   "p273": {
    "id": "p273",
@@ -28118,7 +29411,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p274": {
    "id": "p274",
@@ -28176,7 +29479,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p275": {
    "id": "p275",
@@ -28233,7 +29546,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p276": {
    "id": "p276",
@@ -28295,14 +29613,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p277": {
    "id": "p277",
    "name": "산체스",
    "team": "챌린저스",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 23,
    "number": "26",
    "debutSeason": 19,
@@ -28352,7 +29680,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 5
+     }
+    ]
+   }
   },
   "p278": {
    "id": "p278",
@@ -28408,7 +29746,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p279": {
    "id": "p279",
@@ -28464,14 +29807,19 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 7,
+    "inn": 5,
+    "prs": 4
+   }
   },
   "p280": {
    "id": "p280",
    "name": "에르난데스",
    "team": "챌린저스",
    "pos": "1B",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 21,
    "number": "10",
    "debutSeason": 20,
@@ -28525,7 +29873,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "컨텐더",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 4,
+    "pow": 5,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p281": {
    "id": "p281",
@@ -28580,7 +29938,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 5,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p282": {
    "id": "p282",
@@ -28635,14 +30003,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 5
+     }
+    ]
+   }
   },
   "p283": {
    "id": "p283",
    "name": "에이브라함",
    "team": "다이너마이트",
    "pos": "OF",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 21,
    "number": "2",
    "debutSeason": 19,
@@ -28687,7 +30065,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p284": {
    "id": "p284",
@@ -28739,14 +30127,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p285": {
    "id": "p285",
    "name": "베르흐게르",
    "team": "버커니어스",
    "pos": "SS",
-   "tier": "코어",
+   "tier": "엘리트",
    "age": 21,
    "number": "9",
    "debutSeason": 20,
@@ -28794,14 +30192,24 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 5
+     }
+    ]
+   }
   },
   "p286": {
    "id": "p286",
    "name": "뱅크스",
    "team": "데빌스",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 22,
    "number": "1",
    "debutSeason": 19,
@@ -28847,14 +30255,19 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 5,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p287": {
    "id": "p287",
    "name": "네일",
    "team": "프린스",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "17",
    "debutSeason": 19,
@@ -28900,7 +30313,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p288": {
    "id": "p288",
@@ -28953,7 +30376,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p289": {
    "id": "p289",
@@ -29006,7 +30434,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p290": {
    "id": "p290",
@@ -29059,7 +30492,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p291": {
    "id": "p291",
@@ -29116,7 +30554,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p292": {
    "id": "p292",
@@ -29169,14 +30617,19 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p293": {
    "id": "p293",
    "name": "라파엘라",
    "team": "타이거즈",
    "pos": "C",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 23,
    "number": "15",
    "debutSeason": 20,
@@ -29229,7 +30682,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 5
+     }
+    ]
+   }
   },
   "p294": {
    "id": "p294",
@@ -29284,7 +30747,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 4
+   }
   },
   "p295": {
    "id": "p295",
@@ -29336,7 +30804,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p296": {
    "id": "p296",
@@ -29390,7 +30868,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p297": {
    "id": "p297",
@@ -29445,14 +30928,19 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 2
+   }
   },
   "p298": {
    "id": "p298",
    "name": "롱",
    "team": "세이버스",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 22,
    "number": "37",
    "debutSeason": 19,
@@ -29498,7 +30986,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p299": {
    "id": "p299",
@@ -29528,9 +31026,7 @@
     "수비 범위"
    ],
    "role": "7번",
-   "subPositions": [
-    "SS"
-   ],
+   "subPositions": [],
    "form": "",
    "draftSeason": 17,
    "draftRound": 2,
@@ -29555,7 +31051,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 5,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p300": {
    "id": "p300",
@@ -29607,14 +31113,24 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p301": {
    "id": "p301",
    "name": "스미스",
    "team": "라이언즈",
    "pos": "OF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 24,
    "number": "16",
    "debutSeason": 19,
@@ -29660,7 +31176,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p302": {
    "id": "p302",
@@ -29714,7 +31240,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p303": {
    "id": "p303",
@@ -29770,7 +31301,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "컨텐더",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 6,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p304": {
    "id": "p304",
@@ -29822,14 +31358,24 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 5,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p305": {
    "id": "p305",
    "name": "자이언",
    "team": "이글즈",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 22,
    "number": "21",
    "debutSeason": 19,
@@ -29872,7 +31418,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 5
+     }
+    ]
+   }
   },
   "p306": {
    "id": "p306",
@@ -29922,14 +31478,19 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p307": {
    "id": "p307",
    "name": "이노아",
    "team": "스틸러스",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 21,
    "number": "17",
    "debutSeason": 20,
@@ -29973,7 +31534,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p308": {
    "id": "p308",
@@ -30127,7 +31698,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p311": {
    "id": "p311",
@@ -30179,7 +31760,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p312": {
    "id": "p312",
@@ -30282,14 +31868,19 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p314": {
    "id": "p314",
    "name": "호프만 Jr",
    "team": "타이거즈",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 20,
    "number": "11",
    "debutSeason": 20,
@@ -30335,7 +31926,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 5,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p315": {
    "id": "p315",
@@ -30441,14 +32037,24 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p317": {
    "id": "p317",
    "name": "제레미",
    "team": "타이거즈",
    "pos": "SS",
-   "tier": "레귤러",
+   "tier": "코어",
    "age": 24,
    "number": "77",
    "debutSeason": 19,
@@ -30491,7 +32097,17 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p318": {
    "id": "p318",
@@ -30544,7 +32160,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p319": {
    "id": "p319",
@@ -30651,7 +32277,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p321": {
    "id": "p321",
@@ -30811,7 +32442,7 @@
    "name": "파웰",
    "team": "세이버스",
    "pos": "RP",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 24,
    "number": "29",
    "debutSeason": 20,
@@ -30851,7 +32482,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "서브",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 3,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p325": {
    "id": "p325",
@@ -30954,7 +32590,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p327": {
    "id": "p327",
@@ -31057,7 +32703,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 4
+     }
+    ]
+   }
   },
   "p329": {
    "id": "p329",
@@ -31109,7 +32765,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 4,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p330": {
    "id": "p330",
@@ -31260,7 +32926,12 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "abil": {
+    "pit": 4,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p333": {
    "id": "p333",
@@ -31364,7 +33035,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p335": {
    "id": "p335",
@@ -82756,7 +84437,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1785827441356
+   "ts": 1786253571735
   },
   "teams": {
    "프린스": {
@@ -82764,7 +84445,7 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 3,
-     "core": 9,
+     "core": 10,
      "avgAge": 29.6,
      "payRatio": 0.7586206896551724,
      "farm": 1,
@@ -82775,7 +84456,7 @@
     "appeal": 1.55,
     "market": "빅마켓",
     "free": 40,
-    "power": 70.1,
+    "power": 71,
     "window": {
      "open": 20,
      "left": 2,
@@ -82792,6 +84473,11 @@
       "lv": "부족",
       "slots": 3,
       "have": 2
+     },
+     {
+      "pos": "DH",
+      "lv": "공백",
+      "slots": 1
      }
     ],
     "picks": [
@@ -82932,7 +84618,7 @@
     "appeal": 1.28,
     "market": "빅마켓",
     "free": 17,
-    "power": 51.4,
+    "power": 55.1,
     "window": {
      "open": 20,
      "left": 2,
@@ -83122,10 +84808,10 @@
     "appeal": 1.52,
     "market": "중형",
     "free": 67,
-    "power": 56.9,
+    "power": 63.8,
     "window": {
      "open": 20,
-     "left": 0,
+     "left": 2,
      "note": ""
     },
     "needs": [],
@@ -83363,7 +85049,7 @@
     "appeal": 0.99,
     "market": "중형",
     "free": 18,
-    "power": 44.1,
+    "power": 45.9,
     "window": {
      "open": 20,
      "left": 2,
@@ -83374,6 +85060,11 @@
       "pos": "RP",
       "lv": "공백",
       "slots": 2
+     },
+     {
+      "pos": "1B",
+      "lv": "공백",
+      "slots": 1
      },
      {
       "pos": "DH",
@@ -83556,8 +85247,8 @@
     "stance": "winnow",
     "stanceLabel": "윈나우",
     "stanceWhy": {
-     "cont": 2,
-     "core": 11,
+     "cont": 5,
+     "core": 9,
      "avgAge": 28.9,
      "payRatio": 0.772,
      "farm": 6,
@@ -83568,7 +85259,7 @@
     "appeal": 1.63,
     "market": "빅마켓",
     "free": 50,
-    "power": 69,
+    "power": 87.9,
     "window": {
      "open": 20,
      "left": 2,
@@ -83745,7 +85436,7 @@
     "appeal": 1.41,
     "market": "빅마켓",
     "free": 100,
-    "power": 65.1,
+    "power": 64.8,
     "window": {
      "open": 20,
      "left": 2,
@@ -83945,7 +85636,7 @@
     "appeal": 0.86,
     "market": "중형",
     "free": 80,
-    "power": 26.7,
+    "power": 29.8,
     "window": {
      "open": 20,
      "left": 2,
@@ -83960,6 +85651,11 @@
      {
       "pos": "1B",
       "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "DH",
+      "lv": "약점",
       "slots": 1
      }
     ],
@@ -84146,7 +85842,7 @@
     "stanceLabel": "관망",
     "stanceWhy": {
      "cont": 0,
-     "core": 4,
+     "core": 5,
      "avgAge": 27.3,
      "payRatio": 0.6,
      "farm": 6,
@@ -84157,7 +85853,7 @@
     "appeal": 0.86,
     "market": "스몰마켓",
     "free": 42,
-    "power": 26.7,
+    "power": 23.9,
     "window": {
      "open": 20,
      "left": 2,
@@ -84169,6 +85865,11 @@
       "lv": "부족",
       "slots": 2,
       "have": 1
+     },
+     {
+      "pos": "SS",
+      "lv": "공백",
+      "slots": 1
      },
      {
       "pos": "DH",
@@ -84383,11 +86084,11 @@
     ]
    },
    "데빌스": {
-    "stance": "allin",
-    "stanceLabel": "올인",
+    "stance": "winnow",
+    "stanceLabel": "윈나우",
     "stanceWhy": {
      "cont": 0,
-     "core": 7,
+     "core": 9,
      "avgAge": 29.7,
      "payRatio": 0.8291666666666667,
      "farm": 3,
@@ -84395,16 +86096,21 @@
      "recent": 4,
      "avgRk": 4
     },
-    "appeal": 1.35,
+    "appeal": 1.62,
     "market": "빅마켓",
     "free": 31,
-    "power": 53.6,
+    "power": 43.7,
     "window": {
      "open": 20,
-     "left": 3,
+     "left": 2,
      "note": ""
     },
     "needs": [
+     {
+      "pos": "1B",
+      "lv": "약점",
+      "slots": 1
+     },
      {
       "pos": "DH",
       "lv": "공백",
@@ -84589,7 +86295,7 @@
     "appeal": 1.46,
     "market": "중형",
     "free": 52,
-    "power": 55.7,
+    "power": 57.6,
     "window": {
      "open": 20,
      "left": 2,
@@ -84789,7 +86495,7 @@
     "stanceLabel": "리빌딩",
     "stanceWhy": {
      "cont": 1,
-     "core": 7,
+     "core": 6,
      "avgAge": 27.1,
      "payRatio": 0.7793103448275862,
      "farm": 9,
@@ -84800,13 +86506,18 @@
     "appeal": 0.82,
     "market": "중형",
     "free": 32,
-    "power": 50.5,
+    "power": 51.3,
     "window": {
      "open": 20,
      "left": 2,
      "note": ""
     },
     "needs": [
+     {
+      "pos": "1B",
+      "lv": "약점",
+      "slots": 1
+     },
      {
       "pos": "DH",
       "lv": "공백",
@@ -85021,7 +86732,7 @@
     "appeal": 0.73,
     "market": "중형",
     "free": 52,
-    "power": 27.7,
+    "power": 36.7,
     "window": {
      "open": 20,
      "left": 2,
@@ -85237,7 +86948,7 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 0,
-     "core": 11,
+     "core": 12,
      "avgAge": 29.6,
      "payRatio": 0.8204081632653061,
      "farm": 6,
@@ -85248,7 +86959,7 @@
     "appeal": 1.34,
     "market": "빅마켓",
     "free": 33,
-    "power": 51.5,
+    "power": 52.4,
     "window": {
      "open": 20,
      "left": 1,
@@ -85695,7 +87406,7 @@
     "appeal": 0.73,
     "market": "스몰마켓",
     "free": 53,
-    "power": 34.7,
+    "power": 30.9,
     "window": {
      "open": 20,
      "left": 2,
@@ -85706,6 +87417,12 @@
       "pos": "2B",
       "lv": "공백",
       "slots": 1
+     },
+     {
+      "pos": "OF",
+      "lv": "부족",
+      "slots": 3,
+      "have": 2
      }
     ],
     "picks": [
@@ -85891,7 +87608,7 @@
     "stanceLabel": "리셋",
     "stanceWhy": {
      "cont": 0,
-     "core": 5,
+     "core": 3,
      "avgAge": 27.1,
      "payRatio": 0.8571428571428571,
      "farm": 3,
@@ -85902,7 +87619,7 @@
     "appeal": 0.51,
     "market": "스몰마켓",
     "free": 10,
-    "power": 27.6,
+    "power": 28.6,
     "window": {
      "open": 20,
      "left": 2,
@@ -85918,6 +87635,11 @@
      {
       "pos": "C",
       "lv": "공백",
+      "slots": 1
+     },
+     {
+      "pos": "1B",
+      "lv": "약점",
       "slots": 1
      }
     ],
@@ -86701,6 +88423,11 @@
     "age": 38,
     "team": "라이언즈",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 4,
      "grade": "C",
@@ -86775,20 +88502,25 @@
    "p84": {
     "name": "히로",
     "pos": "SP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 38,
     "team": "버커니어스",
-    "power": 2.9,
+    "power": 1.8,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 4
+    },
     "asset": {
-     "value": 1.2,
+     "value": 0.5,
      "grade": "D",
      "left": 1,
-     "effM": 0.97
+     "effM": 0.61
     },
     "expContract": {
      "years": 1,
-     "aav": 19.5,
-     "total": 19.5
+     "aav": 12.2,
+     "total": 12.2
     }
    },
    "p85": {
@@ -86798,6 +88530,17 @@
     "age": 37,
     "team": "에스트로너츠",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 1.7,
      "grade": "D",
@@ -86808,34 +88551,44 @@
    "p86": {
     "name": "노아",
     "pos": "RP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 39,
     "team": "마린즈",
-    "power": 1.3,
+    "power": 0.8,
+    "abil": {
+     "pit": 5,
+     "inn": 1,
+     "prs": 4
+    },
     "asset": {
-     "value": 0.6,
+     "value": 0.2,
      "grade": "D",
      "left": 1,
-     "effM": 1.08
+     "effM": 0.67
     },
     "expContract": {
      "years": 1,
-     "aav": 16.2,
-     "total": 16.2
+     "aav": 10.1,
+     "total": 10.1
     }
    },
    "p87": {
     "name": "헤네시",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 36,
     "team": "워리어스",
-    "power": 1.8,
+    "power": 0.2,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
-     "value": 1.2,
+     "value": 0.1,
      "grade": "D",
      "left": 2,
-     "effM": 0.74
+     "effM": 0.67
     }
    },
    "p88": {
@@ -86873,15 +88626,26 @@
    "p92": {
     "name": "포셔",
     "pos": "DH",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 35,
     "team": "타이거즈",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 4,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "DH",
+       "def": 1,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.1,
-     "grade": "D",
+     "value": 7.6,
+     "grade": "B",
      "left": 3,
-     "effM": 0.85
+     "effM": 1.12
     }
    },
    "p93": {
@@ -86891,6 +88655,17 @@
     "age": 38,
     "team": "세이버스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "DH",
+       "def": 1,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 0.7,
      "grade": "D",
@@ -86906,20 +88681,25 @@
    "p94": {
     "name": "블랙셔",
     "pos": "SP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 37,
     "team": "워리어스",
-    "power": 2.9,
+    "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
-     "value": 1.2,
+     "value": 0.5,
      "grade": "D",
      "left": 1,
-     "effM": 0.99
+     "effM": 0.64
     },
     "expContract": {
      "years": 2,
-     "aav": 17.8,
-     "total": 35.6
+     "aav": 11.6,
+     "total": 23.2
     }
    },
    "p95": {
@@ -86929,6 +88709,11 @@
     "age": 34,
     "team": "라이언즈",
     "power": 8.1,
+    "abil": {
+     "pit": 5,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 17.3,
      "grade": "S",
@@ -86939,81 +88724,136 @@
    "p96": {
     "name": "르메이아",
     "pos": "1B",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 37,
     "team": "다이너마이트",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.3,
+     "value": 0.1,
      "grade": "D",
      "left": 2,
-     "effM": 1.44
+     "effM": 1.26
     }
    },
    "p97": {
     "name": "벤달",
     "pos": "3B",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 37,
     "team": "트레일 블레이저스",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 5,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.6,
+     "value": 0.2,
      "grade": "D",
      "left": 2,
-     "effM": 1.8
+     "effM": 1.76
     }
    },
    "p98": {
     "name": "그리핀",
     "pos": "OF",
-    "tier": "엘리트",
+    "tier": "컨텐더",
     "age": 34,
     "team": "다이노스",
-    "power": 7,
+    "power": 12,
+    "abil": {
+     "con": 6,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "컨텐더"
+      }
+     ]
+    },
     "asset": {
-     "value": 5.9,
-     "grade": "B",
+     "value": 12.3,
+     "grade": "S",
      "left": 4,
-     "effM": 0.62
+     "effM": 0.76
     }
    },
    "p99": {
     "name": "헨리",
     "pos": "C",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 36,
     "team": "데빌스",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 3,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.3,
-     "grade": "D",
+     "value": 3,
+     "grade": "C",
      "left": 1,
-     "effM": 1.18
+     "effM": 1.8
     },
     "expContract": {
      "years": 2,
-     "aav": 10.9,
-     "total": 21.8
+     "aav": 16.8,
+     "total": 33.6
     }
    },
    "p100": {
     "name": "토니",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 35,
     "team": "에스트로너츠",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.1,
+     "value": 0.1,
      "grade": "D",
      "left": 1,
-     "effM": 1.04
+     "effM": 0.95
     },
     "expContract": {
      "years": 2,
-     "aav": 10.8,
-     "total": 21.6
+     "aav": 9.9,
+     "total": 19.8
     }
    },
    "p101": {
@@ -87023,6 +88863,17 @@
     "age": 36,
     "team": "워리어스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 1.5,
      "grade": "D",
@@ -87067,6 +88918,17 @@
     "age": 35,
     "team": "데빌스",
     "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 2,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 5.2,
      "grade": "B",
@@ -87081,6 +88943,11 @@
     "age": 33,
     "team": "워리어스",
     "power": 13.8,
+    "abil": {
+     "pit": 7,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 17.3,
      "grade": "S",
@@ -87095,6 +88962,11 @@
     "age": 34,
     "team": "스틸러스",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 9.6,
      "grade": "A",
@@ -87109,6 +88981,11 @@
     "age": 33,
     "team": "재즈",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 9.3,
      "grade": "A",
@@ -87119,20 +88996,31 @@
    "p107": {
     "name": "예이츠",
     "pos": "SS",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 35,
     "team": "라이언즈",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 2,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.5,
-     "grade": "D",
+     "value": 3,
+     "grade": "C",
      "left": 1,
-     "effM": 1.44
+     "effM": 1.8
     },
     "expContract": {
-     "years": 2,
-     "aav": 10.1,
-     "total": 20.2
+     "years": 3,
+     "aav": 16.1,
+     "total": 48.300000000000004
     }
    },
    "p108": {
@@ -87142,6 +89030,17 @@
     "age": 33,
     "team": "프린스",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 1.9,
      "grade": "D",
@@ -87156,6 +89055,17 @@
     "age": 33,
     "team": "워리어스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.1,
      "grade": "D",
@@ -87170,6 +89080,11 @@
     "age": 35,
     "team": "스틸러스",
     "power": 1.3,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 4
+    },
     "asset": {
      "value": 1.1,
      "grade": "D",
@@ -87184,6 +89099,17 @@
     "age": 32,
     "team": "세이버스",
     "power": 7,
+    "abil": {
+     "con": 4,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 9.8,
      "grade": "A",
@@ -87198,6 +89124,17 @@
     "age": 33,
     "team": "타이거즈",
     "power": 7,
+    "abil": {
+     "con": 7,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 4,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 8,
      "grade": "A",
@@ -87212,6 +89149,17 @@
     "age": 32,
     "team": "다이너마이트",
     "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 5,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 9.9,
      "grade": "A",
@@ -87226,6 +89174,17 @@
     "age": 34,
     "team": "타이거즈",
     "power": 7,
+    "abil": {
+     "con": 7,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 4,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 6.1,
      "grade": "B",
@@ -87240,6 +89199,11 @@
     "age": 33,
     "team": "타이거즈",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 10.1,
      "grade": "A",
@@ -87250,29 +89214,51 @@
    "p116": {
     "name": "마셜",
     "pos": "OF",
-    "tier": "엘리트",
+    "tier": "컨텐더",
     "age": 31,
     "team": "마린즈",
-    "power": 7,
+    "power": 12,
+    "abil": {
+     "con": 7,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 5,
+       "tier": "컨텐더"
+      }
+     ]
+    },
     "asset": {
-     "value": 11.3,
-     "grade": "A",
+     "value": 23.5,
+     "grade": "S",
      "left": 5,
-     "effM": 1
+     "effM": 1.22
     }
    },
    "p117": {
     "name": "피터슨",
     "pos": "OF",
-    "tier": "엘리트",
+    "tier": "코어",
     "age": 33,
     "team": "데빌스",
-    "power": 7,
+    "power": 2.5,
+    "abil": {
+     "con": 4,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 6.9,
-     "grade": "B",
+     "value": 1.8,
+     "grade": "D",
      "left": 2,
-     "effM": 0.86
+     "effM": 0.62
     }
    },
    "p118": {
@@ -87282,6 +89268,17 @@
     "age": 32,
     "team": "스틸러스",
     "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 2,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 9.9,
      "grade": "A",
@@ -87296,6 +89293,11 @@
     "age": 34,
     "team": "챌린저스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 2.3,
      "grade": "D",
@@ -87306,15 +89308,26 @@
    "p120": {
     "name": "페서뇽",
     "pos": "2B",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 33,
     "team": "다이노스",
-    "power": 2.5,
+    "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 3.3,
-     "grade": "C",
+     "value": 1.4,
+     "grade": "D",
      "left": 2,
-     "effM": 1.16
+     "effM": 0.75
     }
    },
    "p121": {
@@ -87324,6 +89337,17 @@
     "age": 35,
     "team": "세이버스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 1,
      "grade": "D",
@@ -87343,6 +89367,11 @@
     "age": 34,
     "team": "다이너마이트",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 4
+    },
     "asset": {
      "value": 0.6,
      "grade": "D",
@@ -87362,6 +89391,17 @@
     "age": 34,
     "team": "에스트로너츠",
     "power": 7,
+    "abil": {
+     "con": 4,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "DH",
+       "def": 2,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 8.5,
      "grade": "A",
@@ -87372,15 +89412,26 @@
    "p124": {
     "name": "밀러",
     "pos": "OF",
-    "tier": "엘리트",
+    "tier": "코어",
     "age": 31,
     "team": "데빌스",
-    "power": 7,
+    "power": 2.5,
+    "abil": {
+     "con": 6,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 13.5,
-     "grade": "S",
+     "value": 3.5,
+     "grade": "C",
      "left": 3,
-     "effM": 1.35
+     "effM": 0.98
     }
    },
    "p125": {
@@ -87390,6 +89441,17 @@
     "age": 31,
     "team": "라이언즈",
     "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 8.2,
      "grade": "A",
@@ -87404,6 +89466,17 @@
     "age": 33,
     "team": "스틸러스",
     "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 6.6,
      "grade": "B",
@@ -87423,6 +89496,11 @@
     "age": 33,
     "team": "프린스",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 4,
+     "prs": 4
+    },
     "asset": {
      "value": 10.2,
      "grade": "A",
@@ -87437,6 +89515,11 @@
     "age": 32,
     "team": "다이노스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 4.2,
      "grade": "C",
@@ -87451,6 +89534,17 @@
     "age": 33,
     "team": "스틸러스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 3.2,
      "grade": "C",
@@ -87465,6 +89559,11 @@
     "age": 32,
     "team": "스틸러스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 2.7,
      "grade": "D",
@@ -87484,6 +89583,11 @@
     "age": 29,
     "team": "마린즈",
     "power": 13.8,
+    "abil": {
+     "pit": 7,
+     "inn": 5,
+     "prs": 4
+    },
     "asset": {
      "value": 28.7,
      "grade": "S",
@@ -87494,15 +89598,20 @@
    "p132": {
     "name": "메이슨",
     "pos": "SP",
-    "tier": "엘리트",
+    "tier": "컨텐더",
     "age": 33,
     "team": "마린즈",
-    "power": 8.1,
+    "power": 13.8,
+    "abil": {
+     "pit": 6,
+     "inn": 5,
+     "prs": 4
+    },
     "asset": {
-     "value": 10.2,
-     "grade": "A",
+     "value": 22,
+     "grade": "S",
      "left": 2,
-     "effM": 1.1
+     "effM": 1.39
     }
    },
    "p133": {
@@ -87512,6 +89621,17 @@
     "age": 31,
     "team": "타이거즈",
     "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 9.2,
      "grade": "A",
@@ -87526,6 +89646,17 @@
     "age": 30,
     "team": "다이노스",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.1,
      "grade": "D",
@@ -87540,6 +89671,11 @@
     "age": 32,
     "team": "챌린저스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 1.5,
      "grade": "D",
@@ -87550,15 +89686,26 @@
    "p136": {
     "name": "요한",
     "pos": "SS",
-    "tier": "엘리트",
+    "tier": "컨텐더",
     "age": 29,
     "team": "마린즈",
-    "power": 7,
+    "power": 12,
+    "abil": {
+     "con": 6,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 5,
+       "tier": "컨텐더"
+      }
+     ]
+    },
     "asset": {
-     "value": 10.2,
-     "grade": "A",
+     "value": 21.1,
+     "grade": "S",
      "left": 6,
-     "effM": 0.91
+     "effM": 1.1
     }
    },
    "p137": {
@@ -87568,6 +89715,11 @@
     "age": 31,
     "team": "다이노스",
     "power": 13.8,
+    "abil": {
+     "pit": 7,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 26.8,
      "grade": "S",
@@ -87578,15 +89730,26 @@
    "p138": {
     "name": "카브레라",
     "pos": "C",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 30,
     "team": "다이너마이트",
-    "power": 2.5,
+    "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.7,
+     "value": 1.3,
      "grade": "D",
      "left": 6,
-     "effM": 0.68
+     "effM": 0.5
     }
    },
    "p139": {
@@ -87596,6 +89759,11 @@
     "age": 29,
     "team": "프린스",
     "power": 13.8,
+    "abil": {
+     "pit": 7,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 21.9,
      "grade": "S",
@@ -87606,15 +89774,20 @@
    "p141": {
     "name": "어니스트",
     "pos": "RP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 36,
     "team": "타이거즈",
-    "power": 1.3,
+    "power": 0.8,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 3
+    },
     "asset": {
-     "value": 1.3,
+     "value": 0.5,
      "grade": "D",
      "left": 3,
-     "effM": 1.03
+     "effM": 0.7
     }
    },
    "p142": {
@@ -87624,6 +89797,11 @@
     "age": 34,
     "team": "다이노스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 1.8,
      "grade": "D",
@@ -87667,6 +89845,17 @@
     "age": 29,
     "team": "스틸러스",
     "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 8.7,
      "grade": "A",
@@ -87681,6 +89870,11 @@
     "age": 28,
     "team": "데빌스",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 12.3,
      "grade": "S",
@@ -87691,29 +89885,45 @@
    "p148": {
     "name": "러츠",
     "pos": "SP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 33,
     "team": "버커니어스",
-    "power": 2.9,
+    "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
-     "value": 3.8,
-     "grade": "C",
+     "value": 1.6,
+     "grade": "D",
      "left": 2,
-     "effM": 1.14
+     "effM": 0.74
     }
    },
    "p149": {
     "name": "바셋",
     "pos": "C",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 29,
     "team": "마린즈",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 4,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 4,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 3.9,
-     "grade": "C",
+     "value": 15.9,
+     "grade": "S",
      "left": 7,
-     "effM": 0.95
+     "effM": 1.37
     }
    },
    "p150": {
@@ -87723,6 +89933,11 @@
     "age": 29,
     "team": "라이언즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 3.8,
      "grade": "C",
@@ -87737,6 +89952,11 @@
     "age": 28,
     "team": "데빌스",
     "power": 8.1,
+    "abil": {
+     "pit": 5,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 11.8,
      "grade": "A",
@@ -87747,15 +89967,26 @@
    "p152": {
     "name": "엔더슨",
     "pos": "OF",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 29,
     "team": "이글즈",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 3.6,
-     "grade": "C",
+     "value": 14.4,
+     "grade": "S",
      "left": 5,
-     "effM": 0.94
+     "effM": 1.35
     }
    },
    "p153": {
@@ -87765,6 +89996,11 @@
     "age": 28,
     "team": "마린즈",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 4.3,
      "grade": "C",
@@ -87779,6 +90015,11 @@
     "age": 28,
     "team": "워리어스",
     "power": 8.1,
+    "abil": {
+     "pit": 5,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 12.8,
      "grade": "S",
@@ -87789,29 +90030,51 @@
    "p155": {
     "name": "알드레드",
     "pos": "DH",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 32,
     "team": "이글즈",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "DH",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.6,
+     "value": 0.3,
      "grade": "D",
      "left": 3,
-     "effM": 1.12
+     "effM": 0.98
     }
    },
    "p156": {
     "name": "해밀턴",
     "pos": "3B",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 31,
     "team": "마린즈",
-    "power": 2.5,
+    "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 5,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 3.8,
-     "grade": "C",
+     "value": 1.6,
+     "grade": "D",
      "left": 2,
-     "effM": 1.16
+     "effM": 0.75
     }
    },
    "p157": {
@@ -87825,29 +90088,51 @@
    "p158": {
     "name": "앨퍼드",
     "pos": "1B",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 35,
     "team": "데빌스",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 4,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.5,
+     "value": 0.2,
      "grade": "D",
      "left": 2,
-     "effM": 1.05
+     "effM": 0.96
     }
    },
    "p159": {
     "name": "윌리엄스",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 34,
     "team": "데빌스",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 5,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.2,
+     "value": 0.1,
      "grade": "D",
      "left": 2,
-     "effM": 0.67
+     "effM": 0.58
     }
    },
    "p160": {
@@ -87857,6 +90142,11 @@
     "age": 30,
     "team": "트레일 블레이저스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 4,
      "grade": "C",
@@ -87890,6 +90180,17 @@
     "age": 28,
     "team": "스틸러스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -87904,6 +90205,11 @@
     "age": 27,
     "team": "에스트로너츠",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 3.2,
      "grade": "C",
@@ -87918,6 +90224,17 @@
     "age": 28,
     "team": "타이거즈",
     "power": 2.5,
+    "abil": {
+     "con": 6,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4,
      "grade": "C",
@@ -87928,15 +90245,26 @@
    "p165": {
     "name": "벤슨",
     "pos": "OF",
-    "tier": "컨텐더",
+    "tier": "엘리트",
     "age": 29,
     "team": "프린스",
-    "power": 12,
+    "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 19.3,
-     "grade": "S",
+     "value": 9.3,
+     "grade": "A",
      "left": 7,
-     "effM": 0.97
+     "effM": 0.8
     }
    },
    "p166": {
@@ -87946,6 +90274,11 @@
     "age": 28,
     "team": "라이언즈",
     "power": 6,
+    "abil": {
+     "pit": 7,
+     "inn": 2,
+     "prs": 4
+    },
     "asset": {
      "value": 7,
      "grade": "B",
@@ -87960,6 +90293,11 @@
     "age": 28,
     "team": "버커니어스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 4,
      "grade": "C",
@@ -87974,6 +90312,11 @@
     "age": 32,
     "team": "세이버스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 2.8,
      "grade": "C",
@@ -87988,6 +90331,17 @@
     "age": 30,
     "team": "이글즈",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.3,
      "grade": "D",
@@ -88002,6 +90356,11 @@
     "age": 31,
     "team": "이글즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 0.9,
      "grade": "D",
@@ -88016,6 +90375,17 @@
     "age": 30,
     "team": "라이언즈",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.1,
      "grade": "C",
@@ -88030,6 +90400,17 @@
     "age": 31,
     "team": "프린스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "C",
@@ -88044,6 +90425,11 @@
     "age": 28,
     "team": "이글즈",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 4.2,
      "grade": "C",
@@ -88058,6 +90444,11 @@
     "age": 29,
     "team": "스틸러스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 4.3,
      "grade": "C",
@@ -88068,15 +90459,26 @@
    "p175": {
     "name": "피소로",
     "pos": "C",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 29,
     "team": "라이언즈",
-    "power": 2.5,
+    "power": 1.6,
+    "abil": {
+     "con": 6,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 3.8,
-     "grade": "C",
+     "value": 1.6,
+     "grade": "D",
      "left": 6,
-     "effM": 0.95
+     "effM": 0.62
     }
    },
    "p176": {
@@ -88086,6 +90488,17 @@
     "age": 25,
     "team": "워리어스",
     "power": 12,
+    "abil": {
+     "con": 7,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 5,
+       "tier": "컨텐더"
+      }
+     ]
+    },
     "asset": {
      "value": 19.8,
      "grade": "S",
@@ -88100,6 +90513,17 @@
     "age": 28,
     "team": "다이너마이트",
     "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 9.9,
      "grade": "A",
@@ -88114,6 +90538,11 @@
     "age": 26,
     "team": "다이노스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 3.6,
      "grade": "C",
@@ -88128,6 +90557,11 @@
     "age": 28,
     "team": "에스트로너츠",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 3.8,
      "grade": "C",
@@ -88142,6 +90576,17 @@
     "age": 26,
     "team": "재즈",
     "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 5,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 12.1,
      "grade": "S",
@@ -88156,6 +90601,17 @@
     "age": 27,
     "team": "트레일 블레이저스",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2,
      "grade": "D",
@@ -88170,6 +90626,17 @@
     "age": 30,
     "team": "라이언즈",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 3.7,
      "grade": "C",
@@ -88205,15 +90672,26 @@
    "p184": {
     "name": "조니",
     "pos": "C",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 30,
     "team": "트레일 블레이저스",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.2,
-     "grade": "D",
+     "value": 5.4,
+     "grade": "B",
      "left": 3,
-     "effM": 1.01
+     "effM": 1.61
     }
    },
    "p185": {
@@ -88223,6 +90701,11 @@
     "age": 31,
     "team": "마린즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1,
      "grade": "D",
@@ -88237,6 +90720,17 @@
     "age": 32,
     "team": "라이언즈",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.2,
      "grade": "D",
@@ -88247,34 +90741,50 @@
    "p187": {
     "name": "에버렛",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 31,
     "team": "트레일 블레이저스",
-    "power": 1.8,
+    "power": 0.2,
+    "abil": {
+     "pit": 3,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
-     "value": 2.8,
-     "grade": "C",
+     "value": 0.3,
+     "grade": "D",
      "left": 3,
-     "effM": 1.07
+     "effM": 0.93
     }
    },
    "p188": {
     "name": "타바이",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 34,
     "team": "에스트로너츠",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 5,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 1.4,
+     "value": 0.2,
      "grade": "D",
      "left": 1,
-     "effM": 1
+     "effM": 0.87
     },
     "expContract": {
      "years": 2,
-     "aav": 10.4,
-     "total": 20.8
+     "aav": 9.1,
+     "total": 18.2
     }
    },
    "p189": {
@@ -88284,6 +90794,11 @@
     "age": 34,
     "team": "다이너마이트",
     "power": 1.3,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 3
+    },
     "asset": {
      "value": 1.5,
      "grade": "D",
@@ -88298,6 +90813,11 @@
     "age": 30,
     "team": "버커니어스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 2.8,
      "grade": "C",
@@ -88312,6 +90832,11 @@
     "age": 29,
     "team": "데빌스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 2.7,
      "grade": "D",
@@ -88326,6 +90851,11 @@
     "age": 29,
     "team": "프린스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 2.7,
      "grade": "D",
@@ -88336,12 +90866,23 @@
    "p193": {
     "name": "허드슨",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 29,
     "team": "다이노스",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.4,
+     "value": 0.3,
      "grade": "D",
      "left": 1,
      "effM": 1.6
@@ -88354,6 +90895,17 @@
     "age": 31,
     "team": "스틸러스",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 5,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 1.7,
      "grade": "D",
@@ -88373,6 +90925,17 @@
     "age": 28,
     "team": "에스트로너츠",
     "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 10.4,
      "grade": "A",
@@ -88387,6 +90950,17 @@
     "age": 28,
     "team": "워리어스",
     "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 10.4,
      "grade": "A",
@@ -88401,6 +90975,17 @@
     "age": 25,
     "team": "버커니어스",
     "power": 2.5,
+    "abil": {
+     "con": 6,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.2,
      "grade": "C",
@@ -88411,13 +90996,18 @@
    "p198": {
     "name": "도널드",
     "pos": "SP",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 27,
     "team": "라이언즈",
-    "power": 2.9,
+    "power": 8.1,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 4
+    },
     "asset": {
-     "value": 4.8,
-     "grade": "C",
+     "value": 13.4,
+     "grade": "S",
      "left": 2,
      "effM": 1.6
     }
@@ -88429,6 +91019,11 @@
     "age": 25,
     "team": "이글즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -88439,12 +91034,17 @@
    "p200": {
     "name": "라힘",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 28,
     "team": "세이버스",
-    "power": 1.8,
+    "power": 0.2,
+    "abil": {
+     "pit": 4,
+     "inn": 2,
+     "prs": 2
+    },
     "asset": {
-     "value": 2.7,
+     "value": 0.3,
      "grade": "D",
      "left": 1,
      "effM": 1.6
@@ -88457,6 +91057,17 @@
     "age": 29,
     "team": "마린즈",
     "power": 2.5,
+    "abil": {
+     "con": 6,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 3.7,
      "grade": "C",
@@ -88471,6 +91082,17 @@
     "age": 27,
     "team": "마린즈",
     "power": 12,
+    "abil": {
+     "con": 7,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "컨텐더"
+      }
+     ]
+    },
     "asset": {
      "value": 15.2,
      "grade": "S",
@@ -88485,6 +91107,11 @@
     "age": 26,
     "team": "타이거즈",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 13.4,
      "grade": "S",
@@ -88499,6 +91126,11 @@
     "age": 27,
     "team": "스틸러스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 4.8,
      "grade": "C",
@@ -88513,6 +91145,11 @@
     "age": 30,
     "team": "재즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 2.7,
      "grade": "D",
@@ -88527,6 +91164,11 @@
     "age": 29,
     "team": "마린즈",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 3.6,
      "grade": "C",
@@ -88541,6 +91183,11 @@
     "age": 28,
     "team": "에스트로너츠",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 2.7,
      "grade": "D",
@@ -88551,13 +91198,18 @@
    "p208": {
     "name": "암스테드",
     "pos": "RP",
-    "tier": "엘리트",
+    "tier": "컨텐더",
     "age": 26,
     "team": "에스트로너츠",
-    "power": 3.5,
+    "power": 6,
+    "abil": {
+     "pit": 6,
+     "inn": 2,
+     "prs": 4
+    },
     "asset": {
-     "value": 4.4,
-     "grade": "C",
+     "value": 7.6,
+     "grade": "B",
      "left": 1,
      "effM": 1.6
     }
@@ -88569,6 +91221,11 @@
     "age": 30,
     "team": "데빌스",
     "power": 1.3,
+    "abil": {
+     "pit": 5,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 2.1,
      "grade": "D",
@@ -88583,6 +91240,11 @@
     "age": 27,
     "team": "워리어스",
     "power": 1.3,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 3
+    },
     "asset": {
      "value": 2.1,
      "grade": "D",
@@ -88597,6 +91259,11 @@
     "age": 33,
     "team": "라이언즈",
     "power": 1.3,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 4
+    },
     "asset": {
      "value": 1.4,
      "grade": "D",
@@ -88611,6 +91278,11 @@
     "age": 24,
     "team": "세이버스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 4.7,
      "grade": "C",
@@ -88625,6 +91297,11 @@
     "age": 25,
     "team": "이글즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 2
+    },
     "asset": {
      "value": 1.5,
      "grade": "D",
@@ -88639,6 +91316,11 @@
     "age": 27,
     "team": "다이너마이트",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -88653,6 +91335,17 @@
     "age": 27,
     "team": "에스트로너츠",
     "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 11.7,
      "grade": "A",
@@ -88663,13 +91356,24 @@
    "p216": {
     "name": "비사치아",
     "pos": "DH",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 24,
     "team": "챌린저스",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 3,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "DH",
+       "def": 1,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 3.5,
-     "grade": "C",
+     "value": 9.8,
+     "grade": "A",
      "left": 2,
      "effM": 1.6
     }
@@ -88681,6 +91385,17 @@
     "age": 28,
     "team": "트레일 블레이저스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -88695,6 +91410,17 @@
     "age": 25,
     "team": "데빌스",
     "power": 1.6,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 5,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.9,
      "grade": "C",
@@ -88709,6 +91435,11 @@
     "age": 27,
     "team": "타이거즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -88723,6 +91454,11 @@
     "age": 28,
     "team": "에스트로너츠",
     "power": 1.3,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 3
+    },
     "asset": {
      "value": 2.5,
      "grade": "D",
@@ -88733,29 +91469,51 @@
    "p221": {
     "name": "그라인더",
     "pos": "SS",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 29,
     "team": "워리어스",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 6,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 5.9,
-     "grade": "B",
+     "value": 19.2,
+     "grade": "S",
      "left": 5,
-     "effM": 1.55
+     "effM": 1.8
     }
    },
    "p222": {
     "name": "알렌",
     "pos": "1B",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 30,
     "team": "버커니어스",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 3,
-     "grade": "C",
+     "value": 0.3,
+     "grade": "D",
      "left": 5,
-     "effM": 1.21
+     "effM": 1.05
     }
    },
    "p223": {
@@ -88765,6 +91523,11 @@
     "age": 30,
     "team": "챌린저스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.5,
      "grade": "C",
@@ -88779,6 +91542,11 @@
     "age": 27,
     "team": "프린스",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 2
+    },
     "asset": {
      "value": 0.8,
      "grade": "D",
@@ -88793,6 +91561,17 @@
     "age": 28,
     "team": "데빌스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.9,
      "grade": "C",
@@ -88807,6 +91586,17 @@
     "age": 31,
     "team": "트레일 블레이저스",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2,
      "grade": "D",
@@ -88817,13 +91607,24 @@
    "p227": {
     "name": "베르만",
     "pos": "C",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 24,
     "team": "챌린저스",
-    "power": 2.5,
+    "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 4.1,
-     "grade": "C",
+     "value": 2.6,
+     "grade": "D",
      "left": 4,
      "effM": 1.6
     }
@@ -88835,6 +91636,11 @@
     "age": 26,
     "team": "타이거즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.6,
      "grade": "C",
@@ -88849,6 +91655,17 @@
     "age": 23,
     "team": "다이너마이트",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "D",
@@ -88863,6 +91680,11 @@
     "age": 24,
     "team": "세이버스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3,
      "grade": "C",
@@ -88877,6 +91699,17 @@
     "age": 26,
     "team": "라이언즈",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.9,
      "grade": "C",
@@ -88887,13 +91720,24 @@
    "p233": {
     "name": "토레이라",
     "pos": "C",
-    "tier": "엘리트",
+    "tier": "컨텐더",
     "age": 24,
     "team": "프린스",
-    "power": 7,
+    "power": 12,
+    "abil": {
+     "con": 5,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 5,
+       "tier": "컨텐더"
+      }
+     ]
+    },
     "asset": {
-     "value": 10.7,
-     "grade": "A",
+     "value": 18.4,
+     "grade": "S",
      "left": 3,
      "effM": 1.6
     }
@@ -88905,6 +91749,11 @@
     "age": 26,
     "team": "트레일 블레이저스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 5.3,
      "grade": "B",
@@ -88919,6 +91768,17 @@
     "age": 27,
     "team": "마린즈",
     "power": 1.6,
+    "abil": {
+     "con": 2,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.9,
      "grade": "C",
@@ -88933,6 +91793,11 @@
     "age": 27,
     "team": "데빌스",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.5,
      "grade": "D",
@@ -88947,6 +91812,17 @@
     "age": 25,
     "team": "이글즈",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.9,
      "grade": "C",
@@ -88961,6 +91837,11 @@
     "age": 23,
     "team": "재즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3,
      "grade": "C",
@@ -88975,6 +91856,17 @@
     "age": 27,
     "team": "에스트로너츠",
     "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 5,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
      "value": 15.2,
      "grade": "S",
@@ -88989,6 +91881,17 @@
     "age": 24,
     "team": "스틸러스",
     "power": 2.5,
+    "abil": {
+     "con": 6,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.1,
      "grade": "C",
@@ -89003,6 +91906,17 @@
     "age": 26,
     "team": "챌린저스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.7,
      "grade": "D",
@@ -89013,12 +91927,17 @@
    "p242": {
     "name": "아켈로",
     "pos": "RP",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 28,
     "team": "트레일 블레이저스",
-    "power": 0.8,
+    "power": 0.1,
+    "abil": {
+     "pit": 3,
+     "inn": 1,
+     "prs": 2
+    },
     "asset": {
-     "value": 1.6,
+     "value": 0.2,
      "grade": "D",
      "left": 2,
      "effM": 1.6
@@ -89031,6 +91950,17 @@
     "age": 27,
     "team": "재즈",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "DH",
+       "def": 1,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.7,
      "grade": "D",
@@ -89045,6 +91975,11 @@
     "age": 23,
     "team": "세이버스",
     "power": 8.1,
+    "abil": {
+     "pit": 6,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 13.2,
      "grade": "S",
@@ -89059,6 +91994,11 @@
     "age": 24,
     "team": "이글즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 2,
+     "prs": 3
+    },
     "asset": {
      "value": 3,
      "grade": "C",
@@ -89073,6 +92013,17 @@
     "age": 23,
     "team": "트레일 블레이저스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 3,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.1,
      "grade": "C",
@@ -89087,6 +92038,11 @@
     "age": 26,
     "team": "다이너마이트",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -89101,6 +92057,11 @@
     "age": 24,
     "team": "에스트로너츠",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3,
      "grade": "C",
@@ -89115,6 +92076,17 @@
     "age": 24,
     "team": "워리어스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.6,
      "grade": "D",
@@ -89125,12 +92097,23 @@
    "p250": {
     "name": "바에르",
     "pos": "C",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 28,
     "team": "다이노스",
-    "power": 2.5,
+    "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 4.9,
+     "value": 3.1,
      "grade": "C",
      "left": 2,
      "effM": 1.6
@@ -89143,6 +92126,17 @@
     "age": 29,
     "team": "워리어스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.4,
      "grade": "D",
@@ -89157,6 +92151,11 @@
     "age": 27,
     "team": "타이거즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 2
+    },
     "asset": {
      "value": 1.3,
      "grade": "D",
@@ -89171,6 +92170,17 @@
     "age": 28,
     "team": "버커니어스",
     "power": 1.6,
+    "abil": {
+     "con": 2,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "DH",
+       "def": 1,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -89185,6 +92195,17 @@
     "age": 29,
     "team": "에스트로너츠",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -89199,6 +92220,11 @@
     "age": 27,
     "team": "스틸러스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -89213,6 +92239,17 @@
     "age": 26,
     "team": "타이거즈",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.5,
      "grade": "C",
@@ -89227,6 +92264,11 @@
     "age": 26,
     "team": "재즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -89237,12 +92279,23 @@
    "p258": {
     "name": "샌더스",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 29,
     "team": "다이너마이트",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.4,
+     "value": 0.3,
      "grade": "D",
      "left": 1,
      "effM": 1.6
@@ -89255,6 +92308,11 @@
     "age": 29,
     "team": "세이버스",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.2,
      "grade": "D",
@@ -89269,6 +92327,11 @@
     "age": 22,
     "team": "에스트로너츠",
     "power": 13.8,
+    "abil": {
+     "pit": 7,
+     "inn": 5,
+     "prs": 3
+    },
     "asset": {
      "value": 22.6,
      "grade": "S",
@@ -89283,6 +92346,11 @@
     "age": 22,
     "team": "이글즈",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 4.7,
      "grade": "C",
@@ -89293,13 +92361,24 @@
    "p262": {
     "name": "바그너",
     "pos": "OF",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 24,
     "team": "이글즈",
-    "power": 2.5,
+    "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
-     "value": 4.1,
-     "grade": "C",
+     "value": 2.6,
+     "grade": "D",
      "left": 4,
      "effM": 1.6
     }
@@ -89311,6 +92390,11 @@
     "age": 23,
     "team": "다이너마이트",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3,
      "grade": "C",
@@ -89325,6 +92409,17 @@
     "age": 24,
     "team": "다이너마이트",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 5,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "D",
@@ -89339,6 +92434,17 @@
     "age": 25,
     "team": "세이버스",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -89353,6 +92459,17 @@
     "age": 25,
     "team": "버커니어스",
     "power": 2.5,
+    "abil": {
+     "con": 6,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.6,
      "grade": "C",
@@ -89367,6 +92484,11 @@
     "age": 25,
     "team": "데빌스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 2,
+     "prs": 3
+    },
     "asset": {
      "value": 3.6,
      "grade": "C",
@@ -89381,6 +92503,11 @@
     "age": 24,
     "team": "챌린저스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 2
+    },
     "asset": {
      "value": 4.7,
      "grade": "C",
@@ -89395,6 +92522,17 @@
     "age": 23,
     "team": "트레일 블레이저스",
     "power": 2.5,
+    "abil": {
+     "con": 6,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.1,
      "grade": "C",
@@ -89409,6 +92547,11 @@
     "age": 26,
     "team": "버커니어스",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.5,
      "grade": "D",
@@ -89423,6 +92566,11 @@
     "age": 25,
     "team": "타이거즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.6,
      "grade": "D",
@@ -89437,6 +92585,11 @@
     "age": 25,
     "team": "다이노스",
     "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 4,
+     "prs": 3
+    },
     "asset": {
      "value": 5.6,
      "grade": "B",
@@ -89451,6 +92604,17 @@
     "age": 26,
     "team": "재즈",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.9,
      "grade": "C",
@@ -89465,6 +92629,17 @@
     "age": 22,
     "team": "트레일 블레이저스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 5,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "D",
@@ -89479,6 +92654,11 @@
     "age": 25,
     "team": "프린스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.6,
      "grade": "C",
@@ -89493,6 +92673,17 @@
     "age": 27,
     "team": "버커니어스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.1,
      "grade": "C",
@@ -89503,13 +92694,24 @@
    "p277": {
     "name": "산체스",
     "pos": "SS",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 23,
     "team": "챌린저스",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.8,
-     "grade": "D",
+     "value": 4.3,
+     "grade": "C",
      "left": 5,
      "effM": 1.6
     }
@@ -89521,6 +92723,11 @@
     "age": 25,
     "team": "이글즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.8,
      "grade": "C",
@@ -89535,6 +92742,11 @@
     "age": 22,
     "team": "다이너마이트",
     "power": 13.8,
+    "abil": {
+     "pit": 7,
+     "inn": 5,
+     "prs": 4
+    },
     "asset": {
      "value": 23.9,
      "grade": "S",
@@ -89545,13 +92757,24 @@
    "p280": {
     "name": "에르난데스",
     "pos": "1B",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 21,
     "team": "챌린저스",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 4,
+     "pow": 5,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 5.3,
-     "grade": "B",
+     "value": 14.8,
+     "grade": "S",
      "left": 6,
      "effM": 1.6
     }
@@ -89563,6 +92786,17 @@
     "age": 22,
     "team": "다이노스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 4.5,
      "grade": "C",
@@ -89577,6 +92811,17 @@
     "age": 24,
     "team": "세이버스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 5,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "D",
@@ -89587,13 +92832,24 @@
    "p283": {
     "name": "에이브라함",
     "pos": "OF",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 21,
     "team": "다이너마이트",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 5,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 5.1,
-     "grade": "B",
+     "value": 14.1,
+     "grade": "S",
      "left": 5,
      "effM": 1.6
     }
@@ -89605,6 +92861,17 @@
     "age": 22,
     "team": "다이노스",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "D",
@@ -89615,13 +92882,24 @@
    "p285": {
     "name": "베르흐게르",
     "pos": "SS",
-    "tier": "코어",
+    "tier": "엘리트",
     "age": 21,
     "team": "버커니어스",
-    "power": 2.5,
+    "power": 7,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 5,
+       "tier": "엘리트"
+      }
+     ]
+    },
     "asset": {
-     "value": 5.3,
-     "grade": "B",
+     "value": 14.8,
+     "grade": "S",
      "left": 6,
      "effM": 1.6
     }
@@ -89629,12 +92907,17 @@
    "p286": {
     "name": "뱅크스",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 22,
     "team": "데빌스",
-    "power": 1.8,
+    "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
-     "value": 3.2,
+     "value": 5,
      "grade": "C",
      "left": 5,
      "effM": 1.6
@@ -89643,13 +92926,24 @@
    "p287": {
     "name": "네일",
     "pos": "SS",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 24,
     "team": "프린스",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.8,
-     "grade": "D",
+     "value": 4.3,
+     "grade": "C",
      "left": 5,
      "effM": 1.6
     }
@@ -89661,6 +92955,11 @@
     "age": 25,
     "team": "이글즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.6,
      "grade": "D",
@@ -89675,6 +92974,11 @@
     "age": 23,
     "team": "재즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.2,
      "grade": "C",
@@ -89689,6 +92993,11 @@
     "age": 23,
     "team": "트레일 블레이저스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.2,
      "grade": "C",
@@ -89703,6 +93012,17 @@
     "age": 21,
     "team": "타이거즈",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -89717,6 +93037,11 @@
     "age": 25,
     "team": "마린즈",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.8,
      "grade": "C",
@@ -89727,12 +93052,23 @@
    "p293": {
     "name": "라파엘라",
     "pos": "C",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 23,
     "team": "타이거즈",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.9,
+     "value": 4.5,
      "grade": "C",
      "left": 6,
      "effM": 1.6
@@ -89745,6 +93081,11 @@
     "age": 22,
     "team": "챌린저스",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 4
+    },
     "asset": {
      "value": 1.4,
      "grade": "D",
@@ -89759,6 +93100,17 @@
     "age": 24,
     "team": "버커니어스",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "D",
@@ -89773,6 +93125,11 @@
     "age": 23,
     "team": "챌린저스",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.4,
      "grade": "D",
@@ -89787,6 +93144,11 @@
     "age": 25,
     "team": "다이너마이트",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 2
+    },
     "asset": {
      "value": 1.6,
      "grade": "D",
@@ -89797,12 +93159,23 @@
    "p298": {
     "name": "롱",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 22,
     "team": "세이버스",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.8,
+     "value": 0.3,
      "grade": "D",
      "left": 5,
      "effM": 1.6
@@ -89815,6 +93188,17 @@
     "age": 21,
     "team": "이글즈",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -89829,6 +93213,17 @@
     "age": 24,
     "team": "다이노스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.8,
      "grade": "D",
@@ -89839,12 +93234,23 @@
    "p301": {
     "name": "스미스",
     "pos": "OF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 24,
     "team": "라이언즈",
-    "power": 1.6,
+    "power": 0.2,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "서브"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.8,
+     "value": 0.3,
      "grade": "D",
      "left": 5,
      "effM": 1.6
@@ -89857,6 +93263,11 @@
     "age": 23,
     "team": "마린즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.4,
      "grade": "D",
@@ -89871,6 +93282,11 @@
     "age": 19,
     "team": "다이너마이트",
     "power": 2.9,
+    "abil": {
+     "pit": 6,
+     "inn": 2,
+     "prs": 3
+    },
     "asset": {
      "value": 6.1,
      "grade": "B",
@@ -89885,6 +93301,17 @@
     "age": 20,
     "team": "챌린저스",
     "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 3,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
      "value": 5.3,
      "grade": "B",
@@ -89895,13 +93322,24 @@
    "p305": {
     "name": "자이언",
     "pos": "SS",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 22,
     "team": "이글즈",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 5,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.8,
-     "grade": "D",
+     "value": 4.3,
+     "grade": "C",
      "left": 5,
      "effM": 1.6
     }
@@ -89913,6 +93351,11 @@
     "age": 23,
     "team": "에스트로너츠",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.3,
      "grade": "C",
@@ -89923,13 +93366,24 @@
    "p307": {
     "name": "이노아",
     "pos": "SS",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 21,
     "team": "스틸러스",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 3.4,
-     "grade": "C",
+     "value": 5.3,
+     "grade": "B",
      "left": 6,
      "effM": 1.6
     }
@@ -89961,6 +93415,17 @@
     "age": 20,
     "team": "재즈",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -89975,6 +93440,11 @@
     "age": 21,
     "team": "버커니어스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.9,
      "grade": "C",
@@ -89999,6 +93469,11 @@
     "age": 23,
     "team": "트레일 블레이저스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 3
+    },
     "asset": {
      "value": 3.3,
      "grade": "C",
@@ -90009,13 +93484,18 @@
    "p314": {
     "name": "호프만 Jr",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 20,
     "team": "타이거즈",
-    "power": 1.8,
+    "power": 2.9,
+    "abil": {
+     "pit": 5,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
-     "value": 3.9,
-     "grade": "C",
+     "value": 6.1,
+     "grade": "B",
      "left": 6,
      "effM": 1.6
     }
@@ -90037,6 +93517,17 @@
     "age": 21,
     "team": "라이언즈",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -90047,13 +93538,24 @@
    "p317": {
     "name": "제레미",
     "pos": "SS",
-    "tier": "레귤러",
+    "tier": "코어",
     "age": 24,
     "team": "타이거즈",
-    "power": 1.6,
+    "power": 2.5,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "코어"
+      }
+     ]
+    },
     "asset": {
-     "value": 2.8,
-     "grade": "D",
+     "value": 4.3,
+     "grade": "C",
      "left": 5,
      "effM": 1.6
     }
@@ -90065,6 +93567,17 @@
     "age": 21,
     "team": "세이버스",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -90089,6 +93602,11 @@
     "age": 22,
     "team": "챌린저스",
     "power": 1.8,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "asset": {
      "value": 3.3,
      "grade": "C",
@@ -90129,12 +93647,17 @@
    "p324": {
     "name": "파웰",
     "pos": "RP",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 24,
     "team": "세이버스",
-    "power": 0.8,
+    "power": 0.1,
+    "abil": {
+     "pit": 3,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
-     "value": 1.4,
+     "value": 0.2,
      "grade": "D",
      "left": 6,
      "effM": 1.6
@@ -90157,6 +93680,17 @@
     "age": 20,
     "team": "재즈",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -90181,6 +93715,17 @@
     "age": 22,
     "team": "마린즈",
     "power": 1.6,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.9,
      "grade": "C",
@@ -90195,6 +93740,17 @@
     "age": 24,
     "team": "버커니어스",
     "power": 1.6,
+    "abil": {
+     "con": 4,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 2.9,
      "grade": "C",
@@ -90229,6 +93785,11 @@
     "age": 23,
     "team": "라이언즈",
     "power": 0.8,
+    "abil": {
+     "pit": 4,
+     "inn": 1,
+     "prs": 3
+    },
     "asset": {
      "value": 1.4,
      "grade": "D",
@@ -90253,6 +93814,17 @@
     "age": 21,
     "team": "챌린저스",
     "power": 1.6,
+    "abil": {
+     "con": 3,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "asset": {
      "value": 3.4,
      "grade": "C",
@@ -91961,18 +95533,18 @@
      "hof": false
     },
     {
+     "name": "폴츠",
+     "team": "명예의 전당",
+     "pos": "RP",
+     "total": 78,
+     "hof": true
+    },
+    {
      "name": "벨",
      "team": "명예의 전당",
      "pos": "SP",
      "total": 77,
      "hof": true
-    },
-    {
-     "name": "폴츠",
-     "team": "명예의 전당",
-     "pos": "RP",
-     "total": 70,
-     "hof": false
     },
     {
      "name": "치노베",
