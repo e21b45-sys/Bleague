@@ -13497,7 +13497,9 @@
     }
    ],
    "role": "3번",
-   "subPositions": [],
+   "subPositions": [
+    "CF"
+   ],
    "form": "bad",
    "abil": {
     "con": 6,
@@ -13506,6 +13508,10 @@
      {
       "pos": "OF",
       "def": 4
+     },
+     {
+      "pos": "CF",
+      "def": 3
      }
     ]
    }
@@ -26861,7 +26867,7 @@
    "id": "p237",
    "name": "닉슨",
    "team": "이글즈",
-   "pos": "OF",
+   "pos": "CF",
    "tier": "레귤러",
    "age": 25,
    "number": "29",
@@ -26887,7 +26893,9 @@
     "수비 안정성"
    ],
    "role": "5번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "injury",
    "draftSeason": 15,
    "draftRound": 1,
@@ -26924,8 +26932,12 @@
     "pow": 3,
     "positions": [
      {
-      "pos": "OF",
+      "pos": "CF",
       "def": 3
+     },
+     {
+      "pos": "OF",
+      "def": 4
      }
     ]
    }
@@ -84461,7 +84473,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786257436712
+   "ts": 1786257523998
   },
   "teams": {
    "프린스": {
@@ -88810,11 +88822,16 @@
        "pos": "OF",
        "def": 4,
        "tier": "컨텐더"
+      },
+      {
+       "pos": "CF",
+       "def": 3,
+       "tier": "엘리트"
       }
      ]
     },
     "asset": {
-     "value": 12.3,
+     "value": 13.1,
      "grade": "S",
      "left": 4,
      "effM": 0.76
@@ -91846,7 +91863,7 @@
    },
    "p237": {
     "name": "닉슨",
-    "pos": "OF",
+    "pos": "CF",
     "tier": "레귤러",
     "age": 25,
     "team": "이글즈",
@@ -91856,14 +91873,19 @@
      "pow": 3,
      "positions": [
       {
-       "pos": "OF",
+       "pos": "CF",
        "def": 3,
+       "tier": "레귤러"
+      },
+      {
+       "pos": "OF",
+       "def": 4,
        "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 2.9,
+     "value": 3.1,
      "grade": "C",
      "left": 3,
      "effM": 1.6
