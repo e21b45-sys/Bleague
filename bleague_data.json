@@ -12650,7 +12650,9 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [],
+   "subPositions": [
+    "1B"
+   ],
    "form": "good",
    "abil": {
     "con": 4,
@@ -12658,6 +12660,10 @@
     "positions": [
      {
       "pos": "DH",
+      "def": 1
+     },
+     {
+      "pos": "1B",
       "def": 1
      }
     ]
@@ -15243,7 +15249,9 @@
    "hof": null,
    "injuries": [],
    "role": "3번",
-   "subPositions": [],
+   "subPositions": [
+    "2B"
+   ],
    "form": "bad",
    "abil": {
     "con": 7,
@@ -15252,6 +15260,10 @@
      {
       "pos": "1B",
       "def": 4
+     },
+     {
+      "pos": "2B",
+      "def": 3
      }
     ]
    }
@@ -15483,7 +15495,9 @@
     }
    ],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "form": "good",
    "abil": {
     "con": 7,
@@ -15491,6 +15505,10 @@
     "positions": [
      {
       "pos": "3B",
+      "def": 4
+     },
+     {
+      "pos": "SS",
       "def": 4
      }
     ]
@@ -32037,7 +32055,7 @@
    "id": "p316",
    "name": "클락",
    "team": "라이언즈",
-   "pos": "OF",
+   "pos": "DH",
    "tier": "레귤러",
    "age": 21,
    "number": "3",
@@ -32062,7 +32080,9 @@
     "파워"
    ],
    "role": "9번",
-   "subPositions": [],
+   "subPositions": [
+    "CF"
+   ],
    "form": "",
    "draftSeason": 18,
    "draftRound": 1,
@@ -32089,7 +32109,11 @@
     "pow": 2,
     "positions": [
      {
-      "pos": "OF",
+      "pos": "DH",
+      "def": 3
+     },
+     {
+      "pos": "CF",
       "def": 3
      }
     ]
@@ -84483,7 +84507,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786257598776
+   "ts": 1786257735570
   },
   "teams": {
    "프린스": {
@@ -84671,11 +84695,6 @@
       "lv": "부족",
       "slots": 3,
       "have": 2
-     },
-     {
-      "pos": "DH",
-      "lv": "공백",
-      "slots": 1
      }
     ],
     "picks": [
@@ -88679,6 +88698,11 @@
        "pos": "DH",
        "def": 1,
        "tier": "엘리트"
+      },
+      {
+       "pos": "1B",
+       "def": 1,
+       "tier": "레귤러"
       }
      ]
     },
@@ -89178,11 +89202,16 @@
        "pos": "1B",
        "def": 4,
        "tier": "엘리트"
+      },
+      {
+       "pos": "2B",
+       "def": 3,
+       "tier": "엘리트"
       }
      ]
     },
     "asset": {
-     "value": 8,
+     "value": 8.4,
      "grade": "A",
      "left": 3,
      "effM": 0.91
@@ -89228,11 +89257,16 @@
        "pos": "3B",
        "def": 4,
        "tier": "엘리트"
+      },
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "엘리트"
       }
      ]
     },
     "asset": {
-     "value": 6.1,
+     "value": 6.9,
      "grade": "B",
      "left": 3,
      "effM": 0.69
@@ -93593,7 +93627,7 @@
    },
    "p316": {
     "name": "클락",
-    "pos": "OF",
+    "pos": "DH",
     "tier": "레귤러",
     "age": 21,
     "team": "라이언즈",
@@ -93603,14 +93637,19 @@
      "pow": 2,
      "positions": [
       {
-       "pos": "OF",
+       "pos": "DH",
+       "def": 3,
+       "tier": "레귤러"
+      },
+      {
+       "pos": "CF",
        "def": 3,
        "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 3.4,
+     "value": 3.6,
      "grade": "C",
      "left": 6,
      "effM": 1.6
