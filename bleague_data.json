@@ -70369,7 +70369,8 @@
      "playerId": "p81",
      "from": "프린스",
      "to": "이글즈",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "fa",
@@ -70432,7 +70433,8 @@
      "playerId": "p153",
      "from": "버커니어스",
      "to": "마린즈",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "fa",
@@ -70455,14 +70457,16 @@
      "playerId": "p83",
      "from": "프린스",
      "to": "타이거즈",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "trade",
      "playerId": "p165",
      "from": "타이거즈",
      "to": "프린스",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "fa",
@@ -70525,42 +70529,48 @@
      "playerId": "p151",
      "from": "트레일 블레이저스",
      "to": "데빌스",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "trade",
      "playerId": "p225",
      "from": "데빌스",
      "to": "트레일 블레이저스",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "trade",
      "playerId": "p134",
      "from": "타이거즈",
      "to": "트레일 블레이저스",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "trade",
      "playerId": "p184",
      "from": "이글즈",
      "to": "타이거즈",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "trade",
      "playerId": "p186",
      "from": "세이버스",
      "to": "버커니어스",
-     "applied": true
+     "applied": true,
+     "ret": []
     },
     {
      "kind": "trade",
      "playerId": "p193",
      "from": "에스트로너츠",
      "to": "다이노스",
-     "applied": true
+     "applied": true,
+     "ret": []
     }
    ],
    "budgets": {
@@ -79027,7 +79037,8 @@
     "스틸러스_1": "p82",
     "다이너마이트_5": "p83",
     "세이버스_6": "p90"
-   }
+   },
+   "penalties": {}
   },
   "3": {
    "season": 3,
@@ -79060,7 +79071,8 @@
    },
    "pickOwners": {
     "에스트로너츠_2": "챌린저스"
-   }
+   },
+   "penalties": {}
   },
   "4": {
    "season": 4,
@@ -79091,7 +79103,8 @@
     "에스트로너츠_3": "p121",
     "라이언즈_1": "p95",
     "다이노스_2": "p145"
-   }
+   },
+   "penalties": {}
   },
   "5": {
    "season": 5,
@@ -79127,7 +79140,8 @@
     "마린즈_2": "챌린저스",
     "에스트로너츠_1": "다이노스",
     "에스트로너츠_3": "다이노스"
-   }
+   },
+   "penalties": {}
   },
   "6": {
    "season": 6,
@@ -79168,7 +79182,8 @@
     "라이언즈_4": "버커니어스",
     "프린스_2": "이글즈",
     "프린스_3": "이글즈"
-   }
+   },
+   "penalties": {}
   },
   "7": {
    "season": 7,
@@ -79206,7 +79221,8 @@
     "워리어스_1": "p189",
     "타이거즈_3": "p194"
    },
-   "pickOwners": {}
+   "pickOwners": {},
+   "penalties": {}
   },
   "8": {
    "season": 8,
@@ -79242,7 +79258,8 @@
     "에스트로너츠_1": "데빌스",
     "에스트로너츠_3": "데빌스",
     "에스트로너츠_4": "데빌스"
-   }
+   },
+   "penalties": {}
   },
   "9": {
    "season": 9,
@@ -79288,7 +79305,8 @@
     "에스트로너츠_3": "버커니어스",
     "프린스_1": "데빌스",
     "프린스_4": "데빌스"
-   }
+   },
+   "penalties": {}
   },
   "10": {
    "season": 10,
@@ -80434,6 +80452,13 @@
      "버커니어스",
      "세이버스"
     ],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   },
+   "10": {
+    "standings": [],
     "races": {},
     "potmBat": "",
     "potmPit": "",
@@ -95310,5 +95335,6 @@
   "lastScan": {
    "moIdx": 1910
   }
- }
+ },
+ "playerRivalries": []
 }
