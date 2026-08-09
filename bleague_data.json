@@ -13346,7 +13346,9 @@
     }
    ],
    "role": "3번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "form": "",
    "abil": {
     "con": 4,
@@ -13355,6 +13357,10 @@
      {
       "pos": "3B",
       "def": 5
+     },
+     {
+      "pos": "SS",
+      "def": 3
      }
     ]
    }
@@ -16571,7 +16577,9 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "bad",
    "abil": {
     "con": 4,
@@ -16579,6 +16587,10 @@
     "positions": [
      {
       "pos": "DH",
+      "def": 2
+     },
+     {
+      "pos": "OF",
       "def": 2
      }
     ]
@@ -22995,8 +23007,8 @@
    "id": "p188",
    "name": "타바이",
    "team": "에스트로너츠",
-   "pos": "OF",
-   "tier": "서브",
+   "pos": "CF",
+   "tier": "레귤러",
    "age": 34,
    "number": "2",
    "debutSeason": 10,
@@ -23022,7 +23034,9 @@
     "선구안"
    ],
    "role": "7번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "draftSeason": 7,
    "draftRound": 3,
    "contract": {
@@ -23095,6 +23109,10 @@
     "con": 3,
     "pow": 1,
     "positions": [
+     {
+      "pos": "CF",
+      "def": 5
+     },
      {
       "pos": "OF",
       "def": 5
@@ -84537,7 +84555,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786257824889
+   "ts": 1786258008926
   },
   "teams": {
    "프린스": {
@@ -85526,7 +85544,7 @@
     "appeal": 1.41,
     "market": "빅마켓",
     "free": 100,
-    "power": 64.8,
+    "power": 66.2,
     "window": {
      "open": 20,
      "left": 2,
@@ -85958,7 +85976,7 @@
      },
      {
       "pos": "SS",
-      "lv": "공백",
+      "lv": "약점",
       "slots": 1
      },
      {
@@ -88861,6 +88879,11 @@
        "pos": "3B",
        "def": 5,
        "tier": "서브"
+      },
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "서브"
       }
      ]
     },
@@ -89519,6 +89542,11 @@
        "pos": "DH",
        "def": 2,
        "tier": "엘리트"
+      },
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "코어"
       }
      ]
     },
@@ -90904,15 +90932,20 @@
    },
    "p188": {
     "name": "타바이",
-    "pos": "OF",
-    "tier": "서브",
+    "pos": "CF",
+    "tier": "레귤러",
     "age": 34,
     "team": "에스트로너츠",
-    "power": 0.2,
+    "power": 1.6,
     "abil": {
      "con": 3,
      "pow": 1,
      "positions": [
+      {
+       "pos": "CF",
+       "def": 5,
+       "tier": "레귤러"
+      },
       {
        "pos": "OF",
        "def": 5,
@@ -90921,15 +90954,15 @@
      ]
     },
     "asset": {
-     "value": 0.2,
+     "value": 1.5,
      "grade": "D",
      "left": 1,
-     "effM": 0.87
+     "effM": 0.97
     },
     "expContract": {
      "years": 2,
-     "aav": 9.1,
-     "total": 18.2
+     "aav": 10.1,
+     "total": 20.2
     }
    },
    "p189": {
