@@ -21401,8 +21401,8 @@
    "id": "p171",
    "name": "코르테리엔",
    "team": "라이언즈",
-   "pos": "OF",
-   "tier": "코어",
+   "pos": "CF",
+   "tier": "엘리트",
    "age": 30,
    "number": "2",
    "debutSeason": 11,
@@ -21426,7 +21426,9 @@
     "선구안"
    ],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "draftSeason": 10,
    "draftRound": 4,
    "contract": {
@@ -21487,6 +21489,10 @@
     "con": 5,
     "pow": 2,
     "positions": [
+     {
+      "pos": "CF",
+      "def": 5
+     },
      {
       "pos": "OF",
       "def": 5
@@ -30302,7 +30308,7 @@
    "id": "p287",
    "name": "네일",
    "team": "프린스",
-   "pos": "SS",
+   "pos": "2B",
    "tier": "코어",
    "age": 24,
    "number": "17",
@@ -30354,6 +30360,10 @@
     "con": 5,
     "pow": 2,
     "positions": [
+     {
+      "pos": "2B",
+      "def": 4
+     },
      {
       "pos": "SS",
       "def": 4
@@ -84473,7 +84483,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786257523998
+   "ts": 1786257598776
   },
   "teams": {
    "프린스": {
@@ -84499,11 +84509,6 @@
      "note": ""
     },
     "needs": [
-     {
-      "pos": "2B",
-      "lv": "공백",
-      "slots": 1
-     },
      {
       "pos": "OF",
       "lv": "부족",
@@ -84654,7 +84659,7 @@
     "appeal": 1.28,
     "market": "빅마켓",
     "free": 17,
-    "power": 55.1,
+    "power": 59.6,
     "window": {
      "open": 20,
      "left": 2,
@@ -90421,15 +90426,20 @@
    },
    "p171": {
     "name": "코르테리엔",
-    "pos": "OF",
-    "tier": "코어",
+    "pos": "CF",
+    "tier": "엘리트",
     "age": 30,
     "team": "라이언즈",
-    "power": 2.5,
+    "power": 7,
     "abil": {
      "con": 5,
      "pow": 2,
      "positions": [
+      {
+       "pos": "CF",
+       "def": 5,
+       "tier": "엘리트"
+      },
       {
        "pos": "OF",
        "def": 5,
@@ -90438,10 +90448,10 @@
      ]
     },
     "asset": {
-     "value": 4.1,
-     "grade": "C",
+     "value": 17.2,
+     "grade": "S",
      "left": 3,
-     "effM": 1.2
+     "effM": 1.67
     }
    },
    "p172": {
@@ -92991,7 +93001,7 @@
    },
    "p287": {
     "name": "네일",
-    "pos": "SS",
+    "pos": "2B",
     "tier": "코어",
     "age": 24,
     "team": "프린스",
@@ -93001,6 +93011,11 @@
      "pow": 2,
      "positions": [
       {
+       "pos": "2B",
+       "def": 4,
+       "tier": "코어"
+      },
+      {
        "pos": "SS",
        "def": 4,
        "tier": "코어"
@@ -93008,7 +93023,7 @@
      ]
     },
     "asset": {
-     "value": 4.3,
+     "value": 4.9,
      "grade": "C",
      "left": 5,
      "effM": 1.6
