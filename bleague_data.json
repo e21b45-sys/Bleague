@@ -15615,7 +15615,7 @@
    "id": "p116",
    "name": "마셜",
    "team": "마린즈",
-   "pos": "OF",
+   "pos": "CF",
    "tier": "컨텐더",
    "age": 31,
    "number": "10",
@@ -15726,12 +15726,18 @@
     }
    ],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "",
    "abil": {
     "con": 7,
     "pow": 3,
     "positions": [
+     {
+      "pos": "CF",
+      "def": 5
+     },
      {
       "pos": "OF",
       "def": 5
@@ -84437,7 +84443,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786253571735
+   "ts": 1786257353012
   },
   "teams": {
    "프린스": {
@@ -89213,7 +89219,7 @@
    },
    "p116": {
     "name": "마셜",
-    "pos": "OF",
+    "pos": "CF",
     "tier": "컨텐더",
     "age": 31,
     "team": "마린즈",
@@ -89223,6 +89229,11 @@
      "pow": 3,
      "positions": [
       {
+       "pos": "CF",
+       "def": 5,
+       "tier": "컨텐더"
+      },
+      {
        "pos": "OF",
        "def": 5,
        "tier": "컨텐더"
@@ -89230,10 +89241,10 @@
      ]
     },
     "asset": {
-     "value": 23.5,
+     "value": 24.8,
      "grade": "S",
      "left": 5,
-     "effM": 1.22
+     "effM": 1.18
     }
    },
    "p117": {
