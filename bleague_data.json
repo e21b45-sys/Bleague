@@ -16577,18 +16577,12 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [
-    "OF"
-   ],
+   "subPositions": [],
    "form": "bad",
    "abil": {
     "con": 4,
     "pow": 5,
     "positions": [
-     {
-      "pos": "DH",
-      "def": 2
-     },
      {
       "pos": "OF",
       "def": 2
@@ -25385,9 +25379,7 @@
     "수비 범위"
    ],
    "role": "3번",
-   "subPositions": [
-    "3B"
-   ],
+   "subPositions": [],
    "draftSeason": 14,
    "draftRound": 1,
    "contract": null,
@@ -25427,10 +25419,6 @@
     "con": 3,
     "pow": 5,
     "positions": [
-     {
-      "pos": "DH",
-      "def": 1
-     },
      {
       "pos": "3B",
       "def": 2
@@ -32161,7 +32149,7 @@
    ],
    "role": "9번",
    "subPositions": [
-    "CF"
+    "OF"
    ],
    "form": "",
    "draftSeason": 18,
@@ -32189,11 +32177,11 @@
     "pow": 2,
     "positions": [
      {
-      "pos": "DH",
+      "pos": "CF",
       "def": 3
      },
      {
-      "pos": "CF",
+      "pos": "OF",
       "def": 3
      }
     ]
@@ -84587,7 +84575,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786267148810
+   "ts": 1786267269450
   },
   "teams": {
    "프린스": {
@@ -89571,11 +89559,6 @@
      "pow": 5,
      "positions": [
       {
-       "pos": "DH",
-       "def": 2,
-       "tier": "엘리트"
-      },
-      {
        "pos": "OF",
        "def": 2,
        "tier": "코어"
@@ -91579,11 +91562,6 @@
      "con": 3,
      "pow": 5,
      "positions": [
-      {
-       "pos": "DH",
-       "def": 1,
-       "tier": "엘리트"
-      },
       {
        "pos": "3B",
        "def": 2,
@@ -93782,19 +93760,19 @@
      "pow": 2,
      "positions": [
       {
-       "pos": "DH",
+       "pos": "CF",
        "def": 3,
        "tier": "레귤러"
       },
       {
-       "pos": "CF",
+       "pos": "OF",
        "def": 3,
        "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 3.6,
+     "value": 3.5,
      "grade": "C",
      "left": 6,
      "effM": 1.6
