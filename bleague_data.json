@@ -12656,18 +12656,12 @@
    "hof": null,
    "injuries": [],
    "role": "5번",
-   "subPositions": [
-    "1B"
-   ],
+   "subPositions": [],
    "form": "good",
    "abil": {
     "con": 4,
     "pow": 5,
     "positions": [
-     {
-      "pos": "DH",
-      "def": 1
-     },
      {
       "pos": "1B",
       "def": 1
@@ -27203,7 +27197,9 @@
     "파워"
    ],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "CF"
+   ],
    "form": "good",
    "draftSeason": 14,
    "draftRound": 1,
@@ -27245,6 +27241,10 @@
     "positions": [
      {
       "pos": "OF",
+      "def": 4
+     },
+     {
+      "pos": "CF",
       "def": 4
      }
     ]
@@ -30428,7 +30428,9 @@
     "주루"
    ],
    "role": "7번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "form": "",
    "draftSeason": 17,
    "draftRound": 1,
@@ -84585,7 +84587,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786258095733
+   "ts": 1786267148810
   },
   "teams": {
    "프린스": {
@@ -88778,11 +88780,6 @@
      "pow": 5,
      "positions": [
       {
-       "pos": "DH",
-       "def": 1,
-       "tier": "엘리트"
-      },
-      {
        "pos": "1B",
        "def": 1,
        "tier": "레귤러"
@@ -92127,11 +92124,16 @@
        "pos": "OF",
        "def": 4,
        "tier": "코어"
+      },
+      {
+       "pos": "CF",
+       "def": 4,
+       "tier": "코어"
       }
      ]
     },
     "asset": {
-     "value": 4.1,
+     "value": 4.6,
      "grade": "C",
      "left": 4,
      "effM": 1.6
@@ -95763,7 +95765,7 @@
     {
      "name": "마셜",
      "team": "마린즈",
-     "pos": "OF",
+     "pos": "CF",
      "total": 106.1,
      "hof": false
     },
