@@ -13209,7 +13209,9 @@
     }
    ],
    "role": "7번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "good",
    "abil": {
     "con": 5,
@@ -13217,6 +13219,10 @@
     "positions": [
      {
       "pos": "1B",
+      "def": 3
+     },
+     {
+      "pos": "OF",
       "def": 3
      }
     ]
@@ -25385,7 +25391,9 @@
     "수비 범위"
    ],
    "role": "3번",
-   "subPositions": [],
+   "subPositions": [
+    "3B"
+   ],
    "draftSeason": 14,
    "draftRound": 1,
    "contract": null,
@@ -25428,6 +25436,10 @@
      {
       "pos": "DH",
       "def": 1
+     },
+     {
+      "pos": "3B",
+      "def": 2
      }
     ]
    }
@@ -25545,7 +25557,9 @@
     "컨택"
    ],
    "role": "8번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "draftSeason": 14,
    "draftRound": 1,
    "contract": null,
@@ -25588,6 +25602,10 @@
      {
       "pos": "2B",
       "def": 5
+     },
+     {
+      "pos": "SS",
+      "def": 4
      }
     ]
    }
@@ -26129,7 +26147,9 @@
     "파워"
    ],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "2B"
+   ],
    "draftSeason": 12,
    "draftRound": 2,
    "contract": {
@@ -26188,6 +26208,10 @@
     "positions": [
      {
       "pos": "SS",
+      "def": 4
+     },
+     {
+      "pos": "2B",
       "def": 4
      }
     ]
@@ -28911,7 +28935,9 @@
     "파워"
    ],
    "role": "8번",
-   "subPositions": [],
+   "subPositions": [
+    "SS"
+   ],
    "form": "bad",
    "draftSeason": 16,
    "draftRound": 1,
@@ -28946,6 +28972,10 @@
      {
       "pos": "2B",
       "def": 5
+     },
+     {
+      "pos": "SS",
+      "def": 4
      }
     ]
    }
@@ -84555,7 +84585,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786258008926
+   "ts": 1786258095733
   },
   "teams": {
    "프린스": {
@@ -88854,6 +88884,11 @@
        "pos": "1B",
        "def": 3,
        "tier": "서브"
+      },
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
       }
      ]
     },
@@ -91551,6 +91586,11 @@
        "pos": "DH",
        "def": 1,
        "tier": "엘리트"
+      },
+      {
+       "pos": "3B",
+       "def": 2,
+       "tier": "레귤러"
       }
      ]
     },
@@ -91601,11 +91641,16 @@
        "pos": "2B",
        "def": 5,
        "tier": "레귤러"
+      },
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 2.9,
+     "value": 3.3,
      "grade": "C",
      "left": 3,
      "effM": 1.6
@@ -91752,12 +91797,17 @@
        "pos": "SS",
        "def": 4,
        "tier": "코어"
+      },
+      {
+       "pos": "2B",
+       "def": 4,
+       "tier": "코어"
       }
      ]
     },
     "asset": {
-     "value": 4.9,
-     "grade": "C",
+     "value": 5.4,
+     "grade": "B",
      "left": 5,
      "effM": 1.29
     }
@@ -92610,12 +92660,17 @@
        "pos": "2B",
        "def": 5,
        "tier": "레귤러"
+      },
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 2.8,
-     "grade": "D",
+     "value": 3.1,
+     "grade": "C",
      "left": 5,
      "effM": 1.6
     }
