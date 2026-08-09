@@ -20241,8 +20241,8 @@
    "id": "p159",
    "name": "윌리엄스",
    "team": "데빌스",
-   "pos": "OF",
-   "tier": "서브",
+   "pos": "CF",
+   "tier": "레귤러",
    "age": 34,
    "number": "2",
    "debutSeason": 6,
@@ -20267,7 +20267,9 @@
     "갭"
    ],
    "role": "7번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "draftSeason": 5,
    "draftRound": 1,
    "contract": {
@@ -20355,6 +20357,10 @@
     "con": 3,
     "pow": 1,
     "positions": [
+     {
+      "pos": "CF",
+      "def": 5
+     },
      {
       "pos": "OF",
       "def": 5
@@ -22199,7 +22205,7 @@
    "id": "p180",
    "name": "아서",
    "team": "재즈",
-   "pos": "OF",
+   "pos": "CF",
    "tier": "엘리트",
    "age": 26,
    "number": "2",
@@ -22225,7 +22231,9 @@
    ],
    "weaknesses": [],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "draftSeason": 12,
    "draftRound": 1,
    "contract": {
@@ -22278,6 +22286,10 @@
     "con": 6,
     "pow": 3,
     "positions": [
+     {
+      "pos": "CF",
+      "def": 5
+     },
      {
       "pos": "OF",
       "def": 5
@@ -29113,8 +29125,8 @@
    "id": "p269",
    "name": "브라이언",
    "team": "트레일 블레이저스",
-   "pos": "OF",
-   "tier": "코어",
+   "pos": "CF",
+   "tier": "엘리트",
    "age": 23,
    "number": "30",
    "debutSeason": 18,
@@ -29139,7 +29151,9 @@
     "파워"
    ],
    "role": "8번",
-   "subPositions": [],
+   "subPositions": [
+    "OF"
+   ],
    "form": "good",
    "draftSeason": 16,
    "draftRound": 1,
@@ -29171,6 +29185,10 @@
     "con": 6,
     "pow": 1,
     "positions": [
+     {
+      "pos": "CF",
+      "def": 5
+     },
      {
       "pos": "OF",
       "def": 5
@@ -84443,7 +84461,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786257353012
+   "ts": 1786257436712
   },
   "teams": {
    "프린스": {
@@ -85859,7 +85877,7 @@
     "appeal": 0.86,
     "market": "스몰마켓",
     "free": 42,
-    "power": 23.9,
+    "power": 28.4,
     "window": {
      "open": 20,
      "left": 2,
@@ -86105,7 +86123,7 @@
     "appeal": 1.62,
     "market": "빅마켓",
     "free": 31,
-    "power": 43.7,
+    "power": 45.1,
     "window": {
      "open": 20,
      "left": 2,
@@ -90123,15 +90141,20 @@
    },
    "p159": {
     "name": "윌리엄스",
-    "pos": "OF",
-    "tier": "서브",
+    "pos": "CF",
+    "tier": "레귤러",
     "age": 34,
     "team": "데빌스",
-    "power": 0.2,
+    "power": 1.6,
     "abil": {
      "con": 3,
      "pow": 1,
      "positions": [
+      {
+       "pos": "CF",
+       "def": 5,
+       "tier": "레귤러"
+      },
       {
        "pos": "OF",
        "def": 5,
@@ -90140,10 +90163,10 @@
      ]
     },
     "asset": {
-     "value": 0.1,
+     "value": 1.3,
      "grade": "D",
      "left": 2,
-     "effM": 0.58
+     "effM": 0.65
     }
    },
    "p160": {
@@ -90582,7 +90605,7 @@
    },
    "p180": {
     "name": "아서",
-    "pos": "OF",
+    "pos": "CF",
     "tier": "엘리트",
     "age": 26,
     "team": "재즈",
@@ -90592,6 +90615,11 @@
      "pow": 3,
      "positions": [
       {
+       "pos": "CF",
+       "def": 5,
+       "tier": "엘리트"
+      },
+      {
        "pos": "OF",
        "def": 5,
        "tier": "엘리트"
@@ -90599,10 +90627,10 @@
      ]
     },
     "asset": {
-     "value": 12.1,
+     "value": 12.8,
      "grade": "S",
      "left": 7,
-     "effM": 1.23
+     "effM": 1.19
     }
    },
    "p181": {
@@ -92528,15 +92556,20 @@
    },
    "p269": {
     "name": "브라이언",
-    "pos": "OF",
-    "tier": "코어",
+    "pos": "CF",
+    "tier": "엘리트",
     "age": 23,
     "team": "트레일 블레이저스",
-    "power": 2.5,
+    "power": 7,
     "abil": {
      "con": 6,
      "pow": 1,
      "positions": [
+      {
+       "pos": "CF",
+       "def": 5,
+       "tier": "엘리트"
+      },
       {
        "pos": "OF",
        "def": 5,
@@ -92545,8 +92578,8 @@
      ]
     },
     "asset": {
-     "value": 4.1,
-     "grade": "C",
+     "value": 12.5,
+     "grade": "S",
      "left": 4,
      "effM": 1.6
     }
