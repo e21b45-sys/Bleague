@@ -27191,7 +27191,9 @@
     "파워"
    ],
    "role": "1번",
-   "subPositions": [],
+   "subPositions": [
+    "CF"
+   ],
    "form": "good",
    "draftSeason": 14,
    "draftRound": 1,
@@ -30917,7 +30919,9 @@
     "파워"
    ],
    "role": "9번",
-   "subPositions": [],
+   "subPositions": [
+    "CF"
+   ],
    "form": "bad",
    "draftSeason": 17,
    "draftRound": 2,
@@ -82003,7 +82007,8 @@
   "프린스": {
    "stadium": "킹스 파크",
    "coach": "호너",
-   "abbr": "PRN"
+   "abbr": "PRN",
+   "nameEn": "PRINCE"
   },
   "라이언즈": {
    "stadium": "라이언즈 파크",
@@ -84583,7 +84588,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786267701209
+   "ts": 1786945484139
   },
   "teams": {
    "프린스": {
