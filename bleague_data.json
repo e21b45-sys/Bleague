@@ -82287,6 +82287,39 @@
     "races": {},
     "potmBat": "",
     "potmPit": "",
+    "injuries": [
+     {
+      "playerId": "p230",
+      "months": 5,
+      "note": "어깨 회전근개"
+     },
+     {
+      "playerId": "p167",
+      "months": 4,
+      "note": "팔꿈치 통증"
+     },
+     {
+      "playerId": "p297",
+      "months": 4,
+      "note": "근육 피로"
+     },
+     {
+      "playerId": "p226",
+      "months": 2,
+      "note": "타구 타박"
+     },
+     {
+      "playerId": "p272",
+      "months": 1,
+      "note": "옆구리 근육"
+     }
+    ]
+   },
+   "6": {
+    "standings": [],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
     "injuries": []
    },
    "10": {
@@ -84588,7 +84621,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1786945484139
+   "ts": 1787724617299
   },
   "teams": {
    "프린스": {
