@@ -17996,7 +17996,7 @@
      "note": "질병"
     }
    ],
-   "form": "injury",
+   "form": "good",
    "abil": {
     "pit": 6,
     "inn": 5,
@@ -90054,7 +90054,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787803381504
+   "ts": 1787803486745
   },
   "teams": {
    "프린스": {
