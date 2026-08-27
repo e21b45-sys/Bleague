@@ -82301,8 +82301,8 @@
       "p316"
      ]
     },
-    "potmBat": "",
-    "potmPit": "",
+    "potmBat": "p225",
+    "potmPit": "p199",
     "injuries": [
      {
       "playerId": "p230",
@@ -82332,11 +82332,85 @@
     ]
    },
    "6": {
-    "standings": [],
-    "races": {},
+    "standings": [
+     "마린즈",
+     "에스트로너츠",
+     "프린스",
+     "스틸러스",
+     "라이언즈",
+     "타이거즈",
+     "데빌스",
+     "다이너마이트",
+     "워리어스",
+     "다이노스",
+     "이글즈",
+     "트레일 블레이저스",
+     "챌린저스",
+     "세이버스",
+     "재즈",
+     "버커니어스"
+    ],
+    "races": {
+     "MVP": [
+      "p202",
+      "p165",
+      "p133"
+     ],
+     "BP": [
+      "p131",
+      "p260",
+      "p279"
+     ],
+     "ROOKIE": [
+      "p280",
+      "p303",
+      "p316"
+     ]
+    },
     "potmBat": "",
     "potmPit": "",
-    "injuries": []
+    "injuries": [
+     {
+      "playerId": "p112",
+      "months": 5,
+      "note": "발목 염좌"
+     },
+     {
+      "playerId": "p184",
+      "months": 4,
+      "note": "손등 타박"
+     },
+     {
+      "playerId": "p102",
+      "months": 5,
+      "note": "손등 타박"
+     },
+     {
+      "playerId": "p203",
+      "months": 1,
+      "note": "팔꿈치 인대 손상"
+     },
+     {
+      "playerId": "p295",
+      "months": 1,
+      "note": "종아리 근육"
+     },
+     {
+      "playerId": "p85",
+      "months": 1,
+      "note": "무릎 통증"
+     },
+     {
+      "playerId": "p93",
+      "months": 2,
+      "note": "햄스트링"
+     },
+     {
+      "playerId": "p282",
+      "months": 2,
+      "note": "무릎 통증"
+     }
+    ]
    },
    "10": {
     "standings": [],
@@ -84637,7 +84711,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787798656508
+   "ts": 1787798739737
   },
   "teams": {
    "프린스": {
