@@ -83054,16 +83054,16 @@
       "pos": "포수"
      },
      {
-      "playerId": "",
+      "playerId": "p235",
       "pos": "1루"
      },
      {
-      "playerId": "",
+      "playerId": "p195",
       "pos": "2루"
      },
      {
       "playerId": "",
-      "pos": "선발"
+      "pos": "3루"
      },
      {
       "playerId": "",
@@ -84740,7 +84740,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787799425289
+   "ts": 1787799515469
   },
   "teams": {
    "프린스": {
