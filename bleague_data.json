@@ -83105,11 +83105,35 @@
    },
    "teamB": {
     "name": "",
-    "captain": "",
+    "captain": "p279",
     "members": [
      {
-      "playerId": "",
+      "playerId": "p279",
       "pos": "선발"
+     },
+     {
+      "playerId": "p129",
+      "pos": "포수"
+     },
+     {
+      "playerId": "p280",
+      "pos": "1루"
+     },
+     {
+      "playerId": "p176",
+      "pos": "2루"
+     },
+     {
+      "playerId": "p118",
+      "pos": "3루"
+     },
+     {
+      "playerId": "p225",
+      "pos": "유격"
+     },
+     {
+      "playerId": "",
+      "pos": "외야"
      }
     ],
     "divFilter": [
@@ -84773,7 +84797,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787799707801
+   "ts": 1787799793587
   },
   "teams": {
    "프린스": {
