@@ -83044,16 +83044,33 @@
    "teamA": {
     "name": "",
     "captain": "",
-    "members": [],
+    "members": [
+     {
+      "playerId": "",
+      "pos": "선발"
+     },
+     {
+      "playerId": "",
+      "pos": "선발"
+     },
+     {
+      "playerId": "",
+      "pos": "선발"
+     }
+    ],
     "divFilter": [
-     "남부"
+     "남부",
+     "동부"
     ]
    },
    "teamB": {
     "name": "",
     "captain": "",
     "members": [],
-    "divFilter": []
+    "divFilter": [
+     "서부",
+     "북부"
+    ]
    },
    "result": {
     "teamAScore": null,
@@ -84711,7 +84728,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787798913559
+   "ts": 1787799164480
   },
   "teams": {
    "프린스": {
