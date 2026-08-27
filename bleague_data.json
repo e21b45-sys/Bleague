@@ -83086,7 +83086,15 @@
       "pos": "투수"
      },
      {
-      "playerId": "",
+      "playerId": "p132",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p75",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p208",
       "pos": "투수"
      }
     ],
@@ -83098,7 +83106,12 @@
    "teamB": {
     "name": "",
     "captain": "",
-    "members": [],
+    "members": [
+     {
+      "playerId": "",
+      "pos": "선발"
+     }
+    ],
     "divFilter": [
      "서부",
      "북부"
@@ -84760,7 +84773,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787799640871
+   "ts": 1787799707801
   },
   "teams": {
    "프린스": {
