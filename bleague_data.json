@@ -83043,11 +83043,23 @@
   "allstar": {
    "teamA": {
     "name": "",
-    "captain": "",
+    "captain": "p131",
     "members": [
      {
-      "playerId": "",
+      "playerId": "p131",
       "pos": "선발"
+     },
+     {
+      "playerId": "p233",
+      "pos": "포수"
+     },
+     {
+      "playerId": "",
+      "pos": "1루"
+     },
+     {
+      "playerId": "",
+      "pos": "2루"
      },
      {
       "playerId": "",
@@ -84728,7 +84740,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787799164480
+   "ts": 1787799425289
   },
   "teams": {
    "프린스": {
