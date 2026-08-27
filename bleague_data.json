@@ -83042,7 +83042,7 @@
   },
   "allstar": {
    "teamA": {
-    "name": "",
+    "name": "남동부",
     "captain": "p131",
     "members": [
      {
@@ -83104,7 +83104,7 @@
     ]
    },
    "teamB": {
-    "name": "",
+    "name": "북서부",
     "captain": "p279",
     "members": [
      {
@@ -83156,7 +83156,7 @@
       "pos": "투수"
      },
      {
-      "playerId": "",
+      "playerId": "p189",
       "pos": "투수"
      }
     ],
@@ -83166,9 +83166,9 @@
     ]
    },
    "result": {
-    "teamAScore": null,
-    "teamBScore": null,
-    "mvpId": ""
+    "teamAScore": 8,
+    "teamBScore": 2,
+    "mvpId": "p165"
    },
    "subs": [],
    "note": ""
@@ -84821,7 +84821,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787799884894
+   "ts": 1787799971615
   },
   "teams": {
    "프린스": {
