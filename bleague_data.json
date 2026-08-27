@@ -83132,8 +83132,32 @@
       "pos": "유격"
      },
      {
-      "playerId": "",
+      "playerId": "p126",
       "pos": "외야"
+     },
+     {
+      "playerId": "p283",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p180",
+      "pos": "외야"
+     },
+     {
+      "playerId": "p303",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p147",
+      "pos": "투수"
+     },
+     {
+      "playerId": "p244",
+      "pos": "투수"
+     },
+     {
+      "playerId": "",
+      "pos": "투수"
      }
     ],
     "divFilter": [
@@ -84797,7 +84821,7 @@
  "derived": {
   "generatedAt": {
    "season": 20,
-   "ts": 1787799793587
+   "ts": 1787799884894
   },
   "teams": {
    "프린스": {
