@@ -11671,7 +11671,7 @@
   "p84": {
    "id": "p84",
    "name": "히로",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "SP",
    "tier": "레귤러",
    "age": 39,
@@ -11813,6 +11813,10 @@
     {
      "season": 20,
      "team": "버커니어스"
+    },
+    {
+     "season": 21,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -88368,10 +88372,23 @@
  },
  "live": {
   "season": 21,
-  "months": {},
+  "months": {
+   "10": {
+    "standings": [],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
+   }
+  },
   "offseason": [],
   "teamNotes": {
    "마린즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "프린스": {
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
@@ -90025,7 +90042,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787800597047
+   "ts": 1787803292416
   },
   "teams": {
    "프린스": {
@@ -94167,17 +94184,12 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 39,
-    "team": "FA",
+    "team": "은퇴",
     "power": 1.8,
     "abil": {
      "pit": 5,
      "inn": 2,
      "prs": 4
-    },
-    "expContract": {
-     "years": 1,
-     "aav": 12.7,
-     "total": 12.7
     }
    },
    "p85": {
@@ -101238,105 +101250,6 @@
    }
   },
   "faMarket": {
-   "p84": {
-    "name": "히로",
-    "pos": "SP",
-    "tier": "레귤러",
-    "age": 39,
-    "rarity": 1.49,
-    "expContract": {
-     "years": 1,
-     "aav": 12.7,
-     "total": 12.7
-    },
-    "teams": [
-     {
-      "team": "프린스",
-      "stance": "allin",
-      "lv": "부족",
-      "win": 0.18,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "라이언즈",
-      "stance": "allin",
-      "lv": "부족",
-      "win": 0.15,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "다이노스",
-      "stance": "retool",
-      "lv": "부족",
-      "win": 0.07,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "마린즈",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.17,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "데빌스",
-      "stance": "retool",
-      "lv": "부족",
-      "win": 0.09,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "워리어스",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.13,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "스틸러스",
-      "stance": "allin",
-      "lv": "부족",
-      "win": 0.15,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "세이버스",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.03,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.02,
-      "focus": 0,
-      "real": 0
-     }
-    ],
-    "altFA": [
-     "블랙셔"
-    ],
-    "altTrade": [
-     {
-      "name": "요아힘",
-      "team": "챌린저스"
-     },
-     {
-      "name": "러츠",
-      "team": "버커니어스"
-     }
-    ]
-   },
    "p86": {
     "name": "노아",
     "pos": "RP",
@@ -101482,7 +101395,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 38,
-    "rarity": 1.49,
+    "rarity": 1.61,
     "expContract": {
      "years": 1,
      "aav": 11.2,
@@ -101562,9 +101475,7 @@
       "real": 0
      }
     ],
-    "altFA": [
-     "히로"
-    ],
+    "altFA": [],
     "altTrade": [
      {
       "name": "러츠",
@@ -102035,7 +101946,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 35,
-    "rarity": 0.76,
+    "rarity": 0.88,
     "expContract": {
      "years": 3,
      "aav": 10.9,
