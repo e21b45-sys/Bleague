@@ -88183,77 +88183,92 @@
   "라이언즈": {
    "stadium": "라이언즈 파크",
    "coach": "제프리",
-   "abbr": "LIO"
+   "abbr": "LIO",
+   "nameEn": "LIONS"
   },
   "타이거즈": {
    "stadium": "타이거즈 파크",
    "coach": "프릴런",
-   "abbr": "TIG"
+   "abbr": "TIG",
+   "nameEn": "TIGERS"
   },
   "다이노스": {
    "stadium": "다이노스 필드",
    "coach": "뷔에스",
-   "abbr": "DIN"
+   "abbr": "DIN",
+   "nameEn": "DINOS"
   },
   "마린즈": {
    "stadium": "오션 스타디움",
    "coach": "글라스너",
-   "abbr": "MAR"
+   "abbr": "MAR",
+   "nameEn": "MARINES"
   },
   "에스트로너츠": {
    "stadium": "스페이스 필드",
    "coach": "존스",
-   "abbr": "AST"
+   "abbr": "AST",
+   "nameEn": "ASTRONAUTS"
   },
   "이글즈": {
    "stadium": "이글즈 파크",
    "coach": "데브",
-   "abbr": "EAG"
+   "abbr": "EAG",
+   "nameEn": "EAGLES"
   },
   "트레일 블레이저스": {
    "stadium": "필드 오브 히스토리",
    "coach": "놀라",
-   "abbr": "TRB"
+   "abbr": "TRB",
+   "nameEn": "TRAIL BLAZERS"
   },
   "데빌스": {
    "stadium": "데빌스 필드",
    "coach": "제이스",
-   "abbr": "DEV"
+   "abbr": "DEV",
+   "nameEn": "DEVILS"
   },
   "워리어스": {
    "stadium": "워리어스 파크",
    "coach": "엘런",
-   "abbr": "WAR"
+   "abbr": "WAR",
+   "nameEn": "WARRIORS"
   },
   "다이너마이트": {
    "stadium": "571 파크",
    "coach": "셰인",
-   "abbr": "DYN"
+   "abbr": "DYN",
+   "nameEn": "DYNAMITE"
   },
   "챌린저스": {
    "stadium": "챌린저스 필드",
    "coach": "트레이넨",
-   "abbr": "CHL"
+   "abbr": "CHL",
+   "nameEn": "CHALLENGERS"
   },
   "스틸러스": {
    "stadium": "워커스 필드",
    "coach": "퓨리",
-   "abbr": "STL"
+   "abbr": "STL",
+   "nameEn": "STEELERS"
   },
   "재즈": {
    "stadium": "아트 오브 베이스볼",
    "coach": "리베인",
-   "abbr": "JAZ"
+   "abbr": "JAZ",
+   "nameEn": "JAZZ"
   },
   "세이버스": {
    "stadium": "세이버스 스타디움",
    "coach": "스티븐스",
-   "abbr": "SAB"
+   "abbr": "SAB",
+   "nameEn": "SABERS"
   },
   "버커니어스": {
    "stadium": "버커니어스 아레나",
    "coach": "코",
-   "abbr": "BUC"
+   "abbr": "BUC",
+   "nameEn": "BUCURNIUS"
   }
  },
  "_seq": 603,
@@ -90010,7 +90025,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787800464890
+   "ts": 1787800597047
   },
   "teams": {
    "프린스": {
