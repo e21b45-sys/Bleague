@@ -957,12 +957,12 @@
    ],
    "hof": {
     "star": 1,
-    "serial": "",
+    "serial": "18",
     "plaqueTeam": "프린스",
     "statSlots": [
-     "",
-     "",
-     "",
+     "champ",
+     "award:BRP",
+     "award:타이틀홀더",
      ""
     ]
    },
@@ -11967,13 +11967,13 @@
    ],
    "hof": {
     "star": 5,
-    "serial": "",
-    "plaqueTeam": "에스트로너츠",
+    "serial": "20",
+    "plaqueTeam": "버커니어스",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "champ",
+     "award:BP",
+     "award:플레티넘볼",
+     "award:POTY"
     ]
    },
    "injuries": [
@@ -12338,12 +12338,12 @@
    ],
    "hof": {
     "star": 3,
-    "serial": "",
+    "serial": "19",
     "plaqueTeam": "다이노스",
     "statSlots": [
-     "",
-     "",
-     "",
+     "champ",
+     "award:BRP",
+     "award:타이틀홀더",
      ""
     ]
    },
@@ -91646,7 +91646,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787922848726
+   "ts": 1787922911815
   },
   "teams": {
    "프린스": {
