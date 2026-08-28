@@ -40277,7 +40277,60 @@
     }
    ],
    "hof": null,
-   "injuries": []
+   "injuries": [],
+   "ceiling": "컨텐더",
+   "risk": "안전",
+   "abil": {
+    "pit": 3,
+    "inn": 2,
+    "prs": 2
+   }
+  },
+  "p604": {
+   "id": "p604",
+   "name": "하미레스",
+   "team": "드래프티",
+   "pos": "SS",
+   "tier": "D리그",
+   "age": 19,
+   "number": "",
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "",
+   "strengths": [],
+   "weaknesses": [],
+   "role": "",
+   "subPositions": [],
+   "form": "",
+   "draftSeason": null,
+   "draftRound": null,
+   "contract": null,
+   "contractHistory": [],
+   "awards": [],
+   "titles": 0,
+   "teamHistory": [
+    {
+     "season": 21,
+     "team": "드래프티"
+    }
+   ],
+   "hof": null,
+   "injuries": [],
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 3
+     }
+    ]
+   }
   }
  },
  "budgets": {
@@ -88270,7 +88323,7 @@
    "nameEn": "BUCURNIUS"
   }
  },
- "_seq": 604,
+ "_seq": 605,
  "prospects": [
   "p457",
   "p438",
@@ -90037,7 +90090,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787886402661
+   "ts": 1787886495209
   },
   "teams": {
    "프린스": {
@@ -101215,7 +101268,31 @@
     "tier": "D리그",
     "age": 19,
     "team": "드래프티",
-    "power": 0
+    "power": 0,
+    "abil": {
+     "pit": 3,
+     "inn": 2,
+     "prs": 2
+    }
+   },
+   "p604": {
+    "name": "하미레스",
+    "pos": "SS",
+    "tier": "D리그",
+    "age": 19,
+    "team": "드래프티",
+    "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    }
    }
   },
   "faMarket": {
@@ -104995,6 +105072,14 @@
     {
      "name": "브래들리",
      "pos": "SP",
+     "tier": "D리그",
+     "age": 19,
+     "ceiling": "컨텐더",
+     "risk": "안전"
+    },
+    {
+     "name": "하미레스",
+     "pos": "SS",
      "tier": "D리그",
      "age": 19
     }
