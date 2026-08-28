@@ -40297,13 +40297,23 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "trait": "",
-   "traits": [],
+   "traits": [
+    "기복형",
+    "철강왕",
+    "운동능력"
+   ],
    "style": "",
    "strength": "",
    "weakness": "",
-   "ptype": "",
-   "strengths": [],
-   "weaknesses": [],
+   "ptype": "수비형",
+   "strengths": [
+    "수비 범위",
+    "주루",
+    "컨택"
+   ],
+   "weaknesses": [
+    "파워"
+   ],
    "role": "",
    "subPositions": [],
    "form": "",
@@ -88106,7 +88116,7 @@
     }
    },
    "live": {
-    "active": false,
+    "active": true,
     "cursor": 0,
     "history": []
    }
@@ -90109,7 +90119,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787886751297
+   "ts": 1787886827924
   },
   "teams": {
    "프린스": {
