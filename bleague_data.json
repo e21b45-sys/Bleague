@@ -36580,7 +36580,7 @@
    "pos": "OF",
    "tier": "레귤러",
    "age": 20,
-   "number": "",
+   "number": "40",
    "ptype": "만능형",
    "strengths": [
     "송구",
@@ -38340,7 +38340,7 @@
    "pos": "OF",
    "tier": "레귤러",
    "age": 23,
-   "number": "",
+   "number": "17",
    "ptype": "거포형",
    "strengths": [
     "선구안",
@@ -90417,6 +90417,11 @@
     "playerId": "p57",
     "retired": true,
     "note": "미스터 버커니어스"
+   },
+   {
+    "playerId": "p84",
+    "retired": false,
+    "note": ""
    }
   ]
  },
@@ -91660,7 +91665,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787923372442
+   "ts": 1787923523143
   },
   "teams": {
    "프린스": {
