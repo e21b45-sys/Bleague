@@ -956,7 +956,7 @@
     }
    ],
    "hof": {
-    "star": 0,
+    "star": 1,
     "serial": "",
     "plaqueTeam": "프린스",
     "statSlots": [
@@ -2119,13 +2119,13 @@
     "round": 1,
     "entry": "최초 입성",
     "note": "강력한 단기 영향력이 있으나 그에 상응하는 누적 부족으로 1성 입성",
-    "serial": "",
+    "serial": "1",
     "plaqueTeam": "라이언즈",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "champ",
+     "award:BP",
+     "award:플레티넘볼",
+     "award:타이틀홀더"
     ]
    },
    "injuries": [],
@@ -12337,7 +12337,7 @@
     }
    ],
    "hof": {
-    "star": 0,
+    "star": 3,
     "serial": "",
     "plaqueTeam": "다이노스",
     "statSlots": [
@@ -91646,7 +91646,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787922407468
+   "ts": 1787922481545
   },
   "teams": {
    "프린스": {
