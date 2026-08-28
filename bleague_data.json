@@ -15928,7 +15928,7 @@
    "form": "good",
    "abil": {
     "con": 7,
-    "pow": 3,
+    "pow": 2,
     "positions": [
      {
       "pos": "3B",
@@ -15936,7 +15936,7 @@
      },
      {
       "pos": "SS",
-      "def": 4
+      "def": 3
      }
     ]
    }
@@ -15946,7 +15946,7 @@
    "name": "터너",
    "team": "타이거즈",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 34,
    "number": "1",
    "debutSeason": 7,
@@ -16057,7 +16057,7 @@
    "subPositions": [],
    "form": "bad",
    "abil": {
-    "pit": 6,
+    "pit": 5,
     "inn": 4,
     "prs": 3
    }
@@ -18873,7 +18873,7 @@
    ],
    "form": "good",
    "abil": {
-    "pit": 5,
+    "pit": 4,
     "inn": 2,
     "prs": 3
    }
@@ -91462,7 +91462,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787916864363
+   "ts": 1787916939146
   },
   "teams": {
    "프린스": {
@@ -91855,7 +91855,7 @@
     "appeal": 1.44,
     "market": "중형",
     "free": 7,
-    "power": 69.8,
+    "power": 64.7,
     "window": {
      "open": 21,
      "left": 2,
@@ -96284,7 +96284,7 @@
     "power": 7,
     "abil": {
      "con": 7,
-     "pow": 3,
+     "pow": 2,
      "positions": [
       {
        "pos": "3B",
@@ -96293,13 +96293,13 @@
       },
       {
        "pos": "SS",
-       "def": 4,
-       "tier": "엘리트"
+       "def": 3,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 4.8,
+     "value": 4.5,
      "grade": "C",
      "left": 2,
      "effM": 0.69
@@ -96308,20 +96308,20 @@
    "p115": {
     "name": "터너",
     "pos": "SP",
-    "tier": "엘리트",
+    "tier": "코어",
     "age": 34,
     "team": "타이거즈",
-    "power": 8.1,
+    "power": 2.9,
     "abil": {
-     "pit": 6,
+     "pit": 5,
      "inn": 4,
      "prs": 3
     },
     "asset": {
-     "value": 9.6,
-     "grade": "A",
+     "value": 2.4,
+     "grade": "D",
      "left": 4,
-     "effM": 0.86
+     "effM": 0.61
     }
    },
    "p116": {
@@ -96908,7 +96908,7 @@
     "team": "타이거즈",
     "power": 0.8,
     "abil": {
-     "pit": 5,
+     "pit": 4,
      "inn": 2,
      "prs": 3
     },
