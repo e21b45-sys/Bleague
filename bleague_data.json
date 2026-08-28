@@ -20537,7 +20537,7 @@
      },
      {
       "pos": "SS",
-      "def": 4
+      "def": 3
      }
     ]
    }
@@ -32824,7 +32824,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p309": {
    "id": "p309",
@@ -32878,7 +32888,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 5,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p310": {
    "id": "p310",
@@ -33065,7 +33080,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 4,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p313": {
    "id": "p313",
@@ -33249,7 +33274,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 2,
+    "inn": 2,
+    "prs": 1
+   }
   },
   "p316": {
    "id": "p316",
@@ -33512,7 +33542,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p320": {
    "id": "p320",
@@ -33635,7 +33675,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p322": {
    "id": "p322",
@@ -33692,7 +33737,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 1,
+    "inn": 1,
+    "prs": 2
+   }
   },
   "p323": {
    "id": "p323",
@@ -33743,7 +33793,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p324": {
    "id": "p324",
@@ -33857,7 +33917,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p326": {
    "id": "p326",
@@ -33979,7 +34049,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p328": {
    "id": "p328",
@@ -34172,7 +34247,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 3
+     }
+    ]
+   }
   },
   "p331": {
    "id": "p331",
@@ -34226,7 +34311,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 1
+     }
+    ]
+   }
   },
   "p332": {
    "id": "p332",
@@ -34340,7 +34435,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p334": {
    "id": "p334",
@@ -34460,7 +34565,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "컨텐더",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 2,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p336": {
    "id": "p336",
@@ -34511,7 +34621,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 1
+     }
+    ]
+   }
   },
   "p337": {
    "id": "p337",
@@ -34564,7 +34684,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 1,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p338": {
    "id": "p338",
@@ -34615,7 +34745,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 1,
+    "inn": 1,
+    "prs": 1
+   }
   },
   "p339": {
    "id": "p339",
@@ -34666,7 +34801,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p340": {
    "id": "p340",
@@ -34721,7 +34861,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 1,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p341": {
    "id": "p341",
@@ -34771,7 +34921,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 2,
+    "prs": 2
+   }
   },
   "p342": {
    "id": "p342",
@@ -34825,7 +34980,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 1,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p343": {
    "id": "p343",
@@ -34875,7 +35040,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 3,
+    "inn": 2,
+    "prs": 2
+   }
   },
   "p344": {
    "id": "p344",
@@ -34927,7 +35097,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 3
+     }
+    ]
+   }
   },
   "p345": {
    "id": "p345",
@@ -34978,7 +35158,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p346": {
    "id": "p346",
@@ -35031,7 +35221,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 3,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p347": {
    "id": "p347",
@@ -35081,7 +35281,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p348": {
    "id": "p348",
@@ -35131,7 +35341,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 5,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 3
+     }
+    ]
+   }
   },
   "p349": {
    "id": "p349",
@@ -35181,7 +35401,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p350": {
    "id": "p350",
@@ -35231,7 +35461,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 1,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p351": {
    "id": "p351",
@@ -35282,7 +35517,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 2,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p352": {
    "id": "p352",
@@ -35334,7 +35579,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 1,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p353": {
    "id": "p353",
@@ -35386,7 +35641,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p391": {
    "id": "p391",
@@ -35430,7 +35695,12 @@
    "draftSeason": 19,
    "draftRound": 3,
    "ceiling": "서브",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 1,
+    "prs": 3
+   }
   },
   "p392": {
    "id": "p392",
@@ -35474,7 +35744,12 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "서브",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p393": {
    "id": "p393",
@@ -35519,7 +35794,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 1,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 3
+     }
+    ]
+   }
   },
   "p394": {
    "id": "p394",
@@ -35564,7 +35849,17 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 3,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p395": {
    "id": "p395",
@@ -35609,7 +35904,17 @@
    "draftSeason": 19,
    "draftRound": 3,
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p396": {
    "id": "p396",
@@ -35653,7 +35958,17 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 1,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "3B",
+      "def": 1
+     }
+    ]
+   }
   },
   "p397": {
    "id": "p397",
@@ -35698,7 +36013,12 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 2,
+    "inn": 1,
+    "prs": 2
+   }
   },
   "p398": {
    "id": "p398",
@@ -35742,7 +36062,12 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 4,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p399": {
    "id": "p399",
@@ -35786,7 +36111,12 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 5,
+    "inn": 2,
+    "prs": 2
+   }
   },
   "p400": {
    "id": "p400",
@@ -35830,7 +36160,12 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 3,
+    "inn": 3,
+    "prs": 1
+   }
   },
   "p401": {
    "id": "p401",
@@ -35875,7 +36210,17 @@
    "draftSeason": 19,
    "draftRound": 3,
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 2,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 2
+     }
+    ]
+   }
   },
   "p402": {
    "id": "p402",
@@ -35919,7 +36264,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 2,
+    "pow": 4,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p403": {
    "id": "p403",
@@ -35963,7 +36318,17 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p404": {
    "id": "p404",
@@ -36008,7 +36373,12 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 1,
+    "inn": 4,
+    "prs": 2
+   }
   },
   "p405": {
    "id": "p405",
@@ -36053,7 +36423,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 4,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p406": {
    "id": "p406",
@@ -36097,7 +36477,17 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 3,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 4
+     }
+    ]
+   }
   },
   "p407": {
    "id": "p407",
@@ -36141,7 +36531,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p408": {
    "id": "p408",
@@ -36185,7 +36585,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 2
+     }
+    ]
+   }
   },
   "p409": {
    "id": "p409",
@@ -36229,7 +36639,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p410": {
    "id": "p410",
@@ -36273,7 +36693,12 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "서브",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 3,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p411": {
    "id": "p411",
@@ -36318,7 +36743,17 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 2
+     }
+    ]
+   }
   },
   "p412": {
    "id": "p412",
@@ -36362,7 +36797,12 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p413": {
    "id": "p413",
@@ -36407,7 +36847,17 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 4,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p414": {
    "id": "p414",
@@ -36451,7 +36901,17 @@
    "draftSeason": 20,
    "draftRound": 3,
    "ceiling": "서브",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p415": {
    "id": "p415",
@@ -36496,7 +36956,12 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "서브",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p416": {
    "id": "p416",
@@ -36540,7 +37005,17 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p417": {
    "id": "p417",
@@ -36584,7 +37059,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 4
+     }
+    ]
+   }
   },
   "p418": {
    "id": "p418",
@@ -36629,7 +37114,12 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 4,
+    "inn": 2,
+    "prs": 1
+   }
   },
   "p419": {
    "id": "p419",
@@ -36674,7 +37164,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 3,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 2
+     }
+    ]
+   }
   },
   "p420": {
    "id": "p420",
@@ -36718,7 +37218,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 1,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "1B",
+      "def": 1
+     }
+    ]
+   }
   },
   "p421": {
    "id": "p421",
@@ -36763,7 +37273,12 @@
    "draftSeason": 19,
    "draftRound": 2,
    "ceiling": "컨텐더",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 3,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p422": {
    "id": "p422",
@@ -36807,7 +37322,17 @@
    "draftSeason": 19,
    "draftRound": 3,
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 2,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p438": {
    "id": "p438",
@@ -36858,7 +37383,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "컨텐더",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 2
+     }
+    ]
+   }
   },
   "p439": {
    "id": "p439",
@@ -36905,7 +37440,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 4,
+    "inn": 3,
+    "prs": 2
+   }
   },
   "p440": {
    "id": "p440",
@@ -36950,7 +37490,12 @@
    "hof": null,
    "injuries": [],
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "pit": 3,
+    "inn": 2,
+    "prs": 1
+   }
   },
   "p441": {
    "id": "p441",
@@ -36998,7 +37543,17 @@
    "hof": null,
    "injuries": [],
    "ceiling": "엘리트",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 1,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "C",
+      "def": 2
+     }
+    ]
+   }
   },
   "p444": {
    "id": "p444",
@@ -37039,7 +37594,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 3,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p445": {
    "id": "p445",
@@ -37079,7 +37644,12 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 1,
+    "inn": 2,
+    "prs": 1
+   }
   },
   "p446": {
    "id": "p446",
@@ -37120,7 +37690,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 1,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p447": {
    "id": "p447",
@@ -37161,7 +37741,12 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "pit": 2,
+    "inn": 3,
+    "prs": 3
+   }
   },
   "p448": {
    "id": "p448",
@@ -37201,7 +37786,12 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 2,
+    "inn": 2,
+    "prs": 1
+   }
   },
   "p449": {
    "id": "p449",
@@ -37241,7 +37831,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 4,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p450": {
    "id": "p450",
@@ -37281,7 +37881,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 4,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 2
+     }
+    ]
+   }
   },
   "p451": {
    "id": "p451",
@@ -37322,7 +37932,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 1,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "SS",
+      "def": 1
+     }
+    ]
+   }
   },
   "p452": {
    "id": "p452",
@@ -37362,7 +37982,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 2,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 1
+     }
+    ]
+   }
   },
   "p453": {
    "id": "p453",
@@ -37403,7 +38033,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "컨텐더",
-   "risk": "보통"
+   "risk": "보통",
+   "abil": {
+    "con": 2,
+    "pow": 2,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p454": {
    "id": "p454",
@@ -37443,7 +38083,12 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "pit": 1,
+    "inn": 2,
+    "prs": 3
+   }
   },
   "p455": {
    "id": "p455",
@@ -37483,7 +38128,17 @@
    "draftSeason": 20,
    "draftRound": 1,
    "ceiling": "엘리트",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 1,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p456": {
    "id": "p456",
@@ -37524,7 +38179,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "코어",
-   "risk": "안전"
+   "risk": "안전",
+   "abil": {
+    "con": 5,
+    "pow": 1,
+    "positions": [
+     {
+      "pos": "OF",
+      "def": 3
+     }
+    ]
+   }
   },
   "p457": {
    "id": "p457",
@@ -37634,7 +38299,17 @@
    "draftSeason": 20,
    "draftRound": 2,
    "ceiling": "레귤러",
-   "risk": "모험"
+   "risk": "모험",
+   "abil": {
+    "con": 3,
+    "pow": 3,
+    "positions": [
+     {
+      "pos": "2B",
+      "def": 3
+     }
+    ]
+   }
   },
   "p556": {
    "id": "p556",
@@ -89070,7 +89745,25 @@
   "p591",
   "p596",
   "p602",
-  "p594"
+  "p594",
+  "p560",
+  "p561",
+  "p562",
+  "p563",
+  "p564",
+  "p565",
+  "p567",
+  "p569",
+  "p570",
+  "p576",
+  "p580",
+  "p588",
+  "p589",
+  "p590",
+  "p593",
+  "p598",
+  "p599",
+  "p601"
  ],
  "salaryRules": {
   "floor": 60,
@@ -90764,7 +91457,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787910835102
+   "ts": 1787916291781
   },
   "teams": {
    "프린스": {
@@ -90775,7 +91468,7 @@
      "core": 9,
      "avgAge": 30.6,
      "payRatio": 0.7586206896551724,
-     "farm": 1,
+     "farm": 2,
      "farmTop": 0,
      "recent": 2,
      "avgRk": 1.3
@@ -90947,7 +91640,7 @@
      "core": 7,
      "avgAge": 29.9,
      "payRatio": 0.7739130434782608,
-     "farm": 4,
+     "farm": 5,
      "farmTop": 0,
      "recent": 5,
      "avgRk": 4.7
@@ -91614,7 +92307,7 @@
      "core": 7,
      "avgAge": 29.3,
      "payRatio": 0.6033898305084746,
-     "farm": 6,
+     "farm": 7,
      "farmTop": 1,
      "recent": 1,
      "avgRk": 4
@@ -92042,7 +92735,7 @@
      "core": 5,
      "avgAge": 26.9,
      "payRatio": 0.45161290322580644,
-     "farm": 9,
+     "farm": 10,
      "farmTop": 1,
      "recent": 14,
      "avgRk": 13
@@ -92254,7 +92947,7 @@
      "core": 4,
      "avgAge": 28.3,
      "payRatio": 0.7,
-     "farm": 10,
+     "farm": 13,
      "farmTop": 2,
      "recent": 16,
      "avgRk": 10.7
@@ -92474,7 +93167,7 @@
      "core": 8,
      "avgAge": 30.3,
      "payRatio": 0.945,
-     "farm": 4,
+     "farm": 5,
      "farmTop": 1,
      "recent": 10,
      "avgRk": 6
@@ -92907,7 +93600,7 @@
      "core": 5,
      "avgAge": 27.5,
      "payRatio": 0.6645161290322581,
-     "farm": 12,
+     "farm": 14,
      "farmTop": 3,
      "recent": 8,
      "avgRk": 10.7
@@ -93120,7 +93813,7 @@
      "core": 7,
      "avgAge": 25.7,
      "payRatio": 0.4666666666666667,
-     "farm": 9,
+     "farm": 11,
      "farmTop": 3,
      "recent": 9,
      "avgRk": 13
@@ -93340,7 +94033,7 @@
      "core": 9,
      "avgAge": 30,
      "payRatio": 0.6533333333333333,
-     "farm": 7,
+     "farm": 8,
      "farmTop": 0,
      "recent": 4,
      "avgRk": 4
@@ -93565,7 +94258,7 @@
      "core": 2,
      "avgAge": 26.4,
      "payRatio": 0.5636363636363636,
-     "farm": 11,
+     "farm": 12,
      "farmTop": 2,
      "recent": 12,
      "avgRk": 14
@@ -93792,7 +94485,7 @@
      "core": 3,
      "avgAge": 26.1,
      "payRatio": 0.3652173913043478,
-     "farm": 9,
+     "farm": 10,
      "farmTop": 2,
      "recent": 13,
      "avgRk": 12
@@ -96499,7 +97192,7 @@
       },
       {
        "pos": "SS",
-       "def": 4,
+       "def": 3,
        "tier": "레귤러"
       }
      ]
@@ -99915,6 +100608,17 @@
     "age": 21,
     "team": "세이버스",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -99925,6 +100629,11 @@
     "age": 22,
     "team": "마린즈",
     "power": 0,
+    "abil": {
+     "pit": 5,
+     "inn": 3,
+     "prs": 3
+    },
     "prospect": true,
     "value": 2.3
    },
@@ -99979,6 +100688,17 @@
     "age": 21,
     "team": "마린즈",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100027,6 +100747,11 @@
     "age": 23,
     "team": "데빌스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 2,
+     "prs": 1
+    },
     "prospect": true,
     "value": 5
    },
@@ -100117,6 +100842,17 @@
     "age": 23,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100146,6 +100882,11 @@
     "age": 24,
     "team": "이글즈",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 3,
+     "prs": 2
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100156,6 +100897,11 @@
     "age": 22,
     "team": "에스트로너츠",
     "power": 0,
+    "abil": {
+     "pit": 1,
+     "inn": 1,
+     "prs": 2
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100166,6 +100912,17 @@
     "age": 24,
     "team": "스틸러스",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100195,6 +100952,17 @@
     "age": 23,
     "team": "에스트로너츠",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.8
    },
@@ -100230,6 +100998,11 @@
     "age": 22,
     "team": "세이버스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 3,
+     "prs": 2
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100290,6 +101063,17 @@
     "age": 24,
     "team": "이글즈",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100300,6 +101084,17 @@
     "age": 23,
     "team": "마린즈",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100329,6 +101124,17 @@
     "age": 22,
     "team": "이글즈",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100364,6 +101170,11 @@
     "age": 21,
     "team": "챌린저스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 1,
+     "prs": 3
+    },
     "prospect": true,
     "value": 8.6
    },
@@ -100374,6 +101185,17 @@
     "age": 21,
     "team": "재즈",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.8
    },
@@ -100384,6 +101206,17 @@
     "age": 20,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.3
    },
@@ -100394,6 +101227,11 @@
     "age": 21,
     "team": "버커니어스",
     "power": 0,
+    "abil": {
+     "pit": 1,
+     "inn": 1,
+     "prs": 1
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100404,6 +101242,11 @@
     "age": 22,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 2,
+     "prs": 3
+    },
     "prospect": true,
     "value": 2.8
    },
@@ -100414,6 +101257,17 @@
     "age": 23,
     "team": "이글즈",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 6.8
    },
@@ -100424,6 +101278,11 @@
     "age": 22,
     "team": "세이버스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 2,
+     "prs": 2
+    },
     "prospect": true,
     "value": 2.7
    },
@@ -100434,6 +101293,17 @@
     "age": 20,
     "team": "에스트로너츠",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 4.8
    },
@@ -100444,6 +101314,11 @@
     "age": 23,
     "team": "트레일 블레이저스",
     "power": 0,
+    "abil": {
+     "pit": 3,
+     "inn": 2,
+     "prs": 2
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100454,6 +101329,17 @@
     "age": 22,
     "team": "타이거즈",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.7
    },
@@ -100464,6 +101350,17 @@
     "age": 21,
     "team": "트레일 블레이저스",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.7
    },
@@ -100474,6 +101371,17 @@
     "age": 23,
     "team": "마린즈",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100484,6 +101392,17 @@
     "age": 21,
     "team": "데빌스",
     "power": 0,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.7
    },
@@ -100494,6 +101413,17 @@
     "age": 24,
     "team": "워리어스",
     "power": 0,
+    "abil": {
+     "con": 5,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100504,6 +101434,17 @@
     "age": 20,
     "team": "라이언즈",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.7
    },
@@ -100514,6 +101455,11 @@
     "age": 22,
     "team": "타이거즈",
     "power": 0,
+    "abil": {
+     "pit": 1,
+     "inn": 3,
+     "prs": 2
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100524,6 +101470,17 @@
     "age": 23,
     "team": "챌린저스",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.2
    },
@@ -100534,6 +101491,17 @@
     "age": 22,
     "team": "재즈",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100544,6 +101512,17 @@
     "age": 23,
     "team": "스틸러스",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100554,6 +101533,11 @@
     "age": 24,
     "team": "버커니어스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 1,
+     "prs": 3
+    },
     "prospect": true,
     "value": 0.3
    },
@@ -100564,6 +101548,11 @@
     "age": 22,
     "team": "라이언즈",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 2,
+     "prs": 3
+    },
     "prospect": true,
     "value": 0.3
    },
@@ -100574,6 +101563,17 @@
     "age": 24,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 6.8
    },
@@ -100584,6 +101584,17 @@
     "age": 21,
     "team": "타이거즈",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.7
    },
@@ -100594,6 +101605,17 @@
     "age": 24,
     "team": "챌린저스",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100604,6 +101626,17 @@
     "age": 21,
     "team": "트레일 블레이저스",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "3B",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.8
    },
@@ -100614,6 +101647,11 @@
     "age": 22,
     "team": "워리어스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 1,
+     "prs": 2
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100624,6 +101662,11 @@
     "age": 22,
     "team": "이글즈",
     "power": 0,
+    "abil": {
+     "pit": 4,
+     "inn": 4,
+     "prs": 2
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100634,6 +101677,11 @@
     "age": 23,
     "team": "스틸러스",
     "power": 0,
+    "abil": {
+     "pit": 5,
+     "inn": 2,
+     "prs": 2
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100644,6 +101692,11 @@
     "age": 22,
     "team": "챌린저스",
     "power": 0,
+    "abil": {
+     "pit": 3,
+     "inn": 3,
+     "prs": 1
+    },
     "prospect": true,
     "value": 6.4
    },
@@ -100654,6 +101707,17 @@
     "age": 22,
     "team": "재즈",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100664,6 +101728,17 @@
     "age": 22,
     "team": "다이노스",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 4,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 6.8
    },
@@ -100674,6 +101749,17 @@
     "age": 23,
     "team": "챌린저스",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100684,6 +101770,11 @@
     "age": 23,
     "team": "타이거즈",
     "power": 0,
+    "abil": {
+     "pit": 1,
+     "inn": 4,
+     "prs": 2
+    },
     "prospect": true,
     "value": 2.8
    },
@@ -100694,6 +101785,17 @@
     "age": 20,
     "team": "세이버스",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.6
    },
@@ -100704,6 +101806,17 @@
     "age": 22,
     "team": "스틸러스",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100714,6 +101827,17 @@
     "age": 23,
     "team": "이글즈",
     "power": 0,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.7
    },
@@ -100724,6 +101848,17 @@
     "age": 20,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.2
    },
@@ -100734,6 +101869,17 @@
     "age": 22,
     "team": "워리어스",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100744,6 +101890,11 @@
     "age": 24,
     "team": "타이거즈",
     "power": 0,
+    "abil": {
+     "pit": 3,
+     "inn": 2,
+     "prs": 3
+    },
     "prospect": true,
     "value": 0.2
    },
@@ -100754,6 +101905,17 @@
     "age": 20,
     "team": "세이버스",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.7
    },
@@ -100764,6 +101926,11 @@
     "age": 20,
     "team": "에스트로너츠",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 3,
+     "prs": 3
+    },
     "prospect": true,
     "value": 1.7
    },
@@ -100774,6 +101941,17 @@
     "age": 24,
     "team": "다이노스",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100784,6 +101962,17 @@
     "age": 23,
     "team": "세이버스",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 0.2
    },
@@ -100794,6 +101983,11 @@
     "age": 23,
     "team": "스틸러스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 3,
+     "prs": 2
+    },
     "prospect": true,
     "value": 0.3
    },
@@ -100804,6 +101998,17 @@
     "age": 20,
     "team": "마린즈",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.6
    },
@@ -100814,6 +102019,17 @@
     "age": 20,
     "team": "챌린저스",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 4,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 4.8
    },
@@ -100824,6 +102040,11 @@
     "age": 22,
     "team": "워리어스",
     "power": 0,
+    "abil": {
+     "pit": 4,
+     "inn": 2,
+     "prs": 1
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100834,6 +102055,17 @@
     "age": 24,
     "team": "라이언즈",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.7
    },
@@ -100844,6 +102076,17 @@
     "age": 22,
     "team": "트레일 블레이저스",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "1B",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100854,6 +102097,11 @@
     "age": 24,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "pit": 3,
+     "inn": 3,
+     "prs": 2
+    },
     "prospect": true,
     "value": 8.6
    },
@@ -100864,6 +102112,17 @@
     "age": 24,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100874,6 +102133,17 @@
     "age": 19,
     "team": "버커니어스",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 10.4
    },
@@ -100884,6 +102154,11 @@
     "age": 21,
     "team": "재즈",
     "power": 0,
+    "abil": {
+     "pit": 4,
+     "inn": 3,
+     "prs": 2
+    },
     "prospect": true,
     "value": 2.7
    },
@@ -100894,6 +102169,11 @@
     "age": 22,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "pit": 3,
+     "inn": 2,
+     "prs": 1
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100904,6 +102184,17 @@
     "age": 19,
     "team": "에스트로너츠",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "C",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 6.1
    },
@@ -100914,6 +102205,17 @@
     "age": 23,
     "team": "에스트로너츠",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.4
    },
@@ -100924,6 +102226,11 @@
     "age": 22,
     "team": "이글즈",
     "power": 0,
+    "abil": {
+     "pit": 1,
+     "inn": 2,
+     "prs": 1
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100934,6 +102241,17 @@
     "age": 23,
     "team": "마린즈",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100944,6 +102262,11 @@
     "age": 21,
     "team": "워리어스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 3,
+     "prs": 3
+    },
     "prospect": true,
     "value": 4.8
    },
@@ -100954,6 +102277,11 @@
     "age": 22,
     "team": "데빌스",
     "power": 0,
+    "abil": {
+     "pit": 2,
+     "inn": 2,
+     "prs": 1
+    },
     "prospect": true,
     "value": 1.8
    },
@@ -100964,6 +102292,17 @@
     "age": 23,
     "team": "프린스",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.8
    },
@@ -100974,6 +102313,17 @@
     "age": 23,
     "team": "스틸러스",
     "power": 0,
+    "abil": {
+     "con": 4,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 2,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.5
    },
@@ -100984,6 +102334,17 @@
     "age": 20,
     "team": "다이너마이트",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "SS",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.2
    },
@@ -100994,6 +102355,17 @@
     "age": 19,
     "team": "트레일 블레이저스",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 1,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1.6
    },
@@ -101004,6 +102376,17 @@
     "age": 23,
     "team": "재즈",
     "power": 0,
+    "abil": {
+     "con": 2,
+     "pow": 2,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 11.6
    },
@@ -101014,6 +102397,11 @@
     "age": 21,
     "team": "재즈",
     "power": 0,
+    "abil": {
+     "pit": 1,
+     "inn": 2,
+     "prs": 3
+    },
     "prospect": true,
     "value": 2.7
    },
@@ -101024,6 +102412,17 @@
     "age": 23,
     "team": "트레일 블레이저스",
     "power": 0,
+    "abil": {
+     "con": 1,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "서브"
+      }
+     ]
+    },
     "prospect": true,
     "value": 5
    },
@@ -101034,6 +102433,17 @@
     "age": 23,
     "team": "재즈",
     "power": 0,
+    "abil": {
+     "con": 5,
+     "pow": 1,
+     "positions": [
+      {
+       "pos": "OF",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 2.8
    },
@@ -101054,6 +102464,17 @@
     "age": 20,
     "team": "챌린저스",
     "power": 0,
+    "abil": {
+     "con": 3,
+     "pow": 3,
+     "positions": [
+      {
+       "pos": "2B",
+       "def": 3,
+       "tier": "레귤러"
+      }
+     ]
+    },
     "prospect": true,
     "value": 1
    },
@@ -104372,98 +105793,98 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 842,
-     "prospects": 12
+     "score": 1074,
+     "prospects": 14
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 660,
-     "prospects": 11
+     "score": 859,
+     "prospects": 12
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 587,
-     "prospects": 9
+     "score": 754,
+     "prospects": 10
     },
     {
      "rank": 4,
-     "team": "챌린저스",
-     "score": 526,
-     "prospects": 9
+     "team": "트레일 블레이저스",
+     "score": 736,
+     "prospects": 13
     },
     {
      "rank": 5,
-     "team": "에스트로너츠",
-     "score": 524,
-     "prospects": 7
+     "team": "챌린저스",
+     "score": 705,
+     "prospects": 11
     },
     {
      "rank": 6,
-     "team": "트레일 블레이저스",
-     "score": 523,
-     "prospects": 10
+     "team": "에스트로너츠",
+     "score": 661,
+     "prospects": 8
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 471,
-     "prospects": 9
+     "score": 635,
+     "prospects": 10
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 394,
-     "prospects": 6
+     "score": 505,
+     "prospects": 7
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 375,
+     "score": 501,
      "prospects": 7
     },
     {
      "rank": 10,
      "team": "버커니어스",
-     "score": 330,
+     "score": 474,
      "prospects": 8
     },
     {
      "rank": 11,
      "team": "스틸러스",
-     "score": 314,
-     "prospects": 7
+     "score": 458,
+     "prospects": 8
     },
     {
      "rank": 12,
      "team": "타이거즈",
-     "score": 290,
-     "prospects": 7
+     "score": 425,
+     "prospects": 8
     },
     {
      "rank": 13,
      "team": "데빌스",
-     "score": 258,
-     "prospects": 4
+     "score": 347,
+     "prospects": 5
     },
     {
      "rank": 14,
      "team": "라이언즈",
-     "score": 189,
-     "prospects": 4
+     "score": 277,
+     "prospects": 5
     },
     {
      "rank": 15,
      "team": "다이노스",
-     "score": 186,
-     "prospects": 3
+     "score": 255,
+     "prospects": 4
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 86,
-     "prospects": 1
+     "score": 112,
+     "prospects": 2
     }
    ],
    "pipeline": [
@@ -105834,6 +107255,222 @@
      "score": 37.5,
      "ceiling": "레귤러",
      "risk": "모험"
+    },
+    {
+     "rank": 115,
+     "name": "델가도",
+     "team": "스틸러스",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 116,
+     "name": "안드레예프",
+     "team": "데빌스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 20,
+     "eta": 2,
+     "score": 30.5,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "rank": 117,
+     "name": "홀",
+     "team": "라이언즈",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 28.5,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "rank": 118,
+     "name": "콜먼",
+     "team": "다이노스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 37.1,
+     "ceiling": "레귤러",
+     "risk": "모험"
+    },
+    {
+     "rank": 119,
+     "name": "로마넨코",
+     "team": "트레일 블레이저스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 27.5,
+     "ceiling": "서브",
+     "risk": "보통"
+    },
+    {
+     "rank": 120,
+     "name": "노이만",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 22,
+     "eta": 2,
+     "score": 36.9,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 121,
+     "name": "아마두",
+     "team": "다이너마이트",
+     "pos": "C",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 28.9,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "rank": 122,
+     "name": "브록턴",
+     "team": "에스트로너츠",
+     "pos": "SP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 28.5,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "rank": 123,
+     "name": "사비노",
+     "team": "챌린저스",
+     "pos": "RP",
+     "tier": "D리그",
+     "age": 20,
+     "eta": 3,
+     "score": 38.5,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 124,
+     "name": "하워드",
+     "team": "타이거즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 125,
+     "name": "두란",
+     "team": "프린스",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 22,
+     "eta": 2,
+     "score": 26.9,
+     "ceiling": "서브",
+     "risk": "안전"
+    },
+    {
+     "rank": 126,
+     "name": "한센",
+     "team": "챌린저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 27.5,
+     "ceiling": "서브",
+     "risk": "보통"
+    },
+    {
+     "rank": 127,
+     "name": "설리번",
+     "team": "트레일 블레이저스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.7,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 128,
+     "name": "쿠퍼",
+     "team": "세이버스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 21,
+     "eta": 2,
+     "score": 37.7,
+     "ceiling": "레귤러",
+     "risk": "안전"
+    },
+    {
+     "rank": 129,
+     "name": "콜린스",
+     "team": "다이너마이트",
+     "pos": "RP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 130,
+     "name": "화이트",
+     "team": "마린즈",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 37.5,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 131,
+     "name": "브레넌",
+     "team": "이글즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 39.1,
+     "ceiling": "레귤러",
+     "risk": "보통"
+    },
+    {
+     "rank": 132,
+     "name": "그레인저",
+     "team": "재즈",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 28.3,
+     "ceiling": "서브",
+     "risk": "보통"
     }
    ],
    "draftees": [],
