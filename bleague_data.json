@@ -37875,7 +37875,7 @@
   "p560": {
    "id": "p560",
    "name": "델가도",
-   "team": "드래프티",
+   "team": "스틸러스",
    "pos": "2B",
    "tier": "C리그",
    "age": 21,
@@ -37924,6 +37924,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "스틸러스"
     }
    ],
    "titles": [],
@@ -37932,8 +37936,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "보통",
    "growthCap": 0.434,
@@ -38122,7 +38126,7 @@
   "p564": {
    "id": "p564",
    "name": "로마넨코",
-   "team": "드래프티",
+   "team": "트레일 블레이저스",
    "pos": "OF",
    "tier": "C리그",
    "age": 23,
@@ -38161,6 +38165,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "트레일 블레이저스"
     }
    ],
    "titles": [],
@@ -38169,8 +38177,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 4,
    "ceiling": "서브",
    "risk": "보통",
    "growthCap": 0.249,
@@ -38408,7 +38416,7 @@
   "p569": {
    "id": "p569",
    "name": "브록턴",
-   "team": "드래프티",
+   "team": "에스트로너츠",
    "pos": "SP",
    "tier": "D리그",
    "age": 20,
@@ -38439,6 +38447,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "에스트로너츠"
     }
    ],
    "titles": [],
@@ -38447,8 +38459,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "서브",
    "risk": "안전",
    "growthCap": 0.221,
@@ -39047,7 +39059,7 @@
   "p580": {
    "id": "p580",
    "name": "두란",
-   "team": "드래프티",
+   "team": "프린스",
    "pos": "2B",
    "tier": "D리그",
    "age": 22,
@@ -39086,6 +39098,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "프린스"
     }
    ],
    "titles": [],
@@ -39094,8 +39110,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "서브",
    "risk": "안전",
    "growthCap": 0.265,
@@ -40104,7 +40120,7 @@
   "p598": {
    "id": "p598",
    "name": "화이트",
-   "team": "드래프티",
+   "team": "마린즈",
    "pos": "OF",
    "tier": "C리그",
    "age": 23,
@@ -40151,6 +40167,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "마린즈"
     }
    ],
    "titles": [],
@@ -40159,8 +40179,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "보통",
    "growthCap": 0.444,
@@ -40524,7 +40544,7 @@
  },
  "budgets": {
   "프린스": 290,
-  "라이언즈": 205,
+  "라이언즈": 230,
   "타이거즈": 245,
   "다이노스": 135,
   "마린즈": 250,
@@ -88495,7 +88515,12 @@
     "이글즈_3": "p599",
     "워리어스_3": "p588",
     "타이거즈_3": "p576",
-    "라이언즈_3": "p562"
+    "라이언즈_3": "p562",
+    "스틸러스_3": "p560",
+    "에스트로너츠_3": "p569",
+    "프린스_3": "p580",
+    "마린즈_3": "p598",
+    "트레일 블레이저스_4": "p564"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88530,7 +88555,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 44,
+    "cursor": 49,
     "history": [
      {
       "key": "트레일 블레이저스_2",
@@ -88671,6 +88696,31 @@
       "key": "라이언즈_3",
       "pid": "p562",
       "cursor": 43
+     },
+     {
+      "key": "스틸러스_3",
+      "pid": "p560",
+      "cursor": 44
+     },
+     {
+      "key": "에스트로너츠_3",
+      "pid": "p569",
+      "cursor": 45
+     },
+     {
+      "key": "프린스_3",
+      "pid": "p580",
+      "cursor": 46
+     },
+     {
+      "key": "마린즈_3",
+      "pid": "p598",
+      "cursor": 47
+     },
+     {
+      "key": "트레일 블레이저스_4",
+      "pid": "p564",
+      "cursor": 48
      }
     ]
    }
@@ -89131,8 +89181,8 @@
    "base": 140,
    "invest": 0,
    "game": 25,
-   "merch": 20,
-   "po": 0,
+   "merch": 15,
+   "po": 30,
    "fin": 0,
    "champ": 0,
    "tv": 20
@@ -90587,13 +90637,7 @@
    "note": ""
   }
  },
- "bigboard": [
-  "p560",
-  "p598",
-  "p569",
-  "p580",
-  "p564"
- ],
+ "bigboard": [],
  "market": {
   "base": {
    "컨텐더": 29,
@@ -90720,7 +90764,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787910225910
+   "ts": 1787910429446
   },
   "teams": {
    "프린스": {
@@ -90902,7 +90946,7 @@
      "cont": 1,
      "core": 7,
      "avgAge": 29.9,
-     "payRatio": 0.8682926829268293,
+     "payRatio": 0.7739130434782608,
      "farm": 4,
      "farmTop": 0,
      "recent": 5,
@@ -90910,7 +90954,7 @@
     },
     "appeal": 1.33,
     "market": "빅마켓",
-    "free": 27,
+    "free": 52,
     "power": 49.5,
     "window": {
      "open": 21,
@@ -101101,7 +101145,7 @@
     "pos": "2B",
     "tier": "C리그",
     "age": 21,
-    "team": "드래프티",
+    "team": "스틸러스",
     "power": 0,
     "abil": {
      "con": 1,
@@ -101123,7 +101167,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1.5
    },
    "p561": {
     "name": "안드레예프",
@@ -101192,7 +101238,7 @@
     "pos": "OF",
     "tier": "C리그",
     "age": 23,
-    "team": "드래프티",
+    "team": "트레일 블레이저스",
     "power": 0,
     "abil": {
      "con": 3,
@@ -101204,7 +101250,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 0.2
    },
    "p565": {
     "name": "노이만",
@@ -101288,13 +101336,15 @@
     "pos": "SP",
     "tier": "D리그",
     "age": 20,
-    "team": "드래프티",
+    "team": "에스트로너츠",
     "power": 0,
     "abil": {
      "pit": 4,
      "inn": 2,
      "prs": 1
-    }
+    },
+    "prospect": true,
+    "value": 0.2
    },
    "p570": {
     "name": "사비노",
@@ -101506,7 +101556,7 @@
     "pos": "2B",
     "tier": "D리그",
     "age": 22,
-    "team": "드래프티",
+    "team": "프린스",
     "power": 0,
     "abil": {
      "con": 4,
@@ -101518,7 +101568,9 @@
        "tier": "레귤러"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 0.2
    },
    "p581": {
     "name": "루이스",
@@ -101864,7 +101916,7 @@
     "pos": "OF",
     "tier": "C리그",
     "age": 23,
-    "team": "드래프티",
+    "team": "마린즈",
     "power": 0,
     "abil": {
      "con": 2,
@@ -101886,7 +101938,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1.5
    },
    "p599": {
     "name": "브레넌",
@@ -105782,48 +105836,7 @@
      "risk": "모험"
     }
    ],
-   "draftees": [
-    {
-     "name": "델가도",
-     "pos": "2B",
-     "tier": "C리그",
-     "age": 21,
-     "ceiling": "레귤러",
-     "risk": "보통"
-    },
-    {
-     "name": "로마넨코",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 23,
-     "ceiling": "서브",
-     "risk": "보통"
-    },
-    {
-     "name": "브록턴",
-     "pos": "SP",
-     "tier": "D리그",
-     "age": 20,
-     "ceiling": "서브",
-     "risk": "안전"
-    },
-    {
-     "name": "두란",
-     "pos": "2B",
-     "tier": "D리그",
-     "age": 22,
-     "ceiling": "서브",
-     "risk": "안전"
-    },
-    {
-     "name": "화이트",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 23,
-     "ceiling": "레귤러",
-     "risk": "보통"
-    }
-   ],
+   "draftees": [],
    "draftOrder": {
     "22": [
      "세이버스",
