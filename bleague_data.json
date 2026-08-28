@@ -38293,7 +38293,7 @@
   "p567": {
    "id": "p567",
    "name": "아마두",
-   "team": "드래프티",
+   "team": "다이너마이트",
    "pos": "C",
    "tier": "C리그",
    "age": 22,
@@ -38330,6 +38330,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "다이너마이트"
     }
    ],
    "titles": [],
@@ -38338,8 +38342,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "서브",
    "risk": "안전",
    "growthCap": 0.286,
@@ -38449,7 +38453,7 @@
   "p570": {
    "id": "p570",
    "name": "사비노",
-   "team": "드래프티",
+   "team": "챌린저스",
    "pos": "RP",
    "tier": "D리그",
    "age": 20,
@@ -38484,6 +38488,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "챌린저스"
     }
    ],
    "titles": [],
@@ -38492,8 +38500,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "안전",
    "growthCap": 0.415,
@@ -40149,7 +40157,7 @@
   "p599": {
    "id": "p599",
    "name": "브레넌",
-   "team": "드래프티",
+   "team": "이글즈",
    "pos": "SP",
    "tier": "C리그",
    "age": 21,
@@ -40184,6 +40192,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "이글즈"
     }
    ],
    "titles": [],
@@ -40192,8 +40204,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "보통",
    "growthCap": 0.449,
@@ -88465,7 +88477,10 @@
     "세이버스_3": "p590",
     "재즈_3": "p601",
     "다이노스_3": "p563",
-    "데빌스_3": "p561"
+    "데빌스_3": "p561",
+    "챌린저스_3": "p570",
+    "다이너마이트_3": "p567",
+    "이글즈_3": "p599"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88500,7 +88515,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 38,
+    "cursor": 41,
     "history": [
      {
       "key": "트레일 블레이저스_2",
@@ -88611,6 +88626,21 @@
       "key": "데빌스_3",
       "pid": "p561",
       "cursor": 37
+     },
+     {
+      "key": "챌린저스_3",
+      "pid": "p570",
+      "cursor": 38
+     },
+     {
+      "key": "다이너마이트_3",
+      "pid": "p567",
+      "cursor": 39
+     },
+     {
+      "key": "이글즈_3",
+      "pid": "p599",
+      "cursor": 40
      }
     ]
    }
@@ -90528,12 +90558,9 @@
   }
  },
  "bigboard": [
-  "p570",
   "p560",
   "p576",
   "p598",
-  "p599",
-  "p567",
   "p562",
   "p569",
   "p580",
@@ -90666,7 +90693,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787910096361
+   "ts": 1787910164311
   },
   "teams": {
    "프린스": {
@@ -101196,7 +101223,7 @@
     "pos": "C",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
+    "team": "다이너마이트",
     "power": 0,
     "abil": {
      "con": 3,
@@ -101208,7 +101235,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 0.3
    },
    "p568": {
     "name": "오콘쿼",
@@ -101243,13 +101272,15 @@
     "pos": "RP",
     "tier": "D리그",
     "age": 20,
-    "team": "드래프티",
+    "team": "챌린저스",
     "power": 0,
     "abil": {
      "pit": 2,
      "inn": 5,
      "prs": 1
-    }
+    },
+    "prospect": true,
+    "value": 1.6
    },
    "p571": {
     "name": "베버",
@@ -101829,13 +101860,15 @@
     "pos": "SP",
     "tier": "C리그",
     "age": 21,
-    "team": "드래프티",
+    "team": "이글즈",
     "power": 0,
     "abil": {
      "pit": 2,
      "inn": 3,
      "prs": 1
-    }
+    },
+    "prospect": true,
+    "value": 1.5
    },
    "p600": {
     "name": "모랄레스",
@@ -105742,27 +105775,11 @@
      "risk": "보통"
     },
     {
-     "name": "아마두",
-     "pos": "C",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "서브",
-     "risk": "안전"
-    },
-    {
      "name": "브록턴",
      "pos": "SP",
      "tier": "D리그",
      "age": 20,
      "ceiling": "서브",
-     "risk": "안전"
-    },
-    {
-     "name": "사비노",
-     "pos": "RP",
-     "tier": "D리그",
-     "age": 20,
-     "ceiling": "레귤러",
      "risk": "안전"
     },
     {
@@ -105794,14 +105811,6 @@
      "pos": "OF",
      "tier": "C리그",
      "age": 23,
-     "ceiling": "레귤러",
-     "risk": "보통"
-    },
-    {
-     "name": "브레넌",
-     "pos": "SP",
-     "tier": "C리그",
-     "age": 21,
      "ceiling": "레귤러",
      "risk": "보통"
     }
