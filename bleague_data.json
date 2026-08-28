@@ -33036,7 +33036,7 @@
    "pos": "SP",
    "tier": "코어",
    "age": 22,
-   "number": "",
+   "number": "19",
    "debutSeason": 21,
    "debutHalf": "전반기",
    "trait": "",
@@ -33226,7 +33226,7 @@
    "pos": "1B",
    "tier": "레귤러",
    "age": 21,
-   "number": "",
+   "number": "24",
    "debutSeason": 21,
    "debutHalf": "전반기",
    "trait": "",
@@ -37993,7 +37993,7 @@
    "pos": "OF",
    "tier": "레귤러",
    "age": 23,
-   "number": "",
+   "number": "35",
    "ptype": "출루형",
    "strengths": [
     "선구안"
@@ -91660,7 +91660,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787923128863
+   "ts": 1787923291082
   },
   "teams": {
    "프린스": {
