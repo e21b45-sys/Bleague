@@ -38862,7 +38862,7 @@
   "p578": {
    "id": "p578",
    "name": "브리그스",
-   "team": "드래프티",
+   "team": "버커니어스",
    "pos": "SS",
    "tier": "C리그",
    "age": 22,
@@ -38902,6 +38902,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "버커니어스"
     }
    ],
    "titles": [],
@@ -38910,8 +38914,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "코어",
    "risk": "모험",
    "growthCap": 0.552,
@@ -88159,7 +88163,8 @@
     "라이언즈_1": "p586",
     "스틸러스_1": "p597",
     "에스트로너츠_1": "p571",
-    "프린스_1": "p592"
+    "프린스_1": "p592",
+    "마린즈_1": "p578"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88193,48 +88198,13 @@
     }
    },
    "live": {
-    "active": true,
-    "cursor": 15,
+    "active": false,
+    "cursor": 16,
     "history": [
      {
-      "key": "다이너마이트_1",
-      "pid": "p557",
-      "cursor": 7
-     },
-     {
-      "key": "이글즈_1",
-      "pid": "p600",
-      "cursor": 8
-     },
-     {
-      "key": "워리어스_1",
-      "pid": "p587",
-      "cursor": 9
-     },
-     {
-      "key": "타이거즈_1",
-      "pid": "p582",
-      "cursor": 10
-     },
-     {
-      "key": "라이언즈_1",
-      "pid": "p586",
-      "cursor": 11
-     },
-     {
-      "key": "스틸러스_1",
-      "pid": "p597",
-      "cursor": 12
-     },
-     {
-      "key": "에스트로너츠_1",
-      "pid": "p571",
-      "cursor": 13
-     },
-     {
-      "key": "프린스_1",
-      "pid": "p592",
-      "cursor": 14
+      "key": "마린즈_1",
+      "pid": "p578",
+      "cursor": 15
      }
     ]
    }
@@ -88567,7 +88537,8 @@
   "p582",
   "p586",
   "p597",
-  "p571"
+  "p571",
+  "p592"
  ],
  "salaryRules": {
   "floor": 60,
@@ -90149,7 +90120,6 @@
   "p599",
   "p602",
   "p573",
-  "p578",
   "p584",
   "p596",
   "p561",
@@ -90291,7 +90261,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787887794868
+   "ts": 1787892276025
   },
   "teams": {
    "프린스": {
@@ -93543,7 +93513,7 @@
      "core": 4,
      "avgAge": 27.3,
      "payRatio": 0.5714285714285714,
-     "farm": 5,
+     "farm": 6,
      "farmTop": 1,
      "recent": 15,
      "avgRk": 14.3
@@ -100994,7 +100964,7 @@
     "pos": "SS",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
+    "team": "버커니어스",
     "power": 0,
     "abil": {
      "con": 3,
@@ -101011,7 +100981,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1.8
    },
    "p579": {
     "name": "실바",
@@ -103831,97 +103803,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 644,
+     "score": 655,
      "prospects": 11
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 492,
+     "score": 501,
      "prospects": 9
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 437,
+     "score": 445,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 405,
+     "score": 412,
      "prospects": 7
     },
     {
      "rank": 5,
      "team": "챌린저스",
-     "score": 384,
+     "score": 392,
      "prospects": 8
     },
     {
      "rank": 6,
      "team": "트레일 블레이저스",
-     "score": 379,
+     "score": 386,
      "prospects": 7
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 332,
+     "score": 340,
      "prospects": 8
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 292,
+     "score": 298,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 260,
+     "score": 266,
      "prospects": 6
     },
     {
      "rank": 10,
      "team": "스틸러스",
-     "score": 210,
+     "score": 216,
      "prospects": 6
     },
     {
      "rank": 11,
      "team": "버커니어스",
-     "score": 205,
-     "prospects": 5
+     "score": 211,
+     "prospects": 6
     },
     {
      "rank": 12,
-     "team": "데빌스",
-     "score": 190,
-     "prospects": 4
+     "team": "타이거즈",
+     "score": 194,
+     "prospects": 5
     },
     {
      "rank": 13,
-     "team": "타이거즈",
-     "score": 189,
-     "prospects": 5
+     "team": "데빌스",
+     "score": 194,
+     "prospects": 4
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 144,
+     "score": 146,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 121,
+     "score": 125,
      "prospects": 4
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 69,
+     "score": 70,
      "prospects": 1
     }
    ],
@@ -105089,6 +105061,18 @@
      "score": 47.1,
      "ceiling": "코어",
      "risk": "보통"
+    },
+    {
+     "rank": 98,
+     "name": "트로피모프",
+     "team": "버커니어스",
+     "pos": "OF",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 37.5,
+     "ceiling": "레귤러",
+     "risk": "보통"
     }
    ],
    "draftees": [
@@ -105219,14 +105203,6 @@
      "age": 21,
      "ceiling": "코어",
      "risk": "안전"
-    },
-    {
-     "name": "브리그스",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "코어",
-     "risk": "모험"
     },
     {
      "name": "실바",
