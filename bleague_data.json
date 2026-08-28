@@ -14435,7 +14435,7 @@
    "name": "맥커니",
    "team": "데빌스",
    "pos": "3B",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 36,
    "number": "9",
    "debutSeason": 7,
@@ -14559,7 +14559,7 @@
     "positions": [
      {
       "pos": "3B",
-      "def": 2
+      "def": 1
      }
     ]
    }
@@ -15805,7 +15805,7 @@
     "positions": [
      {
       "pos": "SS",
-      "def": 5
+      "def": 4
      }
     ]
    }
@@ -16429,7 +16429,7 @@
    "name": "보라스",
    "team": "챌린저스",
    "pos": "SP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 35,
    "number": "30",
    "debutSeason": 9,
@@ -16531,7 +16531,7 @@
    "form": "bad",
    "abil": {
     "pit": 5,
-    "inn": 4,
+    "inn": 3,
     "prs": 3
    }
   },
@@ -23859,7 +23859,7 @@
    "injuries": [],
    "form": "",
    "abil": {
-    "pit": 5,
+    "pit": 4,
     "inn": 2,
     "prs": 3
    }
@@ -91462,7 +91462,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787917007022
+   "ts": 1787917104732
   },
   "teams": {
    "프린스": {
@@ -93180,7 +93180,7 @@
     "appeal": 1.2,
     "market": "빅마켓",
     "free": 6,
-    "power": 40.8,
+    "power": 36.3,
     "window": {
      "open": 21,
      "left": 2,
@@ -93815,7 +93815,7 @@
     "stanceLabel": "관망",
     "stanceWhy": {
      "cont": 0,
-     "core": 7,
+     "core": 6,
      "avgAge": 25.7,
      "payRatio": 0.4666666666666667,
      "farm": 11,
@@ -93826,7 +93826,7 @@
     "appeal": 0.93,
     "market": "중형",
     "free": 72,
-    "power": 35.5,
+    "power": 34.5,
     "window": {
      "open": 21,
      "left": 2,
@@ -96008,26 +96008,26 @@
    "p103": {
     "name": "맥커니",
     "pos": "3B",
-    "tier": "엘리트",
+    "tier": "코어",
     "age": 36,
     "team": "데빌스",
-    "power": 7,
+    "power": 2.5,
     "abil": {
      "con": 6,
      "pow": 5,
      "positions": [
       {
        "pos": "3B",
-       "def": 2,
-       "tier": "엘리트"
+       "def": 1,
+       "tier": "코어"
       }
      ]
     },
     "asset": {
-     "value": 4.7,
-     "grade": "C",
+     "value": 1.3,
+     "grade": "D",
      "left": 2,
-     "effM": 0.76
+     "effM": 0.59
     }
    },
    "p104": {
@@ -96258,7 +96258,7 @@
      "positions": [
       {
        "pos": "SS",
-       "def": 5,
+       "def": 4,
        "tier": "엘리트"
       }
      ]
@@ -96417,20 +96417,20 @@
    "p119": {
     "name": "보라스",
     "pos": "SP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 35,
     "team": "챌린저스",
-    "power": 2.9,
+    "power": 1.8,
     "abil": {
      "pit": 5,
-     "inn": 4,
+     "inn": 3,
      "prs": 3
     },
     "asset": {
-     "value": 1.6,
+     "value": 0.8,
      "grade": "D",
      "left": 2,
-     "effM": 0.64
+     "effM": 0.5
     }
    },
    "p120": {
@@ -97962,7 +97962,7 @@
     "team": "다이너마이트",
     "power": 0.8,
     "abil": {
-     "pit": 5,
+     "pit": 4,
      "inn": 2,
      "prs": 3
     },
