@@ -2451,13 +2451,13 @@
     "round": 1,
     "entry": "최초 입성",
     "note": "플레티넘 볼 1회 수상 경력과 그에 상응하는 누적 기록 및 영향력을 인정해 3성 입성",
-    "serial": "",
-    "plaqueTeam": "라이언즈",
+    "serial": "8",
+    "plaqueTeam": "프린스",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "champ",
+     "award:플레티넘볼",
+     "award:실버슬러거",
+     "award:타이틀홀더"
     ]
    },
    "injuries": [],
@@ -4147,11 +4147,11 @@
     "round": 3,
     "entry": "2차 입성",
     "note": "누적 기록 및 영향력이 뛰어나나 플레티넘 볼에 상응하는 영향력 혹은 단기 영향력 부족으로 1성 입성",
-    "serial": "",
+    "serial": "7",
     "plaqueTeam": "에스트로너츠",
     "statSlots": [
-     "",
-     "",
+     "champ",
+     "award:골드글러브",
      "",
      ""
     ]
@@ -7218,13 +7218,13 @@
     "round": 1,
     "entry": "최초 입성",
     "note": "플레티넘 볼 1회 수상 경력과 그에 상응하는 누적 기록 및 영향력을 인정해 3성 입성",
-    "serial": "",
+    "serial": "6",
     "plaqueTeam": "에스트로너츠",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "champ",
+     "award:플레티넘볼",
+     "award:실버슬러거",
+     "award:타이틀홀더"
     ]
    },
    "injuries": [
@@ -91646,7 +91646,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787922578440
+   "ts": 1787922667772
   },
   "teams": {
    "프린스": {
