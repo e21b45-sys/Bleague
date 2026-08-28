@@ -37942,7 +37942,7 @@
   "p561": {
    "id": "p561",
    "name": "안드레예프",
-   "team": "드래프티",
+   "team": "데빌스",
    "pos": "SS",
    "tier": "C리그",
    "age": 20,
@@ -37988,6 +37988,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "데빌스"
     }
    ],
    "titles": [],
@@ -37996,8 +38000,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "서브",
    "risk": "안전",
    "growthCap": 0.334,
@@ -38061,7 +38065,7 @@
   "p563": {
    "id": "p563",
    "name": "콜먼",
-   "team": "드래프티",
+   "team": "다이노스",
    "pos": "SP",
    "tier": "D리그",
    "age": 20,
@@ -38092,6 +38096,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "다이노스"
     }
    ],
    "titles": [],
@@ -38100,8 +38108,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "모험",
    "growthCap": 0.38,
@@ -39594,7 +39602,7 @@
   "p590": {
    "id": "p590",
    "name": "쿠퍼",
-   "team": "드래프티",
+   "team": "세이버스",
    "pos": "OF",
    "tier": "D리그",
    "age": 21,
@@ -39630,6 +39638,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "세이버스"
     }
    ],
    "titles": [],
@@ -39638,8 +39650,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "안전",
    "growthCap": 0.507,
@@ -40250,7 +40262,7 @@
   "p601": {
    "id": "p601",
    "name": "그레인저",
-   "team": "드래프티",
+   "team": "재즈",
    "pos": "2B",
    "tier": "C리그",
    "age": 22,
@@ -40297,6 +40309,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "재즈"
     }
    ],
    "titles": [],
@@ -40305,8 +40321,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "서브",
    "risk": "보통",
    "growthCap": 0.246,
@@ -88445,7 +88461,11 @@
     "프린스_2": "p594",
     "마린즈_2": "p565",
     "트레일 블레이저스_3": "p589",
-    "버커니어스_3": "p593"
+    "버커니어스_3": "p593",
+    "세이버스_3": "p590",
+    "재즈_3": "p601",
+    "다이노스_3": "p563",
+    "데빌스_3": "p561"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88480,7 +88500,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 34,
+    "cursor": 38,
     "history": [
      {
       "key": "트레일 블레이저스_2",
@@ -88571,6 +88591,26 @@
       "key": "버커니어스_3",
       "pid": "p593",
       "cursor": 33
+     },
+     {
+      "key": "세이버스_3",
+      "pid": "p590",
+      "cursor": 34
+     },
+     {
+      "key": "재즈_3",
+      "pid": "p601",
+      "cursor": 35
+     },
+     {
+      "key": "다이노스_3",
+      "pid": "p563",
+      "cursor": 36
+     },
+     {
+      "key": "데빌스_3",
+      "pid": "p561",
+      "cursor": 37
      }
     ]
    }
@@ -90489,20 +90529,16 @@
  },
  "bigboard": [
   "p570",
-  "p590",
   "p560",
   "p576",
   "p598",
   "p599",
-  "p561",
   "p567",
   "p562",
   "p569",
   "p580",
-  "p563",
   "p564",
-  "p588",
-  "p601"
+  "p588"
  ],
  "market": {
   "base": {
@@ -90630,7 +90666,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787910026025
+   "ts": 1787910096361
   },
   "teams": {
    "프린스": {
@@ -101040,7 +101076,7 @@
     "pos": "SS",
     "tier": "C리그",
     "age": 20,
-    "team": "드래프티",
+    "team": "데빌스",
     "power": 0,
     "abil": {
      "con": 2,
@@ -101057,7 +101093,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 0.2
    },
    "p562": {
     "name": "홀",
@@ -101083,13 +101121,15 @@
     "pos": "SP",
     "tier": "D리그",
     "age": 20,
-    "team": "드래프티",
+    "team": "다이노스",
     "power": 0,
     "abil": {
      "pit": 3,
      "inn": 5,
      "prs": 1
-    }
+    },
+    "prospect": true,
+    "value": 1
    },
    "p564": {
     "name": "로마넨코",
@@ -101595,7 +101635,7 @@
     "pos": "OF",
     "tier": "D리그",
     "age": 21,
-    "team": "드래프티",
+    "team": "세이버스",
     "power": 0,
     "abil": {
      "con": 4,
@@ -101607,7 +101647,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1.7
    },
    "p591": {
     "name": "콘티",
@@ -101821,7 +101863,7 @@
     "pos": "2B",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
+    "team": "재즈",
     "power": 0,
     "abil": {
      "con": 4,
@@ -101843,7 +101885,9 @@
        "tier": "레귤러"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 0.2
    },
    "p602": {
     "name": "그랜트햄",
@@ -105682,28 +105726,12 @@
      "risk": "보통"
     },
     {
-     "name": "안드레예프",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 20,
-     "ceiling": "서브",
-     "risk": "안전"
-    },
-    {
      "name": "홀",
      "pos": "SS",
      "tier": "D리그",
      "age": 20,
      "ceiling": "서브",
      "risk": "안전"
-    },
-    {
-     "name": "콜먼",
-     "pos": "SP",
-     "tier": "D리그",
-     "age": 20,
-     "ceiling": "레귤러",
-     "risk": "모험"
     },
     {
      "name": "로마넨코",
@@ -105762,14 +105790,6 @@
      "risk": "보통"
     },
     {
-     "name": "쿠퍼",
-     "pos": "OF",
-     "tier": "D리그",
-     "age": 21,
-     "ceiling": "레귤러",
-     "risk": "안전"
-    },
-    {
      "name": "화이트",
      "pos": "OF",
      "tier": "C리그",
@@ -105783,14 +105803,6 @@
      "tier": "C리그",
      "age": 21,
      "ceiling": "레귤러",
-     "risk": "보통"
-    },
-    {
-     "name": "그레인저",
-     "pos": "2B",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "서브",
      "risk": "보통"
     }
    ],
