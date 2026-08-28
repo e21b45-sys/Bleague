@@ -645,13 +645,13 @@
     "round": 3,
     "entry": "최초 입성",
     "note": "플레티넘 볼 수상 경력은 없으나, 그에 상응하는 누적기록 및 영향력을 인정하여 2성 입성",
-    "serial": "",
+    "serial": "13",
     "plaqueTeam": "프린스",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "champ",
+     "award:파이널 MVP",
+     "award:실버슬러거",
+     "award:타이틀홀더"
     ]
    },
    "injuries": [
@@ -1558,13 +1558,13 @@
     "round": 5,
     "entry": "최초 입성",
     "note": "MVP 1회 수상 및 그에 따른 누적 및 리그 내 영향력을 인정해 4성으로 입성",
-    "serial": "",
+    "serial": "16",
     "plaqueTeam": "마린즈",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "champ",
+     "award:MVP",
+     "award:플레티넘볼",
+     "award:골드글러브"
     ]
    },
    "injuries": [
@@ -2930,13 +2930,13 @@
     "round": 3,
     "entry": "최초 입성",
     "note": "MVP 1회 수상 및 그에 따른 누적 및 리그 내 영향력을 인정해 4성으로 입성",
-    "serial": "",
+    "serial": "14",
     "plaqueTeam": "데빌스",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "award:MVP",
+     "award:플레티넘볼",
+     "award:골드글러브",
+     "award:타이틀홀더"
     ]
    },
    "injuries": [
@@ -3110,13 +3110,13 @@
     "round": null,
     "entry": "최초 입성",
     "note": "",
-    "serial": "",
+    "serial": "15",
     "plaqueTeam": "데빌스",
     "statSlots": [
-     "",
-     "",
-     "",
-     ""
+     "champ",
+     "award:플레티넘볼",
+     "award:실버슬러거",
+     "award:타이틀홀더"
     ]
    },
    "injuries": [],
@@ -8940,12 +8940,12 @@
     "round": null,
     "entry": "최초 입성",
     "note": "",
-    "serial": "",
+    "serial": "17",
     "plaqueTeam": "마린즈",
     "statSlots": [
-     "",
-     "",
-     "",
+     "champ",
+     "award:BRP",
+     "award:타이틀홀더",
      ""
     ]
    },
@@ -91646,7 +91646,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787922747398
+   "ts": 1787922848726
   },
   "teams": {
    "프린스": {
