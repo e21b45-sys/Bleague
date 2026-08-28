@@ -39783,7 +39783,7 @@
   "p595": {
    "id": "p595",
    "name": "피셔",
-   "team": "드래프티",
+   "team": "챌린저스",
    "pos": "2B",
    "tier": "C리그",
    "age": 22,
@@ -39827,6 +39827,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "챌린저스"
     }
    ],
    "titles": [],
@@ -39835,8 +39839,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "컨텐더",
    "risk": "모험",
    "growthCap": 0.878,
@@ -88114,7 +88118,8 @@
     "세이버스_1": "p604",
     "재즈_1": "p575",
     "다이노스_1": "p566",
-    "데빌스_1": "p572"
+    "데빌스_1": "p572",
+    "챌린저스_1": "p595"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88148,8 +88153,8 @@
     }
    },
    "live": {
-    "active": true,
-    "cursor": 6,
+    "active": false,
+    "cursor": 7,
     "history": [
      {
       "key": "트레일 블레이저스_1",
@@ -88180,6 +88185,11 @@
       "key": "데빌스_1",
       "pid": "p572",
       "cursor": 5
+     },
+     {
+      "key": "챌린저스_1",
+      "pid": "p595",
+      "cursor": 6
      }
     ]
    }
@@ -88503,7 +88513,8 @@
   "p568",
   "p604",
   "p575",
-  "p566"
+  "p566",
+  "p572"
  ],
  "salaryRules": {
   "floor": 60,
@@ -90051,7 +90062,6 @@
   "p597",
   "p577",
   "p582",
-  "p595",
   "p581",
   "p558",
   "p571",
@@ -90216,7 +90226,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787887141334
+   "ts": 1787887234686
   },
   "teams": {
    "프린스": {
@@ -91926,7 +91936,7 @@
      "core": 8,
      "avgAge": 30.3,
      "payRatio": 0.7875,
-     "farm": 3,
+     "farm": 4,
      "farmTop": 1,
      "recent": 10,
      "avgRk": 6
@@ -101220,7 +101230,7 @@
     "pos": "2B",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
+    "team": "챌린저스",
     "power": 0,
     "abil": {
      "con": 2,
@@ -101237,7 +101247,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 8.6
    },
    "p596": {
     "name": "영",
@@ -103738,97 +103750,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 547,
+     "score": 557,
      "prospects": 10
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 418,
+     "score": 426,
      "prospects": 8
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 365,
+     "score": 373,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 350,
+     "score": 356,
      "prospects": 6
     },
     {
      "rank": 5,
      "team": "트레일 블레이저스",
-     "score": 316,
+     "score": 323,
      "prospects": 7
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 313,
+     "score": 320,
      "prospects": 7
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 263,
+     "score": 270,
      "prospects": 7
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 238,
+     "score": 244,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 210,
+     "score": 215,
      "prospects": 5
     },
     {
      "rank": 10,
      "team": "버커니어스",
-     "score": 165,
+     "score": 169,
      "prospects": 4
     },
     {
      "rank": 11,
      "team": "스틸러스",
-     "score": 156,
+     "score": 162,
      "prospects": 6
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 154,
-     "prospects": 3
+     "score": 158,
+     "prospects": 4
     },
     {
      "rank": 13,
      "team": "타이거즈",
-     "score": 144,
+     "score": 149,
      "prospects": 5
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 126,
+     "score": 128,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 91,
+     "score": 94,
      "prospects": 3
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 60,
+     "score": 61,
      "prospects": 1
     }
    ],
@@ -104888,6 +104900,18 @@
      "score": 59.1,
      "ceiling": "엘리트",
      "risk": "보통"
+    },
+    {
+     "rank": 89,
+     "name": "고메스",
+     "team": "데빌스",
+     "pos": "OF",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 57.9,
+     "ceiling": "엘리트",
+     "risk": "모험"
     }
    ],
    "draftees": [
@@ -105169,14 +105193,6 @@
      "tier": "C리그",
      "age": 22,
      "ceiling": "레귤러",
-     "risk": "모험"
-    },
-    {
-     "name": "피셔",
-     "pos": "2B",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "컨텐더",
      "risk": "모험"
     },
     {
