@@ -13305,7 +13305,7 @@
    "name": "나다니엘",
    "team": "라이언즈",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 35,
    "number": "25",
    "debutSeason": 6,
@@ -13726,7 +13726,7 @@
    "name": "그리핀",
    "team": "다이노스",
    "pos": "OF",
-   "tier": "컨텐더",
+   "tier": "엘리트",
    "age": 35,
    "number": "10",
    "debutSeason": 5,
@@ -13899,7 +13899,7 @@
    "name": "헨리",
    "team": "은퇴",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 37,
    "number": "39",
    "debutSeason": 5,
@@ -14299,7 +14299,7 @@
    "name": "켄트",
    "team": "프린스",
    "pos": "CF",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 35,
    "number": "3",
    "debutSeason": 6,
@@ -18883,7 +18883,7 @@
    "name": "피네이로",
    "team": "FA",
    "pos": "SP",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 35,
    "number": "26",
    "debutSeason": 8,
@@ -23247,7 +23247,7 @@
    "name": "조니",
    "team": "트레일 블레이저스",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 31,
    "number": "25",
    "debutSeason": 12,
@@ -23763,7 +23763,7 @@
    "name": "버크스",
    "team": "다이너마이트",
    "pos": "RP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 35,
    "number": "19",
    "debutSeason": 10,
@@ -40245,57 +40245,39 @@
   },
   "p603": {
    "id": "p603",
-   "name": "스튜어트",
+   "name": "브래들리",
    "team": "드래프티",
-   "pos": "C",
+   "pos": "SP",
    "tier": "D리그",
-   "age": 20,
+   "age": 19,
    "number": "",
-   "ptype": "출루형",
-   "strengths": [
-    "선구안",
-    "수비 범위"
-   ],
-   "weaknesses": [
-    "주루",
-    "갭"
-   ],
-   "traits": [
-    "프로"
-   ],
+   "debutSeason": null,
+   "debutHalf": "전반기",
+   "trait": "",
+   "traits": [],
+   "style": "",
+   "strength": "",
+   "weakness": "",
+   "ptype": "",
+   "strengths": [],
+   "weaknesses": [],
    "role": "",
    "subPositions": [],
    "form": "",
-   "abil": {
-    "con": 6,
-    "pow": 1,
-    "positions": [
-     {
-      "pos": "C",
-      "def": 2
-     }
-    ]
-   },
+   "draftSeason": null,
+   "draftRound": null,
    "contract": null,
    "contractHistory": [],
+   "awards": [],
+   "titles": 0,
    "teamHistory": [
     {
-     "season": 20,
+     "season": 21,
      "team": "드래프티"
     }
    ],
-   "titles": [],
-   "hof": false,
-   "injuries": [],
-   "debutSeason": null,
-   "debutHalf": "전반기",
-   "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
-   "ceiling": "레귤러",
-   "risk": "보통",
-   "growthCap": 0.446,
-   "growthEndAge": 26
+   "hof": null,
+   "injuries": []
   }
  },
  "budgets": {
@@ -86977,7 +86959,8 @@
     }
    },
    "awards": [],
-   "awardsNote": ""
+   "awardsNote": "",
+   "posters": {}
   }
  },
  "hofRounds": 3,
@@ -88287,7 +88270,7 @@
    "nameEn": "BUCURNIUS"
   }
  },
- "_seq": 603,
+ "_seq": 604,
  "prospects": [
   "p457",
   "p438",
@@ -90054,7 +90037,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787803486745
+   "ts": 1787886402661
   },
   "teams": {
    "프린스": {
@@ -90062,7 +90045,7 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 3,
-     "core": 10,
+     "core": 9,
      "avgAge": 30.6,
      "payRatio": 0.7586206896551724,
      "farm": 1,
@@ -90073,10 +90056,10 @@
     "appeal": 1.53,
     "market": "빅마켓",
     "free": 40,
-    "power": 69.1,
+    "power": 68.2,
     "window": {
      "open": 21,
-     "left": 1,
+     "left": 2,
      "note": ""
     },
     "needs": [
@@ -90245,7 +90228,7 @@
     "appeal": 1.33,
     "market": "빅마켓",
     "free": 27,
-    "power": 54.6,
+    "power": 49.5,
     "window": {
      "open": 21,
      "left": 1,
@@ -90688,7 +90671,7 @@
     "appeal": 0.99,
     "market": "중형",
     "free": 28,
-    "power": 41,
+    "power": 36,
     "window": {
      "open": 21,
      "left": 1,
@@ -91541,7 +91524,7 @@
     "stanceLabel": "리빌딩",
     "stanceWhy": {
      "cont": 0,
-     "core": 5,
+     "core": 4,
      "avgAge": 28.3,
      "payRatio": 0.6,
      "farm": 6,
@@ -91552,7 +91535,7 @@
     "appeal": 0.65,
     "market": "스몰마켓",
     "free": 42,
-    "power": 26.8,
+    "power": 25.9,
     "window": {
      "open": 21,
      "left": 2,
@@ -92194,7 +92177,7 @@
     "stanceLabel": "윈나우",
     "stanceWhy": {
      "cont": 1,
-     "core": 6,
+     "core": 5,
      "avgAge": 27.5,
      "payRatio": 0.7103448275862069,
      "farm": 9,
@@ -92205,7 +92188,7 @@
     "appeal": 1.2,
     "market": "중형",
     "free": 42,
-    "power": 55.4,
+    "power": 55,
     "window": {
      "open": 21,
      "left": 2,
@@ -94373,20 +94356,20 @@
    "p95": {
     "name": "나다니엘",
     "pos": "SP",
-    "tier": "엘리트",
+    "tier": "코어",
     "age": 35,
     "team": "라이언즈",
-    "power": 8.1,
+    "power": 2.9,
     "abil": {
      "pit": 5,
      "inn": 5,
      "prs": 3
     },
     "asset": {
-     "value": 12.7,
-     "grade": "S",
+     "value": 3.2,
+     "grade": "C",
      "left": 5,
-     "effM": 1.44
+     "effM": 1.02
     }
    },
    "p96": {
@@ -94462,10 +94445,10 @@
    "p98": {
     "name": "그리핀",
     "pos": "OF",
-    "tier": "컨텐더",
+    "tier": "엘리트",
     "age": 35,
     "team": "다이노스",
-    "power": 12,
+    "power": 7,
     "abil": {
      "con": 6,
      "pow": 5,
@@ -94483,19 +94466,19 @@
      ]
     },
     "asset": {
-     "value": 9.4,
-     "grade": "A",
+     "value": 4.5,
+     "grade": "C",
      "left": 3,
-     "effM": 0.76
+     "effM": 0.62
     }
    },
    "p99": {
     "name": "헨리",
     "pos": "C",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 37,
     "team": "은퇴",
-    "power": 2.5,
+    "power": 1.6,
     "abil": {
      "con": 3,
      "pow": 2,
@@ -94565,10 +94548,10 @@
    "p102": {
     "name": "켄트",
     "pos": "CF",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 35,
     "team": "프린스",
-    "power": 2.5,
+    "power": 1.6,
     "abil": {
      "con": 4,
      "pow": 1,
@@ -94586,15 +94569,15 @@
      ]
     },
     "asset": {
-     "value": 2.9,
-     "grade": "C",
+     "value": 1.2,
+     "grade": "D",
      "left": 1,
-     "effM": 1.59
+     "effM": 1.03
     },
     "expContract": {
-     "years": 3,
-     "aav": 15.9,
-     "total": 47.7
+     "years": 2,
+     "aav": 10.3,
+     "total": 20.6
     }
    },
    "p103": {
@@ -95514,10 +95497,10 @@
    "p142": {
     "name": "피네이로",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 35,
     "team": "FA",
-    "power": 1.8,
+    "power": 0.2,
     "abil": {
      "pit": 4,
      "inn": 3,
@@ -95525,8 +95508,8 @@
     },
     "expContract": {
      "years": 3,
-     "aav": 10.9,
-     "total": 32.7
+     "aav": 8.8,
+     "total": 26.400000000000002
     }
    },
    "p143": {
@@ -96432,10 +96415,10 @@
    "p184": {
     "name": "조니",
     "pos": "C",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 31,
     "team": "트레일 블레이저스",
-    "power": 2.5,
+    "power": 1.6,
     "abil": {
      "con": 5,
      "pow": 1,
@@ -96448,10 +96431,10 @@
      ]
     },
     "asset": {
-     "value": 5.1,
-     "grade": "B",
+     "value": 2.1,
+     "grade": "D",
      "left": 2,
-     "effM": 1.59
+     "effM": 1.03
     }
    },
    "p185": {
@@ -96549,25 +96532,25 @@
    "p189": {
     "name": "버크스",
     "pos": "RP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 35,
     "team": "다이너마이트",
-    "power": 1.3,
+    "power": 0.8,
     "abil": {
      "pit": 5,
      "inn": 2,
      "prs": 3
     },
     "asset": {
-     "value": 0.9,
+     "value": 0.4,
      "grade": "D",
      "left": 1,
-     "effM": 1.11
+     "effM": 0.71
     },
     "expContract": {
      "years": 2,
-     "aav": 15.1,
-     "total": 30.2
+     "aav": 9.7,
+     "total": 19.4
     }
    },
    "p190": {
@@ -101227,23 +101210,12 @@
     }
    },
    "p603": {
-    "name": "스튜어트",
-    "pos": "C",
+    "name": "브래들리",
+    "pos": "SP",
     "tier": "D리그",
-    "age": 20,
+    "age": 19,
     "team": "드래프티",
-    "power": 0,
-    "abil": {
-     "con": 6,
-     "pow": 1,
-     "positions": [
-      {
-       "pos": "C",
-       "def": 2,
-       "tier": "서브"
-      }
-     ]
-    }
+    "power": 0
    }
   },
   "faMarket": {
@@ -101252,7 +101224,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 40,
-    "rarity": 2.17,
+    "rarity": 2.09,
     "expContract": {
      "years": 1,
      "aav": 11,
@@ -101369,6 +101341,10 @@
      {
       "name": "나쿠아",
       "team": "이글즈"
+     },
+     {
+      "name": "버크스",
+      "team": "다이너마이트"
      }
     ]
    },
@@ -101497,7 +101473,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 35,
-    "rarity": 1.51,
+    "rarity": 1.6,
     "expContract": {
      "years": 2,
      "aav": 9.7,
@@ -101521,6 +101497,14 @@
       "real": 0.2
      },
      {
+      "team": "데빌스",
+      "stance": "retool",
+      "lv": "부족",
+      "win": 0.07,
+      "focus": 1,
+      "real": 0.2
+     },
+     {
       "team": "다이너마이트",
       "stance": "winnow",
       "lv": "부족",
@@ -101534,14 +101518,6 @@
       "lv": "부족",
       "win": 0.14,
       "focus": 0,
-      "real": 0.1
-     },
-     {
-      "team": "데빌스",
-      "stance": "retool",
-      "lv": "부족",
-      "win": 0.07,
-      "focus": 1,
       "real": 0.1
      },
      {
@@ -101565,6 +101541,14 @@
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.04,
+      "focus": 1,
+      "real": 0.1
+     },
+     {
+      "team": "세이버스",
+      "stance": "rebuild",
+      "lv": "부족",
+      "win": 0.03,
       "focus": 1,
       "real": 0.1
      },
@@ -101598,14 +101582,6 @@
       "lv": "부족",
       "win": 0.11,
       "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "세이버스",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.03,
-      "focus": 1,
       "real": 0
      }
     ],
@@ -101776,20 +101752,20 @@
    "p142": {
     "name": "피네이로",
     "pos": "SP",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 35,
-    "rarity": 1,
+    "rarity": 1.78,
     "expContract": {
      "years": 3,
-     "aav": 10.9,
-     "total": 32.7
+     "aav": 8.8,
+     "total": 26.400000000000002
     },
     "teams": [
      {
       "team": "프린스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.19,
+      "win": 0.18,
       "focus": 0,
       "real": 0
      },
@@ -101805,7 +101781,7 @@
       "team": "다이노스",
       "stance": "retool",
       "lv": "부족",
-      "win": 0.05,
+      "win": 0.06,
       "focus": 0,
       "real": 0
      },
@@ -101813,7 +101789,7 @@
       "team": "마린즈",
       "stance": "winnow",
       "lv": "부족",
-      "win": 0.18,
+      "win": 0.17,
       "focus": 0,
       "real": 0
      },
@@ -101821,7 +101797,7 @@
       "team": "데빌스",
       "stance": "retool",
       "lv": "부족",
-      "win": 0.08,
+      "win": 0.09,
       "focus": 0,
       "real": 0
      },
@@ -101837,7 +101813,7 @@
       "team": "스틸러스",
       "stance": "allin",
       "lv": "부족",
-      "win": 0.16,
+      "win": 0.15,
       "focus": 0,
       "real": 0
      },
@@ -101845,7 +101821,7 @@
       "team": "세이버스",
       "stance": "rebuild",
       "lv": "부족",
-      "win": 0.03,
+      "win": 0.04,
       "focus": 0,
       "real": 0
      },
@@ -101854,27 +101830,15 @@
       "stance": "rebuild",
       "lv": "부족",
       "win": 0.01,
-      "focus": 1,
+      "focus": 0,
       "real": 0
      }
     ],
-    "altFA": [
-     "오웬스",
-     "뤼프키",
-     "셔넬"
-    ],
+    "altFA": [],
     "altTrade": [
      {
-      "name": "더커",
-      "team": "이글즈"
-     },
-     {
-      "name": "퀘즈",
-      "team": "다이너마이트"
-     },
-     {
-      "name": "스크로닉",
-      "team": "재즈"
+      "name": "에버렛",
+      "team": "트레일 블레이저스"
      }
     ]
    },
@@ -102328,7 +102292,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 30,
-    "rarity": 0.5,
+    "rarity": 0.58,
     "expContract": {
      "years": 5,
      "aav": 10.4,
@@ -102410,8 +102374,7 @@
     ],
     "altFA": [
      "뤼프키",
-     "셔넬",
-     "피네이로"
+     "셔넬"
     ],
     "altTrade": [
      {
@@ -102433,7 +102396,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 30,
-    "rarity": 0.5,
+    "rarity": 0.58,
     "expContract": {
      "years": 5,
      "aav": 10.4,
@@ -102515,8 +102478,7 @@
     ],
     "altFA": [
      "오웬스",
-     "셔넬",
-     "피네이로"
+     "셔넬"
     ],
     "altTrade": [
      {
@@ -102719,7 +102681,7 @@
     "pos": "SP",
     "tier": "서브",
     "age": 29,
-    "rarity": 1.78,
+    "rarity": 1.66,
     "expContract": {
      "years": 5,
      "aav": 8.4,
@@ -102799,7 +102761,9 @@
       "real": 0
      }
     ],
-    "altFA": [],
+    "altFA": [
+     "피네이로"
+    ],
     "altTrade": [
      {
       "name": "에버렛",
@@ -102901,7 +102865,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 29,
-    "rarity": 0.5,
+    "rarity": 0.58,
     "expContract": {
      "years": 5,
      "aav": 10.4,
@@ -102983,8 +102947,7 @@
     ],
     "altFA": [
      "오웬스",
-     "뤼프키",
-     "피네이로"
+     "뤼프키"
     ],
     "altTrade": [
      {
@@ -103228,7 +103191,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 30,
-    "rarity": 1.46,
+    "rarity": 1.55,
     "expContract": {
      "years": 3,
      "aav": 9.5,
@@ -103241,7 +103204,7 @@
       "lv": "공백",
       "win": 0.06,
       "focus": 6,
-      "real": 0.5
+      "real": 0.6
      },
      {
       "team": "다이너마이트",
@@ -103250,6 +103213,14 @@
       "win": 0.08,
       "focus": 4,
       "real": 0.5
+     },
+     {
+      "team": "데빌스",
+      "stance": "retool",
+      "lv": "부족",
+      "win": 0.07,
+      "focus": 3,
+      "real": 0.4
      },
      {
       "team": "프린스",
@@ -103268,20 +103239,20 @@
       "real": 0.3
      },
      {
-      "team": "데빌스",
-      "stance": "retool",
-      "lv": "부족",
-      "win": 0.07,
-      "focus": 3,
-      "real": 0.3
-     },
-     {
       "team": "스틸러스",
       "stance": "allin",
       "lv": "부족",
       "win": 0.12,
       "focus": 2,
       "real": 0.3
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.12,
+      "focus": 1,
+      "real": 0.2
      },
      {
       "team": "워리어스",
@@ -103300,27 +103271,19 @@
       "real": 0.2
      },
      {
-      "team": "마린즈",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.14,
-      "focus": 1,
-      "real": 0.1
-     },
-     {
-      "team": "에스트로너츠",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.12,
-      "focus": 1,
-      "real": 0.1
-     },
-     {
       "team": "재즈",
       "stance": "rebuild",
       "lv": "공백",
       "win": 0.04,
       "focus": 2,
+      "real": 0.2
+     },
+     {
+      "team": "마린즈",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.14,
+      "focus": 1,
       "real": 0.1
      },
      {
@@ -103365,19 +103328,19 @@
      "name": "워싱턴",
      "team": "프린스",
      "pos": "SP",
-     "total": 276.4,
+     "total": 279.4,
      "hof": false
     },
     {
      "name": "그리핀",
      "team": "다이노스",
      "pos": "OF",
-     "total": 191.4,
+     "total": 194.4,
      "hof": false
     },
     {
      "name": "히로",
-     "team": "버커니어스",
+     "team": "은퇴",
      "pos": "SP",
      "total": 146.5,
      "hof": false
@@ -103386,21 +103349,21 @@
      "name": "아일린",
      "team": "라이언즈",
      "pos": "SP",
-     "total": 137,
+     "total": 138.5,
      "hof": false
     },
     {
      "name": "히튼",
      "team": "워리어스",
      "pos": "SP",
-     "total": 127.5,
+     "total": 130.5,
      "hof": false
     },
     {
      "name": "에반",
      "team": "에스트로너츠",
      "pos": "1B",
-     "total": 122.3,
+     "total": 122.8,
      "hof": false
     },
     {
@@ -103411,10 +103374,17 @@
      "hof": true
     },
     {
+     "name": "마셜",
+     "team": "마린즈",
+     "pos": "CF",
+     "total": 113.1,
+     "hof": false
+    },
+    {
      "name": "베나세르",
      "team": "재즈",
      "pos": "SP",
-     "total": 109.8,
+     "total": 111.3,
      "hof": false
     },
     {
@@ -103425,10 +103395,17 @@
      "hof": true
     },
     {
-     "name": "마셜",
+     "name": "세르히오",
      "team": "마린즈",
-     "pos": "CF",
-     "total": 106.1,
+     "pos": "SP",
+     "total": 96,
+     "hof": false
+    },
+    {
+     "name": "마자르",
+     "team": "FA",
+     "pos": "OF",
+     "total": 94.2,
      "hof": false
     },
     {
@@ -103439,24 +103416,10 @@
      "hof": true
     },
     {
-     "name": "세르히오",
-     "team": "마린즈",
-     "pos": "SP",
-     "total": 89,
-     "hof": false
-    },
-    {
-     "name": "마자르",
-     "team": "마린즈",
-     "pos": "OF",
-     "total": 87.2,
-     "hof": false
-    },
-    {
      "name": "포셔",
      "team": "타이거즈",
      "pos": "DH",
-     "total": 79.8,
+     "total": 81.3,
      "hof": false
     },
     {
@@ -103495,11 +103458,11 @@
      "hof": true
     },
     {
-     "name": "후버",
-     "team": "명예의 전당",
-     "pos": "C",
-     "total": 64,
-     "hof": true
+     "name": "맥커니",
+     "team": "데빌스",
+     "pos": "3B",
+     "total": 64.2,
+     "hof": false
     }
    ],
    "topTeamSeasons": [
@@ -103521,6 +103484,11 @@
     {
      "season": 18,
      "team": "프린스",
+     "score": 33.6
+    },
+    {
+     "season": 20,
+     "team": "마린즈",
      "score": 33.6
     },
     {
@@ -103547,11 +103515,6 @@
      "season": 13,
      "team": "프린스",
      "score": 32
-    },
-    {
-     "season": 11,
-     "team": "다이노스",
-     "score": 31.2
     }
    ]
   },
@@ -105030,12 +104993,10 @@
      "risk": "보통"
     },
     {
-     "name": "스튜어트",
-     "pos": "C",
+     "name": "브래들리",
+     "pos": "SP",
      "tier": "D리그",
-     "age": 20,
-     "ceiling": "레귤러",
-     "risk": "보통"
+     "age": 19
     }
    ],
    "draftOrder": {
