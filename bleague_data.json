@@ -87157,6 +87157,31 @@
      "name": "골드글러브",
      "playerId": "p156",
      "detail": "3B"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p239",
+     "detail": "SS"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p171",
+     "detail": "OF"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p269",
+     "detail": "OF"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p180",
+     "detail": "OF"
+    },
+    {
+     "name": "실버슬러거",
+     "playerId": "p233",
+     "detail": "C"
     }
    ],
    "awardsNote": "",
@@ -90326,7 +90351,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787901446989
+   "ts": 1787901519312
   },
   "teams": {
    "프린스": {
