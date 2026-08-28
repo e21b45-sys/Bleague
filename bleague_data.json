@@ -14289,7 +14289,7 @@
     "positions": [
      {
       "pos": "1B",
-      "def": 4
+      "def": 3
      }
     ]
    }
@@ -15673,7 +15673,7 @@
    ],
    "form": "injury",
    "abil": {
-    "con": 7,
+    "con": 6,
     "pow": 3,
     "positions": [
      {
@@ -18099,7 +18099,7 @@
     "positions": [
      {
       "pos": "OF",
-      "def": 4
+      "def": 3
      }
     ]
    }
@@ -91462,7 +91462,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787916939146
+   "ts": 1787917007022
   },
   "teams": {
    "프린스": {
@@ -95953,7 +95953,7 @@
      "positions": [
       {
        "pos": "1B",
-       "def": 4,
+       "def": 3,
        "tier": "레귤러"
       }
      ]
@@ -96223,7 +96223,7 @@
     "team": "타이거즈",
     "power": 7,
     "abil": {
-     "con": 7,
+     "con": 6,
      "pow": 3,
      "positions": [
       {
@@ -96234,7 +96234,7 @@
       {
        "pos": "2B",
        "def": 3,
-       "tier": "엘리트"
+       "tier": "코어"
       }
      ]
     },
@@ -96751,7 +96751,7 @@
      "positions": [
       {
        "pos": "OF",
-       "def": 4,
+       "def": 3,
        "tier": "엘리트"
       }
      ]
