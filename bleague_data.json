@@ -90649,11 +90649,16 @@
      "team": "트레일 블레이저스",
      "from": 18,
      "to": 19
+    },
+    {
+     "team": "이글즈",
+     "from": 21,
+     "to": null
     }
    ],
    "contract": {
-    "startSeason": 18,
-    "endSeason": 19,
+    "startSeason": 21,
+    "endSeason": 23,
     "reason": "경질"
    },
    "contractHistory": [],
@@ -91338,9 +91343,18 @@
      "team": "마린즈",
      "from": 18,
      "to": 18
+    },
+    {
+     "team": "데빌스",
+     "from": 21,
+     "to": null
     }
    ],
-   "contract": null,
+   "contract": {
+    "startSeason": 21,
+    "endSeason": 23,
+    "reason": ""
+   },
    "contractHistory": [],
    "note": ""
   },
@@ -91675,7 +91689,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787924306447
+   "ts": 1787924411742
   },
   "teams": {
    "프린스": {
