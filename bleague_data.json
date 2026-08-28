@@ -90891,11 +90891,16 @@
      "team": "이글즈",
      "from": 16,
      "to": 20
+    },
+    {
+     "team": "재즈",
+     "from": 21,
+     "to": null
     }
    ],
    "contract": {
-    "startSeason": 19,
-    "endSeason": 21,
+    "startSeason": 21,
+    "endSeason": 23,
     "reason": ""
    },
    "contractHistory": [],
@@ -91670,7 +91675,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787924112124
+   "ts": 1787924306447
   },
   "teams": {
    "프린스": {
