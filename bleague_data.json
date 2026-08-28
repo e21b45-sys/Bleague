@@ -87092,6 +87092,36 @@
     {
      "name": "MVP",
      "playerId": "p202"
+    },
+    {
+     "name": "BP",
+     "playerId": "p131"
+    },
+    {
+     "name": "BRP",
+     "playerId": "p208"
+    },
+    {
+     "name": "ROOKIE",
+     "playerId": "p280"
+    },
+    {
+     "name": "POTY",
+     "playerId": "p131"
+    },
+    {
+     "name": "MIP",
+     "playerId": "p199"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p165",
+     "detail": "남부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p131",
+     "detail": "동부"
     }
    ],
    "awardsNote": "",
@@ -90261,7 +90291,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787901156737
+   "ts": 1787901235862
   },
   "teams": {
    "프린스": {
