@@ -35493,7 +35493,7 @@
    "pos": "SS",
    "tier": "레귤러",
    "age": 24,
-   "number": "",
+   "number": "13",
    "debutSeason": 21,
    "debutHalf": "전반기",
    "trait": "",
@@ -35951,7 +35951,7 @@
    "pos": "SS",
    "tier": "레귤러",
    "age": 24,
-   "number": "",
+   "number": "10",
    "ptype": "수비형",
    "strengths": [
     "작전수행",
@@ -36269,7 +36269,7 @@
    "pos": "SP",
    "tier": "레귤러",
    "age": 23,
-   "number": "",
+   "number": "15",
    "ptype": "제구형",
    "strengths": [
     "제구"
@@ -36635,7 +36635,7 @@
    "pos": "OF",
    "tier": "레귤러",
    "age": 22,
-   "number": "",
+   "number": "29",
    "ptype": "수비형",
    "strengths": [
     "파워"
@@ -91660,7 +91660,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787923291082
+   "ts": 1787923372442
   },
   "teams": {
    "프린스": {
