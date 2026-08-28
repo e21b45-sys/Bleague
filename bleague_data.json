@@ -90319,6 +90319,11 @@
     "playerId": "p42",
     "retired": true,
     "note": "슈퍼팀의 클라이막스"
+   },
+   {
+    "playerId": "p25",
+    "retired": true,
+    "note": "슈퍼맨"
    }
   ],
   "이글즈": [],
@@ -90420,8 +90425,8 @@
    },
    {
     "playerId": "p84",
-    "retired": false,
-    "note": ""
+    "retired": true,
+    "note": "주인공"
    }
   ]
  },
@@ -91665,7 +91670,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787923523143
+   "ts": 1787923687772
   },
   "teams": {
    "프린스": {
