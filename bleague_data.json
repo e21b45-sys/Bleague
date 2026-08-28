@@ -88198,7 +88198,7 @@
     }
    },
    "live": {
-    "active": true,
+    "active": false,
     "cursor": 16,
     "history": []
    }
@@ -90256,7 +90256,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787893361788
+   "ts": 1787900519411
   },
   "teams": {
    "프린스": {
