@@ -87122,6 +87122,16 @@
      "name": "플레티넘볼",
      "playerId": "p131",
      "detail": "동부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p279",
+     "detail": "서부"
+    },
+    {
+     "name": "플레티넘볼",
+     "playerId": "p118",
+     "detail": "북부"
     }
    ],
    "awardsNote": "",
@@ -90291,7 +90301,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787901235862
+   "ts": 1787901298938
   },
   "teams": {
    "프린스": {
