@@ -87132,6 +87132,31 @@
      "name": "플레티넘볼",
      "playerId": "p118",
      "detail": "북부"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p135",
+     "detail": "P"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p233",
+     "detail": "C"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p226",
+     "detail": "1B"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p328",
+     "detail": "2B"
+    },
+    {
+     "name": "골드글러브",
+     "playerId": "p156",
+     "detail": "3B"
     }
    ],
    "awardsNote": "",
@@ -90301,7 +90326,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787901298938
+   "ts": 1787901446989
   },
   "teams": {
    "프린스": {
