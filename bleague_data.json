@@ -39366,7 +39366,7 @@
   "p587": {
    "id": "p587",
    "name": "데이비스",
-   "team": "드래프티",
+   "team": "워리어스",
    "pos": "OF",
    "tier": "C리그",
    "age": 22,
@@ -39407,6 +39407,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "워리어스"
     }
    ],
    "titles": [],
@@ -39415,8 +39419,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "코어",
    "risk": "안전",
    "growthCap": 0.563,
@@ -40094,7 +40098,7 @@
   "p600": {
    "id": "p600",
    "name": "모랄레스",
-   "team": "드래프티",
+   "team": "이글즈",
    "pos": "SS",
    "tier": "C리그",
    "age": 23,
@@ -40132,6 +40136,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "이글즈"
     }
    ],
    "titles": [],
@@ -40140,8 +40148,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "엘리트",
    "risk": "모험",
    "growthCap": 0.691,
@@ -88124,7 +88132,9 @@
     "다이노스_1": "p566",
     "데빌스_1": "p572",
     "챌린저스_1": "p595",
-    "다이너마이트_1": "p557"
+    "다이너마이트_1": "p557",
+    "이글즈_1": "p600",
+    "워리어스_1": "p587"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88159,12 +88169,22 @@
    },
    "live": {
     "active": true,
-    "cursor": 8,
+    "cursor": 10,
     "history": [
      {
       "key": "다이너마이트_1",
       "pid": "p557",
       "cursor": 7
+     },
+     {
+      "key": "이글즈_1",
+      "pid": "p600",
+      "cursor": 8
+     },
+     {
+      "key": "워리어스_1",
+      "pid": "p587",
+      "cursor": 9
      }
     ]
    }
@@ -88490,7 +88510,9 @@
   "p575",
   "p566",
   "p572",
-  "p595"
+  "p595",
+  "p557",
+  "p600"
  ],
  "salaryRules": {
   "floor": 60,
@@ -88560,6 +88582,11 @@
     "changes": ""
    },
    "이글즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "워리어스": {
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
@@ -90039,7 +90066,6 @@
  },
  "bigboard": [
   "p583",
-  "p587",
   "p597",
   "p577",
   "p582",
@@ -90048,7 +90074,6 @@
   "p571",
   "p574",
   "p585",
-  "p600",
   "p556",
   "p589",
   "p565",
@@ -90206,7 +90231,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787887357919
+   "ts": 1787887447394
   },
   "teams": {
    "프린스": {
@@ -91484,7 +91509,7 @@
      "core": 5,
      "avgAge": 26.9,
      "payRatio": 0.4666666666666667,
-     "farm": 7,
+     "farm": 8,
      "farmTop": 1,
      "recent": 14,
      "avgRk": 13
@@ -92349,7 +92374,7 @@
      "core": 5,
      "avgAge": 27.5,
      "payRatio": 0.7103448275862069,
-     "farm": 10,
+     "farm": 11,
      "farmTop": 3,
      "recent": 8,
      "avgRk": 10.7
@@ -101085,7 +101110,7 @@
     "pos": "OF",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
+    "team": "워리어스",
     "power": 0,
     "abil": {
      "con": 5,
@@ -101102,7 +101127,9 @@
        "tier": "레귤러"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 2.8
    },
    "p588": {
     "name": "한센",
@@ -101328,7 +101355,7 @@
     "pos": "SS",
     "tier": "C리그",
     "age": 23,
-    "team": "드래프티",
+    "team": "이글즈",
     "power": 0,
     "abil": {
      "con": 4,
@@ -101340,7 +101367,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 5
    },
    "p601": {
     "name": "그레인저",
@@ -103732,97 +103761,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 567,
-     "prospects": 10
+     "score": 589,
+     "prospects": 11
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 434,
+     "score": 450,
      "prospects": 8
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 381,
+     "score": 397,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 362,
+     "score": 374,
      "prospects": 6
     },
     {
      "rank": 5,
      "team": "트레일 블레이저스",
-     "score": 330,
+     "score": 344,
      "prospects": 7
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 328,
+     "score": 344,
      "prospects": 8
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 277,
-     "prospects": 7
+     "score": 292,
+     "prospects": 8
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 250,
+     "score": 262,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 220,
+     "score": 230,
      "prospects": 5
     },
     {
      "rank": 10,
      "team": "버커니어스",
-     "score": 173,
+     "score": 181,
      "prospects": 4
     },
     {
      "rank": 11,
      "team": "스틸러스",
-     "score": 168,
+     "score": 180,
      "prospects": 6
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 162,
+     "score": 170,
      "prospects": 4
     },
     {
      "rank": 13,
      "team": "타이거즈",
-     "score": 154,
+     "score": 164,
      "prospects": 5
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 130,
+     "score": 134,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 97,
+     "score": 103,
      "prospects": 3
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 62,
+     "score": 64,
      "prospects": 1
     }
    ],
@@ -104906,6 +104935,30 @@
      "score": 67.5,
      "ceiling": "컨텐더",
      "risk": "모험"
+    },
+    {
+     "rank": 91,
+     "name": "슈뢰더",
+     "team": "다이너마이트",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 57.5,
+     "ceiling": "엘리트",
+     "risk": "모험"
+    },
+    {
+     "rank": 92,
+     "name": "모랄레스",
+     "team": "이글즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 23,
+     "eta": 1,
+     "score": 56.7,
+     "ceiling": "엘리트",
+     "risk": "모험"
     }
    ],
    "draftees": [
@@ -105118,14 +105171,6 @@
      "risk": "모험"
     },
     {
-     "name": "데이비스",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "코어",
-     "risk": "안전"
-    },
-    {
      "name": "한센",
      "pos": "SP",
      "tier": "C리그",
@@ -105212,14 +105257,6 @@
      "age": 21,
      "ceiling": "레귤러",
      "risk": "보통"
-    },
-    {
-     "name": "모랄레스",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 23,
-     "ceiling": "엘리트",
-     "risk": "모험"
     },
     {
      "name": "그레인저",
