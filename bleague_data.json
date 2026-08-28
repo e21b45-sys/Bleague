@@ -88198,15 +88198,9 @@
     }
    },
    "live": {
-    "active": false,
+    "active": true,
     "cursor": 16,
-    "history": [
-     {
-      "key": "마린즈_1",
-      "pid": "p578",
-      "cursor": 15
-     }
-    ]
+    "history": []
    }
   },
   "22": {
@@ -88538,7 +88532,8 @@
   "p586",
   "p597",
   "p571",
-  "p592"
+  "p592",
+  "p578"
  ],
  "salaryRules": {
   "floor": 60,
@@ -90261,7 +90256,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787892276025
+   "ts": 1787893361788
   },
   "teams": {
    "프린스": {
@@ -93513,7 +93508,7 @@
      "core": 4,
      "avgAge": 27.3,
      "payRatio": 0.5714285714285714,
-     "farm": 6,
+     "farm": 7,
      "farmTop": 1,
      "recent": 15,
      "avgRk": 14.3
@@ -103803,97 +103798,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 655,
+     "score": 666,
      "prospects": 11
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 501,
+     "score": 510,
      "prospects": 9
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 445,
+     "score": 453,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 412,
+     "score": 419,
      "prospects": 7
     },
     {
      "rank": 5,
      "team": "챌린저스",
-     "score": 392,
+     "score": 400,
      "prospects": 8
     },
     {
      "rank": 6,
      "team": "트레일 블레이저스",
-     "score": 386,
+     "score": 393,
      "prospects": 7
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 340,
+     "score": 348,
      "prospects": 8
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 298,
+     "score": 304,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 266,
+     "score": 272,
      "prospects": 6
     },
     {
      "rank": 10,
      "team": "스틸러스",
-     "score": 216,
+     "score": 222,
      "prospects": 6
     },
     {
      "rank": 11,
      "team": "버커니어스",
-     "score": 211,
-     "prospects": 6
+     "score": 218,
+     "prospects": 7
     },
     {
      "rank": 12,
      "team": "타이거즈",
-     "score": 194,
+     "score": 199,
      "prospects": 5
     },
     {
      "rank": 13,
      "team": "데빌스",
-     "score": 194,
+     "score": 198,
      "prospects": 4
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 146,
+     "score": 148,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 125,
+     "score": 129,
      "prospects": 4
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 70,
+     "score": 71,
      "prospects": 1
     }
    ],
@@ -105073,6 +105068,18 @@
      "score": 37.5,
      "ceiling": "레귤러",
      "risk": "보통"
+    },
+    {
+     "rank": 99,
+     "name": "브리그스",
+     "team": "버커니어스",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 47.5,
+     "ceiling": "코어",
+     "risk": "모험"
     }
    ],
    "draftees": [
