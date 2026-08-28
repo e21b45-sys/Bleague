@@ -38948,7 +38948,7 @@
   "p579": {
    "id": "p579",
    "name": "실바",
-   "team": "드래프티",
+   "team": "트레일 블레이저스",
    "pos": "SS",
    "tier": "D리그",
    "age": 20,
@@ -38997,6 +38997,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "트레일 블레이저스"
     }
    ],
    "titles": [],
@@ -39005,8 +39009,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "모험",
    "growthCap": 0.521,
@@ -39636,7 +39640,7 @@
   "p591": {
    "id": "p591",
    "name": "콘티",
-   "team": "드래프티",
+   "team": "트레일 블레이저스",
    "pos": "SP",
    "tier": "C리그",
    "age": 24,
@@ -39668,6 +39672,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "트레일 블레이저스"
     }
    ],
    "titles": [],
@@ -39676,8 +39684,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "보통",
    "growthCap": 0.527,
@@ -40291,7 +40299,7 @@
   "p602": {
    "id": "p602",
    "name": "그랜트햄",
-   "team": "드래프티",
+   "team": "스틸러스",
    "pos": "2B",
    "tier": "C리그",
    "age": 20,
@@ -40328,6 +40336,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "스틸러스"
     }
    ],
    "titles": [],
@@ -40336,8 +40348,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 2,
    "ceiling": "레귤러",
    "risk": "보통",
    "growthCap": 0.417,
@@ -88410,7 +88422,10 @@
     "다이너마이트_2": "p574",
     "이글즈_2": "p596",
     "워리어스_2": "p559",
-    "타이거즈_2": "p556"
+    "타이거즈_2": "p556",
+    "라이언즈_2": "p579",
+    "스틸러스_2": "p602",
+    "에스트로너츠_2": "p591"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88445,7 +88460,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 27,
+    "cursor": 30,
     "history": [
      {
       "key": "트레일 블레이저스_2",
@@ -88501,6 +88516,21 @@
       "key": "타이거즈_2",
       "pid": "p556",
       "cursor": 26
+     },
+     {
+      "key": "라이언즈_2",
+      "pid": "p579",
+      "cursor": 27
+     },
+     {
+      "key": "스틸러스_2",
+      "pid": "p602",
+      "cursor": 28
+     },
+     {
+      "key": "에스트로너츠_2",
+      "pid": "p591",
+      "cursor": 29
      }
     ]
    }
@@ -90404,11 +90434,9 @@
   "p590",
   "p560",
   "p576",
-  "p591",
   "p593",
   "p598",
   "p599",
-  "p602",
   "p561",
   "p567",
   "p594",
@@ -90416,7 +90444,6 @@
   "p569",
   "p580",
   "p563",
-  "p579",
   "p564",
   "p588",
   "p601"
@@ -90547,7 +90574,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787909827722
+   "ts": 1787909894172
   },
   "teams": {
    "프린스": {
@@ -101288,7 +101315,7 @@
     "pos": "SS",
     "tier": "D리그",
     "age": 20,
-    "team": "드래프티",
+    "team": "트레일 블레이저스",
     "power": 0,
     "abil": {
      "con": 2,
@@ -101310,7 +101337,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1
    },
    "p580": {
     "name": "두란",
@@ -101525,13 +101554,15 @@
     "pos": "SP",
     "tier": "C리그",
     "age": 24,
-    "team": "드래프티",
+    "team": "트레일 블레이저스",
     "power": 0,
     "abil": {
      "pit": 4,
      "inn": 5,
      "prs": 3
-    }
+    },
+    "prospect": true,
+    "value": 1.5
    },
    "p592": {
     "name": "트로피모프",
@@ -101755,7 +101786,7 @@
     "pos": "2B",
     "tier": "C리그",
     "age": 20,
-    "team": "드래프티",
+    "team": "스틸러스",
     "power": 0,
     "abil": {
      "con": 3,
@@ -101767,7 +101798,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1.5
    },
    "p603": {
     "name": "브래들리",
@@ -105477,14 +105510,6 @@
      "risk": "보통"
     },
     {
-     "name": "실바",
-     "pos": "SS",
-     "tier": "D리그",
-     "age": 20,
-     "ceiling": "레귤러",
-     "risk": "모험"
-    },
-    {
      "name": "두란",
      "pos": "2B",
      "tier": "D리그",
@@ -105515,14 +105540,6 @@
      "age": 21,
      "ceiling": "레귤러",
      "risk": "안전"
-    },
-    {
-     "name": "콘티",
-     "pos": "SP",
-     "tier": "C리그",
-     "age": 24,
-     "ceiling": "레귤러",
-     "risk": "보통"
     },
     {
      "name": "콜린스",
@@ -105562,14 +105579,6 @@
      "tier": "C리그",
      "age": 22,
      "ceiling": "서브",
-     "risk": "보통"
-    },
-    {
-     "name": "그랜트햄",
-     "pos": "2B",
-     "tier": "C리그",
-     "age": 20,
-     "ceiling": "레귤러",
      "risk": "보통"
     }
    ],
