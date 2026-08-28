@@ -3111,7 +3111,7 @@
     "entry": "최초 입성",
     "note": "",
     "serial": "15",
-    "plaqueTeam": "데빌스",
+    "plaqueTeam": "에스트로너츠",
     "statSlots": [
      "champ",
      "award:플레티넘볼",
@@ -11405,7 +11405,7 @@
   "p81": {
    "id": "p81",
    "name": "팀",
-   "team": "은퇴",
+   "team": "명예의 전당",
    "pos": "SP",
    "tier": "코어",
    "age": 40,
@@ -11522,9 +11522,23 @@
     {
      "season": 20,
      "team": "은퇴"
+    },
+    {
+     "season": 21,
+     "team": "명예의 전당"
     }
    ],
-   "hof": null,
+   "hof": {
+    "star": 2,
+    "serial": "21",
+    "plaqueTeam": "에스트로너츠",
+    "statSlots": [
+     "champ",
+     "award:플레티넘볼",
+     "award:타이틀홀더",
+     "award:MIP"
+    ]
+   },
    "injuries": [],
    "role": "2선발",
    "subPositions": [],
@@ -91646,7 +91660,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787922911815
+   "ts": 1787923128863
   },
   "teams": {
    "프린스": {
@@ -95758,7 +95772,7 @@
     "pos": "SP",
     "tier": "코어",
     "age": 40,
-    "team": "은퇴",
+    "team": "명예의 전당",
     "power": 2.9
    },
    "p82": {
