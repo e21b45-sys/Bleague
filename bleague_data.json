@@ -38010,7 +38010,7 @@
   "p562": {
    "id": "p562",
    "name": "홀",
-   "team": "드래프티",
+   "team": "라이언즈",
    "pos": "SS",
    "tier": "D리그",
    "age": 20,
@@ -38047,6 +38047,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "라이언즈"
     }
    ],
    "titles": [],
@@ -38055,8 +38059,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "서브",
    "risk": "안전",
    "growthCap": 0.218,
@@ -38800,7 +38804,7 @@
   "p576": {
    "id": "p576",
    "name": "하워드",
-   "team": "드래프티",
+   "team": "타이거즈",
    "pos": "OF",
    "tier": "C리그",
    "age": 21,
@@ -38836,6 +38840,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "타이거즈"
     }
    ],
    "titles": [],
@@ -38844,8 +38852,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "레귤러",
    "risk": "보통",
    "growthCap": 0.436,
@@ -39509,7 +39517,7 @@
   "p588": {
    "id": "p588",
    "name": "한센",
-   "team": "드래프티",
+   "team": "챌린저스",
    "pos": "SP",
    "tier": "C리그",
    "age": 23,
@@ -39540,6 +39548,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "챌린저스"
     }
    ],
    "titles": [],
@@ -39548,8 +39560,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 3,
    "ceiling": "서브",
    "risk": "보통",
    "growthCap": 0.316,
@@ -88480,7 +88492,10 @@
     "데빌스_3": "p561",
     "챌린저스_3": "p570",
     "다이너마이트_3": "p567",
-    "이글즈_3": "p599"
+    "이글즈_3": "p599",
+    "워리어스_3": "p588",
+    "타이거즈_3": "p576",
+    "라이언즈_3": "p562"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88515,7 +88530,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 41,
+    "cursor": 44,
     "history": [
      {
       "key": "트레일 블레이저스_2",
@@ -88641,6 +88656,21 @@
       "key": "이글즈_3",
       "pid": "p599",
       "cursor": 40
+     },
+     {
+      "key": "워리어스_3",
+      "pid": "p588",
+      "cursor": 41
+     },
+     {
+      "key": "타이거즈_3",
+      "pid": "p576",
+      "cursor": 42
+     },
+     {
+      "key": "라이언즈_3",
+      "pid": "p562",
+      "cursor": 43
      }
     ]
    }
@@ -90559,13 +90589,10 @@
  },
  "bigboard": [
   "p560",
-  "p576",
   "p598",
-  "p562",
   "p569",
   "p580",
-  "p564",
-  "p588"
+  "p564"
  ],
  "market": {
   "base": {
@@ -90693,7 +90720,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787910164311
+   "ts": 1787910225910
   },
   "teams": {
    "프린스": {
@@ -101129,7 +101156,7 @@
     "pos": "SS",
     "tier": "D리그",
     "age": 20,
-    "team": "드래프티",
+    "team": "라이언즈",
     "power": 0,
     "abil": {
      "con": 2,
@@ -101141,7 +101168,9 @@
        "tier": "레귤러"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 0.2
    },
    "p563": {
     "name": "콜먼",
@@ -101384,7 +101413,7 @@
     "pos": "OF",
     "tier": "C리그",
     "age": 21,
-    "team": "드래프티",
+    "team": "타이거즈",
     "power": 0,
     "abil": {
      "con": 3,
@@ -101396,7 +101425,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1.5
    },
    "p577": {
     "name": "모리스",
@@ -101638,13 +101669,15 @@
     "pos": "SP",
     "tier": "C리그",
     "age": 23,
-    "team": "드래프티",
+    "team": "챌린저스",
     "power": 0,
     "abil": {
      "pit": 4,
      "inn": 4,
      "prs": 1
-    }
+    },
+    "prospect": true,
+    "value": 0.2
    },
    "p589": {
     "name": "설리번",
@@ -105759,14 +105792,6 @@
      "risk": "보통"
     },
     {
-     "name": "홀",
-     "pos": "SS",
-     "tier": "D리그",
-     "age": 20,
-     "ceiling": "서브",
-     "risk": "안전"
-    },
-    {
      "name": "로마넨코",
      "pos": "OF",
      "tier": "C리그",
@@ -105783,28 +105808,12 @@
      "risk": "안전"
     },
     {
-     "name": "하워드",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 21,
-     "ceiling": "레귤러",
-     "risk": "보통"
-    },
-    {
      "name": "두란",
      "pos": "2B",
      "tier": "D리그",
      "age": 22,
      "ceiling": "서브",
      "risk": "안전"
-    },
-    {
-     "name": "한센",
-     "pos": "SP",
-     "tier": "C리그",
-     "age": 23,
-     "ceiling": "서브",
-     "risk": "보통"
     },
     {
      "name": "화이트",
