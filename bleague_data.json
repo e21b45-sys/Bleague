@@ -10409,7 +10409,7 @@
    "name": "아일린",
    "team": "라이언즈",
    "pos": "SP",
-   "tier": "엘리트",
+   "tier": "코어",
    "age": 39,
    "number": "1",
    "debutSeason": 2,
@@ -10542,7 +10542,7 @@
    "form": "good",
    "abil": {
     "pit": 6,
-    "inn": 5,
+    "inn": 4,
     "prs": 3
    }
   },
@@ -13420,7 +13420,7 @@
    "form": "",
    "abil": {
     "pit": 5,
-    "inn": 5,
+    "inn": 4,
     "prs": 3
    }
   },
@@ -17572,7 +17572,7 @@
    "name": "조나스",
    "team": "스틸러스",
    "pos": "C",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 34,
    "number": "4",
    "debutSeason": 9,
@@ -17668,7 +17668,7 @@
     "positions": [
      {
       "pos": "C",
-      "def": 4
+      "def": 3
      }
     ]
    }
@@ -25690,7 +25690,7 @@
    "name": "자브릴",
    "team": "라이언즈",
    "pos": "RP",
-   "tier": "코어",
+   "tier": "레귤러",
    "age": 34,
    "number": "21",
    "debutSeason": 12,
@@ -25779,7 +25779,7 @@
    "injuries": [],
    "form": "good",
    "abil": {
-    "pit": 5,
+    "pit": 4,
     "inn": 2,
     "prs": 4
    }
@@ -91462,7 +91462,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787916787052
+   "ts": 1787916864363
   },
   "teams": {
    "프린스": {
@@ -91642,7 +91642,7 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 1,
-     "core": 7,
+     "core": 6,
      "avgAge": 29.9,
      "payRatio": 0.7739130434782608,
      "farm": 5,
@@ -91653,7 +91653,7 @@
     "appeal": 1.33,
     "market": "빅마켓",
     "free": 52,
-    "power": 49.5,
+    "power": 43.9,
     "window": {
      "open": 21,
      "left": 1,
@@ -94035,7 +94035,7 @@
     "stanceLabel": "올인",
     "stanceWhy": {
      "cont": 0,
-     "core": 9,
+     "core": 8,
      "avgAge": 30,
      "payRatio": 0.6533333333333333,
      "farm": 8,
@@ -94046,7 +94046,7 @@
     "appeal": 1.3,
     "market": "빅마켓",
     "free": 78,
-    "power": 38,
+    "power": 37.1,
     "window": {
      "open": 21,
      "left": 2,
@@ -95514,25 +95514,25 @@
    "p75": {
     "name": "아일린",
     "pos": "SP",
-    "tier": "엘리트",
+    "tier": "코어",
     "age": 39,
     "team": "라이언즈",
-    "power": 8.1,
+    "power": 2.9,
     "abil": {
      "pit": 6,
-     "inn": 5,
+     "inn": 4,
      "prs": 3
     },
     "asset": {
-     "value": 3,
-     "grade": "C",
+     "value": 0.8,
+     "grade": "D",
      "left": 1,
-     "effM": 0.87
+     "effM": 0.68
     },
     "expContract": {
-     "years": 2,
-     "aav": 26,
-     "total": 52
+     "years": 1,
+     "aav": 20.3,
+     "total": 20.3
     }
    },
    "p76": {
@@ -95787,7 +95787,7 @@
     "power": 2.9,
     "abil": {
      "pit": 5,
-     "inn": 5,
+     "inn": 4,
      "prs": 3
     },
     "asset": {
@@ -96655,26 +96655,26 @@
    "p129": {
     "name": "조나스",
     "pos": "C",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 34,
     "team": "스틸러스",
-    "power": 2.5,
+    "power": 1.6,
     "abil": {
      "con": 5,
      "pow": 3,
      "positions": [
       {
        "pos": "C",
-       "def": 4,
-       "tier": "코어"
+       "def": 3,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 3.1,
-     "grade": "C",
+     "value": 1.3,
+     "grade": "D",
      "left": 3,
-     "effM": 0.95
+     "effM": 0.61
     }
    },
    "p130": {
@@ -98421,25 +98421,25 @@
    "p211": {
     "name": "자브릴",
     "pos": "RP",
-    "tier": "코어",
+    "tier": "레귤러",
     "age": 34,
     "team": "라이언즈",
-    "power": 1.3,
+    "power": 0.8,
     "abil": {
-     "pit": 5,
+     "pit": 4,
      "inn": 2,
      "prs": 4
     },
     "asset": {
-     "value": 1.1,
+     "value": 0.4,
      "grade": "D",
      "left": 1,
-     "effM": 0.97
+     "effM": 0.62
     },
     "expContract": {
      "years": 2,
-     "aav": 15.1,
-     "total": 30.2
+     "aav": 9.7,
+     "total": 19.4
     }
    },
    "p212": {
@@ -103499,7 +103499,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 40,
-    "rarity": 2.09,
+    "rarity": 2,
     "expContract": {
      "years": 1,
      "aav": 11,
@@ -103507,19 +103507,19 @@
     },
     "teams": [
      {
-      "team": "다이노스",
-      "stance": "retool",
-      "lv": "공백",
-      "win": 0.09,
-      "focus": 1,
-      "real": 0.2
-     },
-     {
       "team": "프린스",
       "stance": "winnow",
       "lv": "부족",
       "win": 0.14,
       "focus": 0,
+      "real": 0.1
+     },
+     {
+      "team": "다이노스",
+      "stance": "retool",
+      "lv": "공백",
+      "win": 0.09,
+      "focus": 1,
       "real": 0.1
      },
      {
@@ -103620,6 +103620,10 @@
      {
       "name": "버크스",
       "team": "다이너마이트"
+     },
+     {
+      "name": "자브릴",
+      "team": "라이언즈"
      }
     ]
    },
@@ -103748,7 +103752,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 35,
-    "rarity": 1.6,
+    "rarity": 1.68,
     "expContract": {
      "years": 2,
      "aav": 9.7,
@@ -104122,7 +104126,7 @@
     "pos": "SP",
     "tier": "코어",
     "age": 29,
-    "rarity": 0.74,
+    "rarity": 0.83,
     "expContract": {
      "years": 6,
      "aav": 19.2,
@@ -104135,7 +104139,7 @@
       "lv": "부족",
       "win": 0.24,
       "focus": 21,
-      "real": 3.7
+      "real": 4.1
      },
      {
       "team": "스틸러스",
@@ -104143,7 +104147,7 @@
       "lv": "부족",
       "win": 0.23,
       "focus": 10,
-      "real": 1.8
+      "real": 2
      },
      {
       "team": "프린스",
@@ -104151,7 +104155,7 @@
       "lv": "부족",
       "win": 0.11,
       "focus": 11,
-      "real": 0.9
+      "real": 1
      },
      {
       "team": "다이노스",
@@ -104223,7 +104227,7 @@
     "pos": "SP",
     "tier": "코어",
     "age": 30,
-    "rarity": 0.74,
+    "rarity": 0.83,
     "expContract": {
      "years": 6,
      "aav": 19.2,
@@ -104236,7 +104240,7 @@
       "lv": "부족",
       "win": 0.23,
       "focus": 10,
-      "real": 1.8
+      "real": 2
      },
      {
       "team": "라이언즈",
@@ -104244,7 +104248,7 @@
       "lv": "부족",
       "win": 0.24,
       "focus": 6,
-      "real": 1
+      "real": 1.1
      },
      {
       "team": "프린스",
@@ -104252,7 +104256,7 @@
       "lv": "부족",
       "win": 0.11,
       "focus": 4,
-      "real": 0.3
+      "real": 0.4
      },
      {
       "team": "다이노스",
@@ -104567,7 +104571,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 30,
-    "rarity": 0.58,
+    "rarity": 0.66,
     "expContract": {
      "years": 5,
      "aav": 10.4,
@@ -104671,7 +104675,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 30,
-    "rarity": 0.58,
+    "rarity": 0.66,
     "expContract": {
      "years": 5,
      "aav": 10.4,
@@ -105140,7 +105144,7 @@
     "pos": "SP",
     "tier": "레귤러",
     "age": 29,
-    "rarity": 0.58,
+    "rarity": 0.66,
     "expContract": {
      "years": 5,
      "aav": 10.4,
@@ -105466,7 +105470,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 30,
-    "rarity": 1.55,
+    "rarity": 1.63,
     "expContract": {
      "years": 3,
      "aav": 9.5,
@@ -105487,7 +105491,7 @@
       "lv": "공백",
       "win": 0.07,
       "focus": 6,
-      "real": 0.6
+      "real": 0.7
      },
      {
       "team": "다이너마이트",
