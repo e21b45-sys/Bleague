@@ -91047,8 +91047,8 @@
     }
    ],
    "contract": {
-    "startSeason": 18,
-    "endSeason": 20,
+    "startSeason": 21,
+    "endSeason": 23,
     "reason": ""
    },
    "contractHistory": [],
@@ -91225,8 +91225,8 @@
     }
    ],
    "contract": {
-    "startSeason": 18,
-    "endSeason": 20,
+    "startSeason": 21,
+    "endSeason": 23,
     "reason": ""
    },
    "contractHistory": [],
@@ -91670,7 +91670,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787923798320
+   "ts": 1787923878352
   },
   "teams": {
    "프린스": {
