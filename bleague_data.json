@@ -90447,7 +90447,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787901741374
+   "ts": 1787907731973
   },
   "teams": {
    "프린스": {
@@ -103833,11 +103833,25 @@
      "hof": false
     },
     {
+     "name": "세르히오",
+     "team": "마린즈",
+     "pos": "SP",
+     "total": 122.5,
+     "hof": false
+    },
+    {
      "name": "크리스",
      "team": "명예의 전당",
      "pos": "3B",
      "total": 116.9,
      "hof": true
+    },
+    {
+     "name": "마자르",
+     "team": "FA",
+     "pos": "OF",
+     "total": 114,
+     "hof": false
     },
     {
      "name": "마셜",
@@ -103861,20 +103875,6 @@
      "hof": true
     },
     {
-     "name": "세르히오",
-     "team": "마린즈",
-     "pos": "SP",
-     "total": 96,
-     "hof": false
-    },
-    {
-     "name": "마자르",
-     "team": "FA",
-     "pos": "OF",
-     "total": 94.2,
-     "hof": false
-    },
-    {
      "name": "델론즈",
      "team": "명예의 전당",
      "pos": "DH",
@@ -103885,7 +103885,7 @@
      "name": "포셔",
      "team": "타이거즈",
      "pos": "DH",
-     "total": 81.3,
+     "total": 83.3,
      "hof": false
     },
     {
@@ -103938,6 +103938,11 @@
      "score": 38.8
     },
     {
+     "season": 20,
+     "team": "마린즈",
+     "score": 38.3
+    },
+    {
      "season": 16,
      "team": "워리어스",
      "score": 36.1
@@ -103950,11 +103955,6 @@
     {
      "season": 18,
      "team": "프린스",
-     "score": 33.6
-    },
-    {
-     "season": 20,
-     "team": "마린즈",
      "score": 33.6
     },
     {
@@ -105641,6 +105641,593 @@
  "newsFeed": {
   "items": [
    {
+    "type": "rival",
+    "importance": 5,
+    "teams": [
+     "마린즈",
+     "에스트로너츠"
+    ],
+    "players": [],
+    "headline": "라이벌 격돌 — 2차 플레이오프서 마린즈 vs 에스트로너츠, 마린즈 승리",
+    "uid": "rvpo_20_2",
+    "id": "20_10_rival_마린즈-에스트로너츠_rvpo_20_2",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775099
+   },
+   {
+    "type": "rival",
+    "importance": 5,
+    "teams": [
+     "마린즈",
+     "프린스"
+    ],
+    "players": [],
+    "headline": "라이벌 격돌 — 파이널서 마린즈 vs 프린스, 마린즈 승리",
+    "uid": "rvpo_20_4",
+    "id": "20_10_rival_마린즈-프린스_rvpo_20_4",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775096
+   },
+   {
+    "type": "champion",
+    "importance": 5,
+    "teams": [
+     "마린즈"
+    ],
+    "players": [],
+    "headline": "🏆 마린즈, 20시즌 우승 (통산 4회)",
+    "uid": "po_champ",
+    "id": "20_10_champion_마린즈_po_champ",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775094
+   },
+   {
+    "type": "award",
+    "importance": 5,
+    "teams": [
+     "FA"
+    ],
+    "players": [
+     "p202"
+    ],
+    "headline": "마자르, 20시즌 MVP 수상 (통산 3회)",
+    "uid": "aw_MVP",
+    "id": "20_10_award_FA_aw_MVP",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775084
+   },
+   {
+    "type": "rival",
+    "importance": 4,
+    "teams": [
+     "챌린저스"
+    ],
+    "players": [
+     "p280",
+     "p279"
+    ],
+    "headline": "라이벌 희비 — 에르난데스 ROOKIE 수상, 켈리은 무관 (20시즌)",
+    "uid": "prv_aw_20_p280",
+    "id": "20_10_rival_챌린저스_prv_aw_20_p280",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775104
+   },
+   {
+    "type": "playoff",
+    "importance": 4,
+    "teams": [
+     "마린즈",
+     "프린스"
+    ],
+    "players": [],
+    "headline": "20시즌 파이널 진출 — 마린즈 vs 프린스",
+    "uid": "po_final",
+    "id": "20_10_playoff_마린즈-프린스_po_final",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775093
+   },
+   {
+    "type": "playoff",
+    "importance": 4,
+    "teams": [
+     "마린즈",
+     "프린스",
+     "스틸러스",
+     "워리어스",
+     "에스트로너츠",
+     "라이언즈"
+    ],
+    "players": [],
+    "headline": "20시즌 포스트시즌 진출 — 1번 마린즈, 2번 프린스, 3번 스틸러스, 4번 워리어스, 5번 에스트로너츠, 6번 라이언즈",
+    "uid": "po_ports",
+    "id": "20_10_playoff_마린즈-프린스-스틸러스-워리어스-에스트로너츠-라이언즈_po_ports",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775091
+   },
+   {
+    "type": "award",
+    "importance": 4,
+    "teams": [
+     "마린즈"
+    ],
+    "players": [
+     "p131"
+    ],
+    "headline": "세르히오, 20시즌 BP 수상",
+    "uid": "aw_BP",
+    "id": "20_10_award_마린즈_aw_BP",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775085
+   },
+   {
+    "type": "injury",
+    "importance": 4,
+    "teams": [
+     "마린즈"
+    ],
+    "players": [
+     "p132"
+    ],
+    "headline": "마린즈 메이슨, 어깨 회전근개으로 3개월 이탈",
+    "id": "20_10_injury_마린즈_p132",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775080
+   },
+   {
+    "type": "rival",
+    "importance": 3,
+    "teams": [
+     "타이거즈",
+     "다이노스"
+    ],
+    "players": [],
+    "headline": "라이벌 대결 — 타이거즈(6위), 다이노스(11위) 앞선 20시즌",
+    "uid": "rvseason_다이노스_타이거즈",
+    "id": "20_10_rival_타이거즈-다이노스_rvseason_다이노스_타이거즈",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775103
+   },
+   {
+    "type": "rival",
+    "importance": 3,
+    "teams": [
+     "스틸러스",
+     "세이버스"
+    ],
+    "players": [],
+    "headline": "라이벌 대결 — 스틸러스(4위), 세이버스(13위) 앞선 20시즌",
+    "uid": "rvseason_세이버스_스틸러스",
+    "id": "20_10_rival_스틸러스-세이버스_rvseason_세이버스_스틸러스",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775102
+   },
+   {
+    "type": "rival",
+    "importance": 3,
+    "teams": [
+     "다이너마이트",
+     "챌린저스"
+    ],
+    "players": [],
+    "headline": "라이벌 대결 — 다이너마이트(8위), 챌린저스(9위) 앞선 20시즌",
+    "uid": "rvseason_다이너마이트_챌린저스",
+    "id": "20_10_rival_다이너마이트-챌린저스_rvseason_다이너마이트_챌린저스",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775101
+   },
+   {
+    "type": "rival",
+    "importance": 3,
+    "teams": [
+     "워리어스",
+     "챌린저스"
+    ],
+    "players": [],
+    "headline": "라이벌 대결 — 워리어스(7위), 챌린저스(9위) 앞선 20시즌",
+    "uid": "rvseason_워리어스_챌린저스",
+    "id": "20_10_rival_워리어스-챌린저스_rvseason_워리어스_챌린저스",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775100
+   },
+   {
+    "type": "rival",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "에스트로너츠"
+    ],
+    "players": [],
+    "headline": "라이벌 대결 — 마린즈(1위), 에스트로너츠(3위) 앞선 20시즌",
+    "uid": "rvseason_마린즈_에스트로너츠",
+    "id": "20_10_rival_마린즈-에스트로너츠_rvseason_마린즈_에스트로너츠",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775098
+   },
+   {
+    "type": "rival",
+    "importance": 3,
+    "teams": [
+     "프린스",
+     "라이언즈"
+    ],
+    "players": [],
+    "headline": "라이벌 대결 — 프린스(2위), 라이언즈(5위) 앞선 20시즌",
+    "uid": "rvseason_라이언즈_프린스",
+    "id": "20_10_rival_프린스-라이언즈_rvseason_라이언즈_프린스",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775097
+   },
+   {
+    "type": "rival",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "프린스"
+    ],
+    "players": [],
+    "headline": "라이벌 대결 — 마린즈(1위), 프린스(2위) 앞선 20시즌",
+    "uid": "rvseason_마린즈_프린스",
+    "id": "20_10_rival_마린즈-프린스_rvseason_마린즈_프린스",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775095
+   },
+   {
+    "type": "playoff",
+    "importance": 3,
+    "teams": [
+     "마린즈",
+     "프린스",
+     "스틸러스",
+     "워리어스"
+    ],
+    "players": [],
+    "headline": "20시즌 지구 우승 — 마린즈, 프린스, 스틸러스, 워리어스",
+    "uid": "po_div",
+    "id": "20_10_playoff_마린즈-프린스-스틸러스-워리어스_po_div",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775092
+   },
+   {
+    "type": "award",
+    "importance": 3,
+    "teams": [],
+    "players": [
+     "p233",
+     "p280",
+     "p176",
+     "p118",
+     "p136",
+     "p202",
+     "p165",
+     "p133",
+     "p123"
+    ],
+    "headline": "20시즌 실버슬러거 9인 선정",
+    "uid": "aw_ss",
+    "id": "20_10_award__aw_ss",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775089
+   },
+   {
+    "type": "award",
+    "importance": 3,
+    "teams": [],
+    "players": [
+     "p135",
+     "p233",
+     "p226",
+     "p328",
+     "p156",
+     "p239",
+     "p171",
+     "p269",
+     "p180"
+    ],
+    "headline": "20시즌 골드글러브 9인 선정 · 아서 통산 5회",
+    "uid": "aw_gg",
+    "id": "20_10_award__aw_gg",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775088
+   },
+   {
+    "type": "award",
+    "importance": 3,
+    "teams": [],
+    "players": [
+     "p165",
+     "p131",
+     "p279",
+     "p118"
+    ],
+    "headline": "20시즌 플래티넘볼 — 남부 벤슨, 동부 세르히오, 서부 켈리, 북부 포이스",
+    "uid": "aw_pb",
+    "id": "20_10_award__aw_pb",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775087
+   },
+   {
+    "type": "award",
+    "importance": 3,
+    "teams": [],
+    "players": [
+     "p280",
+     "p202"
+    ],
+    "headline": "20시즌 주요 수상 — 신인왕 에르난데스 · 불펜상 암스테드 · 파이널 MVP 마자르",
+    "uid": "aw_trio",
+    "id": "20_10_award__aw_trio",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775086
+   },
+   {
+    "type": "over",
+    "importance": 3,
+    "teams": [
+     "스틸러스"
+    ],
+    "players": [],
+    "headline": "스틸러스, 기대 9위 뒤엎고 4위 — 10월 최대 이변",
+    "id": "20_10_over_스틸러스_스틸러스, 기대 9",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775082
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "이글즈"
+    ],
+    "players": [],
+    "headline": "이글즈, 10월 3계단 급락하며 14위로 추락",
+    "id": "20_10_rank_drop_이글즈_이글즈, 10월 3",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775079
+   },
+   {
+    "type": "title",
+    "importance": 2,
+    "teams": [],
+    "players": [],
+    "headline": "20시즌 타이틀 홀더 — 홈런 벤슨 · 타율 마자르 · 출루율 테버 · 장타율 마자르 · 도루 브라이언 · 타점 포셔 외",
+    "uid": "aw_titles",
+    "id": "20_10_title__aw_titles",
+    "season": 20,
+    "month": 10,
+    "moIdx": 2010,
+    "createdAt": 1787901775090
+   },
+   {
+    "type": "injury",
+    "importance": 3,
+    "teams": [
+     "데빌스"
+    ],
+    "players": [
+     "p147"
+    ],
+    "headline": "데빌스 커비, 허리 통증으로 1개월 이탈",
+    "id": "20_8_injury_데빌스_p147",
+    "season": 20,
+    "month": 8,
+    "moIdx": 2008,
+    "createdAt": 1787901775076
+   },
+   {
+    "type": "allstar",
+    "importance": 3,
+    "teams": [],
+    "players": [
+     "p165"
+    ],
+    "headline": "20시즌 올스타전 — 남동부 8:2 북서부 · MVP 벤슨",
+    "uid": "as_result",
+    "id": "20_7_allstar_as_result",
+    "season": 20,
+    "month": 7,
+    "moIdx": 2007,
+    "createdAt": 1787901775106
+   },
+   {
+    "type": "allstar",
+    "importance": 3,
+    "teams": [],
+    "players": [
+     "p131",
+     "p233",
+     "p235",
+     "p195",
+     "p156",
+     "p136",
+     "p202",
+     "p165"
+    ],
+    "headline": "20시즌 올스타 명단 발표 — 남동부 vs 북서부 총 26인",
+    "uid": "as_roster",
+    "id": "20_7_allstar_as_roster",
+    "season": 20,
+    "month": 7,
+    "moIdx": 2007,
+    "createdAt": 1787901775105
+   },
+   {
+    "type": "injury",
+    "importance": 4,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [
+     "p112"
+    ],
+    "headline": "타이거즈 우즈, 발목 염좌으로 5개월 이탈",
+    "id": "20_6_injury_타이거즈_p112",
+    "season": 20,
+    "month": 6,
+    "moIdx": 2006,
+    "createdAt": 1787901775072
+   },
+   {
+    "type": "under",
+    "importance": 3,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [],
+    "headline": "타이거즈, 기대 3위에 못 미친 9위 — 부진 심화",
+    "id": "20_6_under_타이거즈_타이거즈, 기대 3",
+    "season": 20,
+    "month": 6,
+    "moIdx": 2006,
+    "createdAt": 1787901775075
+   },
+   {
+    "type": "injury",
+    "importance": 3,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [
+     "p203"
+    ],
+    "headline": "타이거즈 폰, 팔꿈치 인대 손상으로 1개월 이탈",
+    "id": "20_6_injury_타이거즈_p203",
+    "season": 20,
+    "month": 6,
+    "moIdx": 2006,
+    "createdAt": 1787901775073
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "세이버스"
+    ],
+    "players": [],
+    "headline": "세이버스, 6월 3계단 급락하며 16위로 추락",
+    "id": "20_6_rank_drop_세이버스_세이버스, 6월 3",
+    "season": 20,
+    "month": 6,
+    "moIdx": 2006,
+    "createdAt": 1787901775071
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "타이거즈"
+    ],
+    "players": [],
+    "headline": "타이거즈, 6월 3계단 급락하며 9위로 추락",
+    "id": "20_6_rank_drop_타이거즈_타이거즈, 6월 3",
+    "season": 20,
+    "month": 6,
+    "moIdx": 2006,
+    "createdAt": 1787901775070
+   },
+   {
+    "type": "rival",
+    "importance": 4,
+    "teams": [
+     "프린스",
+     "라이언즈"
+    ],
+    "players": [],
+    "headline": "프린스, 5월 라이벌 라이언즈 제치고 순위 역전 (3위 vs 5위)",
+    "uid": "rvrank_프린스_라이언즈",
+    "id": "20_5_rival_프린스-라이언즈_rvrank_프린스_라이언즈",
+    "season": 20,
+    "month": 5,
+    "moIdx": 2005,
+    "createdAt": 1787901775069
+   },
+   {
+    "type": "over",
+    "importance": 3,
+    "teams": [
+     "스틸러스"
+    ],
+    "players": [],
+    "headline": "스틸러스, 기대 9위 뒤엎고 4위 — 5월 최대 이변",
+    "id": "20_5_over_스틸러스_스틸러스, 기대 9",
+    "season": 20,
+    "month": 5,
+    "moIdx": 2005,
+    "createdAt": 1787901775068
+   },
+   {
+    "type": "rank_surge",
+    "importance": 3,
+    "teams": [
+     "세이버스"
+    ],
+    "players": [],
+    "headline": "세이버스, 5월 3계단 급상승하며 13위 도약",
+    "id": "20_5_rank_surge_세이버스_세이버스, 5월 3",
+    "season": 20,
+    "month": 5,
+    "moIdx": 2005,
+    "createdAt": 1787901775066
+   },
+   {
+    "type": "rank_drop",
+    "importance": 3,
+    "teams": [
+     "재즈"
+    ],
+    "players": [],
+    "headline": "재즈, 5월 3계단 급락하며 15위로 추락",
+    "id": "20_5_rank_drop_재즈_재즈, 5월 3계단",
+    "season": 20,
+    "month": 5,
+    "moIdx": 2005,
+    "createdAt": 1787901775065
+   },
+   {
     "type": "over",
     "importance": 3,
     "teams": [
@@ -105723,6 +106310,38 @@
     "month": 4,
     "moIdx": 2004,
     "createdAt": 1785827442076
+   },
+   {
+    "type": "rival",
+    "importance": 4,
+    "teams": [
+     "라이언즈",
+     "프린스"
+    ],
+    "players": [],
+    "headline": "라이언즈, 4월 라이벌 프린스 제치고 순위 역전 (3위 vs 4위)",
+    "uid": "rvrank_라이언즈_프린스",
+    "id": "20_4_rival_라이언즈-프린스_rvrank_라이언즈_프린스",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1787901775064
+   },
+   {
+    "type": "rival",
+    "importance": 4,
+    "teams": [
+     "마린즈",
+     "프린스"
+    ],
+    "players": [],
+    "headline": "마린즈, 4월 라이벌 프린스 제치고 순위 역전 (1위 vs 4위)",
+    "uid": "rvrank_마린즈_프린스",
+    "id": "20_4_rival_마린즈-프린스_rvrank_마린즈_프린스",
+    "season": 20,
+    "month": 4,
+    "moIdx": 2004,
+    "createdAt": 1787901775063
    },
    {
     "type": "fa",
@@ -106665,675 +107284,10 @@
     "month": 4,
     "moIdx": 2004,
     "createdAt": 1785827442098
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "프린스"
-    ],
-    "players": [
-     "p108"
-    ],
-    "headline": "프린스, 아데보 FA 영입 (20m/2년)",
-    "uid": "fa9",
-    "id": "20_4_fa_프린스_fa9",
-    "season": 20,
-    "month": 4,
-    "moIdx": 2004,
-    "createdAt": 1785827442097
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "에스트로너츠"
-    ],
-    "players": [
-     "p85"
-    ],
-    "headline": "에스트로너츠, 에반 FA 영입 (30m/2년)",
-    "uid": "fa0",
-    "id": "20_4_fa_에스트로너츠_fa0",
-    "season": 20,
-    "month": 4,
-    "moIdx": 2004,
-    "createdAt": 1785827442090
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "타이거즈"
-    ],
-    "players": [
-     "p164"
-    ],
-    "headline": "타이거즈, 리븐 FA 영입 (108m/6년)",
-    "uid": "fa31",
-    "id": "20_off_fa_타이거즈_fa31",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442051
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "워리어스"
-    ],
-    "players": [
-     "p221"
-    ],
-    "headline": "워리어스, 그라인더 FA 영입 (50m/5년)",
-    "uid": "fa30",
-    "id": "20_off_fa_워리어스_fa30",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442050
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "타이거즈"
-    ],
-    "players": [
-     "p115"
-    ],
-    "headline": "타이거즈, 터너 FA 영입 (140m/5년)",
-    "uid": "fa29",
-    "id": "20_off_fa_타이거즈_fa29",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442049
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "데빌스"
-    ],
-    "players": [
-     "p225"
-    ],
-    "headline": "데빌스, 라이즈 FA 영입 (60m/5년)",
-    "uid": "fa28",
-    "id": "20_off_fa_데빌스_fa28",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442047
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "에스트로너츠"
-    ],
-    "players": [
-     "p123"
-    ],
-    "headline": "에스트로너츠, 존슨 FA 영입 (75m/3년)",
-    "uid": "fa23",
-    "id": "20_off_fa_에스트로너츠_fa23",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442042
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "에스트로너츠"
-    ],
-    "players": [
-     "p179"
-    ],
-    "headline": "에스트로너츠, 카서스 FA 영입 (138m/6년)",
-    "uid": "fa17",
-    "id": "20_off_fa_에스트로너츠_fa17",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442039
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "마린즈"
-    ],
-    "players": [
-     "p131"
-    ],
-    "headline": "마린즈, 세르히오 FA 영입 (240m/8년)",
-    "uid": "fa16",
-    "id": "20_off_fa_마린즈_fa16",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442038
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "라이언즈"
-    ],
-    "players": [
-     "p75"
-    ],
-    "headline": "라이언즈, 아일린 FA 영입 (60m/2년)",
-    "uid": "fa8",
-    "id": "20_off_fa_라이언즈_fa8",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442032
-   },
-   {
-    "type": "fa",
-    "importance": 4,
-    "teams": [
-     "다이너마이트"
-    ],
-    "players": [
-     "p177"
-    ],
-    "headline": "다이너마이트, 워커 FA 영입 (168m/6년)",
-    "uid": "fa7",
-    "id": "20_off_fa_다이너마이트_fa7",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442031
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "트레일 블레이저스",
-     "마린즈"
-    ],
-    "players": [
-     "p201"
-    ],
-    "headline": "트레일 블레이저스–마린즈, 러커트 트레이드 성사",
-    "uid": "trade55",
-    "id": "20_off_trade_트레일 블레이저스-마린즈_trade55",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442072
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "마린즈",
-     "트레일 블레이저스"
-    ],
-    "players": [
-     "p217"
-    ],
-    "headline": "마린즈–트레일 블레이저스, 베텔 트레이드 성사",
-    "uid": "trade54",
-    "id": "20_off_trade_마린즈-트레일 블레이저스_trade54",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442071
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "다이너마이트",
-     "워리어스"
-    ],
-    "players": [
-     "p249"
-    ],
-    "headline": "다이너마이트–워리어스, 듀버네이 트레이드 성사",
-    "uid": "trade53",
-    "id": "20_off_trade_다이너마이트-워리어스_trade53",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442070
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "워리어스",
-     "다이너마이트"
-    ],
-    "players": [
-     "p189"
-    ],
-    "headline": "워리어스–다이너마이트, 버크스 트레이드 성사",
-    "uid": "trade52",
-    "id": "20_off_trade_워리어스-다이너마이트_trade52",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442069
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "트레일 블레이저스",
-     "라이언즈"
-    ],
-    "players": [
-     "p182"
-    ],
-    "headline": "트레일 블레이저스–라이언즈, 무노스 트레이드 성사",
-    "uid": "trade49",
-    "id": "20_off_trade_트레일 블레이저스-라이언즈_trade49",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442068
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "라이언즈",
-     "트레일 블레이저스"
-    ],
-    "players": [
-     "p452"
-    ],
-    "headline": "라이언즈–트레일 블레이저스, 오노 트레이드 성사",
-    "uid": "trade48",
-    "id": "20_off_trade_라이언즈-트레일 블레이저스_trade48",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442067
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "트레일 블레이저스",
-     "에스트로너츠"
-    ],
-    "players": [
-     "p220"
-    ],
-    "headline": "트레일 블레이저스–에스트로너츠, 토마스 트레이드 성사",
-    "uid": "trade46",
-    "id": "20_off_trade_트레일 블레이저스-에스트로너츠_trade46",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442066
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "에스트로너츠",
-     "트레일 블레이저스"
-    ],
-    "players": [
-     "p226"
-    ],
-    "headline": "에스트로너츠–트레일 블레이저스, 허핀 트레이드 성사",
-    "uid": "trade45",
-    "id": "20_off_trade_에스트로너츠-트레일 블레이저스_trade45",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442065
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "타이거즈",
-     "스틸러스"
-    ],
-    "players": [
-     "p415"
-    ],
-    "headline": "타이거즈–스틸러스, 아졸라 트레이드 성사",
-    "uid": "trade44",
-    "id": "20_off_trade_타이거즈-스틸러스_trade44",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442064
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "타이거즈",
-     "스틸러스"
-    ],
-    "players": [
-     "p399"
-    ],
-    "headline": "타이거즈–스틸러스, 스미르노프 트레이드 성사",
-    "uid": "trade43",
-    "id": "20_off_trade_타이거즈-스틸러스_trade43",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442063
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "스틸러스",
-     "타이거즈"
-    ],
-    "players": [
-     "p293"
-    ],
-    "headline": "스틸러스–타이거즈, 라파엘라 트레이드 성사",
-    "uid": "trade42",
-    "id": "20_off_trade_스틸러스-타이거즈_trade42",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442062
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "타이거즈",
-     "버커니어스"
-    ],
-    "players": [
-     "p276"
-    ],
-    "headline": "타이거즈–버커니어스, 세틀 트레이드 성사",
-    "uid": "trade19",
-    "id": "20_off_trade_타이거즈-버커니어스_trade19",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442041
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "버커니어스",
-     "타이거즈"
-    ],
-    "players": [
-     "p203"
-    ],
-    "headline": "버커니어스–타이거즈, 폰 트레이드 성사",
-    "uid": "trade18",
-    "id": "20_off_trade_버커니어스-타이거즈_trade18",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442040
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "타이거즈",
-     "마린즈"
-    ],
-    "players": [
-     "p202"
-    ],
-    "headline": "타이거즈–마린즈, 마자르 트레이드 성사",
-    "uid": "trade13",
-    "id": "20_off_trade_타이거즈-마린즈_trade13",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442037
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "마린즈",
-     "타이거즈"
-    ],
-    "players": [
-     "p112"
-    ],
-    "headline": "마린즈–타이거즈, 우즈 트레이드 성사",
-    "uid": "trade12",
-    "id": "20_off_trade_마린즈-타이거즈_trade12",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442036
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "마린즈",
-     "재즈"
-    ],
-    "players": [
-     "p439"
-    ],
-    "headline": "마린즈–재즈, 그린 트레이드 성사",
-    "uid": "trade4",
-    "id": "20_off_trade_마린즈-재즈_trade4",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442030
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "스틸러스",
-     "재즈"
-    ],
-    "players": [
-     "p454"
-    ],
-    "headline": "스틸러스–재즈, 파딜 트레이드 성사",
-    "uid": "trade3",
-    "id": "20_off_trade_스틸러스-재즈_trade3",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442029
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "마린즈",
-     "스틸러스"
-    ],
-    "players": [
-     "p118"
-    ],
-    "headline": "마린즈–스틸러스, 포이스 트레이드 성사",
-    "uid": "trade2",
-    "id": "20_off_trade_마린즈-스틸러스_trade2",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442028
-   },
-   {
-    "type": "trade",
-    "importance": 3,
-    "teams": [
-     "재즈",
-     "마린즈"
-    ],
-    "players": [
-     "p136"
-    ],
-    "headline": "재즈–마린즈, 요한 트레이드 성사",
-    "uid": "trade1",
-    "id": "20_off_trade_재즈-마린즈_trade1",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442027
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "버커니어스"
-    ],
-    "players": [
-     "p167"
-    ],
-    "headline": "버커니어스, 더든 FA 영입 (21m/3년)",
-    "uid": "fa41",
-    "id": "20_off_fa_버커니어스_fa41",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442061
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "챌린저스"
-    ],
-    "players": [
-     "p223"
-    ],
-    "headline": "챌린저스, 디미트리 FA 영입 (24m/3년)",
-    "uid": "fa40",
-    "id": "20_off_fa_챌린저스_fa40",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442060
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "다이노스"
-    ],
-    "players": [
-     "p128"
-    ],
-    "headline": "다이노스, 맬러리 FA 영입 (21m/3년)",
-    "uid": "fa39",
-    "id": "20_off_fa_다이노스_fa39",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442059
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "다이너마이트"
-    ],
-    "players": [
-     "p122"
-    ],
-    "headline": "다이너마이트, 워맥 FA 영입 (10m/1년)",
-    "uid": "fa38",
-    "id": "20_off_fa_다이너마이트_fa38",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442058
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "프린스"
-    ],
-    "players": [
-     "p224"
-    ],
-    "headline": "프린스, 허스트 FA 영입 (30m/3년)",
-    "uid": "fa37",
-    "id": "20_off_fa_프린스_fa37",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442057
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "세이버스"
-    ],
-    "players": [
-     "p93"
-    ],
-    "headline": "세이버스, 테렐 FA 영입 (10m/1년)",
-    "uid": "fa36",
-    "id": "20_off_fa_세이버스_fa36",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442056
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "이글즈"
-    ],
-    "players": [
-     "p169"
-    ],
-    "headline": "이글즈, 커즌스 FA 영입 (30m/3년)",
-    "uid": "fa35",
-    "id": "20_off_fa_이글즈_fa35",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442055
-   },
-   {
-    "type": "fa",
-    "importance": 2,
-    "teams": [
-     "워리어스"
-    ],
-    "players": [
-     "p101"
-    ],
-    "headline": "워리어스, 볼브 FA 영입 (20m/2년)",
-    "uid": "fa34",
-    "id": "20_off_fa_워리어스_fa34",
-    "season": 20,
-    "month": "off",
-    "moIdx": 2003,
-    "createdAt": 1785827442054
    }
   ],
   "lastScan": {
-   "moIdx": 1910
+   "moIdx": 2010
   }
  },
  "playerRivalries": [
