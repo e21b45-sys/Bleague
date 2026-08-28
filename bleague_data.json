@@ -39642,7 +39642,7 @@
   "p592": {
    "id": "p592",
    "name": "트로피모프",
-   "team": "드래프티",
+   "team": "버커니어스",
    "pos": "OF",
    "tier": "C리그",
    "age": 23,
@@ -39680,6 +39680,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "버커니어스"
     }
    ],
    "titles": [],
@@ -39688,8 +39692,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "레귤러",
    "risk": "보통",
    "growthCap": 0.424,
@@ -88154,7 +88158,8 @@
     "타이거즈_1": "p582",
     "라이언즈_1": "p586",
     "스틸러스_1": "p597",
-    "에스트로너츠_1": "p571"
+    "에스트로너츠_1": "p571",
+    "프린스_1": "p592"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88189,7 +88194,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 14,
+    "cursor": 15,
     "history": [
      {
       "key": "다이너마이트_1",
@@ -88225,6 +88230,11 @@
       "key": "에스트로너츠_1",
       "pid": "p571",
       "cursor": 13
+     },
+     {
+      "key": "프린스_1",
+      "pid": "p592",
+      "cursor": 14
      }
     ]
    }
@@ -88556,7 +88566,8 @@
   "p587",
   "p582",
   "p586",
-  "p597"
+  "p597",
+  "p571"
  ],
  "salaryRules": {
   "floor": 60,
@@ -90133,7 +90144,6 @@
   "p560",
   "p576",
   "p591",
-  "p592",
   "p593",
   "p598",
   "p599",
@@ -90281,7 +90291,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787887688039
+   "ts": 1787887794868
   },
   "teams": {
    "프린스": {
@@ -101250,7 +101260,7 @@
     "pos": "OF",
     "tier": "C리그",
     "age": 23,
-    "team": "드래프티",
+    "team": "버커니어스",
     "power": 0,
     "abil": {
      "con": 2,
@@ -101262,7 +101272,9 @@
        "tier": "코어"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 1.5
    },
    "p593": {
     "name": "콜린스",
@@ -103819,97 +103831,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 633,
+     "score": 644,
      "prospects": 11
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 483,
+     "score": 492,
      "prospects": 9
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 429,
+     "score": 437,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 398,
-     "prospects": 6
+     "score": 405,
+     "prospects": 7
     },
     {
      "rank": 5,
      "team": "챌린저스",
-     "score": 376,
+     "score": 384,
      "prospects": 8
     },
     {
      "rank": 6,
      "team": "트레일 블레이저스",
-     "score": 372,
+     "score": 379,
      "prospects": 7
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 324,
+     "score": 332,
      "prospects": 8
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 286,
+     "score": 292,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 254,
+     "score": 260,
      "prospects": 6
     },
     {
      "rank": 10,
      "team": "스틸러스",
-     "score": 204,
+     "score": 210,
      "prospects": 6
     },
     {
      "rank": 11,
      "team": "버커니어스",
-     "score": 200,
+     "score": 205,
      "prospects": 5
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 186,
+     "score": 190,
      "prospects": 4
     },
     {
      "rank": 13,
      "team": "타이거즈",
-     "score": 184,
+     "score": 189,
      "prospects": 5
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 142,
+     "score": 144,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 117,
+     "score": 121,
      "prospects": 4
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 68,
+     "score": 69,
      "prospects": 1
     }
    ],
@@ -105065,6 +105077,18 @@
      "score": 49.7,
      "ceiling": "코어",
      "risk": "안전"
+    },
+    {
+     "rank": 97,
+     "name": "베버",
+     "team": "에스트로너츠",
+     "pos": "2B",
+     "tier": "D리그",
+     "age": 21,
+     "eta": 2,
+     "score": 47.1,
+     "ceiling": "코어",
+     "risk": "보통"
     }
    ],
    "draftees": [
@@ -105281,14 +105305,6 @@
      "pos": "SP",
      "tier": "C리그",
      "age": 24,
-     "ceiling": "레귤러",
-     "risk": "보통"
-    },
-    {
-     "name": "트로피모프",
-     "pos": "OF",
-     "tier": "C리그",
-     "age": 23,
      "ceiling": "레귤러",
      "risk": "보통"
     },
