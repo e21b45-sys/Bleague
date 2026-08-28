@@ -37693,7 +37693,7 @@
   "p557": {
    "id": "p557",
    "name": "슈뢰더",
-   "team": "드래프티",
+   "team": "다이너마이트",
    "pos": "SS",
    "tier": "C리그",
    "age": 22,
@@ -37730,6 +37730,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "다이너마이트"
     }
    ],
    "titles": [],
@@ -37738,8 +37742,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "엘리트",
    "risk": "모험",
    "growthCap": 0.756,
@@ -88119,7 +88123,8 @@
     "재즈_1": "p575",
     "다이노스_1": "p566",
     "데빌스_1": "p572",
-    "챌린저스_1": "p595"
+    "챌린저스_1": "p595",
+    "다이너마이트_1": "p557"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88153,43 +88158,13 @@
     }
    },
    "live": {
-    "active": false,
-    "cursor": 7,
+    "active": true,
+    "cursor": 8,
     "history": [
      {
-      "key": "트레일 블레이저스_1",
-      "pid": "p603",
-      "cursor": 0
-     },
-     {
-      "key": "버커니어스_1",
-      "pid": "p568",
-      "cursor": 1
-     },
-     {
-      "key": "세이버스_1",
-      "pid": "p604",
-      "cursor": 2
-     },
-     {
-      "key": "재즈_1",
-      "pid": "p575",
-      "cursor": 3
-     },
-     {
-      "key": "다이노스_1",
-      "pid": "p566",
-      "cursor": 4
-     },
-     {
-      "key": "데빌스_1",
-      "pid": "p572",
-      "cursor": 5
-     },
-     {
-      "key": "챌린저스_1",
-      "pid": "p595",
-      "cursor": 6
+      "key": "다이너마이트_1",
+      "pid": "p557",
+      "cursor": 7
      }
     ]
    }
@@ -88514,7 +88489,8 @@
   "p604",
   "p575",
   "p566",
-  "p572"
+  "p572",
+  "p595"
  ],
  "salaryRules": {
   "floor": 60,
@@ -88579,6 +88555,11 @@
     "changes": ""
    },
    "챌린저스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "이글즈": {
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
@@ -90067,7 +90048,6 @@
   "p571",
   "p574",
   "p585",
-  "p557",
   "p600",
   "p556",
   "p589",
@@ -90226,7 +90206,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787887234686
+   "ts": 1787887357919
   },
   "teams": {
    "프린스": {
@@ -92582,7 +92562,7 @@
      "core": 7,
      "avgAge": 25.7,
      "payRatio": 0.5478260869565217,
-     "farm": 7,
+     "farm": 8,
      "farmTop": 3,
      "recent": 9,
      "avgRk": 13
@@ -100543,7 +100523,7 @@
     "pos": "SS",
     "tier": "C리그",
     "age": 22,
-    "team": "드래프티",
+    "team": "다이너마이트",
     "power": 0,
     "abil": {
      "con": 4,
@@ -100555,7 +100535,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 5
    },
    "p558": {
     "name": "파레데스",
@@ -103750,97 +103732,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 557,
+     "score": 567,
      "prospects": 10
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 426,
+     "score": 434,
      "prospects": 8
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 373,
+     "score": 381,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 356,
+     "score": 362,
      "prospects": 6
     },
     {
      "rank": 5,
      "team": "트레일 블레이저스",
-     "score": 323,
+     "score": 330,
      "prospects": 7
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 320,
-     "prospects": 7
+     "score": 328,
+     "prospects": 8
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 270,
+     "score": 277,
      "prospects": 7
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 244,
+     "score": 250,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 215,
+     "score": 220,
      "prospects": 5
     },
     {
      "rank": 10,
      "team": "버커니어스",
-     "score": 169,
+     "score": 173,
      "prospects": 4
     },
     {
      "rank": 11,
      "team": "스틸러스",
-     "score": 162,
+     "score": 168,
      "prospects": 6
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 158,
+     "score": 162,
      "prospects": 4
     },
     {
      "rank": 13,
      "team": "타이거즈",
-     "score": 149,
+     "score": 154,
      "prospects": 5
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 128,
+     "score": 130,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 94,
+     "score": 97,
      "prospects": 3
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 61,
+     "score": 62,
      "prospects": 1
     }
    ],
@@ -104912,6 +104894,18 @@
      "score": 57.9,
      "ceiling": "엘리트",
      "risk": "모험"
+    },
+    {
+     "rank": 90,
+     "name": "피셔",
+     "team": "챌린저스",
+     "pos": "2B",
+     "tier": "C리그",
+     "age": 22,
+     "eta": 1,
+     "score": 67.5,
+     "ceiling": "컨텐더",
+     "risk": "모험"
     }
    ],
    "draftees": [
@@ -104922,14 +104916,6 @@
      "age": 23,
      "ceiling": "레귤러",
      "risk": "안전"
-    },
-    {
-     "name": "슈뢰더",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 22,
-     "ceiling": "엘리트",
-     "risk": "모험"
     },
     {
      "name": "파레데스",
