@@ -39922,7 +39922,7 @@
   "p597": {
    "id": "p597",
    "name": "헨더슨",
-   "team": "드래프티",
+   "team": "재즈",
    "pos": "SS",
    "tier": "C리그",
    "age": 21,
@@ -39970,6 +39970,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "재즈"
     }
    ],
    "titles": [],
@@ -39978,8 +39982,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "코어",
    "risk": "안전",
    "growthCap": 0.535,
@@ -88144,7 +88148,8 @@
     "이글즈_1": "p600",
     "워리어스_1": "p587",
     "타이거즈_1": "p582",
-    "라이언즈_1": "p586"
+    "라이언즈_1": "p586",
+    "스틸러스_1": "p597"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88179,7 +88184,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 12,
+    "cursor": 13,
     "history": [
      {
       "key": "다이너마이트_1",
@@ -88205,6 +88210,11 @@
       "key": "라이언즈_1",
       "pid": "p586",
       "cursor": 11
+     },
+     {
+      "key": "스틸러스_1",
+      "pid": "p597",
+      "cursor": 12
      }
     ]
    }
@@ -88534,7 +88544,8 @@
   "p557",
   "p600",
   "p587",
-  "p582"
+  "p582",
+  "p586"
  ],
  "salaryRules": {
   "floor": 60,
@@ -90093,7 +90104,6 @@
  },
  "bigboard": [
   "p583",
-  "p597",
   "p577",
   "p581",
   "p558",
@@ -90256,7 +90266,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787887530269
+   "ts": 1787887623650
   },
   "teams": {
    "프린스": {
@@ -90439,7 +90449,7 @@
      "core": 7,
      "avgAge": 29.9,
      "payRatio": 0.8682926829268293,
-     "farm": 3,
+     "farm": 4,
      "farmTop": 0,
      "recent": 5,
      "avgRk": 4.7
@@ -101313,7 +101323,7 @@
     "pos": "SS",
     "tier": "C리그",
     "age": 21,
-    "team": "드래프티",
+    "team": "재즈",
     "power": 0,
     "abil": {
      "con": 4,
@@ -101335,7 +101345,9 @@
        "tier": "레귤러"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 2.8
    },
    "p598": {
     "name": "화이트",
@@ -103790,97 +103802,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 611,
+     "score": 622,
      "prospects": 11
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 466,
+     "score": 474,
      "prospects": 8
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 413,
+     "score": 421,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 386,
+     "score": 392,
      "prospects": 6
     },
     {
      "rank": 5,
      "team": "챌린저스",
-     "score": 360,
+     "score": 368,
      "prospects": 8
     },
     {
      "rank": 6,
      "team": "트레일 블레이저스",
-     "score": 358,
+     "score": 365,
      "prospects": 7
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 308,
+     "score": 316,
      "prospects": 8
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 274,
+     "score": 280,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 242,
+     "score": 248,
      "prospects": 6
     },
     {
      "rank": 10,
      "team": "스틸러스",
-     "score": 192,
+     "score": 198,
      "prospects": 6
     },
     {
      "rank": 11,
      "team": "버커니어스",
-     "score": 190,
+     "score": 195,
      "prospects": 5
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 178,
+     "score": 182,
      "prospects": 4
     },
     {
      "rank": 13,
      "team": "타이거즈",
-     "score": 174,
+     "score": 179,
      "prospects": 5
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 138,
+     "score": 140,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 109,
-     "prospects": 3
+     "score": 113,
+     "prospects": 4
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 66,
+     "score": 67,
      "prospects": 1
     }
    ],
@@ -105012,6 +105024,18 @@
      "score": 47.7,
      "ceiling": "코어",
      "risk": "안전"
+    },
+    {
+     "rank": 95,
+     "name": "나바로",
+     "team": "라이언즈",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 48.3,
+     "ceiling": "코어",
+     "risk": "모험"
     }
    ],
    "draftees": [
@@ -105270,14 +105294,6 @@
      "age": 19,
      "ceiling": "코어",
      "risk": "모험"
-    },
-    {
-     "name": "헨더슨",
-     "pos": "SS",
-     "tier": "C리그",
-     "age": 21,
-     "ceiling": "코어",
-     "risk": "안전"
     },
     {
      "name": "화이트",
