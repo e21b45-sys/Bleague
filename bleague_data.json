@@ -38478,7 +38478,7 @@
   "p571": {
    "id": "p571",
    "name": "베버",
-   "team": "드래프티",
+   "team": "에스트로너츠",
    "pos": "2B",
    "tier": "D리그",
    "age": 21,
@@ -38520,6 +38520,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "에스트로너츠"
     }
    ],
    "titles": [],
@@ -38528,8 +38532,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "코어",
    "risk": "보통",
    "growthCap": 0.6,
@@ -88149,7 +88153,8 @@
     "워리어스_1": "p587",
     "타이거즈_1": "p582",
     "라이언즈_1": "p586",
-    "스틸러스_1": "p597"
+    "스틸러스_1": "p597",
+    "에스트로너츠_1": "p571"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88184,7 +88189,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 13,
+    "cursor": 14,
     "history": [
      {
       "key": "다이너마이트_1",
@@ -88215,6 +88220,11 @@
       "key": "스틸러스_1",
       "pid": "p597",
       "cursor": 12
+     },
+     {
+      "key": "에스트로너츠_1",
+      "pid": "p571",
+      "cursor": 13
      }
     ]
    }
@@ -88545,7 +88555,8 @@
   "p600",
   "p587",
   "p582",
-  "p586"
+  "p586",
+  "p597"
  ],
  "salaryRules": {
   "floor": 60,
@@ -88625,6 +88636,11 @@
     "changes": ""
    },
    "라이언즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "에스트로너츠": {
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
@@ -90107,7 +90123,6 @@
   "p577",
   "p581",
   "p558",
-  "p571",
   "p574",
   "p585",
   "p556",
@@ -90266,7 +90281,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787887623650
+   "ts": 1787887688039
   },
   "teams": {
    "프린스": {
@@ -93067,7 +93082,7 @@
      "core": 2,
      "avgAge": 26.4,
      "payRatio": 0.5636363636363636,
-     "farm": 8,
+     "farm": 9,
      "farmTop": 2,
      "recent": 12,
      "avgRk": 14
@@ -100844,7 +100859,7 @@
     "pos": "2B",
     "tier": "D리그",
     "age": 21,
-    "team": "드래프티",
+    "team": "에스트로너츠",
     "power": 0,
     "abil": {
      "con": 4,
@@ -100861,7 +100876,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 2.3
    },
    "p572": {
     "name": "고메스",
@@ -103802,97 +103819,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 622,
+     "score": 633,
      "prospects": 11
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 474,
-     "prospects": 8
+     "score": 483,
+     "prospects": 9
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 421,
+     "score": 429,
      "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 392,
+     "score": 398,
      "prospects": 6
     },
     {
      "rank": 5,
      "team": "챌린저스",
-     "score": 368,
+     "score": 376,
      "prospects": 8
     },
     {
      "rank": 6,
      "team": "트레일 블레이저스",
-     "score": 365,
+     "score": 372,
      "prospects": 7
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 316,
+     "score": 324,
      "prospects": 8
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 280,
+     "score": 286,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 248,
+     "score": 254,
      "prospects": 6
     },
     {
      "rank": 10,
      "team": "스틸러스",
-     "score": 198,
+     "score": 204,
      "prospects": 6
     },
     {
      "rank": 11,
      "team": "버커니어스",
-     "score": 195,
+     "score": 200,
      "prospects": 5
     },
     {
      "rank": 12,
      "team": "데빌스",
-     "score": 182,
+     "score": 186,
      "prospects": 4
     },
     {
      "rank": 13,
      "team": "타이거즈",
-     "score": 179,
+     "score": 184,
      "prospects": 5
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 140,
+     "score": 142,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 113,
+     "score": 117,
      "prospects": 4
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 67,
+     "score": 68,
      "prospects": 1
     }
    ],
@@ -105036,6 +105053,18 @@
      "score": 48.3,
      "ceiling": "코어",
      "risk": "모험"
+    },
+    {
+     "rank": 96,
+     "name": "헨더슨",
+     "team": "재즈",
+     "pos": "SS",
+     "tier": "C리그",
+     "age": 21,
+     "eta": 1,
+     "score": 49.7,
+     "ceiling": "코어",
+     "risk": "안전"
     }
    ],
    "draftees": [
@@ -105134,14 +105163,6 @@
      "age": 20,
      "ceiling": "레귤러",
      "risk": "안전"
-    },
-    {
-     "name": "베버",
-     "pos": "2B",
-     "tier": "D리그",
-     "age": 21,
-     "ceiling": "코어",
-     "risk": "보통"
     },
     {
      "name": "뮌처",
