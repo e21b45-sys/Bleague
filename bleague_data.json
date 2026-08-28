@@ -13885,11 +13885,11 @@
     "positions": [
      {
       "pos": "OF",
-      "def": 4
+      "def": 2
      },
      {
       "pos": "CF",
-      "def": 3
+      "def": 2
      }
     ]
    }
@@ -16637,7 +16637,7 @@
    "form": "",
    "abil": {
     "con": 4,
-    "pow": 4,
+    "pow": 3,
     "positions": [
      {
       "pos": "2B",
@@ -20836,7 +20836,7 @@
    "name": "윌리엄스",
    "team": "데빌스",
    "pos": "CF",
-   "tier": "레귤러",
+   "tier": "서브",
    "age": 35,
    "number": "2",
    "debutSeason": 6,
@@ -20957,7 +20957,7 @@
     "positions": [
      {
       "pos": "CF",
-      "def": 5
+      "def": 4
      },
      {
       "pos": "OF",
@@ -89861,6 +89861,11 @@
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
+   },
+   "다이노스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
    }
   }
  },
@@ -91462,7 +91467,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787917104732
+   "ts": 1787917165235
   },
   "teams": {
    "프린스": {
@@ -93180,7 +93185,7 @@
     "appeal": 1.2,
     "market": "빅마켓",
     "free": 6,
-    "power": 36.3,
+    "power": 34.9,
     "window": {
      "open": 21,
      "left": 2,
@@ -95880,18 +95885,18 @@
      "positions": [
       {
        "pos": "OF",
-       "def": 4,
+       "def": 2,
        "tier": "엘리트"
       },
       {
        "pos": "CF",
-       "def": 3,
-       "tier": "코어"
+       "def": 2,
+       "tier": "레귤러"
       }
      ]
     },
     "asset": {
-     "value": 4.5,
+     "value": 4.2,
      "grade": "C",
      "left": 3,
      "effM": 0.62
@@ -96442,7 +96447,7 @@
     "power": 1.6,
     "abil": {
      "con": 4,
-     "pow": 4,
+     "pow": 3,
      "positions": [
       {
        "pos": "2B",
@@ -97255,18 +97260,18 @@
    "p159": {
     "name": "윌리엄스",
     "pos": "CF",
-    "tier": "레귤러",
+    "tier": "서브",
     "age": 35,
     "team": "데빌스",
-    "power": 1.6,
+    "power": 0.2,
     "abil": {
      "con": 3,
      "pow": 1,
      "positions": [
       {
        "pos": "CF",
-       "def": 5,
-       "tier": "레귤러"
+       "def": 4,
+       "tier": "서브"
       },
       {
        "pos": "OF",
@@ -97276,15 +97281,15 @@
      ]
     },
     "asset": {
-     "value": 0.7,
+     "value": 0.1,
      "grade": "D",
      "left": 1,
-     "effM": 0.64
+     "effM": 0.51
     },
     "expContract": {
      "years": 2,
-     "aav": 10,
-     "total": 20
+     "aav": 8,
+     "total": 16
     }
    },
    "p160": {
