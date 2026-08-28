@@ -38690,7 +38690,7 @@
   "p575": {
    "id": "p575",
    "name": "레베데프",
-   "team": "드래프티",
+   "team": "재즈",
    "pos": "SP",
    "tier": "C리그",
    "age": 21,
@@ -38722,6 +38722,10 @@
     {
      "season": 20,
      "team": "드래프티"
+    },
+    {
+     "season": 21,
+     "team": "재즈"
     }
    ],
    "titles": [],
@@ -38730,8 +38734,8 @@
    "debutSeason": null,
    "debutHalf": "전반기",
    "awards": [],
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "ceiling": "엘리트",
    "risk": "모험",
    "growthCap": 0.757,
@@ -40302,7 +40306,7 @@
   "p604": {
    "id": "p604",
    "name": "하미레스",
-   "team": "드래프티",
+   "team": "세이버스",
    "pos": "SS",
    "tier": "D리그",
    "age": 19,
@@ -40330,8 +40334,8 @@
    "role": "",
    "subPositions": [],
    "form": "",
-   "draftSeason": null,
-   "draftRound": null,
+   "draftSeason": 21,
+   "draftRound": 1,
    "contract": null,
    "contractHistory": [],
    "awards": [],
@@ -40339,7 +40343,7 @@
    "teamHistory": [
     {
      "season": 21,
-     "team": "드래프티"
+     "team": "세이버스"
     }
    ],
    "hof": null,
@@ -88098,7 +88102,9 @@
    ],
    "picks": {
     "트레일 블레이저스_1": "p603",
-    "버커니어스_1": "p568"
+    "버커니어스_1": "p568",
+    "세이버스_1": "p604",
+    "재즈_1": "p575"
    },
    "pickOwners": {
     "워리어스_3": "챌린저스",
@@ -88133,7 +88139,7 @@
    },
    "live": {
     "active": true,
-    "cursor": 2,
+    "cursor": 4,
     "history": [
      {
       "key": "트레일 블레이저스_1",
@@ -88144,6 +88150,16 @@
       "key": "버커니어스_1",
       "pid": "p568",
       "cursor": 1
+     },
+     {
+      "key": "세이버스_1",
+      "pid": "p604",
+      "cursor": 2
+     },
+     {
+      "key": "재즈_1",
+      "pid": "p575",
+      "cursor": 3
      }
     ]
    }
@@ -88463,7 +88479,9 @@
   "p391",
   "p414",
   "p410",
-  "p603"
+  "p603",
+  "p568",
+  "p604"
  ],
  "salaryRules": {
   "floor": 60,
@@ -88508,6 +88526,16 @@
     "changes": ""
    },
    "세이버스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "재즈": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
+   },
+   "다이너마이트": {
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
@@ -89999,7 +90027,6 @@
   "p574",
   "p585",
   "p557",
-  "p575",
   "p600",
   "p572",
   "p556",
@@ -90031,8 +90058,7 @@
   "p579",
   "p564",
   "p588",
-  "p601",
-  "p604"
+  "p601"
  ],
  "market": {
   "base": {
@@ -90160,7 +90186,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787886989601
+   "ts": 1787887073849
   },
   "teams": {
    "프린스": {
@@ -93188,7 +93214,7 @@
      "core": 3,
      "avgAge": 26.1,
      "payRatio": 0.3652173913043478,
-     "farm": 7,
+     "farm": 8,
      "farmTop": 2,
      "recent": 13,
      "avgRk": 12
@@ -93412,7 +93438,7 @@
      "core": 4,
      "avgAge": 27.3,
      "payRatio": 0.5714285714285714,
-     "farm": 3,
+     "farm": 4,
      "farmTop": 1,
      "recent": 15,
      "avgRk": 14.3
@@ -100808,13 +100834,15 @@
     "pos": "SP",
     "tier": "C리그",
     "age": 21,
-    "team": "드래프티",
+    "team": "재즈",
     "power": 0,
     "abil": {
      "pit": 4,
      "inn": 3,
      "prs": 1
-    }
+    },
+    "prospect": true,
+    "value": 5
    },
    "p576": {
     "name": "하워드",
@@ -101354,7 +101382,7 @@
     "pos": "SS",
     "tier": "D리그",
     "age": 19,
-    "team": "드래프티",
+    "team": "세이버스",
     "power": 0,
     "abil": {
      "con": 3,
@@ -101366,7 +101394,9 @@
        "tier": "서브"
       }
      ]
-    }
+    },
+    "prospect": true,
+    "value": 10.4
    }
   },
   "faMarket": {
@@ -103674,97 +103704,97 @@
     {
      "rank": 1,
      "team": "다이너마이트",
-     "score": 510,
+     "score": 528,
      "prospects": 9
     },
     {
      "rank": 2,
      "team": "재즈",
-     "score": 388,
+     "score": 402,
      "prospects": 7
     },
     {
      "rank": 3,
      "team": "세이버스",
-     "score": 334,
-     "prospects": 7
+     "score": 349,
+     "prospects": 8
     },
     {
      "rank": 4,
      "team": "에스트로너츠",
-     "score": 326,
+     "score": 338,
      "prospects": 6
     },
     {
      "rank": 5,
      "team": "트레일 블레이저스",
-     "score": 288,
+     "score": 302,
      "prospects": 7
     },
     {
      "rank": 6,
      "team": "챌린저스",
-     "score": 285,
+     "score": 299,
      "prospects": 7
     },
     {
      "rank": 7,
      "team": "이글즈",
-     "score": 235,
+     "score": 249,
      "prospects": 7
     },
     {
      "rank": 8,
      "team": "마린즈",
-     "score": 214,
+     "score": 226,
      "prospects": 6
     },
     {
      "rank": 9,
      "team": "워리어스",
-     "score": 190,
+     "score": 200,
      "prospects": 5
     },
     {
      "rank": 10,
      "team": "버커니어스",
-     "score": 149,
-     "prospects": 3
+     "score": 157,
+     "prospects": 4
     },
     {
      "rank": 11,
      "team": "데빌스",
-     "score": 142,
+     "score": 148,
      "prospects": 3
     },
     {
      "rank": 12,
      "team": "스틸러스",
-     "score": 132,
+     "score": 144,
      "prospects": 6
     },
     {
      "rank": 13,
      "team": "타이거즈",
-     "score": 124,
+     "score": 134,
      "prospects": 5
     },
     {
      "rank": 14,
      "team": "다이노스",
-     "score": 118,
+     "score": 122,
      "prospects": 2
     },
     {
      "rank": 15,
      "team": "라이언즈",
-     "score": 79,
+     "score": 85,
      "prospects": 3
     },
     {
      "rank": 16,
      "team": "프린스",
-     "score": 56,
+     "score": 58,
      "prospects": 1
     }
    ],
@@ -104776,6 +104806,30 @@
      "score": 69.3,
      "ceiling": "컨텐더",
      "risk": "안전"
+    },
+    {
+     "rank": 85,
+     "name": "오콘쿼",
+     "team": "버커니어스",
+     "pos": "SP",
+     "tier": "C리그",
+     "age": 19,
+     "eta": 2,
+     "score": 69.9,
+     "ceiling": "컨텐더",
+     "risk": "모험"
+    },
+    {
+     "rank": 86,
+     "name": "하미레스",
+     "team": "세이버스",
+     "pos": "SS",
+     "tier": "D리그",
+     "age": 19,
+     "eta": 3,
+     "score": 68.7,
+     "ceiling": "컨텐더",
+     "risk": "보통"
     }
    ],
    "draftees": [
@@ -104922,14 +104976,6 @@
      "age": 20,
      "ceiling": "코어",
      "risk": "보통"
-    },
-    {
-     "name": "레베데프",
-     "pos": "SP",
-     "tier": "C리그",
-     "age": 21,
-     "ceiling": "엘리트",
-     "risk": "모험"
     },
     {
      "name": "하워드",
@@ -105145,14 +105191,6 @@
      "tier": "C리그",
      "age": 20,
      "ceiling": "레귤러",
-     "risk": "보통"
-    },
-    {
-     "name": "하미레스",
-     "pos": "SS",
-     "tier": "D리그",
-     "age": 19,
-     "ceiling": "컨텐더",
      "risk": "보통"
     }
    ],
