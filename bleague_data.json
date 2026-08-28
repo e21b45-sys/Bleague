@@ -87088,7 +87088,12 @@
      "changes": ""
     }
    },
-   "awards": [],
+   "awards": [
+    {
+     "name": "MVP",
+     "playerId": "p202"
+    }
+   ],
    "awardsNote": "",
    "posters": {}
   }
@@ -88198,7 +88203,7 @@
     }
    },
    "live": {
-    "active": false,
+    "active": true,
     "cursor": 16,
     "history": []
    }
@@ -90256,7 +90261,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787901029745
+   "ts": 1787901156737
   },
   "teams": {
    "프린스": {
