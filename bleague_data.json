@@ -12047,7 +12047,7 @@
   "p86": {
    "id": "p86",
    "name": "노아",
-   "team": "FA",
+   "team": "은퇴",
    "pos": "RP",
    "tier": "레귤러",
    "age": 40,
@@ -12174,6 +12174,10 @@
     {
      "season": 20,
      "team": "마린즈"
+    },
+    {
+     "season": 21,
+     "team": "은퇴"
     }
    ],
    "hof": null,
@@ -18997,7 +19001,7 @@
    "form": "",
    "abil": {
     "pit": 4,
-    "inn": 3,
+    "inn": 2,
     "prs": 2
    }
   },
@@ -23639,8 +23643,8 @@
    "id": "p188",
    "name": "타바이",
    "team": "FA",
-   "pos": "CF",
-   "tier": "레귤러",
+   "pos": "OF",
+   "tier": "서브",
    "age": 35,
    "number": "2",
    "debutSeason": 10,
@@ -23666,9 +23670,7 @@
     "선구안"
    ],
    "role": "7번",
-   "subPositions": [
-    "OF"
-   ],
+   "subPositions": [],
    "draftSeason": 7,
    "draftRound": 3,
    "contract": null,
@@ -23749,7 +23751,7 @@
     "positions": [
      {
       "pos": "CF",
-      "def": 5
+      "def": 4
      },
      {
       "pos": "OF",
@@ -91467,7 +91469,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787917313781
+   "ts": 1787917379272
   },
   "teams": {
    "프린스": {
@@ -95657,17 +95659,12 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 40,
-    "team": "FA",
+    "team": "은퇴",
     "power": 0.8,
     "abil": {
      "pit": 5,
      "inn": 1,
      "prs": 4
-    },
-    "expContract": {
-     "years": 1,
-     "aav": 11,
-     "total": 11
     }
    },
    "p87": {
@@ -96933,7 +96930,7 @@
     "power": 0.2,
     "abil": {
      "pit": 4,
-     "inn": 3,
+     "inn": 2,
      "prs": 2
     },
     "expContract": {
@@ -97932,19 +97929,19 @@
    },
    "p188": {
     "name": "타바이",
-    "pos": "CF",
-    "tier": "레귤러",
+    "pos": "OF",
+    "tier": "서브",
     "age": 35,
     "team": "FA",
-    "power": 1.6,
+    "power": 0.2,
     "abil": {
      "con": 3,
      "pow": 1,
      "positions": [
       {
        "pos": "CF",
-       "def": 5,
-       "tier": "레귤러"
+       "def": 4,
+       "tier": "서브"
       },
       {
        "pos": "OF",
@@ -97955,8 +97952,8 @@
     },
     "expContract": {
      "years": 2,
-     "aav": 10,
-     "total": 20
+     "aav": 8.3,
+     "total": 16.6
     }
    },
    "p189": {
@@ -103499,145 +103496,12 @@
    }
   },
   "faMarket": {
-   "p86": {
-    "name": "노아",
-    "pos": "RP",
-    "tier": "레귤러",
-    "age": 40,
-    "rarity": 2,
-    "expContract": {
-     "years": 1,
-     "aav": 11,
-     "total": 11
-    },
-    "teams": [
-     {
-      "team": "트레일 블레이저스",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.02,
-      "focus": 4,
-      "real": 0.2
-     },
-     {
-      "team": "프린스",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.14,
-      "focus": 0,
-      "real": 0.1
-     },
-     {
-      "team": "다이노스",
-      "stance": "retool",
-      "lv": "공백",
-      "win": 0.09,
-      "focus": 1,
-      "real": 0.1
-     },
-     {
-      "team": "재즈",
-      "stance": "rebuild",
-      "lv": "공백",
-      "win": 0.04,
-      "focus": 1,
-      "real": 0.1
-     },
-     {
-      "team": "버커니어스",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.02,
-      "focus": 2,
-      "real": 0.1
-     },
-     {
-      "team": "마린즈",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.14,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "에스트로너츠",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.12,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "데빌스",
-      "stance": "retool",
-      "lv": "부족",
-      "win": 0.04,
-      "focus": 1,
-      "real": 0
-     },
-     {
-      "team": "워리어스",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.11,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "다이너마이트",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.09,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "챌린저스",
-      "stance": "hold",
-      "lv": "부족",
-      "win": 0.05,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "스틸러스",
-      "stance": "allin",
-      "lv": "부족",
-      "win": 0.12,
-      "focus": 0,
-      "real": 0
-     },
-     {
-      "team": "세이버스",
-      "stance": "rebuild",
-      "lv": "부족",
-      "win": 0.03,
-      "focus": 1,
-      "real": 0
-     }
-    ],
-    "altFA": [],
-    "altTrade": [
-     {
-      "name": "나쿠아",
-      "team": "이글즈"
-     },
-     {
-      "name": "버크스",
-      "team": "다이너마이트"
-     },
-     {
-      "name": "자브릴",
-      "team": "라이언즈"
-     }
-    ]
-   },
    "p100": {
     "name": "토니",
     "pos": "OF",
     "tier": "서브",
     "age": 36,
-    "rarity": 1.14,
+    "rarity": 1.02,
     "expContract": {
      "years": 2,
      "aav": 9.3,
@@ -103669,7 +103533,9 @@
       "real": 0
      }
     ],
-    "altFA": [],
+    "altFA": [
+     "타바이"
+    ],
     "altTrade": []
    },
    "p107": {
@@ -103739,7 +103605,7 @@
       "stance": "rebuild",
       "lv": "약점",
       "win": 0.06,
-      "focus": 7,
+      "focus": 8,
       "real": 0.5
      },
      {
@@ -103761,7 +103627,7 @@
     "pos": "RP",
     "tier": "레귤러",
     "age": 35,
-    "rarity": 1.68,
+    "rarity": 1.8,
     "expContract": {
      "years": 2,
      "aav": 9.7,
@@ -103774,6 +103640,14 @@
       "lv": "공백",
       "win": 0.08,
       "focus": 2,
+      "real": 0.4
+     },
+     {
+      "team": "프린스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.14,
+      "focus": 1,
       "real": 0.3
      },
      {
@@ -103783,14 +103657,6 @@
       "win": 0.02,
       "focus": 8,
       "real": 0.3
-     },
-     {
-      "team": "프린스",
-      "stance": "winnow",
-      "lv": "부족",
-      "win": 0.14,
-      "focus": 1,
-      "real": 0.2
      },
      {
       "team": "다이너마이트",
@@ -103874,8 +103740,7 @@
      }
     ],
     "altFA": [
-     "럭스",
-     "노아"
+     "럭스"
     ],
     "altTrade": [
      {
@@ -104545,7 +104410,7 @@
       "stance": "retool",
       "lv": "약점",
       "win": 0.03,
-      "focus": 20,
+      "focus": 21,
       "real": 0.9
      },
      {
@@ -104553,7 +104418,7 @@
       "stance": "rebuild",
       "lv": "약점",
       "win": 0.01,
-      "focus": 18,
+      "focus": 19,
       "real": 0.4
      }
     ],
@@ -104562,17 +104427,44 @@
    },
    "p188": {
     "name": "타바이",
-    "pos": "CF",
-    "tier": "레귤러",
+    "pos": "OF",
+    "tier": "서브",
     "age": 35,
-    "rarity": 0.78,
+    "rarity": 1.02,
     "expContract": {
      "years": 2,
-     "aav": 10,
-     "total": 20
+     "aav": 8.3,
+     "total": 16.6
     },
-    "teams": [],
-    "altFA": [],
+    "teams": [
+     {
+      "team": "마린즈",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.37,
+      "focus": 0,
+      "real": 0
+     },
+     {
+      "team": "에스트로너츠",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.33,
+      "focus": 0,
+      "real": 0
+     },
+     {
+      "team": "워리어스",
+      "stance": "winnow",
+      "lv": "부족",
+      "win": 0.29,
+      "focus": 0,
+      "real": 0
+     }
+    ],
+    "altFA": [
+     "토니"
+    ],
     "altTrade": []
    },
    "p191": {
@@ -104816,7 +104708,7 @@
       "lv": "공백",
       "win": 0.14,
       "focus": 13,
-      "real": 2.1
+      "real": 2.2
      },
      {
       "team": "스틸러스",
@@ -104881,7 +104773,7 @@
       "lv": "공백",
       "win": 0.48,
       "focus": 52,
-      "real": 34
+      "real": 34.1
      },
      {
       "team": "에스트로너츠",
@@ -104913,7 +104805,7 @@
       "lv": "공백",
       "win": 0.05,
       "focus": 23,
-      "real": 1.4
+      "real": 1.5
      }
     ],
     "altFA": [],
@@ -105285,7 +105177,7 @@
       "stance": "winnow",
       "lv": "부족",
       "win": 0.07,
-      "focus": 53,
+      "focus": 54,
       "real": 8.4
      },
      {
@@ -105317,7 +105209,7 @@
       "stance": "retool",
       "lv": "부족",
       "win": 0.03,
-      "focus": 36,
+      "focus": 37,
       "real": 2.1
      },
      {
@@ -105333,8 +105225,8 @@
       "stance": "rebuild",
       "lv": "부족",
       "win": 0.01,
-      "focus": 62,
-      "real": 1.9
+      "focus": 65,
+      "real": 2
      },
      {
       "team": "워리어스",
@@ -105358,7 +105250,7 @@
       "lv": "부족",
       "win": 0.02,
       "focus": 13,
-      "real": 0.6
+      "real": 0.7
      },
      {
       "team": "버커니어스",
@@ -105437,7 +105329,7 @@
     "pos": "OF",
     "tier": "서브",
     "age": 30,
-    "rarity": 1.02,
+    "rarity": 0.9,
     "expContract": {
      "years": 4,
      "aav": 7.9,
@@ -105470,6 +105362,7 @@
      }
     ],
     "altFA": [
+     "타바이",
      "토니"
     ],
     "altTrade": []
@@ -105515,7 +105408,7 @@
       "stance": "rebuild",
       "lv": "부족",
       "win": 0.02,
-      "focus": 13,
+      "focus": 14,
       "real": 0.4
      },
      {
