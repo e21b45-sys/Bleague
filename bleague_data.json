@@ -14801,7 +14801,7 @@
    "form": "",
    "abil": {
     "pit": 6,
-    "inn": 5,
+    "inn": 4,
     "prs": 3
    }
   },
@@ -16412,7 +16412,7 @@
    "injuries": [],
    "role": "5번",
    "subPositions": [],
-   "form": "injury",
+   "form": "good",
    "abil": {
     "con": 6,
     "pow": 5,
@@ -89856,6 +89856,11 @@
     "coreMembers": [],
     "evaluation": "",
     "changes": ""
+   },
+   "스틸러스": {
+    "coreMembers": [],
+    "evaluation": "",
+    "changes": ""
    }
   }
  },
@@ -91457,7 +91462,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1787916679075
+   "ts": 1787916787052
   },
   "teams": {
    "프린스": {
@@ -96053,7 +96058,7 @@
     "power": 8.1,
     "abil": {
      "pit": 6,
-     "inn": 5,
+     "inn": 4,
      "prs": 3
     },
     "asset": {
