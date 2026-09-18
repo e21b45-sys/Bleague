@@ -94907,7 +94907,10 @@
       "awayRuns": 5
      }
     ],
-    "raceWinner": {}
+    "raceWinner": {
+     "BP": "",
+     "MVP": ""
+    }
    },
    "5": {
     "standings": [
@@ -97366,6 +97369,13 @@
       "awayRuns": 8
      }
     ]
+   },
+   "6": {
+    "standings": [],
+    "races": {},
+    "potmBat": "",
+    "potmPit": "",
+    "injuries": []
    },
    "10": {
     "standings": [],
@@ -127876,7 +127886,7 @@
  "derived": {
   "generatedAt": {
    "season": 21,
-   "ts": 1789286558851
+   "ts": 1789696243470
   },
   "teams": {
    "프린스": {
